@@ -1,0 +1,100 @@
+boat .
+car .
+bear .
+doggie ?
+lion .
+elephant .
+(it)'s horsie .
+ride horsie .
+Indian .
+lamb ?
+monkey ?
+xxx tail .
+where chickie ?
+I got orange .
+pipe .
+bed .
+I bed too .
+bu(nn)y .
+I got bu(nn)y .
+I two bu(nn)y .
+steamroller .
+man ?
+I got man .
+I (.) man too .
+o:h [/] (.) o:h .
+cold .
+choo_choo train ?
+smoke ?
+I train too .
+vacuum_cleaner ?
+oh (.) xxx vacuum_cleaner .
+I (a)fraid (.) cleaner .
+xxx boy .
+Bobo .
+xylophone .
+o:h (.) o:h .
+zebra ?
+xxx cold ?
+baby .
+a me too .
+xxx horsie .
+I [?] love [?] horsie .
+xxx eating .
+cold (.) Mummy .
+o:h o:h o:h o:h o:h o:h xxx .
+I xxx milk .
+I tired .
+read book .
+<yyy dere [: there]> [?] .
+bicycle ?
+I ride bicycle .
+li(ttle) girl .
+li(ttle) boy ?
+I new tooth .
+yyy dere [: there] .
+meow@o .
+xxx hungry .
+I hungry too .
+lion yyy ?
+zoo ?
+bowl [//] I got bowl .
+I got a xxx too .
+I Bobo too .
+orange .
+I orange too .
+gong@b .
+my yyy (.) mine .
+drum .
+I drum (.) too .
+Santie_Claus .
+I puppy too .
+xxx puppy .
+xxx puppy gone .
+I don't know .
+my puppy .
+Michael .
+my [/] my dog Michael .
+I bicycle too .
+Da(dd)y .
+do(ll)y see yyy .
+ssh .
+xxx cookie .
+I ki(tt)y too .
+Teppy .
+ni(ce) ki(tt)y .
+bite me .
+bad ki(tt)y .
+li(ttle) girl ?
+Christmas_tree .
+<&~cir> [//] I circus too .
+I go circus .
+circus .
+I bus too .
+li(ttle) but .
+li(ttle) bud xxx .
+ball .
+baby ?
+my baby .
+my baby gone home .
+to you .

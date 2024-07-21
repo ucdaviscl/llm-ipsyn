@@ -1,0 +1,466 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I don('t) know .**  
+   - V3: 1 (know)
+   - Q3: 1 (don’t)
+   - S2: 1 (I know)
+
+2. **fraidy_cat .**  
+   - N1: 1 (fraidy_cat)
+
+3. **a mouse .**  
+   - N5: 1 (a mouse)
+
+4. **my mousie .**  
+   - N5: 1 (my mousie)
+
+5. **he eating .**  
+   - V7: 1 (eating)
+   - S2: 1 (he eating)
+
+6. **what ?**  
+   - Q2: 1 (what)
+
+7. **yyy Sarah catch .**  
+   - V1: 1 (catch)
+   - S2: 1 (Sarah catch)
+
+8. **dem [: them] go yyy de [: the] weasel whoa .**  
+   - N1: 1 (weasel)
+   - V1: 1 (go)
+   - S2: 1 (dem go)
+
+9. **yyy the weasel .**  
+   - N1: 1 (weasel)
+
+10. **cow .**  
+    - N1: 1 (cow)
+
+11. **<I wan(t)> [/] (.) I want my doll blanket .**  
+    - V1: 1 (want)
+    - N5: 1 (my doll blanket)
+    - S2: 1 (I want)
+
+12. **I want two of dem [: them] ri(ght) here .**  
+    - V1: 1 (want)
+    - N5: 1 (two)
+    - N5: 1 (dem)
+    - S4: 1 (I want two)
+
+13. **what so [?] .**  
+    - Q2: 1 (what)
+
+14. **Mommy (.) can't yyy .**  
+    - V3: 1 (can't)
+    - S2: 1 (Mommy can't)
+
+15. **I car(ry) it .**  
+    - V1: 1 (carry)
+    - S3: 1 (I carry it)
+
+16. **sugar bird (.) yyy my yyy .**  
+    - N1: 1 (sugar bird)
+
+17. **yeah .**  
+    - (No applicable items)
+
+18. **Mommy .**  
+    - N1: 1 (Mommy)
+
+19. **go (.) put a record on .**  
+    - V1: 1 (go)
+    - V1: 1 (put)
+    - N5: 1 (a record)
+    - S6: 1 (go put)
+
+20. **mhm .**  
+    - (No applicable items)
+
+21. **here .**  
+    - (No applicable items)
+
+22. **ah .**  
+    - (No applicable items)
+
+23. **crayons .**  
+    - N1: 1 (crayons)
+
+24. **how yyy ?**  
+    - Q2: 1 (how)
+
+25. **Mommy (.) where's my paper ?**  
+    - Q2: 1 (where)
+    - N5: 1 (my paper)
+
+26. **there's one crayon .**  
+    - N5: 1 (one crayon)
+
+27. **xxx Mom .**  
+    - N1: 1 (Mom)
+
+28. **Mommy (.) I foun(d) it .**  
+    - V1: 1 (found)
+    - S2: 1 (I found)
+
+29. **g(ive) me a crayon .**  
+    - V1: 1 (give)
+    - N5: 1 (a crayon)
+    - S3: 1 (give me)
+
+30. **xxx old crayons .**  
+    - N1: 1 (crayons)
+
+31. **my &~ha .**  
+    - N2: 1 (my)
+
+32. **my paper .**  
+    - N5: 1 (my paper)
+
+33. **my ol(d) xxx .**  
+    - N2: 1 (my)
+
+34. **a yyy .**  
+    - N5: 1 (a)
+
+35. **colorin(g)_books .**  
+    - N1: 1 (coloring books)
+
+36. **I'm in colorin(g)_book .**  
+    - V6: 1 (I'm)
+    - N5: 1 (coloring book)
+    - S2: 1 (I am)
+
+37. **le(t) me ha(ve) my [?] .**  
+    - V1: 1 (let)
+    - N2: 1 (my)
+
+38. **brown .**  
+    - (No applicable items)
+
+39. **pink .**  
+    - (No applicable items)
+
+40. **I wan(t) this .**  
+    - V1: 1 (want)
+    - N5: 1 (this)
+    - S2: 1 (I want)
+
+41. **I'm not .**  
+    - V6: 1 (I'm)
+    - Q3: 1 (not)
+
+42. **my doggie's chewing .**  
+    - N2: 1 (my)
+    - V1: 1 (chewing)
+    - S2: 1 (my doggie is chewing)
+
+43. **xxx yyy o:h Annie .**  
+    - (No applicable items)
+
+44. **I have a by here .**  
+    - V1: 1 (have)
+    - N5: 1 (a by)
+    - S2: 1 (I have)
+
+45. **o:h .**  
+    - (No applicable items)
+
+46. **Mommy (.) may oh make .**  
+    - V1: 1 (may)
+    - V1: 1 (make)
+    - S6: 1 (may make)
+
+47. **(l)ea(ve) [?] dese [: these] here .**  
+    - V1: 1 (leave)
+    - N5: 1 (these)
+    - S2: 1 (leave these)
+
+48. **dose [: those] are mine .**  
+    - V4: 1 (are)
+    - N5: 1 (those)
+    - S2: 1 (those are)
+
+49. **(o)kay .**  
+    - (No applicable items)
+
+50. **blue .**  
+    - (No applicable items)
+
+51. **o:h (.) I got color teeth .**  
+    - V1: 1 (got)
+    - N5: 1 (color teeth)
+    - S2: 1 (I got)
+
+52. **Mommy (.) you color .**  
+    - V1: 1 (color)
+    - S2: 1 (you color)
+
+53. **sit down .**  
+    - V1: 1 (sit)
+    - V1: 1 (down)
+    - S6: 1 (sit down)
+
+54. **crayon (.) doing crayons .**  
+    - N1: 1 (crayon)
+    - V1: 1 (doing)
+    - S2: 1 (crayon doing)
+
+55. **I color dis [: this] .**  
+    - V1: 1 (color)
+    - N5: 1 (this)
+    - S2: 1 (I color)
+
+56. **see my color .**  
+    - V1: 1 (see)
+    - N2: 1 (my)
+    - N1: 1 (color)
+    - S4: 1 (see my color)
+
+57. **I'll stay in the lines .**  
+    - V1: 1 (stay)
+    - N5: 1 (the lines)
+    - S2: 1 (I will stay)
+
+58. **see Mummy .**  
+    - V1: 1 (see)
+    - N1: 1 (Mummy)
+    - S2: 1 (see Mummy)
+
+59. **see me made Mummy .**  
+    - V1: 1 (made)
+    - N2: 1 (me)
+    - N1: 1 (Mummy)
+    - S4: 1 (see me made)
+
+60. **I yyy go color wi(th) dis [: this] .**  
+    - V1: 1 (go)
+    - N5: 1 (this)
+    - S2: 1 (I go)
+
+61. **huh .**  
+    - (No applicable items)
+
+62. **&-uh see .**  
+    - V1: 1 (see)
+    - S2: 1 (&-uh see)
+
+63. **I look how a shoes .**  
+    - V1: 1 (look)
+    - N5: 1 (a shoes)
+    - S2: 1 (I look)
+
+64. **no .**  
+    - Q3: 1 (no)
+
+65. **I go get pink (.) teeth .**  
+    - V1: 1 (go)
+    - V1: 1 (get)
+    - N5: 1 (pink teeth)
+    - S6: 1 (go get)
+
+66. **see Mommy .**  
+    - V1: 1 (see)
+    - N1: 1 (Mommy)
+    - S2: 1 (see Mommy)
+
+67. **we friends .**  
+    - N1: 1 (friends)
+    - S2: 1 (we are)
+
+68. **thank_you .**  
+    - (No applicable items)
+
+69. **thank_you (.) (h)elpin(g) .**  
+    - V1: 1 (helping)
+    - S2: 1 (thank you)
+
+70. **I got c(r)ayon .**  
+    - V1: 1 (got)
+    - N1: 1 (crayon)
+    - S2: 1 (I got)
+
+71. **come here .**  
+    - V1: 1 (come)
+    - S2: 1 (come here)
+
+72. **colorin(g) .**  
+    - N1: 1 (coloring)
+
+73. **xxx hm: .**  
+    - (No applicable items)
+
+74. **that's orange too .**  
+    - V4: 1 (that's)
+    - N1: 1 (orange)
+    - S2: 1 (that is)
+
+75. **where ?**  
+    - Q2: 1 (where)
+
+76. **this a yellow .**  
+    - N5: 1 (this)
+    - N1: 1 (yellow)
+    - S2: 1 (this is)
+
+77. **red .**  
+    - (No applicable items)
+
+78. **o(r)ange .**  
+    - (No applicable items)
+
+79. **yeah (.) black .**  
+    - (No applicable items)
+
+80. **I'm a color (.) man .**  
+    - V6: 1 (I'm)
+    - N5: 1 (a color man)
+    - S2: 1 (I am)
+
+81. **I a color man .**  
+    - V4: 1 (I am)
+    - N5: 1 (a color man)
+    - S2: 1 (I am)
+
+82. **Mommy (.) you he(l)p xxx .**  
+    - V1: 1 (help)
+    - N1: 1 (Mommy)
+    - S2: 1 (you help)
+
+83. **how do dis [: this] .**  
+    - Q2: 1 (how)
+    - N5: 1 (this)
+
+84. **at home wi(th) a boy .**  
+    - V3: 1 (at home)
+    - N5: 1 (a boy)
+
+85. **I go ge(t) .**  
+    - V1: 1 (go)
+    - V1: 1 (get)
+    - S6: 1 (go get)
+
+86. **a boat .**  
+    - N5: 1 (a boat)
+
+87. **a man .**  
+    - N5: 1 (a man)
+
+88. **Mommy (.) I col(or)in(g) the water .**  
+    - V1: 1 (coloring)
+    - N5: 1 (the water)
+    - S4: 1 (I color the water)
+
+89. **oh yeah .**  
+    - (No applicable items)
+
+90. **I go color man ?**  
+    - V1: 1 (go)
+    - V1: 1 (color)
+    - N1: 1 (man)
+    - S2: 1 (I go)
+
+91. **a brown .**  
+    - N5: 1 (a brown)
+
+92. **make it .**  
+    - V1: 1 (make)
+    - N5: 1 (it)
+    - S3: 1 (make it)
+
+93. **two .**  
+    - N1: 1 (two)
+
+94. **ri(ght) here .**  
+    - (No applicable items)
+
+95. **uhuh .**  
+    - (No applicable items)
+
+96. **not now .**  
+    - Q3: 1 (not)
+    - S2: 1 (not now)
+
+97. **I no(t) go(nna) [?] ruin it .**  
+    - V1: 1 (ruin)
+    - N5: 1 (it)
+    - S4: 1 (I ruin it)
+
+98. **up and down .**  
+    - (No applicable items)
+
+99. **I go color him .**  
+    - V1: 1 (go)
+    - V1: 1 (color)
+    - N5: 1 (him)
+    - S4: 1 (I go color)
+
+100. **now .**  
+    - (No applicable items)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 12
+N2, 5
+N3, 0
+N4, 0
+N5, 10
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 3
+V4, 3
+V5, 0
+V6, 3
+V7, 3
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 0
+Q2, 6
+Q3, 4
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 20
+S3, 8
+S4, 8
+S5, 0
+S6, 5
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: Each item is capped at a maximum score of 2, but in this case, none exceeded that limit.)

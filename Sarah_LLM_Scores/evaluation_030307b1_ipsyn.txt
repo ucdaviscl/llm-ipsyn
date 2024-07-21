@@ -1,0 +1,404 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **yep .**  
+   - No applicable items.
+
+2. **you scribbling .**  
+   - V7: 1 (scribbling)
+
+3. **huh ?**  
+   - Q1: 1 (contains a question mark)
+
+4. **&-um (.) huhlala@b to you .**  
+   - No applicable items.
+
+5. **this one write .**  
+   - V1: 1 (write)
+
+6. **no (.) I wan(t) another piece a paper .**  
+   - N5: 1 (another piece)
+   - V1: 1 (wan(t))
+
+7. **I don('t) scribble .**  
+   - V1: 1 (scribble)
+   - Q3: 1 (Simple Negation)
+
+8. **who ever heard .**  
+   - No applicable items.
+
+9. **nope .**  
+   - No applicable items.
+
+10. **he didn't come yet (.) to my party .**  
+    - V1: 1 (come)
+    - V3: 1 (to my party)
+    - Q3: 1 (Simple Negation)
+
+11. **no .**  
+    - No applicable items.
+
+12. **he not invited .**  
+    - V7: 1 (not)
+
+13. **hey (.) rip my paper .**  
+    - V1: 1 (rip)
+    - N5: 1 (my paper)
+
+14. **I [/] I (.) put dis [: this] right there .**  
+    - V1: 1 (put)
+    - N5: 1 (this)
+
+15. **oh (.) s(t)ay ri(ght) there .**  
+    - V1: 1 (stay)
+
+16. **le(t)'s don('t) fa(ll) down .**  
+    - V1: 1 (fall)
+    - Q3: 1 (Simple Negation)
+
+17. **oh .**  
+    - No applicable items.
+
+18. **him put there .**  
+    - V1: 1 (put)
+
+19. **I yyy .**  
+    - No applicable items.
+
+20. **what ?**  
+    - Q1: 1 (contains a question mark)
+
+21. **I draw a one picture (.) a you .**  
+    - V1: 1 (draw)
+    - N5: 1 (a one picture)
+
+22. **I draw a picture a you .**  
+    - V1: 1 (draw)
+    - N5: 1 (a picture)
+
+23. **I don('t) wanna draw a picture a you .**  
+    - V1: 1 (draw)
+    - Q3: 1 (Simple Negation)
+
+24. **a big one .**  
+    - N3: 1 (big)
+
+25. **just a xxx .**  
+    - N5: 1 (a xxx)
+
+26. **who is it ?**  
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+27. **where ?**  
+    - Q1: 1 (contains a question mark)
+
+28. **here (.) Misy [: Millisandy] .**  
+    - No applicable items.
+
+29. **fine .**  
+    - No applicable items.
+
+30. **three .**  
+    - No applicable items.
+
+31. **why (.) the horses .**  
+    - N7: 1 (horses)
+
+32. **yeah (.) I do .**  
+    - V1: 1 (do)
+
+33. **xxx you watch Timmy .**  
+    - V1: 1 (watch)
+
+34. **you watch xxx .**  
+    - V1: 1 (watch)
+
+35. **yeah .**  
+    - No applicable items.
+
+36. **&-um (.) Flintstones .**  
+    - No applicable items.
+
+37. **why ?**  
+    - Q1: 1 (contains a question mark)
+
+38. **(h)ide a bump .**  
+    - V1: 1 (hide)
+    - N5: 1 (a bump)
+
+39. **ri(ght) here .**  
+    - No applicable items.
+
+40. **ouch (.) I bang my head .**  
+    - V1: 1 (bang)
+    - N5: 1 (my head)
+
+41. **&-uh (.) up here .**  
+    - No applicable items.
+
+42. **ahchoo@o .**  
+    - No applicable items.
+
+43. **oh (.) you jump on me .**  
+    - V1: 1 (jump)
+    - N5: 1 (me)
+
+44. **hee [/] hee .**  
+    - No applicable items.
+
+45. **I know it .**  
+    - V1: 1 (know)
+    - N2: 1 (it)
+
+46. **hm: ?**  
+    - Q1: 1 (contains a question mark)
+
+47. **my Daddy .**  
+    - N2: 1 (my)
+    - N1: 1 (Daddy)
+
+48. **<&~wo> [//] my Daddy (.) workin(g) .**  
+    - N2: 1 (my)
+    - V7: 1 (working)
+
+49. **no (.) he not .**  
+    - Q3: 1 (Simple Negation)
+
+50. **I wan(t) my Daddy .**  
+    - V1: 1 (wan(t))
+    - N5: 1 (my Daddy)
+
+51. **where's my dak@b (.) o:h .**  
+    - N5: 1 (my dak@b)
+    - V1: 1 (is)
+
+52. **whe(re) my ball .**  
+    - N5: 1 (my ball)
+
+53. **whe(re)'s my (.) ball ?**  
+    - Q1: 1 (contains a question mark)
+
+54. **come ou(t) (.) some out where ever you are .**  
+    - V1: 1 (come)
+    - V2: 1 (out)
+
+55. **xxx hey (.) hey I didn't catch it .**  
+    - V1: 1 (catch)
+    - Q3: 1 (Simple Negation)
+
+56. **bounce .**  
+    - V1: 1 (bounce)
+
+57. **I goin(g) bounce it .**  
+    - V1: 1 (going)
+    - V1: 1 (bounce)
+
+58. **whe(r)e you at .**  
+    - No applicable items.
+
+59. **I didn't bounce it .**  
+    - V1: 1 (bounce)
+    - Q3: 1 (Simple Negation)
+
+60. **uhoh .**  
+    - No applicable items.
+
+61. **help (.) I hafta do xxx .**  
+    - V1: 1 (do)
+
+62. **I wanna play wi(th) the ball .**  
+    - V1: 1 (wanna)
+    - N5: 1 (the ball)
+
+63. **I wanna brush my teeth .**  
+    - V1: 1 (wanna)
+    - N5: 1 (my teeth)
+
+64. **bouncy .**  
+    - No applicable items.
+
+65. **xxx I caught you .**  
+    - V1: 1 (caught)
+
+66. **up bum .**  
+    - No applicable items.
+
+67. **I [/] I di(d)n't caught it .**  
+    - V1: 1 (caught)
+    - Q3: 1 (Simple Negation)
+
+68. **huh (.) I caught it .**  
+    - V1: 1 (caught)
+
+69. **I caught it .**  
+    - V1: 1 (caught)
+
+70. **hey !**  
+    - No applicable items.
+
+71. **I didn't caught it &-uh (.) one .**  
+    - V1: 1 (caught)
+    - Q3: 1 (Simple Negation)
+
+72. **ya see me bounce (.) in hall .**  
+    - V1: 1 (see)
+    - V3: 1 (in hall)
+
+73. **this a pee (.) new one .**  
+    - N1: 1 (one)
+    - N3: 1 (new)
+
+74. **red .**  
+    - No applicable items.
+
+75. **where's my (.) pen ?**  
+    - Q1: 1 (contains a question mark)
+
+76. **whoobubuh@b .**  
+    - No applicable items.
+
+77. **I catch it .**  
+    - V1: 1 (catch)
+
+78. **here I am .**  
+    - V6: 1 (am)
+
+79. **my bike (.) where's <my bike> [/] (.) my bike .**  
+    - N2: 1 (my)
+    - N1: 1 (bike)
+
+80. **you hurt your head ?**  
+    - Q1: 1 (contains a question mark)
+
+81. **I didn't did it .**  
+    - Q3: 1 (Simple Negation)
+
+82. **this way .**  
+    - No applicable items.
+
+83. **I am .**  
+    - V6: 1 (am)
+
+84. **I'm tryin(g) to get (.) a bike in here .**  
+    - V1: 1 (trying)
+    - N5: 1 (a bike)
+
+85. **yup .**  
+    - No applicable items.
+
+86. **<I &~be> [//] I only &-um ge(t) out huh ?**  
+    - V1: 1 (get)
+    - Q1: 1 (contains a question mark)
+
+87. **beep@o [/] (.) beep@o .**  
+    - No applicable items.
+
+88. **hope &-uh (.) hide .**  
+    - V1: 1 (hide)
+
+89. **&~a:h (.) tha(t)'s mine .**  
+    - V4: 1 (that is)
+    - N2: 1 (mine)
+
+90. **who ?**  
+    - Q1: 1 (contains a question mark)
+
+91. **Bonnie (.) Ken .**  
+    - No applicable items.
+
+92. **in the cookout .**  
+    - V3: 1 (in the cookout)
+
+93. **what Auntie ?**  
+    - Q1: 1 (contains a question mark)
+
+94. **whe(r)e is it ?**  
+    - Q1: 1 (contains a question mark)
+
+95. **I wan(t) it .**  
+    - V1: 1 (wan(t))
+
+96. **I wan(t) tha(t) nick(le) [: nickel] .**  
+    - V1: 1 (wan(t))
+    - N5: 1 (that nickel)
+
+97. **xxx mine ?**  
+    - Q1: 1 (contains a question mark)
+
+98. **mine xxx .**  
+    - No applicable items.
+
+99. **Ears is tryin(g) to get those Loop_loops again .**  
+    - V1: 1 (is)
+    - V1: 1 (trying)
+    - N5: 1 (those Loop_loops)
+
+100. **come here .**  
+    - V1: 1 (come)
+
+101. **come here .**  
+    - V1: 1 (come)
+
+Final score:
+N1, 4  
+N2, 5  
+N3, 4  
+N4, 0  
+N5, 8  
+N6, 0  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 15  
+V2, 2  
+V3, 4  
+V4, 1  
+V5, 0  
+V6, 3  
+V7, 3  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 10  
+Q2, 0  
+Q3, 6  
+Q4, 1  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

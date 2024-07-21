@@ -1,0 +1,521 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **what ?**
+   - Q1: 1
+
+2. **hi .**
+   - S1: 1
+
+3. **no .**
+   - S1: 1
+
+4. **can't what .**
+   - V1: 1
+   - N1: 1
+
+5. **<hop (.) hop> [/] (.) hop .**
+   - V1: 1 (hop)
+
+6. **oh .**
+   - S1: 1
+
+7. **peekaboo .**
+   - S1: 1
+
+8. **alright !**
+   - S1: 1
+
+9. **we hear somethin(g) in here .**
+   - N1: 1
+   - V1: 1
+
+10. **you hear somethin(g) in here ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+11. **see what's in it .**
+    - V1: 1
+    - N1: 1
+    - N2: 1
+
+12. **huh ?**
+    - Q1: 1
+
+13. **here she go(t) mouth .**
+    - N2: 1
+    - N1: 1
+    - V1: 1
+
+14. **wan(t) get a pin out .**
+    - V1: 1
+    - N1: 1
+    - N5: 1
+
+15. **(be)cause xxx .**
+    - S1: 1
+
+16. **no water in it .**
+    - N1: 1
+    - N5: 1
+
+17. **I know it .**
+    - N2: 1
+    - V1: 1
+
+18. **a string .**
+    - N5: 1
+
+19. **for Tippy .**
+    - N1: 1
+    - V3: 1
+
+20. **see yyy .**
+    - V1: 1
+
+21. **see it ?**
+    - V1: 1
+    - N2: 1
+    - Q1: 1
+
+22. **see ?**
+    - V1: 1
+    - Q1: 1
+
+23. **I see it .**
+    - N2: 1
+    - V1: 1
+
+24. **I'm a Bunny .**
+    - N2: 1
+    - V6: 1
+    - N5: 1
+
+25. **hey .**
+    - S1: 1
+
+26. **(.) there jingle bells .**
+    - N1: 1
+    - N4: 1
+
+27. **I got jingle bells .**
+    - N2: 1
+    - V1: 1
+    - N1: 1
+
+28. **what my jingle bells doin(g) up there ?**
+    - N2: 1
+    - N1: 1
+    - V7: 1
+    - Q1: 1
+
+29. **what's my jingle bell doin(g) up there ?**
+    - N2: 1
+    - N1: 1
+    - V7: 1
+    - Q1: 1
+
+30. **how you get them down ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+31. **get em down .**
+    - V1: 1
+    - N2: 1
+
+32. **(be)cause I wan(t) sing .**
+    - N2: 1
+    - V1: 1
+
+33. **yes I do .**
+    - N2: 1
+    - V1: 1
+
+34. **yesterday .**
+    - S1: 1
+
+35. **I think I play jingle bells xxx with the record_player .**
+    - N2: 1
+    - V1: 1
+    - N1: 1
+    - V3: 1
+
+36. **it works .**
+    - N1: 1
+    - V1: 1
+
+37. **you .**
+    - N2: 1
+
+38. **now .**
+    - S1: 1
+
+39. **(be)cause I want cha [: you] to .**
+    - N2: 1
+    - V1: 1
+
+40. **why (.) Mommy ?**
+    - Q1: 1
+
+41. **he got telephone pole this side too [?] .**
+    - N2: 1
+    - V1: 1
+    - N1: 1
+
+42. **<(a)n(d) this side> [/] (.) (a)n(d) this side .**
+    - S7: 1
+
+43. **(a)n(d) ano(ther) bow for that .**
+    - N1: 1
+    - S5: 1
+
+44. **(a)n(d) ano(ther) bow for [/] for xxx .**
+    - N1: 1
+    - S5: 1
+
+45. **he chewin(g) his bone .**
+    - N2: 1
+    - V7: 1
+    - N1: 1
+
+46. **go dat [: that] way .**
+    - V1: 1
+    - N1: 1
+
+47. **Mommy does .**
+    - N1: 1
+    - V1: 1
+
+48. **xxx you there ?**
+    - N2: 1
+    - Q1: 1
+
+49. **what's the matter ?**
+    - Q1: 1
+    - N1: 1
+
+50. **huh .**
+    - S1: 1
+
+51. **I not <&~heh> [//] <&~ha> [//] hurt em .**
+    - N2: 1
+    - V1: 1
+    - V3: 1
+
+52. **alright .**
+    - S1: 1
+
+53. **why ?**
+    - Q1: 1
+
+54. **let it go ?**
+    - V1: 1
+    - Q1: 1
+
+55. **drop it .**
+    - V1: 1
+    - N2: 1
+
+56. **I wan(t) (.) get my pencil .**
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+57. **where is it ?**
+    - Q1: 1
+    - N2: 1
+
+58. **can [//] I wan(t) w(r)ite .**
+    - V9: 1
+    - N2: 1
+    - V1: 1
+
+59. **I find it .**
+    - N2: 1
+    - V1: 1
+
+60. **come in .**
+    - V1: 1
+
+61. **what's that say ?**
+    - Q1: 1
+    - N1: 1
+    - V1: 1
+
+62. **b@l .**
+    - S1: 1
+
+63. **d@l .**
+    - S1: 1
+
+64. **o@l (.) c@l . [+ bch]**
+    - S1: 1
+
+65. **g@l .**
+    - S1: 1
+
+66. **Sarah .**
+    - N1: 1
+
+67. **dog .**
+    - N1: 1
+
+68. **&-um (.) it says Sarah .**
+    - N1: 1
+    - V1: 1
+
+69. **I can't know it .**
+    - N2: 1
+    - V1: 1
+    - V3: 1
+
+70. **k@l [/] (.) k@l .**
+    - S1: 1
+
+71. **&-um (.) <v@l> [//] no (.) a v@l .**
+    - S1: 1
+
+72. **a (.) d@l .**
+    - N5: 1
+
+73. **a@l .**
+    - S1: 1
+
+74. **d@l [/] (.) d@l (.) &-uh (.) r@l (.) I mean y@l .**
+    - S1: 1
+
+75. **Daddy .**
+    - N1: 1
+
+76. **make a star .**
+    - V1: 1
+    - N5: 1
+
+77. **an a@l .**
+    - N5: 1
+
+78. **yeah .**
+    - S1: 1
+
+79. **cat .**
+    - N1: 1
+
+80. **where the (.) v@l ?**
+    - Q1: 1
+    - N1: 1
+
+81. **what's the whole thing say ?**
+    - Q1: 1
+    - N1: 1
+    - V1: 1
+
+82. **make a letter (.) letters .**
+    - V1: 1
+    - N5: 1
+    - N7: 1
+
+83. **I don't know .**
+    - N2: 1
+    - V1: 1
+    - V3: 1
+
+84. **it doesn't work .**
+    - N1: 1
+    - V1: 1
+    - V3: 1
+
+85. **&-uh (.) &-um (.) &-uh (.) v@l .**
+    - S1: 1
+
+86. **oh (.) don't break it .**
+    - V3: 1
+    - V1: 1
+    - N2: 1
+
+87. **sometimes it don't work .**
+    - N1: 1
+    - V1: 1
+    - V3: 1
+
+88. **I ripped it .**
+    - N2: 1
+    - V12: 1
+
+89. **we know our letters (.) whup@b !**
+    - N2: 1
+    - V1: 1
+    - N7: 1
+
+90. **put that down .**
+    - V1: 1
+    - N2: 1
+
+91. **h@l .**
+    - S1: 1
+
+92. **it's a v@l .**
+    - N1: 1
+    - V6: 1
+    - N5: 1
+
+93. **hey (.) what's happens [?] today ?**
+    - Q1: 1
+    - N1: 1
+    - V1: 1
+
+94. **hm: ?**
+    - Q1: 1
+
+95. **c@l .**
+    - S1: 1
+
+96. **a yyy .**
+    - S1: 1
+
+97. **you did it .**
+    - N2: 1
+    - V1: 1
+    - N2: 1
+
+98. **an Indian !**
+    - N1: 1
+
+99. **what's that ?**
+    - Q1: 1
+    - N1: 1
+
+100. **that one be .**
+    - N1: 1
+    - V4: 1
+
+Now, let's compile the scores for each item:
+
+- N1: 15
+- N2: 12
+- N3: 0
+- N4: 3
+- N5: 8
+- N6: 0
+- N7: 3
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 22
+- V2: 0
+- V3: 6
+- V4: 1
+- V5: 0
+- V6: 2
+- V7: 4
+- V8: 0
+- V9: 1
+- V10: 0
+- V11: 0
+- V12: 1
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 15
+- Q2: 0
+- Q3: 1
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 20
+- S2: 0
+- S3: 0
+- S4: 0
+- S5: 5
+- S6: 0
+- S7: 1
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum of 2:
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 2
+N5, 2
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 1
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 1
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 0
+Q3, 1
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 2
+S2, 0
+S3, 0
+S4, 0
+S5, 2
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

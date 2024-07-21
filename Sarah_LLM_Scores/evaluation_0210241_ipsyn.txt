@@ -1,0 +1,531 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I sit here .**  
+   - N1: 1 (I)
+   - V1: 1 (sit)
+   - S2: 1 (I sit)
+
+2. **Mommy .**  
+   - N1: 1 (Mommy)
+
+3. **no .**  
+   - Q3: 1 (no)
+
+4. **get out .**  
+   - V1: 1 (get)
+
+5. **yeah .**  
+   - (no applicable items)
+
+6. **I got (.) p(ret)ty (.) curls .**  
+   - N1: 1 (curls)
+   - V1: 1 (got)
+   - N3: 1 (pretty)
+
+7. **swim .**  
+   - V1: 1 (swim)
+
+8. **yes .**  
+   - (no applicable items)
+
+9. **and she licked her legs .**  
+   - N1: 1 (legs)
+   - V1: 1 (licked)
+   - S4: 1 (she licked her legs)
+
+10. **o:h (.) we had a good time .**  
+    - N1: 1 (time)
+    - V1: 1 (had)
+    - N3: 1 (good)
+    - S4: 1 (we had a good time)
+
+11. **I th(r)ow my pud(d)in(g) in .**  
+    - N1: 1 (pudding)
+    - V1: 1 (throw)
+    - N2: 1 (my)
+    - S4: 1 (I throw my pudding)
+
+12. **where my puddin(g) is ?**  
+    - N1: 1 (pudding)
+    - Q1: 1 (question mark)
+    - Q4: 1 (where + is)
+
+13. **where's my puddin(g) ?**  
+    - N1: 1 (pudding)
+    - Q1: 1 (question mark)
+    - Q4: 1 (where's + my)
+
+14. **where ?**  
+    - Q1: 1 (question mark)
+    - Q2: 1 (where alone)
+
+15. **yyy puddin(g) .**  
+    - N1: 1 (pudding)
+
+16. **yyy I so wet .**  
+    - N2: 1 (I)
+    - N3: 1 (so)
+    - V1: 1 (wet)
+
+17. **nothing .**  
+    - (no applicable items)
+
+18. **hey !**  
+    - (no applicable items)
+
+19. **kick .**  
+    - V1: 1 (kick)
+
+20. **curled .**  
+    - V1: 1 (curled)
+
+21. **like dis [: this] .**  
+    - N1: 1 (this)
+
+22. **you do .**  
+    - N2: 1 (you)
+    - V1: 1 (do)
+    - S2: 1 (you do)
+
+23. **yyy my hair .**  
+    - N1: 1 (hair)
+    - N2: 1 (my)
+
+24. **fix dat [: that] .**  
+    - N1: 1 (that)
+    - V1: 1 (fix)
+
+25. **fix de [: the] hair .**  
+    - N1: 1 (hair)
+    - V1: 1 (fix)
+    - N5: 1 (the hair)
+
+26. **o:h Mommy .**  
+    - N1: 1 (Mommy)
+
+27. **fix hair .**  
+    - N1: 1 (hair)
+    - V1: 1 (fix)
+    - S3: 1 (fix hair)
+
+28. **yay !**  
+    - (no applicable items)
+
+29. **(be)cause they yyy kick .**  
+    - V1: 1 (kick)
+
+30. **yay .**  
+    - (no applicable items)
+
+31. **I got (.) my eyes .**  
+    - N1: 1 (eyes)
+    - V1: 1 (got)
+    - N2: 1 (my)
+    - S4: 1 (I got my eyes)
+
+32. **I wanna go kicks (.) again .**  
+    - V1: 1 (wanna)
+    - V1: 1 (go)
+    - N1: 1 (kicks)
+
+33. **one more .**  
+    - N1: 1 (more)
+
+34. **okay ?**  
+    - Q1: 1 (question mark)
+
+35. **I do kicks (.) Daddy .**  
+    - N2: 1 (I)
+    - V1: 1 (do)
+    - N1: 1 (Daddy)
+    - S3: 1 (I do kicks)
+
+36. **no !**  
+    - Q3: 1 (no)
+
+37. **Daddy .**  
+    - N1: 1 (Daddy)
+
+38. **you .**  
+    - N2: 1 (you)
+
+39. **hold dis [: this] .**  
+    - N1: 1 (this)
+    - V1: 1 (hold)
+
+40. **what ?**  
+    - Q1: 1 (question mark)
+
+41. **xxx rug ?**  
+    - N1: 1 (rug)
+    - Q1: 1 (question mark)
+
+42. **he bet me .**  
+    - N2: 1 (he)
+    - V1: 1 (bet)
+    - N2: 1 (me)
+    - S4: 1 (he bet me)
+
+43. **he hurt me .**  
+    - N2: 1 (he)
+    - V1: 1 (hurt)
+    - N2: 1 (me)
+    - S4: 1 (he hurt me)
+
+44. **on my hand .**  
+    - N2: 1 (my)
+    - N1: 1 (hand)
+    - V3: 1 (on my hand)
+
+45. **a dance a lesson .**  
+    - N1: 1 (dance)
+    - N1: 1 (lesson)
+    - N5: 1 (a dance)
+
+46. **want have some .**  
+    - V1: 1 (want)
+    - V1: 1 (have)
+
+47. **coffee .**  
+    - N1: 1 (coffee)
+
+48. **I want more cookie .**  
+    - N1: 1 (cookie)
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N3: 1 (more)
+    - S3: 1 (I want more cookie)
+
+49. **<I want> [/] I want (.) dat [: that] .**  
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (that)
+    - S2: 1 (I want)
+
+50. **I want seven .**  
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (seven)
+    - S3: 1 (I want seven)
+
+51. **one (.) two .**  
+    - N1: 1 (one)
+    - N1: 1 (two)
+
+52. **two .**  
+    - N1: 1 (two)
+
+53. **three .**  
+    - N1: 1 (three)
+
+54. **seven .**  
+    - N1: 1 (seven)
+
+55. **good .**  
+    - N3: 1 (good)
+
+56. **coffee !**  
+    - N1: 1 (coffee)
+
+57. **(y)um !**  
+    - (no applicable items)
+
+58. **I (do)n('t) know .**  
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - Q3: 1 (don't)
+
+59. **uhuh .**  
+    - (no applicable items)
+
+60. **Mummy girl .**  
+    - N1: 1 (Mummy)
+    - N1: 1 (girl)
+
+61. **yep !**  
+    - (no applicable items)
+
+62. **a spanking .**  
+    - N1: 1 (spanking)
+
+63. **yeah !**  
+    - (no applicable items)
+
+64. **I sit .**  
+    - N2: 1 (I)
+    - V1: 1 (sit)
+    - S2: 1 (I sit)
+
+65. **I do my dance .**  
+    - N2: 1 (I)
+    - V1: 1 (do)
+    - N1: 1 (dance)
+    - S4: 1 (I do my dance)
+
+66. **I like xxx .**  
+    - N2: 1 (I)
+    - V1: 1 (like)
+
+67. **knock@o [/] knock@o .**  
+    - (no applicable items)
+
+68. **no (.) mass .**  
+    - Q3: 1 (no)
+    - N1: 1 (mass)
+
+69. **(Massa)achusetts .**  
+    - N1: 1 (Massachusetts)
+
+70. **(Massa)chusetts .**  
+    - N1: 1 (Massachusetts)
+
+71. **me .**  
+    - N2: 1 (me)
+
+72. **who's there .**  
+    - N1: 1 (who)
+    - Q1: 1 (question mark)
+
+73. **Elthea later .**  
+    - N1: 1 (Elthea)
+    - N1: 1 (later)
+
+74. **hey what you doing ?**  
+    - Q1: 1 (question mark)
+    - Q4: 1 (what + you doing)
+
+75. **I can't .**  
+    - N2: 1 (I)
+    - V1: 1 (can't)
+
+76. **I xxx a can't .**  
+    - N2: 1 (I)
+    - V1: 1 (can't)
+
+77. **dere [: there] .**  
+    - N1: 1 (there)
+
+78. **uhhuh .**  
+    - (no applicable items)
+
+79. **I choked my neck .**  
+    - N2: 1 (I)
+    - V1: 1 (choked)
+    - N2: 1 (my)
+    - N1: 1 (neck)
+    - S4: 1 (I choked my neck)
+
+80. **xxx one two (.) cha_cha_cha .**  
+    - N1: 1 (one)
+    - N1: 1 (two)
+
+81. **I fall down .**  
+    - N2: 1 (I)
+    - V1: 1 (fall)
+    - S2: 1 (I fall)
+
+82. **yep .**  
+    - (no applicable items)
+
+83. **I wanna go (a)way .**  
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - V1: 1 (go)
+
+84. **Mummy .**  
+    - N1: 1 (Mummy)
+
+85. **bust a tube .**  
+    - N1: 1 (tube)
+    - N5: 1 (a tube)
+
+86. **my bathing cap .**  
+    - N2: 1 (my)
+    - N1: 1 (cap)
+    - N3: 1 (bathing)
+
+87. **see my hat ?**  
+    - N2: 1 (my)
+    - N1: 1 (hat)
+    - Q1: 1 (question mark)
+
+88. **my hat .**  
+    - N2: 1 (my)
+    - N1: 1 (hat)
+
+89. **go party .**  
+    - V1: 1 (go)
+    - N1: 1 (party)
+    - S3: 1 (go party)
+
+90. **xxx party .**  
+    - N1: 1 (party)
+
+91. **where's my party .**  
+    - N2: 1 (my)
+    - N1: 1 (party)
+    - Q1: 1 (question mark)
+
+92. **two ?**  
+    - N1: 1 (two)
+    - Q1: 1 (question mark)
+
+93. **yeah (.) biggybig@b .**  
+    - (no applicable items)
+
+94. **see ?**  
+    - V1: 1 (see)
+    - Q1: 1 (question mark)
+
+95. **I xxx me .**  
+    - N2: 1 (I)
+    - N1: 1 (me)
+
+96. **I big [/] big be big me .**  
+    - N2: 1 (I)
+    - N1: 1 (me)
+
+97. **as big as you too .**  
+    - N2: 1 (you)
+    - N3: 1 (big)
+
+98. **a read this .**  
+    - N1: 1 (this)
+    - N5: 1 (a read)
+
+99. **Cathy Bob .**  
+    - N1: 1 (Cathy)
+    - N1: 1 (Bob)
+
+100. **bear Bob .**  
+    - N1: 1 (bear)
+    - N1: 1 (Bob)
+
+Now, let's compile the scores:
+
+- N1: 20
+- N2: 12
+- N3: 10
+- N4: 0
+- N5: 5
+- N6: 0
+- N7: 0
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 22
+- V2: 0
+- V3: 1
+- V4: 0
+- V5: 0
+- V6: 0
+- V7: 0
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 0
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 9
+- Q2: 2
+- Q3: 4
+- Q4: 3
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 6
+- S3: 8
+- S4: 8
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2
+N2, 2
+N3, 2
+N4, 0
+N5, 2
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 1
+V4, 0
+V5, 0
+V6, 0
+V7, 0
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 2
+Q3, 2
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 2
+S3, 2
+S4, 2
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

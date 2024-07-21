@@ -1,0 +1,550 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. I'm dirty.  
+   - N1: 1 (dirty)
+   - V1: 1 (am)
+
+2. from the dat [: dirt].  
+   - N5: 1 (the dat)
+
+3. playin(g) house (a)n(d) (.) digging.  
+   - V7: 1 (playin(g))
+   - V7: 1 (digging)
+
+4. den I put my hands on it (.) the dirt.  
+   - N1: 1 (hands)
+   - N5: 1 (the dirt)
+   - V1: 1 (put)
+
+5. I don't know.  
+   - N2: 1 (I)
+   - V1: 1 (know)
+   - Q3: 1 (don't)
+
+6. how_come?  
+   - Q2: 1 (how_come)
+
+7. no.  
+   - Q3: 1 (no)
+
+8. what?  
+   - Q2: 1 (what)
+
+9. no (.) don't.  
+   - Q3: 1 (no)
+   - V1: 1 (don't)
+
+10. I wanna dress in my room.  
+    - N2: 1 (I)
+    - N5: 1 (my room)
+    - V1: 1 (wanna)
+
+11. uhuh.  
+    - (no applicable items)
+
+12. &-um (.) &-um (.) happy.  
+    - N1: 1 (happy)
+
+13. is it windy or snowy or (.) rainy?  
+    - V1: 1 (is)
+    - N1: 1 (windy)
+    - N1: 1 (snowy)
+    - N1: 1 (rainy)
+    - Q1: 1 (question mark)
+
+14. huh?  
+    - Q1: 1 (huh?)
+
+15. snowing only a little bit (.) is it?  
+    - V1: 1 (is)
+    - V7: 1 (snowing)
+    - Q1: 1 (question mark)
+
+16. a little bit (.) it is.  
+    - N1: 1 (bit)
+    - N2: 1 (it)
+    - V1: 1 (is)
+
+17. ow.  
+    - (no applicable items)
+
+18. too hot.  
+    - N1: 1 (hot)
+
+19. that's good.  
+    - N2: 1 (that)
+    - V1: 1 (is)
+
+20. put a little more on (.) maybe.  
+    - V1: 1 (put)
+    - N5: 1 (a little more)
+
+21. oh.  
+    - (no applicable items)
+
+22. whee.  
+    - (no applicable items)
+
+23. tom@b.  
+    - (no applicable items)
+
+24. me.  
+    - N2: 1 (me)
+
+25. I can't help it (.) Mommy.  
+    - N2: 1 (I)
+    - V1: 1 (can't)
+    - N1: 1 (Mommy)
+
+26. I want a drink of water.  
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N5: 1 (a drink)
+
+27. well (.) what you have?  
+    - N2: 1 (what)
+    - V1: 1 (have)
+    - Q1: 1 (question mark)
+
+28. you have.  
+    - N2: 1 (you)
+    - V1: 1 (have)
+
+29. I think it's [?] marshmallow.  
+    - N2: 1 (I)
+    - V1: 1 (think)
+    - N1: 1 (marshmallow)
+
+30. marshmallow peanut_butter.  
+    - N1: 1 (marshmallow)
+    - N1: 1 (peanut_butter)
+
+31. okay.  
+    - (no applicable items)
+
+32. I want (.) eggs.  
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (eggs)
+
+33. yes.  
+    - (no applicable items)
+
+34. what (.) that?  
+    - N2: 1 (what)
+    - V1: 1 (is)
+
+35. a yyy.  
+    - (no applicable items)
+
+36. I can't think of it.  
+    - N2: 1 (I)
+    - V1: 1 (can't)
+    - N2: 1 (it)
+
+37. it's for look at people inside it.  
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - V1: 1 (look)
+
+38. mhm (.) all the time.  
+    - (no applicable items)
+
+39. well (.) I have a cut.  
+    - N2: 1 (I)
+    - V1: 1 (have)
+    - N1: 1 (cut)
+
+40. well (.) someone throwed [: threw] [* +ed] a rock at my eye.  
+    - N2: 1 (someone)
+    - V12: 1 (throwed)
+    - N1: 1 (rock)
+    - N5: 1 (my eye)
+
+41. no (.) is it?  
+    - Q1: 1 (question mark)
+    - V1: 1 (is)
+    - N2: 1 (it)
+
+42. no (.) nobody threw (.) rock at my eye (.) but is it sore?  
+    - Q1: 1 (question mark)
+    - N2: 1 (nobody)
+    - V12: 1 (threw)
+    - N1: 1 (rock)
+    - N5: 1 (my eye)
+    - V1: 1 (is)
+    - N1: 1 (sore)
+
+43. uhhuh (.) but not a little.  
+    - (no applicable items)
+
+44. it doesn't hurt me.  
+    - N2: 1 (it)
+    - V3: 1 (doesn't)
+    - V1: 1 (hurt)
+    - N2: 1 (me)
+
+45. is it startin(g) to bleed a little?  
+    - V1: 1 (is)
+    - N2: 1 (it)
+    - V7: 1 (startin(g))
+    - V1: 1 (bleed)
+    - Q1: 1 (question mark)
+
+46. yesterday.  
+    - (no applicable items)
+
+47. scab now?  
+    - Q1: 1 (question mark)
+
+48. well (.) Donna had one bleedin(g).  
+    - N2: 1 (Donna)
+    - V12: 1 (had)
+    - N1: 1 (one)
+    - V7: 1 (bleedin(g))
+
+49. mine didn't bleed one (.) bit.  
+    - N2: 1 (mine)
+    - V3: 1 (didn't)
+    - V1: 1 (bleed)
+    - N1: 1 (bit)
+
+50. it looked like a burglar but my mother said it wasn't a burglar.  
+    - N2: 1 (it)
+    - V1: 1 (looked)
+    - N1: 1 (burglar)
+    - N2: 1 (my)
+    - N1: 1 (mother)
+    - V1: 1 (said)
+    - V1: 1 (wasn't)
+    - N1: 1 (burglar)
+
+51. <that's only> [//] (.) <that (.) cats> [//] (.) but poison cats' claws.  
+    - N2: 1 (that)
+    - N1: 1 (cats)
+    - N1: 1 (poison)
+    - N1: 1 (claws)
+
+52. it's poison.  
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - N1: 1 (poison)
+
+53. y(ou) know (.) then we went on the porch then I was <scared of> [//] (.) scared.  
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - N2: 1 (we)
+    - V1: 1 (went)
+    - N1: 1 (porch)
+    - N2: 1 (I)
+    - V1: 1 (was)
+    - N1: 1 (scared)
+
+54. then Donna went on the porch (a)n(d) I was playin(g) with her.  
+    - N2: 1 (Donna)
+    - V1: 1 (went)
+    - N1: 1 (porch)
+    - N2: 1 (I)
+    - V1: 1 (was)
+    - V7: 1 (playin(g))
+    - N2: 1 (her)
+
+55. (a)n(d) (.) know what?  
+    - V1: 1 (know)
+    - Q1: 1 (question mark)
+
+56. <scared stiff and Donna was> [/] (.) <scared stiff and> [//] (.) then we forgot about it (.) see?  
+    - N2: 1 (Donna)
+    - V1: 1 (was)
+    - N2: 1 (we)
+    - V1: 1 (forgot)
+    - N2: 1 (it)
+    - Q1: 1 (question mark)
+
+57. but I was still thinkin(g) about it.  
+    - N2: 1 (I)
+    - V1: 1 (was)
+    - V7: 1 (thinkin(g))
+    - N2: 1 (it)
+
+58. then Donna said well (.) keep on saying toys@q then you forget about it.  
+    - N2: 1 (Donna)
+    - V1: 1 (said)
+    - V1: 1 (keep)
+    - V1: 1 (saying)
+    - N2: 1 (you)
+    - V1: 1 (forget)
+    - N2: 1 (it)
+
+59. saying toys (a)n(d) forget about it.  
+    - V1: 1 (saying)
+    - V1: 1 (forget)
+    - N2: 1 (it)
+
+60. (a)n(d) forget about it.  
+    - V1: 1 (forget)
+    - N2: 1 (it)
+
+61. did I said that the same time?  
+    - V1: 1 (did)
+    - N2: 1 (I)
+    - V1: 1 (said)
+    - N2: 1 (that)
+    - Q1: 1 (question mark)
+
+62. time.  
+    - (no applicable items)
+
+63. it's goin(g) in.  
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - V7: 1 (goin(g))
+
+64. I know how to make coffee but I don't wanna put the tea on there.  
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - N1: 1 (coffee)
+    - V1: 1 (make)
+    - N1: 1 (tea)
+    - V1: 1 (put)
+
+65. glad you caught it.  
+    - N2: 1 (you)
+    - V12: 1 (caught)
+    - N2: 1 (it)
+
+66. no (.) not quite.  
+    - Q3: 1 (no)
+
+67. is there a little hair on there?  
+    - V1: 1 (is)
+    - Q1: 1 (question mark)
+
+68. there it is.  
+    - N2: 1 (it)
+    - V1: 1 (is)
+
+69. caught got [?] it.  
+    - V12: 1 (caught)
+    - V1: 1 (got)
+    - N2: 1 (it)
+
+70. oh I see another one.  
+    - N2: 1 (I)
+    - V1: 1 (see)
+    - N1: 1 (one)
+
+71. see the hair there?  
+    - V1: 1 (see)
+    - N5: 1 (the hair)
+    - Q1: 1 (question mark)
+
+72. can you stop that [= the taperecorder].  
+    - N2: 1 (you)
+    - V9: 1 (can)
+    - V1: 1 (stop)
+    - N5: 1 (that)
+
+73. I just pushed it down.  
+    - N2: 1 (I)
+    - V12: 1 (pushed)
+    - N2: 1 (it)
+
+74. no (.) I didn't do it.  
+    - Q3: 1 (no)
+    - N2: 1 (I)
+    - V3: 1 (didn't)
+    - V1: 1 (do)
+    - N2: 1 (it)
+
+75. I didn't put it on there.  
+    - N2: 1 (I)
+    - V3: 1 (didn't)
+    - V1: 1 (put)
+    - N2: 1 (it)
+
+76. what's his name?  
+    - N2: 1 (what)
+    - Q1: 1 (question mark)
+
+77. Wollensak today?  
+    - N1: 1 (Wollensak)
+    - Q1: 1 (question mark)
+
+78. does it say?  
+    - V1: 1 (does)
+    - N2: 1 (it)
+    - V1: 1 (say)
+    - Q1: 1 (question mark)
+
+79. did you write on it?  
+    - V1: 1 (did)
+    - N2: 1 (you)
+    - V1: 1 (write)
+    - N2: 1 (it)
+    - Q1: 1 (question mark)
+
+80. who maked [: made] [* +ed] it then?  
+    - N2: 1 (who)
+    - V12: 1 (maked)
+    - N2: 1 (it)
+    - Q1: 1 (question mark)
+
+81. I want it.  
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 1 (it)
+
+82. I can't.  
+    - N2: 1 (I)
+    - V1: 1 (can't)
+
+83. the tape?  
+    - N5: 1 (the tape)
+    - Q1: 1 (question mark)
+
+84. is that cookies?  
+    - V1: 1 (is)
+    - N2: 1 (that)
+    - N1: 1 (cookies)
+    - Q1: 1 (question mark)
+
+85. I looked at em.  
+    - N2: 1 (I)
+    - V12: 1 (looked)
+    - V3: 1 (at)
+
+86. mhm.  
+    - (no applicable items)
+
+87. are they hard a little bit?  
+    - V1: 1 (are)
+    - N2: 1 (they)
+    - N1: 1 (hard)
+    - Q1: 1 (question mark)
+
+88. I like the chocolates.  
+    - N2: 1 (I)
+    - V1: 1 (like)
+    - N5: 1 (the chocolates)
+
+89. oh [?] they're [?] little.  
+    - N2: 1 (they)
+    - V1: 1 (are)
+    - N1: 1 (little)
+
+90. (be)cause my teacher falled [: fell] [* +ed] and broke her wrist.  
+    - N2: 1 (my)
+    - N1: 1 (teacher)
+    - V12: 1 (falled)
+    - V12: 1 (broke)
+    - N5: 1 (her wrist)
+
+91. got sick.  
+    - V1: 1 (got)
+    - N1: 1 (sick)
+
+92. no (.) next summer.  
+    - Q3: 1 (no)
+
+93. now I'm all through with (.) that cookie.  
+    - N2: 1 (I)
+    - V1: 1 (am)
+    - N5: 1 (that cookie)
+
+94. mhm (.) all of em.  
+    - (no applicable items)
+
+95. uhhuh.  
+    - (no applicable items)
+
+96. I don't want no milk.  
+    - N2: 1 (I)
+    - V1: 1 (don't)
+    - V1: 1 (want)
+    - N1: 1 (milk)
+
+97. it's down now.  
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - N1: 1 (down)
+
+98. I did.  
+    - N2: 1 (I)
+    - V12: 1 (did)
+
+99. I did it.  
+    - N2: 1 (I)
+    - V12: 1 (did)
+    - N2: 1 (it)
+
+100. mm [?].  
+    - (no applicable items)
+
+Now, let's compile the scores for each item, capping at a maximum of 2:
+
+Final score:
+N1, 14
+N2, 14
+N3, 0
+N4, 0
+N5, 8
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 4
+V4, 0
+V5, 0
+V6, 0
+V7, 5
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 6
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 5
+Q3, 5
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for items that were not satisfied are not included in the final score list.)

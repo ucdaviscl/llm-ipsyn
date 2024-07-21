@@ -1,0 +1,442 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **boat .**  
+   - N1: 1
+
+2. **car .**  
+   - N1: 2 (max reached)
+
+3. **bear .**  
+   - N1: 2 (max reached)
+
+4. **doggie ?**  
+   - N1: 2 (max reached)
+   - Q1: 1
+
+5. **lion .**  
+   - N1: 2 (max reached)
+
+6. **elephant .**  
+   - N1: 2 (max reached)
+
+7. **(it)'s horsie .**  
+   - N2: 1
+   - N5: 1
+
+8. **ride horsie .**  
+   - V1: 1
+   - N6: 1
+
+9. **Indian .**  
+   - N1: 2 (max reached)
+
+10. **lamb ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+11. **monkey ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+12. **xxx tail .**  
+    - N1: 2 (max reached)
+
+13. **where chickie ?**  
+    - Q2: 1
+    - Q1: 2 (max reached)
+
+14. **I got orange .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S4: 1
+
+15. **pipe .**  
+    - N1: 2 (max reached)
+
+16. **bed .**  
+    - N1: 2 (max reached)
+
+17. **I bed too .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 1
+
+18. **bu(nn)y .**  
+    - N1: 2 (max reached)
+
+19. **I got bu(nn)y .**  
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - S4: 2 (max reached)
+
+20. **I two bu(nn)y .**  
+    - N2: 2 (max reached)
+    - N1: 2 (max reached)
+
+21. **steamroller .**  
+    - N1: 2 (max reached)
+
+22. **man ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+23. **I got man .**  
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - S4: 2 (max reached)
+
+24. **I (.) man too .**  
+    - N2: 2 (max reached)
+    - N1: 2 (max reached)
+    - S2: 2 (max reached)
+
+25. **o:h [/] (.) o:h .**  
+    - (no applicable items)
+
+26. **cold .**  
+    - N1: 2 (max reached)
+
+27. **choo_choo train ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+28. **smoke ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+29. **I train too .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+30. **vacuum_cleaner ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+31. **oh (.) xxx vacuum_cleaner .**  
+    - N1: 2 (max reached)
+
+32. **I (a)fraid (.) cleaner .**  
+    - N2: 2 (max reached)
+    - N1: 2 (max reached)
+
+33. **xxx boy .**  
+    - N1: 2 (max reached)
+
+34. **Bobo .**  
+    - N1: 2 (max reached)
+
+35. **xylophone .**  
+    - N1: 2 (max reached)
+
+36. **o:h (.) o:h .**  
+    - (no applicable items)
+
+37. **zebra ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+38. **xxx cold ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+39. **baby .**  
+    - N1: 2 (max reached)
+
+40. **a me too .**  
+    - N5: 1
+    - N2: 2 (max reached)
+
+41. **xxx horsie .**  
+    - N1: 2 (max reached)
+
+42. **I [?] love [?] horsie .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+43. **xxx eating .**  
+    - V7: 1
+
+44. **cold (.) Mummy .**  
+    - N1: 2 (max reached)
+
+45. **o:h o:h o:h o:h o:h o:h xxx .**  
+    - (no applicable items)
+
+46. **I xxx milk .**  
+    - N2: 2 (max reached)
+    - N1: 2 (max reached)
+
+47. **I tired .**  
+    - N2: 2 (max reached)
+    - V1: 1
+
+48. **read book .**  
+    - V1: 2 (max reached)
+    - N1: 1
+
+49. **<yyy dere [: there]> [?] .**  
+    - Q1: 2 (max reached)
+
+50. **bicycle ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+51. **I ride bicycle .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+52. **li(ttle) girl .**  
+    - N1: 2 (max reached)
+
+53. **li(ttle) boy ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+54. **I new tooth .**  
+    - N2: 2 (max reached)
+    - N1: 1
+
+55. **yyy dere [: there] .**  
+    - (no applicable items)
+
+56. **meow@o .**  
+    - (no applicable items)
+
+57. **xxx hungry .**  
+    - (no applicable items)
+
+58. **I hungry too .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+59. **lion yyy ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+60. **zoo ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+61. **bowl [//] I got bowl .**  
+    - N1: 2 (max reached)
+    - N2: 2 (max reached)
+    - V1: 1
+    - S4: 2 (max reached)
+
+62. **I got a xxx too .**  
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - S4: 2 (max reached)
+
+63. **I Bobo too .**  
+    - N2: 2 (max reached)
+    - N1: 2 (max reached)
+    - S2: 2 (max reached)
+
+64. **orange .**  
+    - N1: 2 (max reached)
+
+65. **I orange too .**  
+    - N2: 2 (max reached)
+    - N1: 2 (max reached)
+
+66. **gong@b .**  
+    - (no applicable items)
+
+67. **my yyy (.) mine .**  
+    - N2: 2 (max reached)
+
+68. **drum .**  
+    - N1: 2 (max reached)
+
+69. **I drum (.) too .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+70. **Santie_Claus .**  
+    - N1: 2 (max reached)
+
+71. **I puppy too .**  
+    - N2: 2 (max reached)
+    - N1: 1
+    - S2: 2 (max reached)
+
+72. **xxx puppy .**  
+    - N1: 2 (max reached)
+
+73. **xxx puppy gone .**  
+    - N1: 2 (max reached)
+
+74. **I don't know .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+75. **my puppy .**  
+    - N2: 2 (max reached)
+    - N1: 1
+
+76. **Michael .**  
+    - N1: 2 (max reached)
+
+77. **my [/] my dog Michael .**  
+    - N2: 2 (max reached)
+    - N1: 1
+
+78. **I bicycle too .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+79. **Da(dd)y .**  
+    - N1: 2 (max reached)
+
+80. **do(ll)y see yyy .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+81. **ssh .**  
+    - (no applicable items)
+
+82. **xxx cookie .**  
+    - N1: 2 (max reached)
+
+83. **I ki(tt)y too .**  
+    - N2: 2 (max reached)
+    - N1: 1
+    - S2: 2 (max reached)
+
+84. **Teppy .**  
+    - N1: 2 (max reached)
+
+85. **ni(ce) ki(tt)y .**  
+    - N1: 2 (max reached)
+
+86. **bite me .**  
+    - V1: 2 (max reached)
+    - N2: 2 (max reached)
+    - S2: 2 (max reached)
+
+87. **bad ki(tt)y .**  
+    - N1: 2 (max reached)
+
+88. **li(ttle) girl ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+89. **Christmas_tree .**  
+    - N1: 2 (max reached)
+
+90. **<&~cir> [//] I circus too .**  
+    - N2: 2 (max reached)
+    - N1: 1
+    - S2: 2 (max reached)
+
+91. **I go circus .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+92. **circus .**  
+    - N1: 2 (max reached)
+
+93. **I bus too .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - S2: 2 (max reached)
+
+94. **li(ttle) but .**  
+    - (no applicable items)
+
+95. **li(ttle) bud xxx .**  
+    - (no applicable items)
+
+96. **ball .**  
+    - N1: 2 (max reached)
+
+97. **baby ?**  
+    - N1: 2 (max reached)
+    - Q1: 2 (max reached)
+
+98. **my baby .**  
+    - N2: 2 (max reached)
+    - N1: 1
+
+99. **my baby gone home .**  
+    - N2: 2 (max reached)
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+100. **to you .**  
+    - (no applicable items)
+
+Final score:
+N1, 2  
+N2, 2  
+N3, 0  
+N4, 0  
+N5, 1  
+N6, 1  
+N7, 0  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 2  
+V2, 0  
+V3, 0  
+V4, 0  
+V5, 0  
+V6, 0  
+V7, 1  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 2  
+Q2, 1  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 2  
+S3, 0  
+S4, 2  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

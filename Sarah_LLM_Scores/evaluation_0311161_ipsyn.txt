@@ -1,0 +1,506 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **Line:** <went to the> [//] (.) I went (.) beach .
+   - N1: 1 (beach)
+   - V1: 1 (went)
+   - V4: 1 (I went)
+   - S2: 1 (I went)
+
+2. **Line:** I &-um (.) swimmed [: swam] [* +ed] .
+   - N1: 0
+   - V12: 1 (swam)
+   - S2: 1 (I swimmed)
+
+3. **Line:** I went (.) to (.) my house .
+   - N1: 1 (house)
+   - N5: 1 (my house)
+   - V1: 1 (went)
+   - S2: 1 (I went)
+
+4. **Line:** huh ?
+   - Q1: 1
+
+5. **Line:** and I went to the (.) farm animals .
+   - N1: 1 (animals)
+   - N5: 1 (the farm)
+   - V1: 1 (went)
+   - S2: 1 (I went)
+
+6. **Line:** I [/] (.) I go to the (.) horsies .
+   - N1: 1 (horsies)
+   - V1: 1 (go)
+   - S2: 1 (I go)
+
+7. **Line:** I (.) did it yesterday .
+   - V1: 1 (did)
+   - S2: 1 (I did)
+
+8. **Line:** the circus .
+   - N1: 1 (circus)
+   - N5: 1 (the circus)
+
+9. **Line:** that was the circus .
+   - N1: 1 (circus)
+   - V4: 1 (that was)
+   - S2: 1 (that was)
+
+10. **Line:** <to the &~hos> [//] (.) I mean the &-uh (.) &-um (.) merry_round [: merry-go-round] .
+    - N1: 1 (merry-go-round)
+    - N5: 1 (the merry-go-round)
+    - V1: 1 (mean)
+    - S2: 1 (I mean)
+
+11. **Line:** yeah !
+    - N1: 0
+    - V1: 0
+
+12. **Line:** laughed .
+    - V1: 1 (laughed)
+
+13. **Line:** &-uh (.) went on (.) everything .
+    - N1: 1 (everything)
+    - V1: 1 (went)
+
+14. **Line:** yep .
+    - N1: 0
+    - V1: 0
+
+15. **Line:** yeah .
+    - N1: 0
+    - V1: 0
+
+16. **Line:** and Laurie .
+    - N1: 1 (Laurie)
+    - S1: 1 (and Laurie)
+
+17. **Line:** &-um my friend .
+    - N1: 1 (friend)
+    - N5: 1 (my friend)
+
+18. **Line:** play like .
+    - N1: 0
+    - V1: 1 (play)
+
+19. **Line:** he's friendly .
+    - N2: 1 (he)
+    - V6: 1 (he's)
+
+20. **Line:** whee (.) xxx .
+    - N1: 0
+    - V1: 0
+
+21. **Line:** I did it on purpose .
+    - V1: 1 (did)
+    - S2: 1 (I did)
+
+22. **Line:** it's not that way .
+    - N1: 1 (way)
+    - V7: 1 (it's)
+    - S2: 1 (it's not)
+
+23. **Line:** am I goin(g) on a vacation ?
+    - N1: 1 (vacation)
+    - V1: 1 (am)
+    - Q1: 1
+    - Q8: 1 (am I)
+
+24. **Line:** Anne's around .
+    - N1: 1 (Anne's)
+    - V1: 1 (is)
+
+25. **Line:** I want coffee .
+    - N1: 1 (coffee)
+    - V1: 1 (want)
+    - S2: 1 (I want)
+
+26. **Line:** I just had coffee .
+    - N1: 1 (coffee)
+    - V12: 1 (had)
+    - S2: 1 (I had)
+
+27. **Line:** <tea (.) tea> [/] (.) tea or coffee .
+    - N1: 1 (tea)
+    - N1: 1 (coffee)
+    - S5: 1 (or)
+
+28. **Line:** what ?
+    - Q1: 1
+
+29. **Line:** hey [/] (.) hey (.) get cold .
+    - N1: 0
+    - V1: 1 (get)
+
+30. **Line:** I got my monkey .
+    - N1: 1 (monkey)
+    - V12: 1 (got)
+    - S2: 1 (I got)
+
+31. **Line:** I'm doin(g) somethin(g) .
+    - N1: 1 (somethin(g))
+    - V7: 1 (I'm)
+
+32. **Line:** I'm xxx out the monkey (.) my little one .
+    - N1: 1 (monkey)
+    - N5: 1 (my little one)
+    - V1: 1 (am)
+
+33. **Line:** Mama (.) where's my deers [: deer] [* +s] ?
+    - N1: 1 (deers)
+    - N5: 1 (my deers)
+    - Q1: 1
+    - Q6: 1 (where's)
+
+34. **Line:** Mom (.) where's my Ears ?
+    - N1: 1 (Ears)
+    - N5: 1 (my Ears)
+    - Q1: 1
+    - Q6: 1 (where's)
+
+35. **Line:** where he ?
+    - Q1: 1
+    - Q2: 1 (where)
+
+36. **Line:** I get my little one .
+    - N1: 1 (one)
+    - N5: 1 (my little one)
+    - V1: 1 (get)
+    - S2: 1 (I get)
+
+37. **Line:** whee (.) whee (.) boom .
+    - N1: 0
+    - V1: 0
+
+38. **Line:** see .
+    - V1: 1 (see)
+
+39. **Line:** see the baby monkey .
+    - N1: 1 (monkey)
+    - N5: 1 (the baby monkey)
+    - V1: 1 (see)
+    - S4: 1 (see the baby monkey)
+
+40. **Line:** the xxx .
+    - N1: 0
+
+41. **Line:** that's a pipe it's broken .
+    - N1: 1 (pipe)
+    - V4: 1 (that's a pipe)
+    - V12: 1 (broken)
+
+42. **Line:** <it's> [//] (.) the pipe is broken .
+    - N1: 1 (pipe)
+    - V4: 1 (the pipe is)
+    - V12: 1 (broken)
+
+43. **Line:** this is the daddy one .
+    - N1: 1 (one)
+    - N5: 1 (the daddy one)
+    - V4: 1 (this is)
+
+44. **Line:** the mummie one's gone .
+    - N1: 1 (one)
+    - V12: 1 (gone)
+    - N5: 1 (the mummie one)
+
+45. **Line:** I got some a(ni)mals (.) I gotta get xxx .
+    - N1: 1 (animals)
+    - V12: 1 (got)
+    - V1: 1 (get)
+    - S4: 1 (I got some animals)
+
+46. **Line:** piggieback .
+    - N1: 1 (piggieback)
+
+47. **Line:** she's on a vacation .
+    - N2: 1 (she)
+    - N5: 1 (a vacation)
+    - V6: 1 (she's)
+
+48. **Line:** yep (.) she's going to come (.) eat .
+    - N1: 0
+    - V1: 1 (going)
+    - V1: 1 (come)
+    - V1: 1 (eat)
+
+49. **Line:** sleep in my bed .
+    - N1: 1 (bed)
+    - V1: 1 (sleep)
+
+50. **Line:** get off of there (.) get up xxx .
+    - V1: 1 (get)
+    - V1: 1 (get)
+
+51. **Line:** I wanna xxx .
+    - N1: 0
+    - V1: 1 (wanna)
+
+52. **Line:** ding_dong@o .
+    - N1: 0
+    - V1: 0
+
+53. **Line:** get [/] (.) get cha [: you] .
+    - V1: 1 (get)
+
+54. **Line:** yyy who yyy .
+    - N1: 0
+    - V1: 0
+
+55. **Line:** hello .
+    - N1: 0
+    - V1: 0
+
+56. **Line:** Robin can play with my toys .
+    - N1: 1 (toys)
+    - N5: 1 (my toys)
+    - V9: 1 (can play)
+
+57. **Line:** there not much room .
+    - N1: 1 (room)
+    - V1: 1 (not)
+
+58. **Line:** where is it ?
+    - Q1: 1
+    - Q6: 1 (where)
+
+59. **Line:** who ?
+    - Q1: 1
+    - Q2: 1 (who)
+
+60. **Line:** hunm .
+    - N1: 0
+    - V1: 0
+
+61. **Line:** coming home tomorrow .
+    - N1: 1 (home)
+    - V1: 1 (coming)
+
+62. **Line:** Mama .
+    - N1: 1 (Mama)
+
+63. **Line:** Mommy .
+    - N1: 1 (Mommy)
+
+64. **Line:** but who's going to drive ?
+    - Q1: 1
+    - Q6: 1 (who's)
+
+65. **Line:** oh how_come ?
+    - Q1: 1
+    - Q2: 1 (how_come)
+
+66. **Line:** who's gonna drive ?
+    - Q1: 1
+    - Q6: 1 (who's)
+
+67. **Line:** is Uncle_Billy ?
+    - Q1: 1
+    - Q8: 1 (is)
+
+68. **Line:** that (.) but (.) how_come ?
+    - Q1: 1
+    - Q2: 1 (how_come)
+
+69. **Line:** how'd he get on the plane ?
+    - Q1: 1
+    - Q4: 1 (how'd)
+
+70. **Line:** how he get on the plane ?
+    - Q1: 1
+    - Q4: 1 (how)
+
+71. **Line:** how did he get everybody &-um (.) get on there ?
+    - Q1: 1
+    - Q4: 1 (how did)
+
+72. **Line:** who's Carol ?
+    - Q1: 1
+    - Q6: 1 (who's)
+
+73. **Line:** hey (.) I got watch tv .
+    - N1: 1 (tv)
+    - V12: 1 (got)
+    - S2: 1 (I got)
+
+74. **Line:** I seen the (.) commercial .
+    - N1: 1 (commercial)
+    - V12: 1 (seen)
+    - S2: 1 (I seen)
+
+75. **Line:** I saw (.) commercial .
+    - N1: 1 (commercial)
+    - V12: 1 (saw)
+    - S2: 1 (I saw)
+
+76. **Line:** in the sitting .
+    - N1: 1 (sitting)
+    - V1: 0
+
+77. **Line:** &-uh (.) my dog's better than your dog .
+    - N1: 1 (dog)
+    - N5: 1 (my dog)
+    - V1: 1 (is)
+
+78. **Line:** I go get my doggie ?
+    - N1: 1 (doggie)
+    - V1: 1 (go)
+    - Q1: 1
+
+79. **Line:** come this way .
+    - N1: 1 (way)
+    - V1: 1 (come)
+
+80. **Line:** I wake Chantilly up .
+    - N1: 1 (Chantilly)
+    - V1: 1 (wake)
+    - S2: 1 (I wake)
+
+81. **Line:** she was lonesome to see you .
+    - N1: 1 (you)
+    - V6: 1 (was)
+
+82. **Line:** she's nice .
+    - N2: 1 (she)
+    - V6: 1 (she's)
+
+83. **Line:** when she's being nice .
+    - N2: 1 (she)
+    - V7: 1 (being)
+
+84. **Line:** wake up .
+    - V1: 1 (wake)
+
+85. **Line:** when I was in the ocean .
+    - N1: 1 (ocean)
+    - V13: 1 (was)
+    - S2: 1 (I was)
+
+86. **Line:** she tryin(g) to get the shell in the sink .
+    - N1: 1 (shell)
+    - V7: 1 (tryin(g))
+    - V1: 1 (get)
+
+87. **Line:** (a)n(d) you're gonna have a haircut .
+    - N1: 1 (haircut)
+    - V9: 1 (gonna have)
+
+88. **Line:** hey .
+    - N1: 0
+    - V1: 0
+
+89. **Line:** no I not .
+    - N2: 1 (I)
+    - V3: 1 (not)
+    - S2: 1 (I not)
+
+90. **Line:** I going to grow up .
+    - N1: 1 (up)
+    - V1: 1 (going)
+
+91. **Line:** you want I do a cartwheel ?
+    - N1: 1 (cartwheel)
+    - V1: 1 (want)
+    - Q1: 1
+
+92. **Line:** &~m (.) &~m (.) put money in there (.) (a)n(d) away we go .
+    - N1: 1 (money)
+    - V1: 1 (put)
+    - S5: 1 (and)
+
+93. **Line:** part one (.) two hands down .
+    - N1: 1 (hands)
+    - S1: 1 (part one)
+
+94. **Line:** (a)n(d) away we go .
+    - S5: 1 (and)
+
+95. **Line:** I like what you do together .
+    - N1: 1 (what)
+    - V1: 1 (like)
+    - S4: 1 (I like what)
+
+96. **Line:** new cockle_doo@o .
+    - N1: 1 (cockle_doo)
+
+97. **Line:** now one bad night .
+    - N1: 1 (night)
+
+98. **Line:** I want a (.) papa .
+    - N1: 1 (papa)
+    - V1: 1 (want)
+    - S2: 1 (I want)
+
+99. **Line:** this is my daddy .
+    - N1: 1 (daddy)
+    - N5: 1 (my daddy)
+    - V4: 1 (this is)
+
+100. **Line:** and he was a little daddy .
+    - N1: 1 (daddy)
+    - N5: 1 (a little daddy)
+    - V4: 1 (he was)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 22
+N2, 6
+N3, 0
+N4, 0
+N5, 15
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 22
+V2, 0
+V3, 0
+V4, 5
+V5, 0
+V6, 5
+V7, 4
+V8, 0
+V9, 1
+V10, 0
+V11, 0
+V12, 8
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 5
+Q3, 1
+Q4, 5
+Q5, 0
+Q6, 5
+Q7, 0
+Q8, 3
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 3
+S2, 20
+S3, 0
+S4, 8
+S5, 5
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

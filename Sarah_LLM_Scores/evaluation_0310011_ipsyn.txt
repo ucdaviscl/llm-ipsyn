@@ -1,0 +1,481 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. &~a:h (.) Mommy sits here .  
+   - N1: 1 (Mommy)  
+   - V1: 1 (sits)  
+   - S2: 1 (Mommy sits)  
+
+2. oh .  
+   - (No applicable items)  
+
+3. mine .  
+   - N2: 1 (mine)  
+
+4. no (.) Mommy .  
+   - N1: 1 (Mommy)  
+   - N3: 1 (no)  
+   - S1: 1 (no Mommy)  
+
+5. what ?  
+   - Q2: 1 (what)  
+
+6. fine .  
+   - (No applicable items)  
+
+7. I snuck them .  
+   - N2: 1 (I)  
+   - V12: 1 (snuck)  
+   - S2: 1 (I snuck)  
+
+8. yeah .  
+   - (No applicable items)  
+
+9. where's my glove ?  
+   - N2: 1 (my)  
+   - N1: 1 (glove)  
+   - Q8: 1 (where's)  
+
+10. did you hid it ?  
+    - V11: 1 (did)  
+    - V12: 1 (hid)  
+    - S2: 1 (you hid)  
+
+11. where Mommy cook .  
+    - N1: 1 (Mommy)  
+    - V1: 1 (cook)  
+    - S2: 1 (Mommy cook)  
+
+12. I yyy .  
+    - (No applicable items)  
+
+13. (a)n(d) take the yyy out .  
+    - V1: 1 (take)  
+    - N5: 1 (the yyy)  
+    - S3: 1 (take the yyy)  
+
+14. (a)n(d) wash my hands .  
+    - V1: 1 (wash)  
+    - N5: 1 (my hands)  
+    - S3: 1 (wash my hands)  
+
+15. <no (.) no (.) no> [/] (.) no .  
+    - N3: 1 (no)  
+
+16. where the apple .  
+    - N1: 1 (apple)  
+    - N5: 1 (the apple)  
+    - S2: 1 (the apple)  
+
+17. are you peel apples ?  
+    - V6: 1 (are)  
+    - N7: 1 (apples)  
+    - S2: 1 (you peel)  
+
+18. huh ?  
+    - (No applicable items)  
+
+19. with a knife ?  
+    - N5: 1 (a knife)  
+    - Q8: 1 (with a knife)  
+
+20. she do with apple .  
+    - N1: 1 (apple)  
+    - V1: 1 (do)  
+    - S2: 1 (she do)  
+
+21. <can't go out> [/] (.) can't go out .  
+    - V1: 1 (go)  
+    - V3: 1 (go out)  
+    - S2: 1 (can't go)  
+
+22. Mama .  
+    - N1: 1 (Mama)  
+
+23. are you through ?  
+    - V6: 1 (are)  
+    - Q8: 1 (are you)  
+
+24. I'm through .  
+    - V6: 1 (am)  
+    - S2: 1 (I am)  
+
+25. okay ?  
+    - (No applicable items)  
+
+26. yum [/] (.) yum .  
+    - (No applicable items)  
+
+27. I like the juice .  
+    - N5: 1 (the juice)  
+    - V1: 1 (like)  
+    - S4: 1 (I like the juice)  
+
+28. the [/] (.) &-uh (.) the juice comes with an apple .  
+    - N5: 1 (the juice)  
+    - V1: 1 (comes)  
+    - N5: 1 (an apple)  
+    - S4: 1 (the juice comes with an apple)  
+
+29. yep .  
+    - (No applicable items)  
+
+30. real juicy ones .  
+    - N7: 1 (ones)  
+    - N3: 1 (juicy)  
+
+31. do we have any more ?  
+    - V1: 1 (have)  
+    - Q8: 1 (do we)  
+
+32. &-um (.) no food .  
+    - N3: 1 (no)  
+    - N1: 1 (food)  
+
+33. I need the xxx .  
+    - N5: 1 (the xxx)  
+    - V1: 1 (need)  
+    - S2: 1 (I need)  
+
+34. Mama (.) is the knife ready ?  
+    - N5: 1 (the knife)  
+    - V6: 1 (is)  
+    - Q8: 1 (is the knife)  
+
+35. knife .  
+    - N1: 1 (knife)  
+
+36. cut this off .  
+    - V1: 1 (cut)  
+    - N5: 1 (this)  
+    - S3: 1 (cut this)  
+
+37. I get an apple .  
+    - V1: 1 (get)  
+    - N5: 1 (an apple)  
+    - S2: 1 (I get)  
+
+38. I got an apple .  
+    - V12: 1 (got)  
+    - N5: 1 (an apple)  
+    - S2: 1 (I got)  
+
+39. like that .  
+    - (No applicable items)  
+
+40. hup one two (.) three (.) four .  
+    - (No applicable items)  
+
+41. Mama (.) you wash this ?  
+    - V1: 1 (wash)  
+    - Q8: 1 (you wash)  
+
+42. wash this ?  
+    - V1: 1 (wash)  
+    - Q8: 1 (wash this)  
+
+43. goin(g) do it to the dog .  
+    - V1: 1 (do)  
+    - S2: 1 (goin(g) do)  
+
+44. where should I put this ?  
+    - V9: 1 (should put)  
+    - Q8: 1 (where should)  
+
+45. supercali(fragilisticexpiali)docious xxx .  
+    - (No applicable items)  
+
+46. did you know a funny yyy ?  
+    - V11: 1 (did)  
+    - V1: 1 (know)  
+    - Q8: 1 (did you)  
+
+47. can you say that word ?  
+    - V9: 1 (can say)  
+    - Q8: 1 (can you)  
+
+48. I got you cap .  
+    - V12: 1 (got)  
+    - N5: 1 (you cap)  
+    - S3: 1 (got you)  
+
+49. did the chief said to go on the fire_engine ?  
+    - V11: 1 (did)  
+    - V12: 1 (said)  
+    - Q8: 1 (did the chief)  
+
+50. shake hands .  
+    - V1: 1 (shake)  
+    - N7: 1 (hands)  
+    - S3: 1 (shake hands)  
+
+51. I xxx up to here .  
+    - (No applicable items)  
+
+52. I (.) something .  
+    - (No applicable items)  
+
+53. what the chief said ?  
+    - Q4: 1 (what said)  
+
+54. uhhuh .  
+    - (No applicable items)  
+
+55. huh (.) who's goin(g) to put me up there ?  
+    - Q6: 1 (who's goin(g))  
+
+56. I goin(g) put xxx .  
+    - V1: 1 (put)  
+    - S2: 1 (I goin(g) put)  
+
+57. I will climb down .  
+    - V9: 1 (will climb)  
+    - S2: 1 (I will)  
+
+58. where's at (.) my other pocket ?  
+    - N5: 1 (my pocket)  
+    - Q8: 1 (where's)  
+
+59. where's xxx pocket ?  
+    - N5: 1 (xxx pocket)  
+    - Q8: 1 (where's)  
+
+60. where's a xxx pocket ?  
+    - N5: 1 (a xxx pocket)  
+    - Q8: 1 (where's)  
+
+61. why ?  
+    - Q2: 1 (why)  
+
+62. I have lot of money .  
+    - V1: 1 (have)  
+    - N5: 1 (lot of money)  
+    - S2: 1 (I have)  
+
+63. you see &-uh .  
+    - V1: 1 (see)  
+    - S2: 1 (you see)  
+
+64. for Kay .  
+    - (No applicable items)  
+
+65. for Kay (a)n(d) a bond .  
+    - (No applicable items)  
+
+66. he mean (.) &-um coffee .  
+    - V1: 1 (mean)  
+    - N1: 1 (coffee)  
+    - S2: 1 (he mean)  
+
+67. peekaboo (.) I see you .  
+    - N1: 1 (I)  
+    - V1: 1 (see)  
+    - S2: 1 (I see)  
+
+68. no it isn't .  
+    - N3: 1 (no)  
+    - V7: 1 (isn't)  
+    - S2: 1 (it isn't)  
+
+69. teacher told me to colored .  
+    - V1: 1 (told)  
+    - S2: 1 (teacher told)  
+
+70. to colored .  
+    - S8: 1 (to colored)  
+
+71. yes I can .  
+    - (No applicable items)  
+
+72. <&-um (.) &-um> [/] (.) &-um (.) some (.) &-um cups .  
+    - N1: 1 (cups)  
+
+73. dishes [/] (.) dishes .  
+    - N7: 1 (dishes)  
+
+74. nope .  
+    - (No applicable items)  
+
+75. she cried yesterday .  
+    - V12: 1 (cried)  
+    - S2: 1 (she cried)  
+
+76. she's a cranky .  
+    - V6: 1 (is)  
+    - N1: 1 (cranky)  
+    - S4: 1 (she is a cranky)  
+
+77. she's cranky yesterday .  
+    - V6: 1 (is)  
+    - N1: 1 (cranky)  
+    - S4: 1 (she is cranky)  
+
+78. I was over Lucky's .  
+    - V13: 1 (was)  
+    - S2: 1 (I was)  
+
+79. look what I have .  
+    - V1: 1 (look)  
+    - Q4: 1 (what have)  
+
+80. no sir .  
+    - N3: 1 (no)  
+
+81. first (.) see my mouth (.) see my eye (.) see my (.) nose .  
+    - V1: 1 (see)  
+    - N5: 1 (my mouth)  
+    - N5: 1 (my eye)  
+    - N1: 1 (nose)  
+    - S4: 1 (see my mouth)  
+
+82. see my foot .  
+    - V1: 1 (see)  
+    - N5: 1 (my foot)  
+    - S2: 1 (see my foot)  
+
+83. that's not a bump there .  
+    - N5: 1 (a bump)  
+    - V4: 1 (that's not)  
+    - S4: 1 (that's not a bump)  
+
+84. that's a scratch .  
+    - N5: 1 (a scratch)  
+    - V4: 1 (that's)  
+    - S4: 1 (that's a scratch)  
+
+85. yes you are .  
+    - V10: 1 (are)  
+    - S2: 1 (you are)  
+
+86. you're crazy .  
+    - V10: 1 (are)  
+    - N1: 1 (crazy)  
+    - S2: 1 (you are crazy)  
+
+87. everybody's crazy .  
+    - N1: 1 (everybody's)  
+    - N1: 1 (crazy)  
+
+88. <the do(g)> [/] (.) the dog's crazy .  
+    - N5: 1 (the dog)  
+    - V10: 1 (is)  
+    - N1: 1 (crazy)  
+    - S4: 1 (the dog is crazy)  
+
+89. is he crazy ?  
+    - V6: 1 (is)  
+    - Q8: 1 (is he)  
+
+90. I not crazy .  
+    - N3: 1 (not)  
+    - S2: 1 (I not)  
+
+91. that's Sarah Griffiths .  
+    - N1: 1 (Sarah Griffiths)  
+    - V4: 1 (that's)  
+    - S4: 1 (that's Sarah Griffiths)  
+
+92. Sarah .  
+    - N1: 1 (Sarah)  
+
+93. Sarah Barnes is my name (.) (a)n(d) I live xxx .  
+    - N5: 1 (my name)  
+    - V6: 1 (is)  
+    - S4: 1 (Sarah Barnes is my name)  
+
+94. I fall down .  
+    - V1: 1 (fall)  
+    - S2: 1 (I fall)  
+
+95. who ?  
+    - Q2: 1 (who)  
+
+96. you're one dog .  
+    - V10: 1 (are)  
+    - N5: 1 (one dog)  
+    - S2: 1 (you are one dog)  
+
+97. you're one bird .  
+    - V10: 1 (are)  
+    - N5: 1 (one bird)  
+    - S2: 1 (you are one bird)  
+
+98. (a)n(d) we're going to be a turtle .  
+    - V1: 1 (be)  
+    - N5: 1 (a turtle)  
+    - S2: 1 (we're going to be)  
+
+99. turtle bite ?  
+    - N1: 1 (turtle)  
+    - Q8: 1 (turtle bite)  
+
+100. yes I will .  
+    - V9: 1 (will)  
+    - S2: 1 (I will)  
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12
+N2, 6
+N3, 6
+N4, 0
+N5, 10
+N6, 0
+N7, 4
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 15
+V2, 0
+V3, 3
+V4, 3
+V5, 0
+V6, 6
+V7, 2
+V8, 0
+V9, 3
+V10, 5
+V11, 2
+V12, 5
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 0
+Q2, 5
+Q3, 1
+Q4, 2
+Q5, 0
+Q6, 1
+Q7, 0
+Q8, 7
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 20
+S3, 8
+S4, 10
+S5, 0
+S6, 0
+S7, 0
+S8, 2
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

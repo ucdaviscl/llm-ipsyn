@@ -1,0 +1,461 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. o:h .  
+   - No applicable items.
+
+2. I'm gonna get Millisandy .  
+   - N1: 1 (Millisandy)  
+   - V1: 1 (gonna get)
+
+3. dollie .  
+   - N1: 1 (dollie)
+
+4. see ?  
+   - V1: 2 (see)  
+   - Q1: 1 (contains a question mark)
+
+5. he doesn't talk .  
+   - N2: 1 (he)  
+   - V1: 1 (talk)  
+   - Q3: 1 (Simple Negation)
+
+6. doesn't talk .  
+   - V1: 1 (talk)  
+   - Q3: 2 (Simple Negation)
+
+7. I don't know .  
+   - N2: 2 (I)  
+   - V1: 1 (know)  
+   - Q3: 1 (Simple Negation)
+
+8. say uhuh .  
+   - V1: 1 (say)
+
+9. I could talk like this .  
+   - N2: 1 (I)  
+   - V1: 1 (talk)  
+   - V9: 1 (could talk)
+
+10. I can snap .  
+    - N2: 2 (I)  
+    - V1: 1 (snap)  
+    - V9: 1 (can snap)
+
+11. go like that .  
+    - V1: 1 (go)
+
+12. I could snap now because I'm a big girl .  
+    - N2: 1 (I)  
+    - V1: 1 (snap)  
+    - V9: 1 (could snap)
+
+13. Nana can't lift me up .  
+    - N2: 1 (me)  
+    - V1: 1 (lift)  
+    - Q3: 1 (Simple Negation)
+
+14. I'm big .  
+    - N2: 1 (I)  
+    - V4: 1 (I'm big)
+
+15. I gonna be way up to there .  
+    - N2: 1 (I)  
+    - V1: 1 (gonna be)
+
+16. that big .  
+    - N1: 1 (that)
+
+17. do you wanna be that big ?  
+    - N2: 1 (you)  
+    - V1: 1 (wanna be)  
+    - Q1: 1 (contains a question mark)
+
+18. are you up to that big ?  
+    - N2: 1 (you)  
+    - V1: 1 (are)  
+    - Q1: 1 (contains a question mark)
+
+19. huh ?  
+    - Q1: 1 (contains a question mark)
+
+20. most people go down to that big .  
+    - N1: 1 (people)  
+    - N7: 1 (people)  
+    - V1: 1 (go)
+
+21. are you gonna go to that big ?  
+    - N2: 1 (you)  
+    - V1: 1 (gonna go)  
+    - Q1: 1 (contains a question mark)
+
+22. you're that big (.) the same as her (.) huh ?  
+    - N2: 1 (you)  
+    - V4: 1 (you're that big)  
+    - Q1: 1 (contains a question mark)
+
+23. my piggie_bank is full .  
+    - N2: 1 (my)  
+    - N1: 1 (piggie_bank)  
+    - V4: 1 (is full)
+
+24. yessir .  
+    - No applicable items.
+
+25. yeah .  
+    - No applicable items.
+
+26. I can lift it up .  
+    - N2: 1 (I)  
+    - V1: 1 (lift)
+
+27. I'm big and strong as the piggie_bank .  
+    - N2: 1 (I)  
+    - N1: 1 (piggie_bank)  
+    - V4: 1 (I'm big)
+
+28. truck .  
+    - N1: 1 (truck)
+
+29. here are scissors .  
+    - N1: 1 (scissors)  
+    - V1: 1 (are)
+
+30. scissors .  
+    - N1: 1 (scissors)
+
+31. I found em in my drawer .  
+    - N2: 1 (I)  
+    - V1: 1 (found)  
+    - V3: 1 (in my drawer)
+
+32. mine .  
+    - N2: 1 (mine)
+
+33. make snap noise .  
+    - V1: 1 (make)
+
+34. try it .  
+    - V1: 1 (try)
+
+35. can't .  
+    - Q3: 1 (Simple Negation)
+
+36. it doesn't cut off there .  
+    - N2: 1 (it)  
+    - V1: 1 (cut)  
+    - Q3: 1 (Simple Negation)
+
+37. I can cut .  
+    - N2: 2 (I)  
+    - V1: 1 (cut)
+
+38. Mommy (.) where's a piece of paper ?  
+    - N2: 1 (Mommy)  
+    - V1: 1 (where's)  
+    - Q1: 1 (contains a question mark)
+
+39. piece of paper from a card .  
+    - N1: 1 (piece)  
+    - N1: 1 (paper)
+
+40. I got a piece of paper my own .  
+    - N2: 1 (I)  
+    - N5: 1 (a piece)  
+    - V1: 1 (got)
+
+41. I got a piece of paper my Daddy's .  
+    - N2: 1 (I)  
+    - N5: 1 (a piece)  
+    - V1: 1 (got)
+
+42. see .  
+    - V1: 1 (see)
+
+43. gi(ve) me a pencil too .  
+    - V1: 1 (give)
+
+44. what ?  
+    - Q1: 1 (contains a question mark)
+
+45. who ?  
+    - Q1: 1 (contains a question mark)
+
+46. Mommy (.) how you cut ?  
+    - N2: 1 (Mommy)  
+    - Q2: 1 (wh-word alone)
+
+47. I wanna cut the corners off .  
+    - N2: 1 (I)  
+    - V1: 1 (wanna cut)
+
+48. Mommy .  
+    - N2: 1 (Mommy)
+
+49. oh (.) like that ?  
+    - Q1: 1 (contains a question mark)
+
+50. know how to cut now .  
+    - V1: 1 (know)
+
+51. makes noise like that .  
+    - V1: 1 (makes)
+
+52. can I cut [/] (.) cut all the way like that ?  
+    - N2: 1 (I)  
+    - V1: 1 (cut)  
+    - Q1: 1 (contains a question mark)
+
+53. you cut it off for me (.) alright ?  
+    - N2: 1 (you)  
+    - V1: 1 (cut)  
+    - Q1: 1 (contains a question mark)
+
+54. cut some of it off .  
+    - V1: 1 (cut)
+
+55. hold the pencil .  
+    - V1: 1 (hold)
+
+56. see (.) she got some of it off .  
+    - N2: 1 (she)  
+    - V1: 1 (got)
+
+57. <the corner> [//] (.) two corners .  
+    - N1: 1 (corner)  
+    - N7: 1 (corners)
+
+58. this one doesn't work too good .  
+    - N2: 1 (this)  
+    - V1: 1 (work)  
+    - Q3: 1 (Simple Negation)
+
+59. like that .  
+    - No applicable items.
+
+60. now you make a b@l .  
+    - N2: 1 (you)  
+    - V1: 1 (make)
+
+61. that's easy to make a b@l (.) huh ?  
+    - N2: 1 (that)  
+    - V1: 1 (make)  
+    - Q1: 1 (contains a question mark)
+
+62. watch .  
+    - V1: 1 (watch)
+
+63. straight down (.) like that .  
+    - No applicable items.
+
+64. I'm gonna rip this up .  
+    - N2: 1 (I)  
+    - V1: 1 (gonna rip)
+
+65. throw this in the bucket .  
+    - V1: 1 (throw)
+
+66. &-uh (.) look it (.) Mommy .  
+    - V1: 1 (look)
+
+67. a pencil .  
+    - N5: 1 (a pencil)
+
+68. I cut some of it off .  
+    - N2: 1 (I)  
+    - V1: 1 (cut)
+
+69. I made a tent .  
+    - N2: 1 (I)  
+    - N1: 1 (tent)  
+    - V12: 1 (made)
+
+70. it's only a little piece (.) huh ?  
+    - N2: 1 (it)  
+    - V4: 1 (it's)  
+    - Q1: 1 (contains a question mark)
+
+71. hm: .  
+    - No applicable items.
+
+72. a tent .  
+    - N5: 1 (a tent)
+
+73. this is a tent where I put paper (.) see ?  
+    - N2: 1 (this)  
+    - N1: 1 (tent)  
+    - V4: 1 (is)  
+    - Q1: 1 (contains a question mark)
+
+74. (be)cause I cut it .  
+    - N2: 1 (I)  
+    - V1: 1 (cut)
+
+75. no .  
+    - No applicable items.
+
+76. yup .  
+    - No applicable items.
+
+77. I never had a tent (.) anyhow .  
+    - N2: 2 (I)  
+    - V12: 1 (had)  
+    - Q3: 1 (Simple Negation)
+
+78. you never go to my car (.) do ya ?  
+    - N2: 1 (you)  
+    - V1: 1 (go)  
+    - Q3: 1 (Simple Negation)  
+    - Q1: 1 (contains a question mark)
+
+79. in the car .  
+    - V3: 1 (in the car)
+
+80. I'm gonna throw this in the bucket .  
+    - N2: 1 (I)  
+    - V1: 1 (gonna throw)
+
+81. it's already full .  
+    - N2: 1 (it)  
+    - V4: 1 (it's)
+
+82. these cut .  
+    - N7: 1 (these)  
+    - V1: 1 (cut)
+
+83. I [/] (.) I caught some (.) a whale .  
+    - N2: 2 (I)  
+    - V12: 1 (caught)  
+    - N1: 1 (whale)
+
+84. I don't know (.) in the sea .  
+    - N2: 2 (I)  
+    - V1: 1 (know)  
+    - V3: 1 (in the sea)
+
+85. in the sea .  
+    - V3: 1 (in the sea)
+
+86. in the water .  
+    - V3: 1 (in the water)
+
+87. once there was a [/] (.) a whale in the beach .  
+    - N1: 1 (whale)  
+    - V4: 1 (there was)
+
+88. whale (.) the sea .  
+    - N1: 1 (whale)  
+    - N1: 1 (sea)
+
+89. the sea (.) whales the sea .  
+    - N1: 1 (sea)  
+    - N7: 1 (whales)
+
+90. the man took him out .  
+    - N1: 1 (man)  
+    - N2: 1 (him)  
+    - V12: 1 (took)
+
+91. I saw (.) froggie there now .  
+    - N2: 1 (I)  
+    - N1: 1 (froggie)  
+    - V12: 1 (saw)
+
+92. a froggie .  
+    - N5: 1 (a froggie)
+
+93. a mosquito bit me .  
+    - N1: 1 (mosquito)  
+    - V12: 1 (bit)  
+    - N2: 1 (me)
+
+94. I got some of it out .  
+    - N2: 2 (I)  
+    - V1: 1 (got)
+
+95. yeah (.) the frog's house .  
+    - N1: 1 (frog's house)
+
+96. you cut this piece off from the end (.) see ?  
+    - N2: 1 (you)  
+    - V1: 1 (cut)  
+    - Q1: 1 (contains a question mark)
+
+97. this piece was ripped in half .  
+    - N2: 1 (this)  
+    - V4: 1 (was ripped)
+
+98. xxx the scissors .  
+    - N1: 1 (scissors)
+
+99. I caught some .  
+    - N2: 1 (I)  
+    - V12: 1 (caught)
+
+100. <I caught> [/] (.) I caught the house .  
+    - N2: 2 (I)  
+    - V12: 1 (caught)  
+    - N1: 1 (house)
+
+Final score:
+N1, 12
+N2, 14
+N3, 0
+N4, 0
+N5, 4
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 6
+V4, 6
+V5, 0
+V6, 0
+V7, 0
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 5
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 9
+Q2, 2
+Q3, 5
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

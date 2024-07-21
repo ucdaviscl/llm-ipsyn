@@ -1,0 +1,454 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. <hm: (.) hm:> [/] (.) hm: .  
+   - No applicable items.
+
+2. a hit .  
+   - N1: 1 (hit)
+
+3. <bam (.) bam (.) bam> [/] (.) bam .  
+   - No applicable items.
+
+4. &-eh (.) he dirty .  
+   - N2: 1 (he)
+   - N3: 1 (dirty)
+
+5. &-um (.) yes .  
+   - No applicable items.
+
+6. hey (.) I go ge(t) two pencils .  
+   - N2: 1 (I)
+   - N5: 1 (two pencils)
+   - V1: 1 (go)
+   - V3: 1 (go ge(t) two pencils)
+
+7. &-uh (.) Flintstone .  
+   - N1: 1 (Flintstone)
+
+8. &-um (.) Be(tt)y .  
+   - N1: 1 (Be(tt)y)
+
+9. Carol .  
+   - N1: 1 (Carol)
+
+10. &-uh (.) my Daddy name (.) Donny .  
+    - N2: 1 (my)
+    - N1: 1 (Daddy)
+    - N1: 1 (Donny)
+
+11. party .  
+    - N1: 1 (party)
+
+12. &-uh (.) you .  
+    - N2: 1 (you)
+
+13. &-uh Pebbles .  
+    - N1: 1 (Pebbles)
+
+14. xxx can us .  
+    - N2: 1 (us)
+
+15. open your mouth .  
+    - N5: 1 (your mouth)
+    - V1: 1 (open)
+
+16. which color is he ?  
+    - N1: 1 (color)
+    - N2: 1 (he)
+    - Q1: 1 (contains a question mark)
+
+17. uhhuh (.) let's see .  
+    - V1: 1 (let's)
+
+18. we play elephant .  
+    - N2: 1 (we)
+    - V1: 1 (play)
+    - N1: 1 (elephant)
+
+19. we play el(e)phant down the beach .  
+    - N2: 1 (we)
+    - V1: 1 (play)
+    - N1: 1 (elephant)
+    - V3: 1 (down the beach)
+
+20. play e(le)phant .  
+    - V1: 1 (play)
+    - N1: 1 (elephant)
+
+21. down the beach (.) indoors .  
+    - N5: 1 (the beach)
+
+22. cows too !  
+    - N7: 1 (cows)
+
+23. tu(r)n you(r) head around .  
+    - N2: 1 (you)
+    - N5: 1 (you(r) head)
+    - V1: 1 (tu(r)n)
+
+24. cig(a)rettes .  
+    - N1: 1 (cig(a)rettes)
+
+25. &-uh (.) go swimming .  
+    - V1: 1 (go)
+    - V7: 1 (swimming)
+
+26. oh (.) Loop_loo(p)s .  
+    - N1: 1 (Loop_loo(p)s)
+
+27. matches .  
+    - N1: 1 (matches)
+
+28. yellowettes@c [?] .  
+    - N1: 1 (yellowettes)
+
+29. &-uh Kelloggs .  
+    - N1: 1 (Kelloggs)
+
+30. carrots .  
+    - N1: 1 (carrots)
+
+31. yep .  
+    - No applicable items.
+
+32. no (.) you a goo(d) boy .  
+    - N2: 1 (you)
+    - N5: 1 (a goo(d) boy)
+    - Q3: 1 (Simple Negation)
+
+33. he wan(t) a eat too .  
+    - N2: 1 (he)
+    - V1: 1 (wan(t))
+    - V8: 1 (too)
+
+34. he walks too .  
+    - N2: 1 (he)
+    - V1: 1 (walks)
+    - V8: 1 (too)
+
+35. I l(ike) [?] wash Beane .  
+    - N2: 1 (I)
+    - V1: 1 (wash)
+    - N1: 1 (Beane)
+
+36. huh .  
+    - No applicable items.
+
+37. he wears (.) yyy dirt right here .  
+    - N2: 1 (he)
+    - N1: 1 (dirt)
+
+38. ho(ld) it I go get Pebbles .  
+    - N2: 1 (I)
+    - V1: 1 (go)
+    - N1: 1 (Pebbles)
+
+39. in the room .  
+    - N5: 1 (the room)
+
+40. yeah .  
+    - No applicable items.
+
+41. Mommy (.) you ripped my paper .  
+    - N2: 1 (you)
+    - N1: 1 (Mommy)
+    - V1: 1 (ripped)
+    - N5: 1 (my paper)
+
+42. that's right .  
+    - No applicable items.
+
+43. oh here it is .  
+    - No applicable items.
+
+44. Bam_Bam xxx .  
+    - N1: 1 (Bam_Bam)
+
+45. I'll b(e) Bam_Bam .  
+    - N2: 1 (I)
+    - V6: 1 (I'll)
+    - N1: 1 (Bam_Bam)
+
+46. I wan(t) put yyy on .  
+    - N2: 1 (I)
+    - V1: 1 (wan(t))
+    - V8: 1 (on)
+
+47. hello .  
+    - No applicable items.
+
+48. for a ride .  
+    - N5: 1 (a ride)
+
+49. oh wait a minute <I go(t) a twisted> [//] I got a twisted .  
+    - N2: 1 (I)
+    - V1: 1 (go(t))
+    - V1: 1 (got)
+    - N1: 1 (twisted)
+
+50. oh wait a minute I go xxx .  
+    - N2: 1 (I)
+    - V1: 1 (go)
+
+51. <hello there> [?] .  
+    - No applicable items.
+
+52. <he yyy like> [?] .  
+    - N2: 1 (he)
+
+53. <gave me kiss> [?] .  
+    - N2: 1 (me)
+    - V1: 1 (gave)
+    - N1: 1 (kiss)
+
+54. to the other room .  
+    - N5: 1 (the other room)
+
+55. <I don't wanna go away> [?] .  
+    - N2: 1 (I)
+    - Q3: 1 (Simple Negation)
+
+56. <yup> [?] .  
+    - No applicable items.
+
+57. say yep .  
+    - V1: 1 (say)
+
+58. he shakin(g) her head .  
+    - N2: 1 (he)
+    - V7: 1 (shakin(g))
+    - N1: 1 (head)
+
+59. she shakin(g) head .  
+    - N2: 1 (she)
+    - V7: 1 (shakin(g))
+    - N1: 1 (head)
+
+60. stop shakin(g) head .  
+    - V1: 1 (stop)
+    - V7: 1 (shakin(g))
+    - N1: 1 (head)
+
+61. ow .  
+    - No applicable items.
+
+62. come on .  
+    - No applicable items.
+
+63. hey (.) he fall down .  
+    - N2: 1 (he)
+    - V1: 1 (fall)
+
+64. he goin(g) to the beach (.) too .  
+    - N2: 1 (he)
+    - V7: 1 (goin(g))
+    - N5: 1 (the beach)
+
+65. how ya &~heet teeth come out .  
+    - N2: 1 (ya)
+    - N1: 1 (teeth)
+    - V1: 1 (come)
+
+66. awoh .  
+    - No applicable items.
+
+67. he too big to me .  
+    - N2: 1 (he)
+    - V10: 1 (too)
+
+68. Bam_Bam is and Pebbles is .  
+    - N1: 1 (Bam_Bam)
+    - N1: 1 (Pebbles)
+    - V4: 1 (is and is)
+
+69. hi [/] hi .  
+    - No applicable items.
+
+70. who me ?  
+    - N2: 1 (me)
+    - Q1: 1 (contains a question mark)
+
+71. Mama .  
+    - N1: 1 (Mama)
+
+72. and Bam_Bam .  
+    - N1: 1 (Bam_Bam)
+    - S5: 1 (and)
+
+73. o:h .  
+    - No applicable items.
+
+74. huh ?  
+    - Q1: 1 (contains a question mark)
+
+75. where ?  
+    - Q1: 1 (contains a question mark)
+
+76. I go(t) no tonsils .  
+    - N2: 1 (I)
+    - V1: 1 (go(t))
+    - Q3: 1 (Simple Negation)
+
+77. ow (.) he bit me .  
+    - N2: 1 (he)
+    - V12: 1 (bit)
+    - N2: 1 (me)
+
+78. he see talkin(g) .  
+    - N2: 1 (he)
+    - V1: 1 (see)
+    - V7: 1 (talkin(g))
+
+79. o:h [/] (.) o:h (.) Bam_Bam yyy you a hog !  
+    - N2: 1 (you)
+    - N1: 1 (hog)
+    - V1: 1 (Bam_Bam)
+
+80. she's a hog .  
+    - N2: 1 (she)
+    - N5: 1 (a hog)
+
+81. bite me .  
+    - V1: 1 (bite)
+    - N2: 1 (me)
+
+82. ow (.) he (.) bite me again .  
+    - N2: 1 (he)
+    - V1: 1 (bite)
+    - N2: 1 (me)
+
+83. &-uh you did it .  
+    - N2: 1 (you)
+    - V12: 1 (did)
+    - N1: 1 (it)
+
+84. heh .  
+    - No applicable items.
+
+85. right here .  
+    - No applicable items.
+
+86. I tuck .  
+    - N2: 1 (I)
+    - V12: 1 (tuck)
+
+87. o:h (.) he fa(ll) down .  
+    - N2: 1 (he)
+    - V1: 1 (fa(ll))
+
+88. you see .  
+    - N2: 1 (you)
+    - V1: 1 (see)
+
+89. oh (.) hey I go(t) put it on very good .  
+    - N2: 1 (I)
+    - V1: 1 (go(t))
+    - V1: 1 (put)
+    - N1: 1 (it)
+    - V8: 1 (on)
+    - V8: 1 (very good)
+
+90. they .  
+    - N7: 1 (they)
+
+91. wait a minute .  
+    - N5: 1 (a minute)
+
+92. hey (.) oh .  
+    - No applicable items.
+
+93. he dancin(g) ?  
+    - N2: 1 (he)
+    - V7: 1 (dancin(g))
+    - Q1: 1 (contains a question mark)
+
+94. sss@o (.) aye .  
+    - No applicable items.
+
+95. secret .  
+    - N1: 1 (secret)
+
+96. p@l (.) r@l (.) e@l xxx e@l i@l .  
+    - No applicable items.
+
+97. p@l (.) r@l (.) e@l (.) i@l (.) p@l (.) r@l (.) e@l (.) i@l me . [+ bch]  
+    - No applicable items.
+
+98. got it twisted .  
+    - V1: 1 (got)
+    - N2: 1 (it)
+    - N1: 1 (twisted)
+
+99. &-uh (.) Beeno .  
+    - N1: 1 (Beeno)
+
+100. she get my own .  
+    - N2: 1 (she)
+    - V1: 1 (get)
+    - N5: 1 (my own)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 20
+N2, 15
+N3, 2
+N4, 0
+N5, 8
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 15
+V2, 0
+V3, 4
+V4, 1
+V5, 0
+V6, 1
+V7, 5
+V8, 3
+V9, 0
+V10, 1
+V11, 0
+V12, 4
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 6
+Q2, 0
+Q3, 4
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 1
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

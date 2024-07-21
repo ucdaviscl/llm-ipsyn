@@ -1,0 +1,486 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **candy .**  
+   - N1: 1
+
+2. **want some candy ?**  
+   - V1: 1  
+   - N5: 1  
+   - Q1: 1
+
+3. **like (.) a shoe ?**  
+   - V1: 2 (max reached)  
+   - N5: 1  
+   - Q1: 1
+
+4. **what kind ya like (.) dat [: that] kind ?**  
+   - Q2: 1  
+   - N1: 1  
+   - V1: 1  
+   - N1: 1
+
+5. **it's a shoe .**  
+   - V6: 1  
+   - N5: 1
+
+6. **uhhuh .**  
+   - (no applicable items)
+
+7. **Mommy (.) look it .**  
+   - N1: 1  
+   - V1: 1
+
+8. **that thing going around .**  
+   - N1: 1  
+   - V7: 1
+
+9. **it's (.) looks like a merry-go-round .**  
+   - V6: 2 (max reached)  
+   - N5: 1
+
+10. **she can't have some .**  
+    - N2: 1  
+    - V1: 1  
+    - Q3: 1
+
+11. **(be)cause .**  
+    - (no applicable items)
+
+12. **she's a dog .**  
+    - N2: 1  
+    - V6: 1  
+    - N5: 1
+
+13. **what kind you like ?**  
+    - Q2: 2 (max reached)  
+    - N1: 1  
+    - V1: 1
+
+14. **+" strawberry .**  
+    - N1: 1
+
+15. **Mark was playing with his mask .**  
+    - N1: 1  
+    - V1: 1  
+    - N5: 1  
+    - V7: 1
+
+16. **we didn't have no mask .**  
+    - N2: 1  
+    - V1: 1  
+    - Q3: 1  
+    - N5: 1
+
+17. **no (.) played toys .**  
+    - N1: 1  
+    - V1: 1
+
+18. **no more Chantilly .**  
+    - N1: 1
+
+19. **c(a)n he [/] (.) he eat candy ?**  
+    - V1: 1  
+    - N2: 1  
+    - Q1: 1
+
+20. **(be)cause I wanna save some for myself (.) huh ?**  
+    - V1: 1  
+    - N2: 1  
+    - Q1: 1
+
+21. **look it .**  
+    - V1: 1
+
+22. **Mommy .**  
+    - N1: 1
+
+23. **what kind ya like ?**  
+    - Q2: 2 (max reached)  
+    - N1: 1  
+    - V1: 1
+
+24. **want a couple ?**  
+    - V1: 1  
+    - N5: 1  
+    - Q1: 1
+
+25. **you want a couple ?**  
+    - N2: 1  
+    - V1: 1  
+    - Q1: 1
+
+26. **want another couple ?**  
+    - V1: 1  
+    - N5: 1  
+    - Q1: 1
+
+27. **<I will> [//] (.) I wear (.) Chinese (.) sometimes .**  
+    - N2: 1  
+    - V1: 1  
+    - N1: 1  
+    - V6: 1  
+    - V8: 1
+
+28. **I know .**  
+    - N2: 1  
+    - V1: 1
+
+29. **yeah (.) I xxx .**  
+    - N2: 1  
+    - V1: 1
+
+30. **it's a tent .**  
+    - V6: 1  
+    - N5: 1
+
+31. **is (th)at a (.) is (th)at a tent (.) Daddy ?**  
+    - V6: 2 (max reached)  
+    - N5: 1  
+    - Q1: 1
+
+32. **dese [: these] are more (.) huh ?**  
+    - N1: 1  
+    - V6: 1  
+    - Q1: 1
+
+33. **I'm goin(g) to a halloween party ?**  
+    - V1: 1  
+    - N5: 1  
+    - Q1: 1
+
+34. **oh .**  
+    - (no applicable items)
+
+35. **is it gonna be a party ?**  
+    - V6: 1  
+    - N5: 1  
+    - Q1: 1
+
+36. **what ?**  
+    - Q2: 1
+
+37. **trick or treat here ?**  
+    - Q1: 1
+
+38. **yes I will .**  
+    - V1: 1  
+    - N2: 1
+
+39. **am I goin(g) across the street ?**  
+    - V1: 1  
+    - N5: 1  
+    - Q1: 1
+
+40. **oh goodie .**  
+    - (no applicable items)
+
+41. **it is fun .**  
+    - V6: 1  
+    - N1: 1
+
+42. **it is fun when you go up trick or treat .**  
+    - V6: 2 (max reached)  
+    - N1: 1  
+    - N2: 1  
+    - V1: 1
+
+43. **you get candy .**  
+    - N2: 1  
+    - V1: 1  
+    - N1: 1
+
+44. **that's what you do .**  
+    - N2: 1  
+    - V1: 1  
+    - N1: 1
+
+45. **thank_you .**  
+    - (no applicable items)
+
+46. **please .**  
+    - (no applicable items)
+
+47. **yes (.) ye:s .**  
+    - (no applicable items)
+
+48. **ye:s .**  
+    - (no applicable items)
+
+49. **uhuh .**  
+    - (no applicable items)
+
+50. **Mark does .**  
+    - N1: 1  
+    - V1: 1
+
+51. **he's a boy so he gots [: got] [* +es] a scary one .**  
+    - N2: 1  
+    - V6: 1  
+    - N5: 1  
+    - N1: 1
+
+52. **I'm goin(g) play (.) Felix_the_Cat .**  
+    - V1: 1  
+    - N1: 1  
+    - V7: 1
+
+53. **cards .**  
+    - N1: 1
+
+54. **go with my Mommy (.) huh ?**  
+    - V1: 1  
+    - N2: 1  
+    - Q1: 1
+
+55. **I go like this .**  
+    - N2: 1  
+    - V1: 1
+
+56. **then I go in .**  
+    - N2: 1  
+    - V1: 1
+
+57. **and Donna's not gonna go with me .**  
+    - N1: 1  
+    - V1: 1  
+    - Q3: 1  
+    - N2: 1
+
+58. **you'll [?] be [?] a [?] person [?] of the house (.) will she ?**  
+    - N2: 1  
+    - V6: 1  
+    - Q1: 1
+
+59. **yeah .**  
+    - (no applicable items)
+
+60. **what's that ?**  
+    - Q2: 1
+
+61. **Daddy ?**  
+    - (no applicable items)
+
+62. **no (.) push it out .**  
+    - Q3: 1  
+    - V1: 1
+
+63. **well (.) Daddy .**  
+    - (no applicable items)
+
+64. **Daddy (.) know what ?**  
+    - N1: 1  
+    - V1: 1  
+    - Q1: 1
+
+65. **oh I know what .**  
+    - N2: 1  
+    - V1: 1
+
+66. **I know what .**  
+    - N2: 1  
+    - V1: 1
+
+67. **you push it in like (.) harder (.) like that .**  
+    - N2: 1  
+    - V1: 1  
+    - N1: 1  
+    - V8: 1
+
+68. **maybe I'm right (.) Daddy .**  
+    - N2: 1  
+    - V1: 1  
+    - N1: 1
+
+69. **maybe I'm right .**  
+    - N2: 1  
+    - V1: 1
+
+70. **push it in and turn it .**  
+    - V1: 1  
+    - N2: 1  
+    - V6: 1
+
+71. **no (.) you're gettin(g) it (.) Daddy .**  
+    - Q3: 1  
+    - V1: 1  
+    - N2: 1
+
+72. **I told ya .**  
+    - N2: 1  
+    - V1: 1
+
+73. **Nana (.) my Nana .**  
+    - N1: 2 (max reached)
+
+74. **my Nana did .**  
+    - N2: 1  
+    - V1: 1
+
+75. **no .**  
+    - Q3: 1
+
+76. **just put candy in it (.) see ?**  
+    - V1: 1  
+    - N1: 1  
+    - Q1: 1
+
+77. **just put candy (.) then wrap it up .**  
+    - V1: 1  
+    - N1: 1  
+    - V1: 1
+
+78. **ya just put candy in it (.) then wrap it up .**  
+    - V1: 1  
+    - N1: 1  
+    - V1: 1
+
+79. **Daddy .**  
+    - N1: 1
+
+80. **maybe I'm real right .**  
+    - N2: 1  
+    - V1: 1
+
+81. **I know why (.) because .**  
+    - N2: 1  
+    - V1: 1
+
+82. **it won't stay on (.) that's why .**  
+    - N1: 1  
+    - V1: 1  
+    - Q3: 1
+
+83. **that .**  
+    - N1: 1
+
+84. **that top .**  
+    - N1: 1
+
+85. **maybe I [?] can .**  
+    - N2: 1  
+    - V1: 1
+
+86. **but not you can .**  
+    - N2: 1  
+    - V1: 1
+
+87. **I can do that (.) huh ?**  
+    - N2: 1  
+    - V1: 1  
+    - Q1: 1
+
+88. **that's hard (.) huh ?**  
+    - N1: 1  
+    - Q1: 1
+
+89. **this hard ?**  
+    - N1: 1  
+    - Q1: 1
+
+90. **that's real hard .**  
+    - N1: 1
+
+91. **but we don't have no tape .**  
+    - N2: 1  
+    - V1: 1  
+    - Q3: 1  
+    - N1: 1
+
+92. **hey Daddy ya fixed dat [: that] .**  
+    - N1: 1  
+    - V1: 1
+
+93. **for goin(g) out and see somebody's out there .**  
+    - V1: 1  
+    - V6: 1
+
+94. **and [/] (.) and trick or treat (.) trick or treat (.) trick or treat (.) trick or treat (.) trick or treat .**  
+    - S5: 1  
+    - V1: 1
+
+95. **trick or treat all around .**  
+    - V1: 1
+
+96. **and trick or treat (.) trick or treat (.) trick or treat (.) trick or treat .**  
+    - V1: 1
+
+97. **apples .**  
+    - N1: 1
+
+98. **oh thank_you Daddy .**  
+    - N1: 1
+
+99. **is a light xxx huh ?**  
+    - V1: 1  
+    - N1: 1  
+    - Q1: 1
+
+100. **it's a little flashlight .**  
+    - V6: 1  
+    - N5: 1
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20  
+N2, 10  
+N3, 0  
+N4, 0  
+N5, 10  
+N6, 0  
+N7, 0  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 25  
+V2, 0  
+V3, 0  
+V4, 0  
+V5, 0  
+V6, 6  
+V7, 3  
+V8, 2  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 10  
+Q2, 5  
+Q3, 5  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 1  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

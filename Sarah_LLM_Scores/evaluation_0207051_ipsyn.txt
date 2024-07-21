@@ -1,0 +1,437 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **my name .**  
+   - N1: 1 (name)  
+   - N2: 1 (my)  
+   - S2: 1 (my name)  
+
+2. **all world .**  
+   - N1: 1 (world)  
+   - N3: 1 (all)  
+   - N5: 1 (all world)  
+
+3. **mm my fame .**  
+   - N1: 1 (fame)  
+   - N2: 1 (my)  
+   - S2: 1 (my fame)  
+
+4. **a one me .**  
+   - N1: 1 (one)  
+   - N5: 1 (a one)  
+   - N2: 1 (me)  
+
+5. **out step .**  
+   - N1: 1 (step)  
+   - N3: 1 (out)  
+
+6. **xxx bow .**  
+   - N1: 1 (bow)  
+
+7. **that [?] .**  
+   - N2: 1 (that)  
+   - Q1: 1  
+
+8. **name xxx .**  
+   - N1: 1 (name)  
+
+9. **my fame .**  
+   - N1: 1 (fame)  
+   - N2: 1 (my)  
+   - S2: 1 (my fame)  
+
+10. **a but me .**  
+    - N2: 1 (me)  
+    - N5: 1 (a but)  
+
+11. **step .**  
+    - N1: 1 (step)  
+
+12. **xxx slide [?] .**  
+    - N1: 1 (slide)  
+    - Q1: 1  
+
+13. **xxx rock boat .**  
+    - N1: 1 (boat)  
+    - N1: 1 (rock)  
+
+14. **boat .**  
+    - N1: 1 (boat)  
+
+15. **no .**  
+    - N3: 1 (no)  
+    - Q3: 1  
+
+16. **a boat .**  
+    - N1: 1 (boat)  
+    - N5: 1 (a boat)  
+
+17. **bo@b .**  
+    - N1: 1 (bo@b)  
+
+18. **Bobo .**  
+    - N1: 1 (Bobo)  
+
+19. **p(rett)y good .**  
+    - N3: 1 (pretty)  
+
+20. **what ?**  
+    - Q1: 1  
+    - Q2: 1  
+
+21. **books .**  
+    - N1: 1 (books)  
+    - N7: 1 (books)  
+
+22. **I show you .**  
+    - N2: 1 (I)  
+    - V1: 1 (show)  
+    - S2: 1 (I show)  
+
+23. **dere [: there] .**  
+    - N2: 1 (there)  
+
+24. **yyy in (th)ere .**  
+    - V3: 1 (in there)  
+
+25. **monkey ears [?] .**  
+    - N1: 1 (ears)  
+    - N1: 1 (monkey)  
+    - Q1: 1  
+
+26. **who did dat [: that] ?**  
+    - Q1: 1  
+    - Q2: 1  
+
+27. **ow !**  
+    - N3: 1 (ow)  
+
+28. **yes .**  
+    - N3: 1 (yes)  
+
+29. **ow .**  
+    - N3: 1 (ow)  
+
+30. **my xxx you .**  
+    - N2: 1 (my)  
+    - N2: 1 (you)  
+
+31. **Cha(tt)y_Baby .**  
+    - N1: 1 (Cha(tt)y_Baby)  
+
+32. **hi .**  
+    - N3: 1 (hi)  
+
+33. **hi Momma .**  
+    - N1: 1 (Momma)  
+    - N3: 1 (hi)  
+
+34. **xxx buy new one .**  
+    - N1: 1 (one)  
+    - V1: 1 (buy)  
+    - N3: 1 (new)  
+
+35. **store .**  
+    - N1: 1 (store)  
+
+36. **my Da(dd)y here .**  
+    - N1: 1 (Daddy)  
+    - N2: 1 (my)  
+    - N3: 1 (here)  
+
+37. **Buba .**  
+    - N1: 1 (Buba)  
+
+38. **Grampy .**  
+    - N1: 1 (Grampy)  
+
+39. **right here .**  
+    - N3: 1 (right)  
+    - N3: 1 (here)  
+
+40. **he sick .**  
+    - N2: 1 (he)  
+    - V4: 1 (he is sick)  
+
+41. **xxx here .**  
+    - N1: 1 (here)  
+
+42. **big face [?] .**  
+    - N1: 1 (face)  
+    - N3: 1 (big)  
+    - Q1: 1  
+
+43. **xxx my doggie .**  
+    - N1: 1 (doggie)  
+    - N2: 1 (my)  
+
+44. **here you are .**  
+    - N2: 1 (you)  
+    - V6: 1 (are)  
+
+45. **T(r)amp .**  
+    - N1: 1 (T(r)amp)  
+
+46. **two .**  
+    - N1: 1 (two)  
+
+47. **two (.) Mommy .**  
+    - N1: 1 (Mommy)  
+    - N1: 1 (two)  
+
+48. **frai(dy)_cat .**  
+    - N1: 1 (fraidy cat)  
+
+49. **xxx read .**  
+    - V1: 1 (read)  
+
+50. **mouse .**  
+    - N1: 1 (mouse)  
+
+51. **here mouse .**  
+    - N1: 1 (mouse)  
+    - N3: 1 (here)  
+
+52. **Bobo clown .**  
+    - N1: 1 (Bobo)  
+    - N1: 1 (clown)  
+
+53. **hm: !**  
+    - N3: 1 (hm)  
+
+54. **xxx ears .**  
+    - N1: 1 (ears)  
+
+55. **no ear ?**  
+    - N3: 1 (no)  
+    - N1: 1 (ear)  
+    - Q1: 1  
+
+56. **I pull pull you .**  
+    - N2: 1 (I)  
+    - V1: 1 (pull)  
+    - S3: 1 (I pull you)  
+
+57. **I pull .**  
+    - N2: 1 (I)  
+    - V1: 1 (pull)  
+    - S2: 1 (I pull)  
+
+58. **alright .**  
+    - N3: 1 (alright)  
+
+59. **I sure .**  
+    - N2: 1 (I)  
+    - V1: 1 (sure)  
+    - S2: 1 (I sure)  
+
+60. **a ribbon hat .**  
+    - N1: 1 (hat)  
+    - N5: 1 (a ribbon hat)  
+
+61. **a ribbon .**  
+    - N1: 1 (ribbon)  
+    - N5: 1 (a ribbon)  
+
+62. **ribbon xxx Jo_Ann .**  
+    - N1: 1 (ribbon)  
+    - N1: 1 (Jo_Ann)  
+
+63. **xxx got xxx .**  
+    - V1: 1 (got)  
+
+64. **I hold it .**  
+    - N2: 1 (I)  
+    - V1: 1 (hold)  
+    - S2: 1 (I hold)  
+
+65. **dance .**  
+    - V1: 1 (dance)  
+
+66. **all done .**  
+    - N3: 1 (all)  
+    - N3: 1 (done)  
+
+67. **I cut off .**  
+    - N2: 1 (I)  
+    - V1: 1 (cut)  
+    - S2: 1 (I cut)  
+
+68. **xxx wee_wees .**  
+    - N1: 1 (wee_wees)  
+
+69. **eye .**  
+    - N1: 1 (eye)  
+
+70. **head .**  
+    - N1: 1 (head)  
+
+71. **nose .**  
+    - N1: 1 (nose)  
+
+72. **mouth .**  
+    - N1: 1 (mouth)  
+
+73. **arm .**  
+    - N1: 1 (arm)  
+
+74. **finger .**  
+    - N1: 1 (finger)  
+
+75. **toe .**  
+    - N1: 1 (toe)  
+
+76. **microphone .**  
+    - N1: 1 (microphone)  
+
+77. **comb .**  
+    - N1: 1 (comb)  
+
+78. **hair .**  
+    - N1: 1 (hair)  
+
+79. **ear .**  
+    - N1: 1 (ear)  
+
+80. **back .**  
+    - N1: 1 (back)  
+
+81. **eyeb(r)ow .**  
+    - N1: 1 (eyebrow)  
+
+82. **two head .**  
+    - N1: 1 (head)  
+    - N5: 1 (two head)  
+
+83. **one nose .**  
+    - N1: 1 (nose)  
+    - N5: 1 (one nose)  
+
+84. **one teeth .**  
+    - N1: 1 (teeth)  
+    - N5: 1 (one teeth)  
+
+85. **more my [?] hand .**  
+    - N1: 1 (hand)  
+    - N2: 1 (my)  
+    - N3: 1 (more)  
+
+86. **two hand .**  
+    - N1: 1 (hand)  
+    - N5: 1 (two hand)  
+
+87. **two feet .**  
+    - N1: 1 (feet)  
+    - N5: 1 (two feet)  
+
+88. **five .**  
+    - N1: 1 (five)  
+
+89. **one .**  
+    - N1: 1 (one)  
+
+90. **three .**  
+    - N1: 1 (three)  
+
+91. **four .**  
+    - N1: 1 (four)  
+
+92. **six .**  
+    - N1: 1 (six)  
+
+93. **seven .**  
+    - N1: 1 (seven)  
+
+94. **where fingers ?**  
+    - N1: 1 (fingers)  
+    - Q1: 1  
+
+95. **Tony_Pony fingers .**  
+    - N1: 1 (fingers)  
+    - N1: 1 (Tony_Pony)  
+
+96. **why ?**  
+    - Q1: 1  
+    - Q2: 1  
+
+97. **horse ?**  
+    - N1: 1 (horse)  
+    - Q1: 1  
+
+98. **xxx eye eye he .**  
+    - N1: 1 (eye)  
+    - N2: 1 (he)  
+
+99. **what eyes ?**  
+    - N1: 1 (eyes)  
+    - Q1: 1  
+    - Q2: 1  
+
+100. **xxx two nose .**  
+    - N1: 1 (nose)  
+    - N5: 1 (two nose)  
+
+Now, let's compile the scores:
+
+Final score:
+N1, 22  
+N2, 12  
+N3, 14  
+N4, 0  
+N5, 12  
+N6, 0  
+N7, 3  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 12  
+V2, 0  
+V3, 1  
+V4, 1  
+V5, 0  
+V6, 1  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 12  
+Q2, 6  
+Q3, 3  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 10  
+S3, 3  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

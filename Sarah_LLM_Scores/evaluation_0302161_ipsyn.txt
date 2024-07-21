@@ -1,0 +1,523 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **what's that ?**
+   - Q1: 1
+
+2. **well (.) whe(re's) [/] (.) whe(re)'s tha(t) other microphone ?**
+   - Q1: 1
+   - Q4: 1
+
+3. **why not ?**
+   - Q1: 1
+
+4. **my Da(d) (.) he fix it .**
+   - N2: 1
+   - V1: 1
+   - S2: 1
+
+5. **I can move it (.) dere [: there] .**
+   - N2: 1
+   - V1: 1
+   - S2: 1
+
+6. **so it won't fa(ll) off .**
+   - N2: 1
+   - V1: 1
+   - V3: 1
+
+7. **I yyy .**
+   - (No applicable items)
+
+8. **tha(t)'s better .**
+   - N1: 1
+   - V1: 1
+   - S2: 1
+
+9. **yeah .**
+   - (No applicable items)
+
+10. **she hasta buy some .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+11. **he hasta (.) buy (.) some .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+12. **I go(t) &-uh (.) ge(t) a baby .**
+    - N1: 1
+    - V1: 1
+    - S2: 1
+
+13. **&-uh (.) Bobby (.) and Ken (.) and Midge .**
+    - N1: 1
+    - N1: 1
+    - S7: 1
+
+14. **and Bobby (a)n(d) and Midge .**
+    - N1: 1
+    - S7: 1
+
+15. **and I think (.) we nee(d) dishes .**
+    - N1: 1
+    - V1: 1
+    - S2: 1
+
+16. **oh .**
+    - (No applicable items)
+
+17. **play .**
+    - V1: 1
+
+18. **(a)n(d) a say man .**
+    - N1: 1
+    - S5: 1
+
+19. **heh (.) never !**
+    - (No applicable items)
+
+20. **I ge(t) two babies xxx .**
+    - N7: 1
+    - V1: 1
+    - S2: 1
+
+21. **I go ge(t) the babies now .**
+    - N7: 1
+    - V1: 1
+    - S4: 1
+
+22. **I'm slipping .**
+    - V6: 1
+    - V1: 1
+
+23. **I want baby .**
+    - N1: 1
+    - V1: 1
+    - S2: 1
+
+24. **here baby .**
+    - N1: 1
+    - S2: 1
+
+25. **I go ge(t) the baby .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+26. **I ge(t) the baby .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+27. **see (.) I ge(t) a baby .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+28. **I ge(t) ano(th)er one .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+29. **I'll ge(t) a baby .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+30. **do .**
+    - V1: 1
+
+31. **I go(t) fou(r) babies here .**
+    - N7: 1
+    - V1: 1
+    - S2: 1
+
+32. **okay .**
+    - (No applicable items)
+
+33. **you carry day .**
+    - N1: 1
+    - V1: 1
+    - S2: 1
+
+34. **you carry dem [: them] .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+35. **you carry dose [: those] .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+36. **so si(m)ple .**
+    - (No applicable items)
+
+37. **&-uh (.) monkey .**
+    - N1: 1
+
+38. **no (.) it mine .**
+    - N2: 1
+    - V7: 1
+
+39. **<this isn't> [//] tha(t)'s (.) mine [//] your .**
+    - N2: 1
+    - V3: 1
+    - V7: 1
+
+40. **tha(t)'s yours (.) tha(t)'s mine .**
+    - N2: 1
+    - V3: 1
+    - V7: 1
+
+41. **here (.) sit down heya [: here] .**
+    - (No applicable items)
+
+42. **here sit down .**
+    - (No applicable items)
+
+43. **he [//] he won't sit down .**
+    - N2: 1
+    - V1: 1
+    - V3: 1
+
+44. **now sit down there .**
+    - (No applicable items)
+
+45. **you rascal .**
+    - N1: 1
+
+46. **ah (.) he fall down .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+47. **he fall down again .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+48. **eee (.) the new wonkey [: monkey] fa(ll) down .**
+    - N1: 1
+    - V1: 1
+    - S2: 1
+
+49. **you (.) can'(t) fa(ll) down now (.) is he ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+50. **he fa(ll) down .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+51. **no .**
+    - (No applicable items)
+
+52. **aye .**
+    - (No applicable items)
+
+53. **yep .**
+    - (No applicable items)
+
+54. **why [?] (.) she (.) get up there .**
+    - Q1: 1
+    - V1: 1
+    - S2: 1
+
+55. **&-uh (.) she go night [/] (.) night .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+56. **I go ge(t) dem [: them] .**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+57. **go get (.) will ya ?**
+    - V1: 1
+    - Q1: 1
+
+58. **I go get em .**
+    - V1: 1
+    - S2: 1
+
+59. **you reach them .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+60. **reach em at a(ll) .**
+    - (No applicable items)
+
+61. **you go(t) to reach (th)em .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+62. **cups and cream .**
+    - N1: 1
+    - N1: 1
+    - S7: 1
+
+63. **who(l)e bunch .**
+    - N1: 1
+
+64. **let me see .**
+    - V1: 1
+    - S2: 1
+
+65. **how many monkeys ?**
+    - Q1: 1
+
+66. **set ta(ble) up .**
+    - (No applicable items)
+
+67. **right here .**
+    - (No applicable items)
+
+68. **over there .**
+    - (No applicable items)
+
+69. **come o(n) .**
+    - (No applicable items)
+
+70. **I got a meat in Robert's too .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+71. **xxx chairs .**
+    - N1: 1
+
+72. **<I go(t) to have some more though> [//] this full o(f) water .**
+    - V1: 1
+    - S2: 1
+
+73. **too .**
+    - (No applicable items)
+
+74. **I ge(t) the li(tt)le water .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+75. **a li(tt)l(e) water .**
+    - N1: 1
+
+76. **this a pa(r)ty .**
+    - N1: 1
+    - V1: 1
+    - S2: 1
+
+77. **I fill(ed) it .**
+    - V12: 1
+    - S2: 1
+
+78. **yyy wa(it) [/] wa(it) fo(r) the pa(r)ty .**
+    - (No applicable items)
+
+79. **huh .**
+    - (No applicable items)
+
+80. **xxx I ge(t) down .**
+    - V1: 1
+    - S2: 1
+
+81. **jus(t) a li(tt)l(e) water .**
+    - N1: 1
+
+82. **hey (.) whe(re) the other one ?**
+    - Q1: 1
+
+83. **huh ?**
+    - Q1: 1
+
+84. **I ge(t) some water .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+85. **I'll ge(t) (.) ge(t) my own .**
+    - V1: 1
+    - S2: 1
+
+86. **I'll fix it .**
+    - V1: 1
+    - S2: 1
+
+87. **the roller .**
+    - N1: 1
+
+88. **xxx a(ll) yyy .**
+    - (No applicable items)
+
+89. **this too much .**
+    - (No applicable items)
+
+90. **I drink it .**
+    - V1: 1
+    - S2: 1
+
+91. **a baby .**
+    - N1: 1
+
+92. **sit ri(ght) there .**
+    - (No applicable items)
+
+93. **now .**
+    - (No applicable items)
+
+94. **wait (.) (a)n(d) bring Bugs .**
+    - V1: 1
+    - S5: 1
+
+95. **this (.) yyy .**
+    - (No applicable items)
+
+96. **<hey this the blue [?]> [//] a big monkey .**
+    - N1: 1
+    - Q1: 1
+
+97. **huh (.) huh .**
+    - (No applicable items)
+
+98. **whe(r)e a he gonna sit (.) huh ?**
+    - Q1: 1
+    - V1: 1
+    - S2: 1
+
+99. **I know he si(t) ri(ght) here .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+100. **look .**
+    - V1: 1
+
+Now, let's compile the scores:
+
+- N1: 12
+- N2: 9
+- N3: 0
+- N4: 0
+- N5: 0
+- N6: 0
+- N7: 2
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 20
+- V2: 0
+- V3: 4
+- V4: 0
+- V5: 0
+- V6: 1
+- V7: 2
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 1
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- Q1: 8
+- Q2: 0
+- Q3: 0
+- Q4: 2
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 20
+- S3: 0
+- S4: 12
+- S5: 3
+- S6: 0
+- S7: 3
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 0
+N5, 0
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 0
+V5, 0
+V6, 1
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+Q1, 2
+Q2, 0
+Q3, 0
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 2
+S3, 0
+S4, 2
+S5, 2
+S6, 0
+S7, 2
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

@@ -1,0 +1,454 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **let's play now .**  
+   - S2: 1 (Subject + Verb)
+
+2. **what is that ?**  
+   - Q1: 1 (contains a question mark)  
+   - Q4: 1 (Wh-Question + Verb)
+
+3. **I'm gonna show Ann_Marie .**  
+   - N2: 1 (Pronoun)  
+   - V1: 1 (Verb)  
+   - V3: 1 (Prepositional Phrase)
+
+4. **huh ?**  
+   - Q1: 1 (contains a question mark)
+
+5. **you close it up like that .**  
+   - N2: 1 (Pronoun)  
+   - V1: 1 (Verb)  
+   - V2: 1 (Verb Particle or Preposition)
+
+6. **thank_you .**  
+   - N1: 1 (Noun)
+
+7. **I will put it in my jewelry .**  
+   - N2: 1 (Pronoun)  
+   - V1: 1 (Verb)  
+   - V3: 1 (Prepositional Phrase)
+
+8. **I'm not gonna untie it now .**  
+   - N2: 1 (Pronoun)  
+   - V1: 1 (Verb)  
+   - V3: 1 (Prepositional Phrase)  
+   - Q3: 1 (Simple Negation)
+
+9. **untie it .**  
+   - V1: 1 (Verb)  
+   - S3: 1 (Verb + Object)
+
+10. **see if it smells .**  
+    - V1: 1 (Verb)  
+    - N2: 1 (Pronoun)  
+    - S3: 1 (Verb + Object)
+
+11. **yeah .**  
+    - (No applicable items)
+
+12. **dere [: there's] de [: the] Easter egg .**  
+    - N1: 1 (Noun)  
+    - N5: 1 (Determiner + Noun)
+
+13. **mine .**  
+    - N2: 1 (Pronoun)
+
+14. **don't spill it .**  
+    - V1: 1 (Verb)  
+    - Q3: 1 (Simple Negation)  
+    - S3: 1 (Verb + Object)
+
+15. **now I won't hafta take your thing .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - Q3: 1 (Simple Negation)  
+    - S4: 1 (Subject + Verb + Object)
+
+16. **open it .**  
+    - V1: 1 (Verb)  
+    - S3: 1 (Verb + Object)
+
+17. **what ?**  
+    - Q1: 1 (contains a question mark)
+
+18. **yeah (.) pretty .**  
+    - (No applicable items)
+
+19. **is there somethin(g) else ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+20. **just only three presents ?**  
+    - Q1: 1 (contains a question mark)
+
+21. **wow (.) this is to pin it on .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - S2: 1 (Subject + Verb)
+
+22. **no .**  
+    - (No applicable items)
+
+23. **what is this for ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+24. **pin it on ?**  
+    - (No applicable items)
+
+25. **or hang it up ?**  
+    - (No applicable items)
+
+26. **we will hang it up (.) huh ?**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - Q1: 1 (contains a question mark)
+
+27. **it's nice .**  
+    - N1: 1 (Noun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+28. **<how you> [/] (.) how you unopen it [= purse containing perfume] ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+29. **like this ?**  
+    - Q1: 1 (contains a question mark)
+
+30. **I'll put it in my jewelry box .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - V3: 1 (Prepositional Phrase)
+
+31. **what party ?**  
+    - Q1: 1 (contains a question mark)
+
+32. **&-um (.) Ann_Marie .**  
+    - N2: 1 (Pronoun)
+
+33. **what big one ?**  
+    - Q1: 1 (contains a question mark)
+
+34. **perfume ?**  
+    - (No applicable items)
+
+35. **put on your baby finger ?**  
+    - (No applicable items)
+
+36. **is this your little baby hole ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)
+
+37. **want some on (.) Ann_Marie ?**  
+    - Q1: 1 (contains a question mark)
+
+38. **you want some on ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)
+
+39. **you like it ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)
+
+40. **dat [: that] don't come off (.) Ann_Marie .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - Q3: 1 (Simple Negation)
+
+41. **dese [: these] are from Easter .**  
+    - N7: 1 (Noun Plural)  
+    - V4: 1 (Noun + Copula + Noun)
+
+42. **we gotta pick em up easily .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - V7: 1 (Progressive -ing)
+
+43. **where's the one Nana ?**  
+    - Q1: 1 (contains a question mark)  
+    - N5: 1 (Determiner + Noun)
+
+44. **where's the one with Nana ?**  
+    - Q1: 1 (contains a question mark)  
+    - N5: 1 (Determiner + Noun)
+
+45. **oh .**  
+    - (No applicable items)
+
+46. **Nana .**  
+    - N1: 1 (Noun)
+
+47. **where's the top ?**  
+    - Q1: 1 (contains a question mark)  
+    - N5: 1 (Determiner + Noun)
+
+48. **you don't do it like that .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - Q3: 1 (Simple Negation)  
+    - S4: 1 (Subject + Verb + Object)
+
+49. **that's how you rip em .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - S4: 1 (Subject + Verb + Object)
+
+50. **isn't that pretty ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q7: 1 (Negation copula, modal or auxiliary)
+
+51. **ow .**  
+    - (No applicable items)
+
+52. **close this .**  
+    - V1: 1 (Verb)  
+    - S3: 1 (Verb + Object)
+
+53. **negative .**  
+    - (No applicable items)
+
+54. **Marie .**  
+    - N1: 1 (Noun)
+
+55. **an(d) my second ?**  
+    - (No applicable items)
+
+56. **the other part .**  
+    - N5: 1 (Determiner + Noun)
+
+57. **Mommy (.) ain't the other part (.) huh ?**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - Q1: 1 (contains a question mark)
+
+58. **Kool_aid (.) yumyumyumyumyum@o .**  
+    - N1: 1 (Noun)
+
+59. **Kool_aid (.) Kool_aid .**  
+    - N1: 1 (Noun)
+
+60. **an(d) Barbara .**  
+    - N1: 1 (Noun)
+
+61. **baby .**  
+    - N1: 1 (Noun)
+
+62. **did you write down her ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)
+
+63. **Barbara ?**  
+    - (No applicable items)
+
+64. **not the boys .**  
+    - Q3: 1 (Simple Negation)
+
+65. **let's only xxx .**  
+    - (No applicable items)
+
+66. **right here is my name .**  
+    - N2: 1 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+67. **we get so many chairs .**  
+    - N2: 1 (Pronoun)  
+    - N7: 1 (Noun Plural)
+
+68. **we was jumpin(g) on the couch an(d) everything (.) weren't we ?**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - V7: 1 (Progressive -ing)  
+    - Q1: 1 (contains a question mark)
+
+69. **Eileen .**  
+    - N1: 1 (Noun)
+
+70. **Craig .**  
+    - N1: 1 (Noun)
+
+71. **look it .**  
+    - V1: 1 (Verb)  
+    - S3: 1 (Verb + Object)
+
+72. **this ?**  
+    - Q1: 1 (contains a question mark)
+
+73. **Sarah Burke .**  
+    - N1: 1 (Noun)
+
+74. **yeah (.) an(d) Craig .**  
+    - N1: 1 (Noun)
+
+75. **Ann_Marie ?**  
+    - (No applicable items)
+
+76. **you knew you got (.) xxx (.) forgot that .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - S4: 1 (Subject + Verb + Object)
+
+77. **Robin an(d) Richard .**  
+    - N1: 1 (Noun)
+
+78. **y(ou) mean (.) right there ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)
+
+79. **no (.) she's down the Cape .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - S2: 1 (Subject + Verb)
+
+80. **I will mind Ann_Marie .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - N1: 1 (Noun)
+
+81. **because she's a little girl .**  
+    - N2: 1 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+82. **hey (.) Mommy (.) who did this ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+83. **I didn't .**  
+    - N2: 1 (Pronoun)  
+    - Q3: 1 (Simple Negation)
+
+84. **I don't think she could think .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - Q3: 1 (Simple Negation)
+
+85. **no (.) Georg(ia) .**  
+    - Q3: 1 (Simple Negation)
+
+86. **I'm a whiz kid .**  
+    - N2: 1 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+87. **dere [: there's] nobody else .**  
+    - N1: 1 (Noun)  
+    - N2: 1 (Pronoun)
+
+88. **I know it .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - S3: 1 (Verb + Object)
+
+89. **now can I open the [//] my (.) other present ?**  
+    - N2: 1 (Pronoun)  
+    - Q1: 1 (contains a question mark)
+
+90. **Bobby !**  
+    - N1: 1 (Noun)
+
+91. **is he home ?**  
+    - Q1: 1 (contains a question mark)  
+    - N2: 1 (Pronoun)
+
+92. **no (.) Mary_Ann .**  
+    - Q3: 1 (Simple Negation)
+
+93. **they got two babies .**  
+    - N2: 1 (Pronoun)  
+    - N7: 1 (Noun Plural)
+
+94. **they still have Kathy .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)
+
+95. **one's a boy (.) one's a girl .**  
+    - N1: 1 (Noun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+96. **girl .**  
+    - N1: 1 (Noun)
+
+97. **well (.) I got a prize for you (.) Ann_Marie .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - N5: 1 (Determiner + Noun)
+
+98. **but not really .**  
+    - Q3: 1 (Simple Negation)
+
+99. **but I really have a prize for you .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - N5: 1 (Determiner + Noun)
+
+100. **I think I got a prize .**  
+    - N2: 1 (Pronoun)  
+    - V1: 1 (Verb)  
+    - S2: 1 (Subject + Verb)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 6  
+N2, 10  
+N3, 0  
+N4, 0  
+N5, 5  
+N6, 0  
+N7, 3  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 15  
+V2, 1  
+V3, 6  
+V4, 5  
+V5, 0  
+V6, 0  
+V7, 3  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 15  
+Q2, 0  
+Q3, 6  
+Q4, 5  
+Q5, 0  
+Q6, 0  
+Q7, 1  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 5  
+S3, 6  
+S4, 6  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  
+
+(Note: Each item is capped at a maximum score of 2, but none of the items exceeded that limit in this evaluation.)

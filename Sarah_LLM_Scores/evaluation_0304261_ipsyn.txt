@@ -1,0 +1,455 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax scoring table.
+
+1. **down Esther's .**
+   - N1: 1 (Esther's)
+   
+2. **Santa_Claus .**
+   - N1: 2 (Santa_Claus)
+
+3. **&-uh (.) potato_chips .**
+   - N1: 2 (potato_chips)
+
+4. **I didn't eat them .**
+   - N2: 1 (I)
+   - V3: 1 (eat them)
+   - Q3: 1 (didn't)
+
+5. **someone e(l)se did .**
+   - N2: 1 (someone)
+   - V1: 1 (did)
+
+6. **yep .**
+   - (No applicable items)
+
+7. **you saw Santa_Claus today (.) <down squa(re)> [/] down square .**
+   - N1: 2 (Santa_Claus)
+   - N5: 1 (the square)
+   - V1: 1 (saw)
+
+8. **huh .**
+   - (No applicable items)
+
+9. **I goin(g) see Santa_Claus down the square tomorrow .**
+   - N1: 2 (Santa_Claus)
+   - V1: 1 (goin(g))
+   - V6: 1 (going)
+   - V3: 1 (see Santa_Claus down the square)
+
+10. **you already see him .**
+    - N2: 1 (you)
+    - V1: 1 (see)
+
+11. **him .**
+    - N2: 2 (him)
+
+12. **what ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+13. **oh .**
+    - (No applicable items)
+
+14. **for Daddy ?**
+    - Q1: 2 (contains a question mark)
+
+15. **what that pocketbook ?**
+    - Q1: 2 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+16. **hm: ?**
+    - Q1: 2 (contains a question mark)
+
+17. **what else in there ?**
+    - Q1: 2 (contains a question mark)
+    - Q4: 2 (Wh-Question + Verb)
+
+18. **I get doll .**
+    - N1: 1 (doll)
+    - V1: 1 (get)
+
+19. **Chatty_Baby .**
+    - N1: 2 (Chatty_Baby)
+
+20. **can('t) fin(d) him .**
+    - N2: 1 (him)
+    - V1: 1 (fin(d))
+    - V9: 1 (can fin(d))
+
+21. **yeah .**
+    - (No applicable items)
+
+22. **huh ?**
+    - Q1: 2 (contains a question mark)
+
+23. **I got lo(t) [/] (.) lo(t) (.) things .**
+    - N1: 2 (things)
+    - V1: 1 (got)
+
+24. **a(l)right .**
+    - (No applicable items)
+
+25. **I know it .**
+    - N2: 2 (I)
+    - V1: 1 (know)
+
+26. **I remem(ber) (.) Bam_Bam xxx Bam_Bam .**
+    - N1: 2 (Bam_Bam)
+    - V1: 1 (remem(ber))
+
+27. **Pebbles and Bam_Bam .**
+    - N1: 2 (Pebbles, Bam_Bam)
+
+28. **I got em in my room .**
+    - N2: 2 (I)
+    - V1: 1 (got)
+    - V3: 1 (in my room)
+
+29. **I wan(t) get my puppets (.) Bam_Bam .**
+    - N1: 2 (puppets, Bam_Bam)
+    - V1: 1 (wan(t))
+    - V8: 1 (get)
+
+30. **I go get it .**
+    - N2: 2 (I)
+    - V1: 1 (go)
+    - V1: 1 (get)
+
+31. **I think so .**
+    - N2: 2 (I)
+    - V1: 1 (think)
+
+32. **he [/] (.) he going (.) up (.) xxx he [/] (.) he going up (.) he .**
+    - N2: 2 (he)
+    - V7: 1 (going)
+
+33. **go on the couch .**
+    - V1: 1 (go)
+    - V3: 1 (on the couch)
+
+34. **hey .**
+    - (No applicable items)
+
+35. **yeah (.) ca(r)ds .**
+    - N1: 1 (ca(r)ds)
+
+36. **baby dolls .**
+    - N1: 2 (baby dolls)
+
+37. **he should (.) have yyy right dere [: there] on a list .**
+    - N2: 2 (he)
+    - V9: 1 (should have)
+
+38. **remember ?**
+    - Q1: 2 (contains a question mark)
+
+39. **we did .**
+    - N2: 2 (we)
+    - V1: 1 (did)
+
+40. **when Kent ri(ght) there .**
+    - (No applicable items)
+
+41. **when I was soakin(g) my finge(r) .**
+    - N2: 2 (I)
+    - V1: 1 (was soakin(g))
+
+42. **I itchy nose .**
+    - N2: 2 (I)
+    - N1: 1 (nose)
+    - V4: 1 (I itchy)
+
+43. **no .**
+    - (No applicable items)
+
+44. **hey (.) I wan(t) a yyy .**
+    - N2: 2 (I)
+    - V1: 1 (wan(t))
+
+45. **mhm (.) your girl .**
+    - N2: 1 (your)
+    - N1: 1 (girl)
+
+46. **&-uh he brings candy .**
+    - N2: 2 (he)
+    - V1: 1 (brings)
+    - N1: 1 (candy)
+
+47. **&-uh he brings Kent .**
+    - N2: 2 (he)
+    - V1: 1 (brings)
+    - N1: 1 (Kent)
+
+48. **(a)n(d) den go yyy .**
+    - (No applicable items)
+
+49. **Daddy goin(g) ta work .**
+    - N2: 1 (Daddy)
+    - V1: 1 (goin(g))
+
+50. **a bo:ne .**
+    - N1: 1 (bo:ne)
+
+51. **two bone .**
+    - N7: 1 (bone)
+
+52. **fo(r) Beaver (.) &-um Sheba .**
+    - N1: 2 (Beaver, Sheba)
+
+53. **you [/] (.) you know the &-um (.) Emily .**
+    - N2: 2 (you)
+    - V1: 1 (know)
+    - N1: 1 (Emily)
+
+54. **(.) cousin .**
+    - N1: 2 (cousin)
+
+55. **that's my friend .**
+    - N2: 1 (that)
+    - N5: 1 (my friend)
+
+56. **I'll sure listen to bed .**
+    - N2: 1 (I)
+    - V1: 1 (listen)
+
+57. **&-uh (.) Beaver's a dog .**
+    - N1: 2 (Beaver's, dog)
+    - V4: 1 (Beaver's a dog)
+
+58. **Sheba's a dog .**
+    - N1: 2 (Sheba's, dog)
+    - V4: 1 (Sheba's a dog)
+
+59. **Inky .**
+    - N1: 2 (Inky)
+
+60. **let's buy Inky a bone .**
+    - N2: 1 (let's)
+    - V1: 1 (buy)
+    - N1: 1 (bone)
+
+61. **why ?**
+    - Q1: 2 (contains a question mark)
+
+62. **my dog has teeth .**
+    - N2: 1 (my)
+    - N1: 1 (dog)
+    - V1: 1 (has)
+
+63. **le(t's) buy Tramp a bone .**
+    - N2: 1 (let's)
+    - V1: 1 (buy)
+    - N1: 1 (bone)
+
+64. **here .**
+    - (No applicable items)
+
+65. **he live ri(ght) here (.) next_to my house .**
+    - N2: 2 (he)
+    - V1: 1 (live)
+    - V3: 1 (next_to my house)
+
+66. **&-um (.) Donna's .**
+    - N1: 2 (Donna's)
+
+67. **nah .**
+    - (No applicable items)
+
+68. **take me to the square (a)n(d) see San(ta)z_Claus .**
+    - N2: 1 (me)
+    - V1: 1 (take)
+    - V3: 1 (to the square)
+    - V1: 1 (see)
+
+69. **yes .**
+    - (No applicable items)
+
+70. **Mommy (.) let's get my dog a bone .**
+    - N2: 1 (Mommy)
+    - V1: 1 (get)
+    - N1: 1 (bone)
+
+71. **Father's turned xxx .**
+    - N1: 2 (Father's)
+    - V1: 1 (turned)
+
+72. **Mommy (.) that's ours .**
+    - N2: 1 (that)
+    - V4: 1 (that's ours)
+
+73. **mm .**
+    - (No applicable items)
+
+74. **that's ours .**
+    - N2: 1 (that)
+    - V4: 1 (that's ours)
+
+75. **he'll eat his carrot .**
+    - N2: 2 (he)
+    - V1: 1 (eat)
+    - N1: 1 (carrot)
+
+76. **fi(nd) [/] (.) fin(d) Millisan(d)y a present .**
+    - N1: 2 (Millisan(d)y, present)
+    - V1: 1 (fi(nd))
+
+77. **hey (.) I get both (.) dolls in my room .**
+    - N2: 2 (I)
+    - V1: 1 (get)
+    - N1: 1 (dolls)
+
+78. **in my room (.) xxx .**
+    - V3: 1 (in my room)
+
+79. **I get lots_of things in the crib .**
+    - N2: 2 (I)
+    - V1: 1 (get)
+    - N1: 1 (things)
+    - V3: 1 (in the crib)
+
+80. **I go get em ?**
+    - N2: 2 (I)
+    - V1: 1 (go)
+    - V1: 1 (get)
+
+81. **here's my teddy_bear .**
+    - N2: 1 (my)
+    - N1: 1 (teddy_bear)
+
+82. **hey !**
+    - (No applicable items)
+
+83. **this is too heavy .**
+    - N1: 1 (this)
+    - V4: 1 (is too heavy)
+
+84. **he too heavy .**
+    - N2: 2 (he)
+    - V4: 1 (is too heavy)
+
+85. **hey she xxx play ?**
+    - N2: 1 (she)
+    - V1: 1 (play)
+    - Q1: 1 (contains a question mark)
+
+86. **who yyy also have yyy (.) yyy ?**
+    - Q1: 2 (contains a question mark)
+
+87. **who else want me ?**
+    - Q1: 2 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+88. **ge(t) Bugs .**
+    - N1: 1 (Bugs)
+    - V1: 1 (ge(t))
+
+89. **here (.) Kent .**
+    - N2: 1 (Kent)
+
+90. **la@b (.) la@b (.) la@b (.) la@b (.) la@b . [+ bch]**
+    - (No applicable items)
+
+91. **mhm [?] .**
+    - (No applicable items)
+
+92. **hm: [?] .**
+    - (No applicable items)
+
+93. **he wake me up .**
+    - N2: 2 (he)
+    - V1: 1 (wake)
+
+94. **I like you .**
+    - N2: 2 (I)
+    - V1: 1 (like)
+    - N2: 1 (you)
+
+95. **here's a little xxx .**
+    - N1: 1 (little)
+
+96. **xxx I can't have it xxx .**
+    - N2: 2 (I)
+    - V1: 1 (can't have)
+
+97. **oh !**
+    - (No applicable items)
+
+98. **Mommy got some more ?**
+    - N2: 1 (Mommy)
+    - V1: 1 (got)
+    - Q1: 1 (contains a question mark)
+
+99. **have get some more ?**
+    - Q1: 2 (contains a question mark)
+
+100. **I fin(d) some dishes .**
+    - N2: 2 (I)
+    - V1: 1 (fin(d))
+    - N1: 1 (dishes)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20
+N2, 20
+N3, 0
+N4, 0
+N5, 3
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 6
+V4, 5
+V5, 0
+V6, 0
+V7, 2
+V8, 0
+V9, 2
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 3
+Q3, 1
+Q4, 3
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none exceeded that limit.)

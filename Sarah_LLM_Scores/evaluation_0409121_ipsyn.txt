@@ -1,0 +1,523 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax scoring table.
+
+1. **a valentine .**
+   - N1: 1 (valentine)
+   
+2. **mhm .**
+   - (No applicable items)
+
+3. **now I have a heart .**
+   - N2: 1 (I)
+   - N5: 1 (a heart)
+   - V1: 1 (have)
+
+4. **uhhuh .**
+   - (No applicable items)
+
+5. **see (.) it was like this (.) huh .**
+   - N2: 1 (it)
+   - V1: 1 (was)
+   - V8: 1 (like)
+
+6. **now it's like (.) this !**
+   - N2: 1 (it)
+   - V1: 1 (is)
+   - N1: 1 (this)
+
+7. **how did I make it when it was like this first .**
+   - N2: 1 (I)
+   - V1: 1 (make)
+   - V1: 1 (was)
+   - N1: 1 (this)
+
+8. **huh ?**
+   - Q1: 1
+
+9. **we (.) just made a line (.) huh ?**
+   - N2: 1 (we)
+   - V1: 1 (made)
+   - N1: 1 (line)
+
+10. **fold it .**
+    - V1: 1 (fold)
+    - N2: 1 (it)
+
+11. **than make a line .**
+    - V1: 1 (make)
+    - N5: 1 (a line)
+
+12. **and cut out it .**
+    - V1: 1 (cut)
+    - N2: 1 (it)
+
+13. **then go like that .**
+    - V1: 1 (go)
+    - N1: 1 (that)
+
+14. **is it so easy ?**
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - Q1: 1
+
+15. **I [//] I don't know how it can go like this (.) huh ?**
+    - N2: 2 (I)
+    - V1: 1 (know)
+    - V1: 1 (can)
+    - V1: 1 (go)
+    - Q1: 1
+
+16. **(a)n(d) go like that .**
+    - V1: 1 (go)
+    - N1: 1 (that)
+
+17. **how it (.) gets like that ?**
+    - N2: 1 (it)
+    - V1: 1 (gets)
+    - Q1: 1
+
+18. **oh .**
+    - (No applicable items)
+
+19. **now I'm goin(g) make another valentine .**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - V1: 1 (make)
+    - N5: 1 (another valentine)
+
+20. **it looks like a door like this when it's big (.) &=0so (.) huh ?**
+    - N2: 1 (it)
+    - V1: 1 (looks)
+    - N5: 1 (a door)
+    - N1: 1 (this)
+    - V1: 1 (is)
+    - Q1: 1
+
+21. **hey !**
+    - (No applicable items)
+
+22. **I can make it fly .**
+    - N2: 1 (I)
+    - V9: 1 (can make)
+    - N2: 1 (it)
+    - V1: 1 (fly)
+
+23. **watch it .**
+    - V1: 1 (watch)
+    - N2: 1 (it)
+
+24. **xxx airplane .**
+    - N1: 1 (airplane)
+
+25. **if I really throwed it up in the window and sended a <mess(age)> [//] message in it .**
+    - N2: 1 (I)
+    - V1: 1 (throwed)
+    - N2: 1 (it)
+    - N5: 1 (a message)
+    - V1: 1 (sended)
+    - V3: 1 (in the window)
+
+26. **I'm goin(g) make another one (.) see ?**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - V1: 1 (make)
+    - N5: 1 (another one)
+    - Q1: 1
+
+27. **<now gi(ve) me the> [//] where's my pencil ?**
+    - N2: 1 (where's)
+    - N2: 1 (my)
+    - N1: 1 (pencil)
+    - Q1: 1
+
+28. **whoa .**
+    - (No applicable items)
+
+29. **oh here it is .**
+    - N2: 1 (it)
+    - V1: 1 (is)
+
+30. **oh (.) gee .**
+    - (No applicable items)
+
+31. **sound .**
+    - N1: 1 (sound)
+
+32. **it maked [: made] [* +ed] a heart (.) look it .**
+    - N2: 1 (it)
+    - V12: 1 (maked)
+    - N5: 1 (a heart)
+    - V1: 1 (look)
+    - N2: 1 (it)
+
+33. **like this ?**
+    - N1: 1 (this)
+    - Q1: 1
+
+34. **I better kneel up .**
+    - N2: 1 (I)
+    - V1: 1 (kneel)
+
+35. **(a)n(d) drink my tonic .**
+    - V1: 1 (drink)
+    - N2: 1 (my)
+    - N1: 1 (tonic)
+
+36. **oh (.) belly_bat_posters@c .**
+    - N1: 1 (belly_bat_posters@c)
+
+37. **belly_bat_posters@c .**
+    - N1: 1 (belly_bat_posters@c)
+
+38. **I don't know .**
+    - N2: 1 (I)
+    - V3: 1 (don't know)
+
+39. **in tv (.) I think .**
+    - N2: 1 (I)
+    - V1: 1 (think)
+
+40. **yeah .**
+    - (No applicable items)
+
+41. **Batman is gonna come on tonight .**
+    - N1: 1 (Batman)
+    - V1: 1 (is)
+    - V9: 1 (gonna come)
+
+42. **you didn't tell me but Donna told me .**
+    - N2: 1 (you)
+    - V3: 1 (didn't tell)
+    - N2: 1 (me)
+    - N1: 1 (Donna)
+    - V1: 1 (told)
+
+43. **now we go like this ?**
+    - N2: 1 (we)
+    - V1: 1 (go)
+    - N1: 1 (this)
+    - Q1: 1
+
+44. **it can still make a heart .**
+    - N2: 1 (it)
+    - V9: 1 (can make)
+    - N5: 1 (a heart)
+
+45. **&-um (.) I'm gonna marry Georgie .**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - V9: 1 (gonna marry)
+    - N1: 1 (Georgie)
+
+46. **I still liked him .**
+    - N2: 1 (I)
+    - V12: 1 (liked)
+    - N2: 1 (him)
+
+47. **his name is Boofoo .**
+    - N2: 1 (his)
+    - N5: 1 (name)
+    - V1: 1 (is)
+    - N1: 1 (Boofoo)
+
+48. **he got a haircut .**
+    - N2: 1 (he)
+    - V12: 1 (got)
+    - N5: 1 (a haircut)
+
+49. **his tail sticks out like this .**
+    - N2: 1 (his)
+    - N1: 1 (tail)
+    - V1: 1 (sticks)
+    - N1: 1 (this)
+
+50. **yeah (.) like that .**
+    - N1: 1 (that)
+
+51. **oh (.) Aunt_Dot's .**
+    - N1: 1 (Aunt_Dot's)
+
+52. **&-um (.) Ann_Marie .**
+    - N1: 1 (Ann_Marie)
+
+53. **we planted a garden .**
+    - N2: 1 (we)
+    - V12: 1 (planted)
+    - N5: 1 (a garden)
+
+54. **flowers .**
+    - N7: 1 (flowers)
+
+55. **a flower garden .**
+    - N5: 1 (a flower garden)
+
+56. **how'd you know ?**
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - Q1: 1
+
+57. **not the pig farm (.) though .**
+    - N5: 1 (the pig farm)
+
+58. **the horse farm .**
+    - N5: 1 (the horse farm)
+
+59. **horses (.) (a)n(d) little puppies .**
+    - N7: 1 (horses)
+    - N5: 1 (little puppies)
+
+60. **<but they> [//] but the Mother won't let them see the puppies .**
+    - N2: 1 (they)
+    - N5: 1 (the Mother)
+    - V3: 1 (won't let)
+    - N2: 1 (them)
+    - V1: 1 (see)
+    - N1: 1 (the puppies)
+
+61. **no one .**
+    - N2: 1 (one)
+
+62. **the dog mother .**
+    - N5: 1 (the dog mother)
+
+63. **(be)cause they [//] he will bite .**
+    - N2: 1 (they)
+    - N2: 1 (he)
+    - V9: 1 (will bite)
+
+64. **they don't have a (.) daddy mother .**
+    - N2: 1 (they)
+    - V3: 1 (don't have)
+    - N5: 1 (a daddy mother)
+
+65. **yeah (.) we ride on them .**
+    - N2: 1 (we)
+    - V1: 1 (ride)
+    - N2: 1 (them)
+
+66. **oh (.) now I see .**
+    - N2: 1 (I)
+    - V1: 1 (see)
+
+67. **it was like this all the time .**
+    - N2: 1 (it)
+    - V1: 1 (was)
+    - N1: 1 (this)
+
+68. **I just gotta rip this off .**
+    - N2: 1 (I)
+    - V1: 1 (gotta rip)
+    - N1: 1 (this)
+
+69. **whoops (.) I ruin it .**
+    - N2: 1 (I)
+    - V1: 1 (ruin)
+    - N2: 1 (it)
+
+70. **I was about to .**
+    - N2: 1 (I)
+    - V13: 1 (was)
+
+71. **see ?**
+    - V1: 1 (see)
+    - Q1: 1
+
+72. **oh xxx that is !**
+    - N1: 1 (that)
+    - V1: 1 (is)
+
+73. **I'm gonna see Robin .**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - V9: 1 (gonna see)
+    - N1: 1 (Robin)
+
+74. **she can make one too .**
+    - N2: 1 (she)
+    - V9: 1 (can make)
+    - N5: 1 (one)
+
+75. **ya know why I cut it (.) here ?**
+    - N2: 1 (I)
+    - V1: 1 (cut)
+    - N2: 1 (it)
+    - Q1: 1
+
+76. **ya know why I cut it ?**
+    - N2: 1 (I)
+    - V1: 1 (cut)
+    - N2: 1 (it)
+    - Q1: 1
+
+77. **because I wanted to go like (.) this .**
+    - N2: 1 (I)
+    - V1: 1 (wanted)
+    - V8: 1 (to go)
+    - N1: 1 (this)
+
+78. **I think I did .**
+    - N2: 1 (I)
+    - V1: 1 (think)
+    - N2: 1 (I)
+    - V12: 1 (did)
+
+79. **<now I'm gonna> [/] now I'm gonna write somethin(g) on em .**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - V9: 1 (gonna write)
+    - N1: 1 (somethin(g))
+    - V3: 1 (on em)
+
+80. **do they like [//] look plain to you ?**
+    - N2: 1 (they)
+    - V1: 1 (like)
+    - V1: 1 (look)
+    - Q1: 1
+
+81. **uhuh .**
+    - (No applicable items)
+
+82. **I was up Aunt_Dot's .**
+    - N2: 1 (I)
+    - V13: 1 (was)
+    - N1: 1 (Aunt_Dot's)
+
+83. **(a)n(d) guess what .**
+    - V1: 1 (guess)
+
+84. **they had a flat tire (.) too !**
+    - N2: 1 (they)
+    - V12: 1 (had)
+    - N5: 1 (a flat tire)
+
+85. **now look at me .**
+    - V1: 1 (look)
+    - N2: 1 (me)
+
+86. **gonna write somethin(g) .**
+    - V9: 1 (gonna write)
+    - N1: 1 (somethin(g))
+
+87. **it's goin(g) be somethin(g) good .**
+    - N2: 1 (it)
+    - V6: 1 (is)
+    - V1: 1 (gonna be)
+    - N1: 1 (somethin(g))
+
+88. **now you write somethin(g) first .**
+    - N2: 1 (you)
+    - V1: 1 (write)
+    - N1: 1 (somethin(g))
+
+89. **how (a)bout (.) a valentine one .**
+    - N5: 1 (a valentine one)
+
+90. **it say p@l o@l t@l f@l (.) &-um m@l .**
+    - N2: 1 (it)
+    - V10: 1 (say)
+
+91. **what is that way down thing ?**
+    - N1: 1 (that)
+    - Q1: 1
+
+92. **ow (.) it smarts .**
+    - N2: 1 (it)
+    - V1: 1 (smarts)
+
+93. **does this spell emmultemnul@c ?**
+    - N1: 1 (this)
+    - Q1: 1
+
+94. **what does it spell ?**
+    - N2: 1 (it)
+    - Q1: 1
+
+95. **do I know how to spell yyy ?**
+    - N2: 1 (I)
+    - Q1: 1
+
+96. **&-uh (.) p@l o@l t@l f@l m@l .**
+    - N1: 1 (p@l o@l t@l f@l m@l)
+
+97. **now I know how to spell somethin(g) .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - N1: 1 (somethin(g))
+
+98. **my mother punched your mother in the eye .**
+    - N2: 1 (my)
+    - N2: 1 (your)
+    - N1: 1 (mother)
+    - V12: 1 (punched)
+    - N5: 1 (the eye)
+
+99. **what color camed [: came] [* +ed] out ?**
+    - Q1: 1
+
+100. **red .**
+    - N1: 1 (red)
+
+Now, let's compile the scores for each item, capping at a maximum of 2:
+
+Final score:
+N1, 12
+N2, 14
+N3, 0
+N4, 0
+N5, 8
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 4
+V4, 0
+V5, 0
+V6, 3
+V7, 2
+V8, 2
+V9, 2
+V10, 2
+V11, 0
+V12, 3
+V13, 2
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 10
+Q2, 0
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

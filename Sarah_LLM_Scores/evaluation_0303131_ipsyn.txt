@@ -1,0 +1,500 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **coffee pots .**
+   - N1: 1 (coffee)
+   - N1: 2 (pots)
+
+2. **&-uh (.) oh (.) ge(t) one o(f) dose [: those] (.) Mommy .**
+   - N1: 1 (dose)
+   - N5: 1 (one dose)
+   - N2: 1 (Mommy)
+   - V1: 1 (get)
+
+3. **oh (.) ge(t) one o(f) dose [: those] .**
+   - N1: 1 (dose)
+   - N5: 1 (one dose)
+   - V1: 1 (get)
+
+4. **yeah .**
+   - (No applicable items)
+
+5. **o:h (.) ge(t) one o(f) dose [: those] (.) Mummy .**
+   - N1: 1 (dose)
+   - N5: 1 (one dose)
+   - N2: 1 (Mummy)
+   - V1: 1 (get)
+
+6. **yep .**
+   - (No applicable items)
+
+7. **o:h (.) ge(t) one o(f) dose [: those] too .**
+   - N1: 1 (dose)
+   - N5: 1 (one dose)
+   - V1: 1 (get)
+
+8. **ge(t) one o(f) dose [: those] .**
+   - N1: 1 (dose)
+   - N5: 1 (one dose)
+   - V1: 1 (get)
+
+9. **<that (.) that (.) that (.) that (.) that> [/] (.) that .**
+   - N2: 1 (that)
+
+10. **Mommy (.) ge(t) one o(f) dose [: those] .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N2: 1 (Mommy)
+    - V1: 1 (get)
+
+11. **ge(t) one o(f) o(f) dose [: those] .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - V1: 1 (get)
+
+12. **lots o(f) dishes .**
+    - N1: 1 (dishes)
+    - N7: 1 (dishes)
+
+13. **(a)n(d) dat [: that] .**
+    - N2: 1 (that)
+
+14. **let's see .**
+    - (No applicable items)
+
+15. **Auntie_Marilyn was missin(g) somethin(g) .**
+    - N1: 1 (Auntie_Marilyn)
+    - V1: 1 (was)
+    - V12: 1 (missing)
+
+16. **what did she break [/] break when we were up there .**
+    - Q2: 1 (what)
+    - V1: 1 (break)
+
+17. **was is the teapot or the coffee pot ?**
+    - Q1: 1 (question mark)
+    - N1: 1 (teapot)
+    - N1: 2 (coffee pot)
+    - V1: 1 (was)
+
+18. **we don't wanna give her the wrong thing .**
+    - N2: 1 (we)
+    - V3: 1 (wanna give)
+    - N5: 1 (the thing)
+
+19. **huh ?**
+    - Q1: 1 (question mark)
+
+20. **I don't know .**
+    - N2: 1 (I)
+    - V3: 1 (don't know)
+
+21. **oh (.) buy one o(f) dose [: those] (.) Mommy .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N2: 1 (Mommy)
+    - V1: 1 (buy)
+
+22. **o:h (.) yeah .**
+    - (No applicable items)
+
+23. **whoop .**
+    - (No applicable items)
+
+24. **o:h (.) ge(t) one o(f) dose [: those] beds .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N1: 2 (beds)
+    - V1: 1 (get)
+
+25. **ge(t) one o(f) dose [: those] (.) Mommy .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N2: 1 (Mommy)
+    - V1: 1 (get)
+
+26. **o:h (.) look at dose [: those] .**
+    - N1: 1 (dose)
+    - V1: 1 (look)
+
+27. **pillows .**
+    - N1: 1 (pillows)
+    - N7: 1 (pillows)
+
+28. **des [: there's] a donkey .**
+    - N1: 1 (donkey)
+    - V1: 1 (there's)
+
+29. **des [: there's] a duck .**
+    - N1: 1 (duck)
+    - V1: 1 (there's)
+
+30. **(a)n(d) des [: there's] a horse .**
+    - N1: 1 (horse)
+    - V1: 1 (there's)
+
+31. **clock ?**
+    - Q1: 1 (question mark)
+
+32. **dat [: that] pretty .**
+    - N2: 1 (that)
+    - N3: 1 (pretty)
+
+33. **o:h (.) dat [: that's] pretty .**
+    - N2: 1 (that)
+    - N3: 2 (pretty)
+
+34. **why ?**
+    - Q1: 1 (question mark)
+
+35. **this is pretty .**
+    - N2: 1 (this)
+    - V4: 1 (is pretty)
+
+36. **o:h (.) I like dose [: those] .**
+    - N1: 1 (dose)
+    - N2: 1 (I)
+    - V1: 1 (like)
+
+37. **beds .**
+    - N1: 1 (beds)
+    - N7: 1 (beds)
+
+38. **o:h (.) I like dose [: those] (.) Mummy .**
+    - N1: 1 (dose)
+    - N2: 1 (I)
+    - N2: 2 (Mummy)
+    - V1: 1 (like)
+
+39. **no we don't .**
+    - N2: 1 (we)
+    - V3: 1 (don't)
+
+40. **ge(t) one o(f) dose [: those] (.) Mummy .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N2: 1 (Mummy)
+    - V1: 1 (get)
+
+41. **hm: .**
+    - (No applicable items)
+
+42. **&-um (.) a curtains [/] (.) curtains .**
+    - N1: 1 (curtains)
+    - N5: 1 (a curtains)
+
+43. **curtains [/] (.) curtains .**
+    - N1: 2 (curtains)
+
+44. **pink .**
+    - N3: 1 (pink)
+
+45. **&-uh (.) blue .**
+    - N3: 2 (blue)
+
+46. **o:h (.) I like dose [: those] (.) Mommy .**
+    - N1: 1 (dose)
+    - N2: 1 (I)
+    - N2: 2 (Mommy)
+    - V1: 1 (like)
+
+47. **o:h .**
+    - (No applicable items)
+
+48. **slippers .**
+    - N1: 1 (slippers)
+    - N7: 1 (slippers)
+
+49. **put it right there .**
+    - V1: 1 (put)
+    - N2: 1 (it)
+
+50. **break a window .**
+    - V1: 1 (break)
+    - N5: 1 (a window)
+
+51. **get it .**
+    - V1: 1 (get)
+    - N2: 1 (it)
+
+52. **get it Mommy .**
+    - V1: 1 (get)
+    - N2: 1 (it)
+    - N2: 2 (Mommy)
+
+53. **dat [: that] pretty chair .**
+    - N2: 1 (that)
+    - N1: 1 (chair)
+    - N3: 1 (pretty)
+
+54. **I wi(ll) help you (.) Mummy .**
+    - N2: 1 (I)
+    - V1: 1 (help)
+    - N2: 1 (you)
+    - N2: 2 (Mummy)
+
+55. **oh (.) look it dose [: those] .**
+    - N1: 1 (dose)
+    - N2: 1 (it)
+    - V1: 1 (look)
+
+56. **o:h (.) look at xxx .**
+    - V1: 1 (look)
+
+57. **a rockin(g)_chair .**
+    - N1: 1 (rocking chair)
+
+58. **look at dose [: those] chairs .**
+    - N1: 1 (dose)
+    - N1: 2 (chairs)
+    - V1: 1 (look)
+
+59. **right (.) here .**
+    - (No applicable items)
+
+60. **o:h (.) I like dat [: that] .**
+    - N2: 1 (I)
+    - N2: 2 (that)
+    - V1: 1 (like)
+
+61. **o:h (.) I like dat [: that] (.) Mummy .**
+    - N2: 1 (I)
+    - N2: 2 (that)
+    - N2: 2 (Mummy)
+    - V1: 1 (like)
+
+62. **oh (.) I like dat [: that] (.) Mommy .**
+    - N2: 1 (I)
+    - N2: 2 (that)
+    - N2: 2 (Mommy)
+    - V1: 1 (like)
+
+63. **te(le)phones .**
+    - N1: 1 (telephones)
+    - N7: 1 (telephones)
+
+64. **I had telephone .**
+    - N2: 1 (I)
+    - V12: 1 (had)
+    - N1: 1 (telephone)
+
+65. **o:h (.) look at dat [: that] .**
+    - N2: 1 (that)
+    - V1: 1 (look)
+
+66. **look at dose [: those] .**
+    - N1: 1 (dose)
+    - V1: 1 (look)
+
+67. **o:h (.) look it .**
+    - V1: 1 (look)
+    - N2: 1 (it)
+
+68. **o:h (.) look it (.) yippee .**
+    - V1: 1 (look)
+    - N2: 1 (it)
+
+69. **yippee (.) oh (.) ge(t) one o(f) dose [: those] .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - V1: 1 (get)
+
+70. **canes .**
+    - N1: 1 (canes)
+    - N7: 1 (canes)
+
+71. **it's an umbrella .**
+    - N2: 1 (it)
+    - V4: 1 (is)
+    - N5: 1 (an umbrella)
+
+72. **get umbrellas .**
+    - V1: 1 (get)
+    - N1: 1 (umbrellas)
+
+73. **for you .**
+    - V2: 1 (for)
+    - N2: 1 (you)
+
+74. **one for my Daddy (a)n(d) one for me .**
+    - N5: 1 (one for)
+    - N2: 1 (my)
+    - N2: 1 (Daddy)
+    - N5: 1 (one for)
+    - N2: 1 (me)
+
+75. **I get &-uh one .**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - N5: 1 (one)
+
+76. **I [//] I couldn't find it .**
+    - N2: 1 (I)
+    - V11: 1 (couldn't)
+    - V1: 1 (find)
+    - N2: 1 (it)
+
+77. **hey (.) ge(t) one o(f) dose [: those] (.) Mommy .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N2: 1 (Mommy)
+    - V1: 1 (get)
+
+78. **one o(f) do(se) [: those] .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+
+79. **whyn't [: why don't] ya ge(t) one o(f) dose [: those] ?**
+    - Q1: 1 (question mark)
+    - N2: 1 (ya)
+    - V1: 1 (get)
+    - N1: 1 (dose)
+
+80. **pook@c [?] it they .**
+    - (No applicable items)
+
+81. **oh (.) get that (.) lot o(f) toys .**
+    - N1: 1 (toys)
+    - N2: 1 (that)
+    - V1: 1 (get)
+
+82. **oh (.) I want that and dat [: that] .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 1 (that)
+    - N2: 2 (that)
+
+83. **a baby .**
+    - N1: 1 (baby)
+
+84. **oh (.) I like carriage .**
+    - N2: 1 (I)
+    - V1: 1 (like)
+    - N1: 1 (carriage)
+
+85. **I like t(h)is .**
+    - N2: 1 (I)
+    - V1: 1 (like)
+    - N2: 1 (this)
+
+86. **o:h (.) I ha(ve) one o(f) dose [: those] .**
+    - N1: 1 (dose)
+    - N5: 1 (one dose)
+    - N2: 1 (I)
+    - V1: 1 (have)
+
+87. **mhm .**
+    - (No applicable items)
+
+88. **there ?**
+    - Q1: 1 (question mark)
+
+89. **o:h (.) look toys .**
+    - V1: 1 (look)
+    - N1: 1 (toys)
+
+90. **yes (.) I do .**
+    - N2: 1 (I)
+    - V1: 1 (do)
+
+91. **two trucks .**
+    - N1: 1 (trucks)
+    - N5: 1 (two trucks)
+
+92. **boys ?**
+    - Q1: 1 (question mark)
+
+93. **on(l)y boys ?**
+    - Q1: 1 (question mark)
+
+94. **o:h (.) my Daddy play wi(th) dose [: those] .**
+    - N2: 1 (my)
+    - N2: 1 (Daddy)
+    - V1: 1 (play)
+    - N1: 1 (dose)
+
+95. **I wan(t) help him .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - V1: 1 (help)
+    - N2: 1 (him)
+
+96. **you .**
+    - N2: 1 (you)
+
+97. **he(l)p .**
+    - V1: 1 (help)
+
+98. **dat [: that] li(tt)le thing .**
+    - N2: 1 (that)
+    - N1: 1 (thing)
+    - N3: 1 (little)
+
+99. **&-um mhm hm: (.) fo(r) trucks .**
+    - N1: 1 (trucks)
+
+100. **&-um (.) fo(r) stores .**
+    - N1: 1 (stores)
+
+Final score:
+N1, 20
+N2, 16
+N3, 6
+N4, 0
+N5, 12
+N6, 0
+N7, 5
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 22
+V2, 0
+V3, 0
+V4, 3
+V5, 0
+V6, 0
+V7, 0
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 9
+Q2, 2
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

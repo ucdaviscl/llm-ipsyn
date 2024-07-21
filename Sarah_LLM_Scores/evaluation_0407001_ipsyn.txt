@@ -1,0 +1,485 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **you skip me (a)n(d) I skip you .**
+   - N1: 2 (you, me, I, you)
+   - V1: 2 (skip, skip)
+   - S4: 2 (you skip me, I skip you)
+
+2. **(o)kay ?**
+   - Q1: 1
+
+3. **you're my partner .**
+   - N2: 1 (you're)
+   - N5: 1 (my partner)
+   - V6: 1 (you're)
+
+4. **<roun(d) (.) roun(d) (.) roun(d)> [/] (.) roun(d) .**
+   - N1: 1 (roun(d))
+
+5. **take my other hand .**
+   - N5: 1 (my hand)
+   - V1: 1 (take)
+
+6. **look it .**
+   - V1: 1 (look)
+
+7. **I meant to tell you this .**
+   - N2: 1 (I)
+   - V1: 1 (meant)
+   - V8: 1 (to tell)
+
+8. **good thing Cinderella wasn't on .**
+   - N1: 1 (thing)
+   - N2: 1 (Cinderella)
+   - V13: 1 (wasn't)
+
+9. **seven thirty .**
+   - N1: 1 (seven, thirty)
+
+10. **that's a long time .**
+    - N5: 1 (a time)
+    - V4: 1 (that's)
+
+11. **uhhuh .**
+    - (no applicable items)
+
+12. **Cinderella .**
+    - N1: 1 (Cinderella)
+
+13. **does hurt a lot .**
+    - V1: 1 (does)
+    - V1: 1 (hurt)
+
+14. **alright .**
+    - (no applicable items)
+
+15. **how'd you know ?**
+    - Q1: 1
+    - Q2: 1
+
+16. **(be)cause I have medicine ?**
+    - N2: 1 (I)
+    - V6: 1 (have)
+
+17. **you look pretty .**
+    - N2: 1 (you)
+    - V1: 1 (look)
+    - N3: 1 (pretty)
+
+18. **tastes awful .**
+    - V1: 1 (tastes)
+    - N3: 1 (awful)
+
+19. **tastes hot .**
+    - V1: 1 (tastes)
+    - N3: 1 (hot)
+
+20. **I heared [: heard] [* +ed] you went (.) with your &-um Daddy .**
+    - N2: 1 (I, you)
+    - V12: 1 (heared)
+    - V1: 1 (went)
+    - V3: 1 (with your Daddy)
+
+21. **whyn't [: why don't] ya go with your grandfather ?**
+    - Q1: 1
+    - Q2: 1
+
+22. **that's what mothers do .**
+    - N5: 1 (what mothers)
+    - V4: 1 (that's do)
+
+23. **what mothers do .**
+    - N5: 1 (what mothers)
+    - V4: 1 (do)
+
+24. **yeah .**
+    - (no applicable items)
+
+25. **I don't want xxx .**
+    - N2: 1 (I)
+    - V3: 1 (don't want)
+
+26. **goin(g) roun(d) (a)n(d) roun(d) (a)n(d) roun(d) .**
+    - V7: 1 (goin(g))
+    - N1: 1 (roun(d))
+
+27. **you gotta catch me when I go like that .**
+    - N2: 1 (you, I)
+    - V1: 1 (gotta)
+    - V1: 1 (catch)
+    - V1: 1 (go)
+
+28. **you can't catch me .**
+    - N2: 1 (you, me)
+    - V3: 1 (can't catch)
+
+29. **no sir .**
+    - (no applicable items)
+
+30. **uhuh you can't .**
+    - N2: 1 (you)
+    - V3: 1 (can't)
+
+31. **you didn't get me .**
+    - N2: 1 (you, me)
+    - V12: 1 (didn't get)
+
+32. **look it my big bead .**
+    - V1: 1 (look)
+    - N5: 1 (my bead)
+
+33. **my &-um leggin(g)s are up to here .**
+    - N5: 1 (my leggin(g)s)
+    - V4: 1 (are)
+
+34. **are they (.) Mama ?**
+    - V6: 1 (are)
+    - Q1: 1
+
+35. **my leggin(g)s ?**
+    - N5: 1 (my leggin(g)s)
+    
+36. **my leotards are up to here ?**
+    - N5: 1 (my leotards)
+    - V4: 1 (are)
+    - Q1: 1
+
+37. **no (.) my leggin(g)s are really up to here .**
+    - N5: 1 (my leggin(g)s)
+    - V4: 1 (are)
+
+38. **Ann_Marie has my bobby_pin .**
+    - N2: 1 (Ann_Marie)
+    - V1: 1 (has)
+    - N5: 1 (my bobby_pin)
+
+39. **I left it over there .**
+    - N2: 1 (I)
+    - V12: 1 (left)
+    - V3: 1 (over there)
+
+40. **I know it .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+
+41. **is it still hangin(g) aroun(d) ?**
+    - V6: 1 (is)
+    - Q1: 1
+
+42. **it's in xxx .**
+    - N2: 1 (it)
+    - V4: 1 (it's)
+
+43. **hold my other hand (a)n(d) I'll skip (.) <put your arm aroun(d)> [//] I mean your hand .**
+    - N5: 1 (my hand)
+    - V1: 1 (hold)
+    - V1: 1 (skip)
+    - V1: 1 (put)
+
+44. **let's skip .**
+    - V1: 1 (skip)
+
+45. **change partners aroun(d) aroun(d) .**
+    - V1: 1 (change)
+    - N1: 1 (partners)
+
+46. **(a)n(d) you hafta (.) cross over another .**
+    - N2: 1 (you)
+    - V1: 1 (hafta)
+    - V3: 1 (over another)
+
+47. **can you do this ?**
+    - Q1: 1
+    - Q8: 1
+
+48. **can you do that one ?**
+    - Q1: 1
+    - Q8: 1
+
+49. **(be)cause you're not strong (.) like I am .**
+    - N2: 1 (you're, I)
+    - V6: 1 (are)
+    - V3: 1 (not strong)
+
+50. **bubble ?**
+    - N1: 1 (bubble)
+
+51. **do you have a muscle ?**
+    - Q1: 1
+    - Q8: 1
+
+52. **do I ?**
+    - Q1: 1
+    - Q8: 1
+
+53. **feel (.) Donna .**
+    - V1: 1 (feel)
+    - N2: 1 (Donna)
+
+54. **xxx hard xxx .**
+    - (no applicable items)
+
+55. **I not .**
+    - N2: 1 (I)
+
+56. **(be)cause I wanna see how big I am .**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - V1: 1 (see)
+
+57. **that's how strong I am .**
+    - N2: 1 (I)
+    - V4: 1 (that's)
+
+58. **stand it over right here (.) alright .**
+    - V1: 1 (stand)
+    - V3: 1 (over right here)
+
+59. **now you can come back (.) Donna .**
+    - N2: 1 (you, Donna)
+    - V1: 1 (can)
+    - V1: 1 (come)
+
+60. **<can't you hold my> [//] can't you hold my feet ?**
+    - Q1: 1
+    - Q8: 1
+    - N5: 1 (my feet)
+
+61. **<my feet xxx go> [//] can't you do this ?**
+    - Q1: 1
+    - Q8: 1
+
+62. **see (.) I go (a)n(d) (.) my head goes under there and you hold my feet .**
+    - N2: 1 (I, you)
+    - V1: 1 (see)
+    - V1: 1 (go)
+    - V1: 1 (goes)
+    - V1: 1 (hold)
+    - N5: 1 (my feet)
+
+63. **I walk on my head .**
+    - N2: 1 (I)
+    - V1: 1 (walk)
+    - V3: 1 (on my head)
+
+64. **I really can walk .**
+    - N2: 1 (I)
+    - V1: 1 (can)
+    - V1: 1 (walk)
+
+65. **no .**
+    - (no applicable items)
+
+66. **it's easy to do .**
+    - N2: 1 (it)
+    - V4: 1 (it's)
+
+67. **I can't [?] do this for a long time .**
+    - N2: 1 (I)
+    - V3: 1 (can't do)
+
+68. **tiptock [: ticktock] .**
+    - N1: 1 (tiptock)
+
+69. **hopbang .**
+    - N1: 1 (hopbang)
+
+70. **ticktock (.) hopbang .**
+    - N1: 1 (ticktock, hopbang)
+
+71. **hop .**
+    - N1: 1 (hop)
+
+72. **xxx like this .**
+    - (no applicable items)
+
+73. **like that .**
+    - (no applicable items)
+
+74. **can't you do that ?**
+    - Q1: 1
+    - Q8: 1
+
+75. **what ?**
+    - Q1: 1
+    - Q2: 1
+
+76. **&-um (.) I wanna be a gypsy .**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - N5: 1 (a gypsy)
+
+77. **dance all day (a)n(d) sing .**
+    - V1: 1 (dance)
+    - V1: 1 (sing)
+
+78. **(a)n(d) clap my tambourine .**
+    - V1: 1 (clap)
+    - N5: 1 (my tambourine)
+
+79. **I wear golden earrings .**
+    - N2: 1 (I)
+    - V1: 1 (wear)
+    - N3: 1 (golden earrings)
+
+80. **they're big (a)n(d) round .**
+    - N2: 1 (they're)
+    - N3: 1 (big, round)
+
+81. **I like the jingling sound .**
+    - N2: 1 (I)
+    - V1: 1 (like)
+    - N5: 1 (the sound)
+
+82. **I play a gypsy song .**
+    - N2: 1 (I)
+    - V1: 1 (play)
+    - N5: 1 (a song)
+
+83. **I think I hear em calling .**
+    - N2: 1 (I)
+    - V1: 1 (think)
+    - V1: 1 (hear)
+
+84. **come (a)n(d) go round .**
+    - V1: 1 (come)
+    - V1: 1 (go)
+
+85. **I will shrug my shoulders .**
+    - N2: 1 (I)
+    - V9: 1 (will shrug)
+    - N5: 1 (my shoulders)
+
+86. **(a)n(d) wink my big brown eyes .**
+    - V1: 1 (wink)
+    - N5: 1 (my eyes)
+
+87. **shake my ruffled skirts .**
+    - V1: 1 (shake)
+    - N5: 1 (my skirts)
+
+88. **as you are whirling by .**
+    - N2: 1 (you)
+    - V4: 1 (are)
+    - V1: 1 (whirling)
+
+89. **I said that (.) whirling by .**
+    - N2: 1 (I)
+    - V1: 1 (said)
+
+90. **I don't like that song .**
+    - N2: 1 (I)
+    - V3: 1 (don't like)
+    - N5: 1 (that song)
+
+91. **I don't like it .**
+    - N2: 1 (I)
+    - V3: 1 (don't like)
+    - N2: 1 (it)
+
+92. **why ?**
+    - Q1: 1
+    - Q2: 1
+
+93. **I wanna go in the icebox .**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - N5: 1 (the icebox)
+
+94. **freezer .**
+    - N1: 1 (freezer)
+
+95. **that how you get married ?**
+    - Q1: 1
+    - V4: 1 (that how)
+
+96. **that's how you get married ?**
+    - Q1: 1
+    - V4: 1 (that's how)
+
+97. **(a)n(d) no more school ?**
+    - Q1: 1
+
+98. **<if you> [//] I [//] you [//] if I was gonna be afraid of everybody (.) hide under here .**
+    - N2: 1 (I, you)
+    - V1: 1 (was)
+    - V1: 1 (gonna)
+    - V1: 1 (be)
+    - V1: 1 (hide)
+
+99. **did you see Tom (a)n(d) Jerry ?**
+    - Q1: 1
+    - Q8: 1
+    - N1: 1 (Tom, Jerry)
+
+100. **I did .**
+    - N2: 1 (I)
+    - V12: 1 (did)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12
+N2, 12
+N3, 6
+N4, 0
+N5, 10
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 8
+V4, 6
+V5, 0
+V6, 3
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 3
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 10
+Q2, 6
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 4
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

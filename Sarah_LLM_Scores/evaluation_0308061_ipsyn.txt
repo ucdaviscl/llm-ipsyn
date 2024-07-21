@@ -1,0 +1,440 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **ten ninety five ?**
+   - Q1: 1
+
+2. **what's that for ?**
+   - Q1: 2 (max reached)
+
+3. **no (.) it doesn't .**
+   - N2: 1
+   - V3: 1
+   - Q3: 1
+
+4. **does it go right there ?**
+   - Q1: 3 (max reached)
+
+5. **it will go down the drain .**
+   - N2: 2 (max reached)
+   - V6: 1
+   - V3: 1
+
+6. **I want a (.) pencil .**
+   - N2: 2 (max reached)
+   - N5: 1
+   - V1: 1
+
+7. **the other is broken .**
+   - N5: 2 (max reached)
+   - V4: 1
+
+8. **that's broken .**
+   - N2: 2 (max reached)
+   - V4: 2 (max reached)
+
+9. **nice .**
+   - (no applicable items)
+
+10. **is that <my pen> [//] (.) my school pencil ?**
+    - N2: 2 (max reached)
+    - N5: 1
+    - Q1: 4 (max reached)
+
+11. **is that a pen ?**
+    - N2: 2 (max reached)
+    - N5: 2 (max reached)
+    - Q1: 5 (max reached)
+
+12. **alright .**
+    - (no applicable items)
+
+13. **taperecorder .**
+    - N1: 1
+
+14. **I write on here .**
+    - N2: 2 (max reached)
+    - V1: 1
+    - V2: 1
+
+15. **right here .**
+    - (no applicable items)
+
+16. **I know it .**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+
+17. **nah (.) I can't .**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - Q3: 2 (max reached)
+
+18. **get k@l .**
+    - (no applicable items)
+
+19. **k@l .**
+    - (no applicable items)
+
+20. **y@l (.) e@l [/] (.) e@l .**
+    - (no applicable items)
+
+21. **Nana Griffith .**
+    - N1: 2 (max reached)
+
+22. **e@l .**
+    - (no applicable items)
+
+23. **Gertrude .**
+    - N1: 2 (max reached)
+
+24. **g@l [/] (.) g@l .**
+    - (no applicable items)
+
+25. **e@l (.) g@l (.) g@l . [+ bch]**
+    - (no applicable items)
+
+26. **egg .**
+    - N1: 2 (max reached)
+
+27. **you wanna go out ?**
+    - N2: 2 (max reached)
+    - Q1: 6 (max reached)
+
+28. **Mommy said no .**
+    - N1: 2 (max reached)
+    - V1: 1
+    - Q3: 3 (max reached)
+
+29. **after Kent .**
+    - (no applicable items)
+
+30. **oh (.) my paper .**
+    - N2: 2 (max reached)
+    - N5: 1
+
+31. **what's in this ?**
+    - Q1: 7 (max reached)
+
+32. **yyy can yyy .**
+    - (no applicable items)
+
+33. **huh ?**
+    - Q1: 8 (max reached)
+
+34. **I tryin(g) to open it .**
+    - N2: 2 (max reached)
+    - V7: 1
+    - V1: 1
+
+35. **no he won't .**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - Q3: 4 (max reached)
+
+36. **this come off like that ?**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - Q1: 9 (max reached)
+
+37. **the top come up .**
+    - N5: 1
+    - V1: 1
+
+38. **oh (.) make the top open .**
+    - V1: 2 (max reached)
+
+39. **I not .**
+    - N2: 2 (max reached)
+    - Q3: 5 (max reached)
+
+40. **the Easter bow .**
+    - N5: 2 (max reached)
+
+41. **go like that ?**
+    - V1: 2 (max reached)
+    - Q1: 10 (max reached)
+
+42. **does it ?**
+    - Q1: 11 (max reached)
+
+43. **what's in this w@l .**
+    - Q1: 12 (max reached)
+
+44. **bing@o [/] (.) bing@o .**
+    - (no applicable items)
+
+45. **I write on that ?**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - Q1: 13 (max reached)
+
+46. **(o)kay (.) you wanna go out ?**
+    - N2: 2 (max reached)
+    - Q1: 14 (max reached)
+
+47. **I watch the dog play though .**
+    - N5: 1
+    - V1: 1
+
+48. **can I come through the backyard ?**
+    - N2: 2 (max reached)
+    - Q1: 15 (max reached)
+
+49. **Chantilly you can do .**
+    - N1: 1
+    - N2: 2 (max reached)
+
+50. **&-uh (.) see my hands .**
+    - N2: 2 (max reached)
+    - V1: 1
+
+51. **I put that in the refrigerator .**
+    - N2: 2 (max reached)
+    - N5: 1
+    - V1: 1
+    - V3: 1
+
+52. **I oughta freeze him .**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+
+53. **climb up the tree .**
+    - V1: 3 (max reached)
+
+54. **<climb up> [/] (.) climb up .**
+    - (no applicable items)
+
+55. **(.) you can't xxx me .**
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+    - Q3: 6 (max reached)
+
+56. **yeah .**
+    - (no applicable items)
+
+57. **this is a oh (.) upsie@f .**
+    - N2: 2 (max reached)
+    - V4: 1
+
+58. **my mama see .**
+    - N2: 2 (max reached)
+    - V1: 1
+
+59. **that's my name .**
+    - N2: 2 (max reached)
+    - V4: 2 (max reached)
+
+60. **xxx on my finger .**
+    - (no applicable items)
+
+61. **(a)n(d) I saw a cat .**
+    - N2: 2 (max reached)
+    - N5: 1
+    - V12: 1
+
+62. **we better make me .**
+    - N2: 2 (max reached)
+    - V9: 1
+
+63. **is that a fact ?**
+    - N2: 2 (max reached)
+    - N5: 2 (max reached)
+    - Q1: 16 (max reached)
+
+64. **linkin(g) leader .**
+    - N1: 3 (max reached)
+
+65. **what matter face ?**
+    - N1: 4 (max reached)
+    - Q1: 17 (max reached)
+
+66. **+, children have begin to sing .**
+    - N1: 5 (max reached)
+    - V1: 3 (max reached)
+
+67. **I put my record on .**
+    - N2: 2 (max reached)
+    - N5: 2 (max reached)
+    - V1: 4 (max reached)
+
+68. **how_come ?**
+    - Q1: 18 (max reached)
+
+69. **+, dance and sing . [+ bch]**
+    - V1: 5 (max reached)
+
+70. **(a)n(d) little China children love to dance and sing . [+ bch]**
+    - N1: 6 (max reached)
+    - V1: 6 (max reached)
+
+71. **<li(ttle)> [?] .**
+    - (no applicable items)
+
+72. **here's my new record .**
+    - N2: 2 (max reached)
+    - N5: 3 (max reached)
+
+73. **wanna see my goldfish ?**
+    - N2: 2 (max reached)
+    - Q1: 19 (max reached)
+
+74. **c(o)me (h)ere and see it .**
+    - N2: 2 (max reached)
+    - V1: 7 (max reached)
+
+75. **the little goldfish and the big goldfish .**
+    - N5: 4 (max reached)
+
+76. **the food's up there .**
+    - N5: 5 (max reached)
+
+77. **can I see the fishes on it ?**
+    - N2: 2 (max reached)
+    - N5: 6 (max reached)
+    - Q1: 20 (max reached)
+
+78. **I think it have fishes on it .**
+    - N2: 2 (max reached)
+    - V1: 8 (max reached)
+
+79. **did it come out ?**
+    - Q1: 21 (max reached)
+
+80. **I just going show it to them .**
+    - N2: 2 (max reached)
+    - V1: 9 (max reached)
+
+81. **see ?**
+    - (no applicable items)
+
+82. **xxx them feed yet .**
+    - (no applicable items)
+
+83. **you wanna see the fishes ?**
+    - N2: 2 (max reached)
+    - Q1: 22 (max reached)
+
+84. **Arthur .**
+    - N1: 7 (max reached)
+
+85. **my cousin .**
+    - N2: 2 (max reached)
+    - N5: 7 (max reached)
+
+86. **don't you remember .**
+    - N2: 2 (max reached)
+    - V1: 10 (max reached)
+
+87. **no .**
+    - Q3: 7 (max reached)
+
+88. **it didn't rain yesterday .**
+    - N2: 2 (max reached)
+    - V12: 2 (max reached)
+
+89. **I saw them but it was two horsies .**
+    - N2: 2 (max reached)
+    - V12: 3 (max reached)
+
+90. **a boy and a girl was lost .**
+    - N1: 8 (max reached)
+    - V1: 11 (max reached)
+
+91. **a boy .**
+    - N1: 9 (max reached)
+
+92. **<a boy> [//] (.) if this is a boy .**
+    - N2: 2 (max reached)
+    - N5: 8 (max reached)
+    - Q1: 23 (max reached)
+
+93. **I know .**
+    - N2: 2 (max reached)
+    - V1: 12 (max reached)
+
+94. **if this is a horse .**
+    - N2: 2 (max reached)
+    - N5: 9 (max reached)
+
+95. **he didn't say nothin(g) .**
+    - N2: 2 (max reached)
+    - V12: 4 (max reached)
+
+96. **the pigs .**
+    - N1: 10 (max reached)
+
+97. **I don't know .**
+    - N2: 2 (max reached)
+    - V3: 2 (max reached)
+
+98. **what ?**
+    - Q1: 24 (max reached)
+
+99. **a little [/] (.) little (.) pig .**
+    - N1: 11 (max reached)
+
+100. **a little bunnies (.) Easter bunnies .**
+    - N1: 12 (max reached)
+
+Final score:
+N1, 12
+N2, 2
+N3, 0
+N4, 0
+N5, 9
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 12
+V2, 1
+V3, 2
+V4, 2
+V5, 0
+V6, 0
+V7, 1
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 4
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 24
+Q2, 0
+Q3, 7
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

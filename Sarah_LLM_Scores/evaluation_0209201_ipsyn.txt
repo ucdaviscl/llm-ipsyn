@@ -1,0 +1,388 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. Daddy !  
+   - N1: 1  
+   - S1: 1  
+
+2. &-uh Mummy !  
+   - N1: 2 (max reached)  
+   - S1: 2 (max reached)  
+
+3. the circus .  
+   - N5: 1  
+
+4. lions .  
+   - N7: 1  
+
+5. elephant .  
+   - N1: 3 (max reached)  
+
+6. yeah !  
+   - (no applicable items)  
+
+7. nose .  
+   - N1: 4 (max reached)  
+
+8. is a big circus in is .  
+   - N5: 2 (max reached)  
+   - V6: 1  
+
+9. &-um (.) ssh (.) &-uh &-uh .  
+   - (no applicable items)  
+
+10. no .  
+    - (no applicable items)  
+
+11. uhuh .  
+    - (no applicable items)  
+
+12. ten clock .  
+    - N1: 5 (max reached)  
+
+13. ten clock !  
+    - N1: 6 (max reached)  
+
+14. I love you Mother .  
+    - N2: 1  
+    - V1: 1  
+    - N1: 7 (max reached)  
+
+15. red .  
+    - N1: 8 (max reached)  
+
+16. &~a:h see .  
+    - (no applicable items)  
+
+17. ding_dong@o .  
+    - (no applicable items)  
+
+18. pussy dog .  
+    - N1: 9 (max reached)  
+
+19. pussies .  
+    - N7: 2 (max reached)  
+
+20. pussy well .  
+    - N1: 10 (max reached)  
+
+21. the .  
+    - N5: 3 (max reached)  
+
+22. Mary .  
+    - N1: 11 (max reached)  
+
+23. measles .  
+    - N1: 12 (max reached)  
+
+24. weasel .  
+    - N1: 13 (max reached)  
+
+25. pop@o goes the weasel .  
+    - V1: 2 (max reached)  
+    - N5: 4 (max reached)  
+
+26. Seven_up .  
+    - N1: 14 (max reached)  
+
+27. no (.) uhuh .  
+    - Q3: 1  
+
+28. Daddy .  
+    - N1: 15 (max reached)  
+
+29. duck .  
+    - N1: 16 (max reached)  
+
+30. one two three four !  
+    - S1: 3 (max reached)  
+
+31. swim .  
+    - V1: 3 (max reached)  
+
+32. I got any .  
+    - N2: 2 (max reached)  
+    - V1: 4 (max reached)  
+
+33. &-uh &-uh eee .  
+    - (no applicable items)  
+
+34. I want sit down .  
+    - N2: 3 (max reached)  
+    - V1: 5 (max reached)  
+
+35. yes .  
+    - (no applicable items)  
+
+36. please .  
+    - (no applicable items)  
+
+37. no !  
+    - (no applicable items)  
+
+38. it's Seven_up !  
+    - V6: 2 (max reached)  
+    - N1: 17 (max reached)  
+
+39. hello .  
+    - (no applicable items)  
+
+40. xxx bu(nn)ies [?] .  
+    - (no applicable items)  
+
+41. how you ?  
+    - Q2: 1  
+
+42. pretty good .  
+    - (no applicable items)  
+
+43. &-uh here xxx .  
+    - (no applicable items)  
+
+44. yyy is .  
+    - V6: 3 (max reached)  
+
+45. oh .  
+    - (no applicable items)  
+
+46. <her go> [?] way .  
+    - (no applicable items)  
+
+47. rrr@o .  
+    - (no applicable items)  
+
+48. gosh .  
+    - (no applicable items)  
+
+49. mhm .  
+    - (no applicable items)  
+
+50. clowns .  
+    - N1: 18 (max reached)  
+
+51. Bobo clown .  
+    - N1: 19 (max reached)  
+
+52. all fall down .  
+    - (no applicable items)  
+
+53. boom@o .  
+    - (no applicable items)  
+
+54. me .  
+    - N2: 4 (max reached)  
+
+55. you me .  
+    - N2: 5 (max reached)  
+
+56. no (.) a clown .  
+    - Q3: 2 (max reached)  
+
+57. ouch !  
+    - (no applicable items)  
+
+58. I want sing one .  
+    - N2: 6 (max reached)  
+    - V1: 6 (max reached)  
+
+59. table .  
+    - N1: 20 (max reached)  
+
+60. I fall down .  
+    - N2: 7 (max reached)  
+    - V1: 7 (max reached)  
+
+61. my hand .  
+    - N2: 8 (max reached)  
+    - N5: 5 (max reached)  
+
+62. on my head .  
+    - V3: 1  
+
+63. two .  
+    - N1: 21 (max reached)  
+
+64. doctor .  
+    - N1: 22 (max reached)  
+
+65. Doctor_Marx !  
+    - N1: 23 (max reached)  
+
+66. xxx good .  
+    - (no applicable items)  
+
+67. all better .  
+    - (no applicable items)  
+
+68. hello (.) Mummy .  
+    - (no applicable items)  
+
+69. she won't say in (h)ere .  
+    - N2: 9 (max reached)  
+    - V6: 4 (max reached)  
+
+70. in xxx ?  
+    - Q1: 1  
+
+71. in (h)ere .  
+    - (no applicable items)  
+
+72. yeah .  
+    - (no applicable items)  
+
+73. he won't talk .  
+    - N2: 10 (max reached)  
+    - V6: 5 (max reached)  
+
+74. hello may .  
+    - (no applicable items)  
+
+75. you come home ?  
+    - Q1: 2 (max reached)  
+    - N2: 11 (max reached)  
+
+76. &-uh c(l)o(th)es .  
+    - (no applicable items)  
+
+77. xxx you Mumma &-uh c(l)o(th)es ?  
+    - Q1: 3 (max reached)  
+    - N2: 12 (max reached)  
+
+78. xxx &-uh c(l)o(th)es ?  
+    - Q1: 4 (max reached)  
+
+79. my clothes .  
+    - N2: 13 (max reached)  
+    - N5: 6 (max reached)  
+
+80. hello Mommy .  
+    - (no applicable items)  
+
+81. want [?] a one .  
+    - (no applicable items)  
+
+82. I want any .  
+    - N2: 14 (max reached)  
+    - V1: 8 (max reached)  
+
+83. <I want> [/] <I want> [/] I want (.) yyy .  
+    - N2: 15 (max reached)  
+    - V1: 9 (max reached)  
+
+84. I was not .  
+    - N2: 16 (max reached)  
+    - V13: 1  
+
+85. macaroni .  
+    - N1: 24 (max reached)  
+
+86. no (.) I want [?] .  
+    - Q3: 3 (max reached)  
+    - N2: 17 (max reached)  
+    - V1: 10 (max reached)  
+
+87. <&-uh (.) gum> [?] .  
+    - (no applicable items)  
+
+88. pep(permint) [?] .  
+    - (no applicable items)  
+
+89. <I want> [/] I want do it .  
+    - N2: 18 (max reached)  
+    - V1: 11 (max reached)  
+
+90. thank_you .  
+    - (no applicable items)  
+
+91. hey you wick .  
+    - N2: 19 (max reached)  
+
+92. put basket .  
+    - V1: 12 (max reached)  
+
+93. one [?] .  
+    - N1: 25 (max reached)  
+
+94. one two .  
+    - S1: 4 (max reached)  
+
+95. that's two .  
+    - N5: 7 (max reached)  
+
+96. that (.) that one .  
+    - N5: 8 (max reached)  
+
+97. in dere [: there] .  
+    - (no applicable items)  
+
+98. hello (.) Courtney .  
+    - (no applicable items)  
+
+99. hi (.) Gloria .  
+    - (no applicable items)  
+
+100. dat [: that] you (re)corder .  
+    - N2: 20 (max reached)  
+
+Final score:  
+N1, 2  
+N2, 2  
+N3, 0  
+N4, 0  
+N5, 2  
+N6, 2  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 2  
+V2, 0  
+V3, 1  
+V4, 0  
+V5, 0  
+V6, 2  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 1  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 4  
+Q2, 1  
+Q3, 3  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 4  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

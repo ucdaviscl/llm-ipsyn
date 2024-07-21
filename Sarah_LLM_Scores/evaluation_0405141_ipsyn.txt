@@ -1,0 +1,482 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **"yeah ."**  
+   - No applicable items.
+
+2. **"(be)cause look it ."**  
+   - V1: 1 (look)
+
+3. **"see ?"**  
+   - V1: 2 (see)  
+   - Q1: 1 (contains a question mark)
+
+4. **"a lion or a tiger ."**  
+   - N5: 1 (a lion)  
+   - N5: 2 (a tiger)  
+   - S5: 1 (or)
+
+5. **"a tiger !"**  
+   - N5: 1 (a tiger)  
+   - Q1: 1 (contains a question mark)
+
+6. **"y(ou) know ."**  
+   - V1: 1 (know)
+
+7. **"things around it ."**  
+   - N1: 1 (things)  
+   - N3: 1 (around)
+
+8. **"like that (.) lines ."**  
+   - N1: 2 (lines)  
+   - N3: 1 (like that)
+
+9. **"black lines ."**  
+   - N1: 1 (lines)  
+   - N3: 1 (black)
+
+10. **"I jump down ."**  
+    - N2: 1 (I)  
+    - V1: 1 (jump)  
+    - V2: 1 (down)
+
+11. **"no (.) I [//] hey (.) I could make somethin(g) with that ."**  
+    - N2: 2 (I)  
+    - V1: 1 (make)  
+    - V9: 1 (could make)  
+    - V3: 1 (with that)
+
+12. **"that ."**  
+    - N2: 1 (that)
+
+13. **"a pen ."**  
+    - N5: 1 (a pen)
+
+14. **"from me ."**  
+    - V3: 1 (from me)
+
+15. **"I'm goin(g) write somethin(g) with it ."**  
+    - N2: 1 (I)  
+    - V6: 1 (I'm)  
+    - V1: 1 (write)  
+    - V3: 1 (with it)
+
+16. **"I know ."**  
+    - N2: 2 (I)  
+    - V1: 2 (know)
+
+17. **"Melissa don't know how to open it ."**  
+    - N1: 1 (Melissa)  
+    - V3: 1 (to open)  
+    - V3: 1 (it)
+
+18. **"I wrapped it for ya ."**  
+    - N2: 1 (I)  
+    - V1: 1 (wrapped)  
+    - V3: 1 (for ya)
+
+19. **"it turns ."**  
+    - N2: 1 (it)  
+    - V1: 1 (turns)
+
+20. **"okay Chantilly (.) you have the bow ."**  
+    - N2: 1 (you)  
+    - V1: 1 (have)  
+    - N5: 1 (the bow)
+
+21. **"a pen ?"**  
+    - N5: 1 (a pen)  
+    - Q1: 1 (contains a question mark)
+
+22. **"you really need a pen ?"**  
+    - N2: 1 (you)  
+    - V1: 1 (need)  
+    - N5: 1 (a pen)  
+    - Q1: 1 (contains a question mark)
+
+23. **"you can't write it good ."**  
+    - N2: 1 (you)  
+    - V1: 1 (can't write)  
+    - V3: 1 (it good)
+
+24. **"s@l a@l r@l (.) &-um (.) a@l m@l ."**  
+    - No applicable items.
+
+25. **"spells &-um (.) Donna ."**  
+    - V1: 1 (spells)  
+    - N1: 1 (Donna)
+
+26. **"it spells (.) her name ."**  
+    - N2: 1 (it)  
+    - V1: 1 (spells)  
+    - N5: 1 (her name)
+
+27. **"her name (.) that name ."**  
+    - N5: 1 (her name)  
+    - N5: 1 (that name)
+
+28. **"spells (.) my name ."**  
+    - V1: 1 (spells)  
+    - N5: 1 (my name)
+
+29. **"I can write it ."**  
+    - N2: 1 (I)  
+    - V9: 1 (can write)  
+    - V3: 1 (it)
+
+30. **"which end ?"**  
+    - Q1: 1 (contains a question mark)
+
+31. **"alright ."**  
+    - No applicable items.
+
+32. **"can't you write yours ?"**  
+    - N2: 1 (you)  
+    - V1: 1 (can't write)  
+    - Q1: 1 (contains a question mark)
+
+33. **"how ?"**  
+    - Q2: 1 (routine question)
+
+34. **"&-uh (.) this how you make a l@l ?"**  
+    - N2: 1 (you)  
+    - V1: 1 (make)  
+    - Q1: 1 (contains a question mark)
+
+35. **"i@l ?"**  
+    - Q1: 1 (contains a question mark)
+
+36. **"I can make s@l ."**  
+    - N2: 1 (I)  
+    - V1: 1 (can make)
+
+37. **"just go that way ."**  
+    - V1: 1 (go)
+
+38. **"o:h ."**  
+    - No applicable items.
+
+39. **"are you stupid ?"**  
+    - N2: 1 (you)  
+    - V1: 1 (are)  
+    - Q1: 1 (contains a question mark)
+
+40. **"a wise guy ."**  
+    - N5: 1 (a wise guy)
+
+41. **"how [?] my [?] get in here ?"**  
+    - Q1: 1 (contains a question mark)
+
+42. **"did it go ?"**  
+    - V1: 1 (did go)  
+    - Q1: 1 (contains a question mark)
+
+43. **"dat [: that's] s@l ."**  
+    - No applicable items.
+
+44. **"there ."**  
+    - No applicable items.
+
+45. **"I [?] got [?] your pen ."**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+    - N5: 1 (your pen)
+
+46. **"I color all blue (.) alright ?"**  
+    - N2: 1 (I)  
+    - V1: 1 (color)  
+    - Q1: 1 (contains a question mark)
+
+47. **"I can get this out ."**  
+    - N2: 1 (I)  
+    - V1: 1 (can get)  
+    - V3: 1 (this out)
+
+48. **"I wanna show it Daddy ."**  
+    - N2: 1 (I)  
+    - V1: 1 (wanna show)  
+    - V3: 1 (it Daddy)
+
+49. **"let me see ."**  
+    - V1: 1 (let)  
+    - V1: 1 (see)
+
+50. **"hey ."**  
+    - No applicable items.
+
+51. **"that's a different one ."**  
+    - N2: 1 (that)  
+    - V1: 1 (that's)  
+    - N5: 1 (a different one)
+
+52. **"no ."**  
+    - No applicable items.
+
+53. **"you get it ."**  
+    - N2: 1 (you)  
+    - V1: 1 (get)  
+    - V3: 1 (it)
+
+54. **"mm ."**  
+    - No applicable items.
+
+55. **"mm wise guy ."**  
+    - N1: 1 (wise guy)
+
+56. **"<will you> [//] y(ou) know what I'm goin(g) make now ?"**  
+    - N2: 2 (you)  
+    - V1: 1 (know)  
+    - V1: 1 (make)  
+    - Q1: 1 (contains a question mark)
+
+57. **"where is it ?"**  
+    - Q1: 1 (contains a question mark)
+
+58. **"hey (.) it stick to my dress ."**  
+    - N2: 1 (it)  
+    - V1: 1 (stick)  
+    - N5: 1 (my dress)
+
+59. **"(be)cause it have both lines (.) I guess ."**  
+    - N2: 1 (it)  
+    - V1: 1 (have)  
+    - N1: 1 (lines)
+
+60. **"<I get a> [//] y(ou) know what I'm goin(g) do now ?"**  
+    - N2: 2 (you)  
+    - V1: 1 (know)  
+    - V1: 1 (do)  
+    - Q1: 1 (contains a question mark)
+
+61. **"I can't tell ya after I make ."**  
+    - N2: 1 (I)  
+    - V1: 1 (can't tell)  
+    - V1: 1 (make)
+
+62. **"<it's somethin(g)> [//] I need white (a)n(d) black ."**  
+    - N2: 1 (I)  
+    - V1: 1 (need)  
+    - N3: 1 (white)  
+    - N3: 1 (black)
+
+63. **"white (a)n(d) black ."**  
+    - N3: 1 (white)  
+    - N3: 1 (black)
+
+64. **"never mind ."**  
+    - No applicable items.
+
+65. **"guess ."**  
+    - V1: 1 (guess)
+
+66. **"a apple ."**  
+    - N5: 1 (a apple)
+
+67. **"a cherry's like this ."**  
+    - N5: 1 (a cherry's)
+
+68. **"like that (.) see ?"**  
+    - V1: 1 (see)  
+    - Q1: 1 (contains a question mark)
+
+69. **"it has bees in it ."**  
+    - N2: 1 (it)  
+    - V1: 1 (has)  
+    - N1: 1 (bees)
+
+70. **"bees ."**  
+    - N1: 1 (bees)
+
+71. **"I think I'll make &-um (.) a rabbit ."**  
+    - N2: 1 (I)  
+    - V1: 1 (think)  
+    - V1: 1 (make)  
+    - N5: 1 (a rabbit)
+
+72. **"(.) can rabbits have a birthday hat on ?"**  
+    - V1: 1 (can have)  
+    - N1: 1 (rabbits)  
+    - Q1: 1 (contains a question mark)
+
+73. **"he's cryin(g) ."**  
+    - N2: 1 (he)  
+    - V1: 1 (crying)
+
+74. **"because he's not glad it's not his birthday ."**  
+    - N2: 1 (he)  
+    - V1: 1 (is)  
+    - N5: 1 (his birthday)
+
+75. **"he wanted somebody else (.) get a birthday ."**  
+    - N2: 1 (he)  
+    - V1: 1 (wanted)  
+    - V1: 1 (get)
+
+76. **"now he's happier (.) see ?"**  
+    - N2: 1 (he)  
+    - V1: 1 (is)  
+    - Q1: 1 (contains a question mark)
+
+77. **"&-um (.) first ya gotta make (.) a big long one ."**  
+    - N2: 1 (ya)  
+    - V1: 1 (gotta make)  
+    - N3: 1 (big long one)
+
+78. **"that's a girl (.) not a <&~sh> [//] he ."**  
+    - N2: 1 (that)  
+    - V1: 1 (is)  
+    - N5: 1 (a girl)
+
+79. **"arm ."**  
+    - N1: 1 (arm)
+
+80. **"now (.) make a feet ."**  
+    - V1: 1 (make)  
+    - N5: 1 (a feet)
+
+81. **"that's how you make the feet ."**  
+    - N2: 1 (you)  
+    - V1: 1 (make)  
+    - N5: 1 (the feet)
+
+82. **"now make the presents ."**  
+    - V1: 1 (make)  
+    - N5: 1 (the presents)
+
+83. **"now you make presents ?"**  
+    - N2: 1 (you)  
+    - V1: 1 (make)  
+    - Q1: 1 (contains a question mark)
+
+84. **"wait a minute ."**  
+    - No applicable items.
+
+85. **"that's how you make a box ."**  
+    - N2: 1 (you)  
+    - V1: 1 (make)  
+    - N5: 1 (a box)
+
+86. **"&-um (.) clothes ."**  
+    - N1: 1 (clothes)
+
+87. **"know what kind o(f) clothes ?"**  
+    - V1: 1 (know)  
+    - Q1: 1 (contains a question mark)
+
+88. **"&-um (.) handkerchiefs clothes ."**  
+    - N1: 1 (handkerchiefs)  
+    - N1: 1 (clothes)
+
+89. **"now dis [: this] is a toy ."**  
+    - N2: 1 (this)  
+    - V1: 1 (is)  
+    - N5: 1 (a toy)
+
+90. **"<he's a> [//] open it ."**  
+    - N2: 1 (he)  
+    - V1: 1 (is)  
+    - V3: 1 (open it)
+
+91. **"he got a book ."**  
+    - N2: 1 (he)  
+    - V1: 1 (got)  
+    - N5: 1 (a book)
+
+92. **"dis [: this] is a book ."**  
+    - N2: 1 (this)  
+    - V1: 1 (is)  
+    - N5: 1 (a book)
+
+93. **"how (a)bout a rabbit for him ?"**  
+    - Q1: 1 (contains a question mark)
+
+94. **"a rabbit for a present ."**  
+    - N5: 1 (a rabbit)  
+    - N5: 1 (a present)
+
+95. **"right ?"**  
+    - Q1: 1 (contains a question mark)
+
+96. **"a rabbit ."**  
+    - N5: 1 (a rabbit)
+
+97. **"a rabbit for a rabbit ?"**  
+    - N5: 1 (a rabbit)  
+    - Q1: 1 (contains a question mark)
+
+98. **"<a rabbit for a ra(bbit)> [//] so what ?"**  
+    - N5: 1 (a rabbit)  
+    - Q1: 1 (contains a question mark)
+
+99. **"how (a)bout a little one ?"**  
+    - Q1: 1 (contains a question mark)
+
+100. **"she has a farm ."**  
+    - N2: 1 (she)  
+    - V1: 1 (has)  
+    - N5: 1 (a farm)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 8  
+N2, 12  
+N3, 6  
+N4, 0  
+N5, 12  
+N6, 0  
+N7, 0  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 20  
+V2, 0  
+V3, 8  
+V4, 0  
+V5, 0  
+V6, 2  
+V7, 2  
+V8, 0  
+V9, 2  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 14  
+Q2, 3  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 1  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

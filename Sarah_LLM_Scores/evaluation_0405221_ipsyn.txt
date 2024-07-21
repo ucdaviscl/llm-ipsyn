@@ -1,0 +1,553 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. I'll show you my Baby_Boo .  
+   - N1: 1 (Baby_Boo)  
+   - N5: 1 (my Baby_Boo)  
+   - V1: 1 (show)  
+   - S2: 1 (I'll show)  
+
+2. see my carriage over there ?  
+   - N1: 1 (carriage)  
+   - N5: 1 (my carriage)  
+   - V1: 1 (see)  
+   - Q1: 1  
+
+3. well (.) that's my Baby_Boo .  
+   - N1: 1 (Baby_Boo)  
+   - N5: 1 (my Baby_Boo)  
+   - V4: 1 (that's)  
+   - S2: 1 (that's)  
+
+4. doesn't she look like Baby_Boo ?  
+   - N1: 1 (Baby_Boo)  
+   - V1: 1 (look)  
+   - V9: 1 (doesn't)  
+   - Q1: 1  
+
+5. take the pacifier out .  
+   - N1: 1 (pacifier)  
+   - N5: 1 (the pacifier)  
+   - V1: 1 (take)  
+   - S3: 1 (take the pacifier)  
+
+6. put it in now .  
+   - N2: 1 (it)  
+   - V1: 1 (put)  
+   - V3: 1 (in)  
+   - S3: 1 (put it)  
+
+7. she did stop after you put the pacifier in .  
+   - N1: 1 (pacifier)  
+   - N2: 1 (she)  
+   - V1: 1 (stop)  
+   - V12: 1 (did)  
+   - S4: 1 (she did stop)  
+
+8. Janice was there .  
+   - N1: 1 (Janice)  
+   - V6: 1 (was)  
+   - S2: 1 (Janice was)  
+
+9. Janice .  
+   - N1: 1 (Janice)  
+   - S1: 1 (Janice)  
+
+10. our teacher (.) new teacher .  
+    - N1: 1 (teacher)  
+    - N5: 1 (our teacher)  
+    - N1: 1 (teacher)  
+    - S1: 1 (new teacher)  
+
+11. yeah .  
+    - S1: 1 (yeah)  
+
+12. not (.) &-um Barbara .  
+    - N2: 1 (Barbara)  
+    - Q3: 1 (not)  
+
+13. Barbara .  
+    - N1: 1 (Barbara)  
+    - S1: 1 (Barbara)  
+
+14. Barbara (.) (a)n(d) she has a kid name &-um (.) Janice .  
+    - N1: 1 (Barbara)  
+    - N2: 1 (she)  
+    - N5: 1 (a kid)  
+    - V1: 1 (has)  
+    - N1: 1 (Janice)  
+    - S4: 1 (she has a kid)  
+
+15. I'm goin(g) write today .  
+    - V6: 1 (I'm)  
+    - V1: 1 (write)  
+    - S2: 1 (I'm going)  
+
+16. no (.) we didn't sing any songs .  
+    - N2: 1 (we)  
+    - V1: 1 (sing)  
+    - V12: 1 (didn't)  
+    - N7: 1 (songs)  
+    - S4: 1 (we didn't sing)  
+
+17. bumbumbumbum@c (.) bumbum@c .  
+    - S1: 1 (bumbumbumbum)  
+
+18. you gotta see this one .  
+    - N2: 1 (you)  
+    - N5: 1 (this one)  
+    - V1: 1 (see)  
+    - V9: 1 (gotta)  
+    - S2: 1 (you gotta)  
+
+19. open it .  
+    - N2: 1 (it)  
+    - V1: 1 (open)  
+    - S2: 1 (open it)  
+
+20. that's the way the (.) candy goes .  
+    - N1: 1 (candy)  
+    - N5: 1 (the way)  
+    - V1: 1 (goes)  
+    - S2: 1 (that's the way)  
+
+21. it goes down .  
+    - N2: 1 (it)  
+    - V1: 1 (goes)  
+    - S2: 1 (it goes)  
+
+22. down town .  
+    - S1: 1 (down town)  
+
+23. yup (.) (be)cause I don't like this one .  
+    - N2: 1 (I)  
+    - V3: 1 (like)  
+    - V3: 1 (don't)  
+    - N5: 1 (this one)  
+    - S2: 1 (I don't like)  
+
+24. like (.) chocolate .  
+    - N1: 1 (chocolate)  
+    - V1: 1 (like)  
+    - S2: 1 (like chocolate)  
+
+25. see the peanuts ?  
+    - N1: 1 (peanuts)  
+    - N5: 1 (the peanuts)  
+    - V1: 1 (see)  
+    - Q1: 1  
+
+26. I'll get em out .  
+    - N2: 1 (em)  
+    - V1: 1 (get)  
+    - S2: 1 (I'll get)  
+
+27. huh ?  
+    - Q1: 1  
+
+28. what ?  
+    - Q1: 1  
+
+29. he doesn't go to work no more .  
+    - N2: 1 (he)  
+    - V1: 1 (go)  
+    - V9: 1 (doesn't)  
+    - S2: 1 (he doesn't go)  
+
+30. uhuh .  
+    - S1: 1 (uhuh)  
+
+31. he got on the fireman (de)partment .  
+    - N2: 1 (he)  
+    - V12: 1 (got)  
+    - N1: 1 (department)  
+    - S2: 1 (he got)  
+
+32. I was .  
+    - N2: 1 (I)  
+    - V6: 1 (was)  
+    - S2: 1 (I was)  
+
+33. colors .  
+    - N7: 1 (colors)  
+    - S1: 1 (colors)  
+
+34. I can wipe my hands right here .  
+    - N2: 1 (I)  
+    - N5: 1 (my hands)  
+    - V1: 1 (wipe)  
+    - S2: 1 (I can wipe)  
+
+35. uhhuh .  
+    - S1: 1 (uhhuh)  
+
+36. unless they hurt .  
+    - N2: 1 (they)  
+    - V1: 1 (hurt)  
+    - S2: 1 (they hurt)  
+
+37. not really (.) though .  
+    - Q3: 1 (not)  
+    - S1: 1 (not really)  
+
+38. doodoodoodoodoodoodoodoodoodoo@b .  
+    - S1: 1 (doodoodoodoodoodoodoodoodoodoo)  
+
+39. look it .  
+    - N2: 1 (it)  
+    - V1: 1 (look)  
+    - S2: 1 (look it)  
+
+40. a doll .  
+    - N1: 1 (doll)  
+    - N5: 1 (a doll)  
+    - S1: 1 (a doll)  
+
+41. it should stand up .  
+    - N2: 1 (it)  
+    - V1: 1 (should)  
+    - S2: 1 (it should)  
+
+42. for stand up .  
+    - S1: 1 (for stand up)  
+
+43. un@c (.) see ya slip it in .  
+    - N2: 1 (ya)  
+    - V1: 1 (see)  
+    - S2: 1 (see ya)  
+
+44. like dat [: that] (.) see ?  
+    - V1: 1 (see)  
+    - Q1: 1  
+
+45. that ain't a skirt .  
+    - N5: 1 (a skirt)  
+    - V7: 1 (ain't)  
+    - S2: 1 (that ain't)  
+
+46. that's a pants .  
+    - N5: 1 (a pants)  
+    - V4: 1 (that's)  
+    - S2: 1 (that's a)  
+
+47. that's a dress .  
+    - N5: 1 (a dress)  
+    - V4: 1 (that's)  
+    - S2: 1 (that's a)  
+
+48. mhm (.) no .  
+    - Q3: 1 (no)  
+    - S1: 1 (mhm no)  
+
+49. maybe she'll stand up like that .  
+    - N2: 1 (she)  
+    - V1: 1 (stand)  
+    - S2: 1 (she'll stand)  
+
+50. she won't stand up like that (.) huh ?  
+    - N2: 1 (she)  
+    - V1: 1 (won't)  
+    - S2: 1 (she won't)  
+    - Q1: 1  
+
+51. she'll fall down .  
+    - N2: 1 (she)  
+    - V1: 1 (fall)  
+    - S2: 1 (she'll fall)  
+
+52. I'll put it on .  
+    - N2: 1 (it)  
+    - V1: 1 (put)  
+    - S2: 1 (I'll put)  
+
+53. does she look graceful like that to you ?  
+    - N2: 1 (she)  
+    - V1: 1 (look)  
+    - Q1: 1  
+
+54. good .  
+    - S1: 1 (good)  
+
+55. like dat [: that] ?  
+    - Q1: 1  
+
+56. alright I'll put the bangs in (.) alright ?  
+    - N2: 1 (I)  
+    - N5: 1 (the bangs)  
+    - V1: 1 (put)  
+    - Q1: 1  
+
+57. I'll hold her .  
+    - N2: 1 (her)  
+    - V1: 1 (hold)  
+    - S2: 1 (I'll hold)  
+
+58. if you hold her (.) I'll give you a nickel (.) alright ?  
+    - N2: 1 (you)  
+    - V1: 1 (hold)  
+    - S2: 1 (you hold)  
+    - Q1: 1  
+
+59. a nickel .  
+    - N1: 1 (nickel)  
+    - N5: 1 (a nickel)  
+    - S1: 1 (a nickel)  
+
+60. there .  
+    - S1: 1 (there)  
+
+61. she look good ?  
+    - N2: 1 (she)  
+    - V10: 1 (look)  
+    - Q1: 1  
+
+62. how (a)bout this (.) to stand up ?  
+    - Q2: 1 (how about)  
+    - Q1: 1  
+
+63. see (.) she could stand up like this .  
+    - N2: 1 (she)  
+    - V1: 1 (could)  
+    - S2: 1 (she could)  
+
+64. see ?  
+    - V1: 1 (see)  
+    - Q1: 1  
+
+65. deedoodoodeedee@b .  
+    - S1: 1 (deedoodoodeedee)  
+
+66. deeddeedee@b .  
+    - S1: 1 (deeddeedee)  
+
+67. a little dress ?  
+    - N1: 1 (dress)  
+    - N5: 1 (a little dress)  
+    - Q1: 1  
+
+68. only it doesn't have (.) like that .  
+    - N2: 1 (it)  
+    - V1: 1 (have)  
+    - V9: 1 (doesn't)  
+    - S2: 1 (it doesn't have)  
+
+69. xxx stand up it .  
+    - S1: 1 (xxx stand up)  
+
+70. <I wanna> [//] I wanna hold her .  
+    - N2: 1 (I)  
+    - V1: 1 (wanna)  
+    - S2: 1 (I wanna)  
+
+71. I don't want it .  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - V3: 1 (don't)  
+    - S2: 1 (I don't want)  
+
+72. oh lalalala@b .  
+    - S1: 1 (oh lalalala)  
+
+73. she's ice-skate .  
+    - N2: 1 (she)  
+    - V1: 1 (ice-skate)  
+    - S2: 1 (she's ice-skate)  
+
+74. deedeedee@b .  
+    - S1: 1 (deedeedee)  
+
+75. ohohohoh@b .  
+    - S1: 1 (ohohohoh)  
+
+76. <wa(tch)> [//] watch her .  
+    - N2: 1 (her)  
+    - V1: 1 (watch)  
+    - S2: 1 (watch her)  
+
+77. this is a valentine (.) watch .  
+    - N1: 1 (valentine)  
+    - N5: 1 (a valentine)  
+    - V4: 1 (is)  
+    - S2: 1 (this is)  
+
+78. see (.) it's a valentine doll (.) look .  
+    - N1: 1 (doll)  
+    - N5: 1 (a valentine doll)  
+    - V1: 1 (see)  
+    - V4: 1 (it's)  
+    - S2: 1 (it's a valentine)  
+
+79. hi everyone .  
+    - S1: 1 (hi everyone)  
+
+80. I'm Minnie .  
+    - N2: 1 (I)  
+    - N1: 1 (Minnie)  
+    - V6: 1 (I'm)  
+    - S2: 1 (I'm Minnie)  
+
+81. hey .  
+    - S1: 1 (hey)  
+
+82. I wanna xxx .  
+    - N2: 1 (I)  
+    - V1: 1 (wanna)  
+    - S2: 1 (I wanna)  
+
+83. that one broke .  
+    - N1: 1 (one)  
+    - N5: 1 (that one)  
+    - V12: 1 (broke)  
+    - S2: 1 (that one broke)  
+
+84. watch me .  
+    - N2: 1 (me)  
+    - V1: 1 (watch)  
+    - S2: 1 (watch me)  
+
+85. this fits me .  
+    - N2: 1 (me)  
+    - N5: 1 (this)  
+    - V1: 1 (fits)  
+    - S2: 1 (this fits)  
+
+86. this fits me watch .  
+    - N2: 1 (me)  
+    - N5: 1 (this)  
+    - V1: 1 (fits)  
+    - S2: 1 (this fits)  
+
+87. look .  
+    - V1: 1 (look)  
+    - S1: 1 (look)  
+
+88. the hat .  
+    - N1: 1 (hat)  
+    - N5: 1 (the hat)  
+    - S1: 1 (the hat)  
+
+89. where's Buster ?  
+    - N1: 1 (Buster)  
+    - V4: 1 (where's)  
+    - Q1: 1  
+
+90. oh he's gone .  
+    - N2: 1 (he)  
+    - V6: 1 (he's)  
+    - V12: 1 (gone)  
+    - S2: 1 (he's gone)  
+
+91. I'll put this on my head .  
+    - N2: 1 (I)  
+    - N5: 1 (this)  
+    - V1: 1 (put)  
+    - S2: 1 (I'll put)  
+
+92. oh (.) dis [: this] is my hat .  
+    - N1: 1 (hat)  
+    - N5: 1 (my hat)  
+    - V4: 1 (is)  
+    - S2: 1 (dis is my)  
+
+93. try to break this .  
+    - N1: 1 (this)  
+    - V8: 1 (try)  
+    - S2: 1 (try to break)  
+
+94. try to break it .  
+    - N2: 1 (it)  
+    - V8: 1 (try)  
+    - S2: 1 (try to break)  
+
+95. can she break this ?  
+    - N2: 1 (she)  
+    - V1: 1 (break)  
+    - Q1: 1  
+
+96. &-uh (.) <I'll> [//] I'll keep it clean .  
+    - N2: 1 (I)  
+    - N2: 1 (it)  
+    - V1: 1 (keep)  
+    - S2: 1 (I'll keep)  
+
+97. mm .  
+    - S1: 1 (mm)  
+
+98. alright I'll have tunafish now [?] .  
+    - N2: 1 (I)  
+    - N1: 1 (tunafish)  
+    - V1: 1 (have)  
+    - S2: 1 (I'll have)  
+
+99. hi .  
+    - S1: 1 (hi)  
+
+100. because .  
+    - S1: 1 (because)  
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 14
+N2, 12
+N3, 0
+N4, 0
+N5, 10
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 0
+V4, 5
+V5, 0
+V6, 5
+V7, 0
+V8, 2
+V9, 0
+V10, 1
+V11, 0
+V12, 3
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 2
+Q3, 3
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 20
+S2, 20
+S3, 5
+S4, 10
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

@@ -1,0 +1,471 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **ice_cream .**  
+   - N1: 1 (ice_cream)
+
+2. **yes .**  
+   - No applicable items.
+
+3. **I want ice_cream .**  
+   - N2: 1 (I)  
+   - V1: 1 (want)  
+   - N1: 2 (ice_cream)  
+
+4. **right dere [: there] .**  
+   - N1: 1 (dere)  
+
+5. **in (h)ere .**  
+   - V3: 1 (in)  
+
+6. **I put .**  
+   - N2: 2 (I)  
+   - V1: 1 (put)  
+
+7. **we froze it .**  
+   - N2: 1 (we)  
+   - V12: 1 (froze)  
+   - N1: 1 (it)  
+
+8. **it cold .**  
+   - N1: 1 (it)  
+   - V4: 1 (is cold)  
+
+9. **it cold (.) Mummy .**  
+   - N2: 1 (it)  
+   - N1: 1 (Mummy)  
+
+10. **xxx cold .**  
+    - N1: 1 (cold)  
+
+11. **her fix my ice_cream .**  
+    - N2: 1 (her)  
+    - V1: 1 (fix)  
+    - N5: 1 (my ice_cream)  
+
+12. **Mummy !**  
+    - N1: 1 (Mummy)  
+
+13. **happen .**  
+    - V1: 1 (happen)  
+
+14. **a motorcycle .**  
+    - N5: 1 (a motorcycle)  
+
+15. **a street .**  
+    - N5: 1 (a street)  
+
+16. **in heaven .**  
+    - V3: 1 (in heaven)  
+
+17. **red .**  
+    - N3: 1 (red)  
+
+18. **Mommy girl !**  
+    - N1: 1 (Mommy)  
+    - N1: 1 (girl)  
+
+19. **Mommy girl .**  
+    - N1: 1 (Mommy)  
+    - N1: 1 (girl)  
+
+20. **a yyy .**  
+    - N5: 1 (a yyy)  
+
+21. **&-uh (.) shovel .**  
+    - N1: 1 (shovel)  
+
+22. **a me did that ?**  
+    - N5: 1 (a me)  
+    - Q1: 1 (question mark)  
+
+23. **orange [?] !**  
+    - N1: 1 (orange)  
+
+24. **Russell [?] .**  
+    - N1: 1 (Russell)  
+
+25. **play .**  
+    - V1: 1 (play)  
+
+26. **yard .**  
+    - N1: 1 (yard)  
+
+27. **my shovel .**  
+    - N5: 1 (my shovel)  
+
+28. **white .**  
+    - N3: 1 (white)  
+
+29. **dat [: that] white dere [: there] .**  
+    - N1: 1 (dat)  
+    - N3: 1 (white)  
+    - N1: 1 (dere)  
+
+30. **I like dis [: this] .**  
+    - N2: 1 (I)  
+    - V1: 1 (like)  
+    - N1: 1 (dis)  
+
+31. **a buy new one .**  
+    - N5: 1 (a buy)  
+    - N1: 1 (one)  
+
+32. **big (.) big (.) big .**  
+    - N3: 1 (big)  
+
+33. **U(ncle)z_Tommy .**  
+    - N1: 1 (U(ncle)z_Tommy)  
+
+34. **a boats !**  
+    - N5: 1 (a boats)  
+
+35. **a ducks !**  
+    - N5: 1 (a ducks)  
+
+36. **two .**  
+    - N1: 1 (two)  
+
+37. **you wait .**  
+    - N2: 1 (you)  
+    - V1: 1 (wait)  
+
+38. **see all_gone .**  
+    - V1: 1 (see)  
+    - N1: 1 (all_gone)  
+
+39. **wawa gone .**  
+    - N1: 1 (wawa)  
+    - V1: 1 (gone)  
+
+40. **ducks (.) all_gone .**  
+    - N1: 1 (ducks)  
+    - N1: 1 (all_gone)  
+
+41. **uhuh .**  
+    - No applicable items.
+
+42. **Daddy .**  
+    - N1: 1 (Daddy)  
+
+43. **go (a)way .**  
+    - V1: 1 (go)  
+
+44. **man took it .**  
+    - N1: 1 (man)  
+    - V12: 1 (took)  
+    - N1: 1 (it)  
+
+45. **xxx sink .**  
+    - N1: 1 (sink)  
+
+46. **cup .**  
+    - N1: 1 (cup)  
+
+47. **I want get down .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - V1: 1 (get)  
+
+48. **xxx two sinks .**  
+    - N1: 1 (two sinks)  
+
+49. **jingle bells .**  
+    - N1: 1 (jingle bells)  
+
+50. **go way .**  
+    - V1: 1 (go)  
+
+51. **all the way .**  
+    - N5: 1 (all the way)  
+
+52. **oh what fun .**  
+    - N1: 1 (fun)  
+
+53. **xxx ride .**  
+    - V1: 1 (ride)  
+
+54. **sleigh .**  
+    - N1: 1 (sleigh)  
+
+55. **where xxx .**  
+    - Q2: 1 (where)  
+
+56. **where xxx go ?**  
+    - Q1: 1 (question mark)  
+    - Q2: 1 (where)  
+
+57. **see dis [: this] .**  
+    - V1: 1 (see)  
+    - N1: 1 (dis)  
+
+58. **rake .**  
+    - N1: 1 (rake)  
+
+59. **a hoe .**  
+    - N5: 1 (a hoe)  
+
+60. **grass .**  
+    - N1: 1 (grass)  
+
+61. **dis [: this] a dirt .**  
+    - N5: 1 (dis a dirt)  
+
+62. **dis [: this] is .**  
+    - N2: 1 (dis)  
+    - V4: 1 (is)  
+
+63. **me .**  
+    - N2: 1 (me)  
+
+64. **no .**  
+    - N3: 1 (no)  
+
+65. **food .**  
+    - N1: 1 (food)  
+
+66. **lettuce .**  
+    - N1: 1 (lettuce)  
+
+67. **I got lettuce .**  
+    - N2: 1 (I)  
+    - V12: 1 (got)  
+    - N1: 1 (lettuce)  
+
+68. **where lettuce .**  
+    - Q2: 1 (where)  
+
+69. **xxx lettuce up dere [: there] .**  
+    - N1: 1 (lettuce)  
+
+70. **hey you .**  
+    - N2: 1 (you)  
+
+71. **xxx <Mummy (.) Mummy> [/] (.) Mummy .**  
+    - N1: 1 (Mummy)  
+
+72. **here (.) Mummy .**  
+    - N1: 1 (Mummy)  
+
+73. **xxx potatoes .**  
+    - N1: 1 (potatoes)  
+
+74. **chipees@c .**  
+    - N1: 1 (chipees@c)  
+
+75. **fix my swing .**  
+    - V1: 1 (fix)  
+    - N5: 1 (my swing)  
+
+76. **Mommy .**  
+    - N1: 1 (Mommy)  
+
+77. **I want play dollie .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - V1: 1 (play)  
+    - N1: 1 (dollie)  
+
+78. **I want dis [: this] .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - N1: 1 (dis)  
+
+79. **tags .**  
+    - N1: 1 (tags)  
+
+80. **tag .**  
+    - N1: 1 (tag)  
+
+81. **table .**  
+    - N1: 1 (table)  
+
+82. **I show you .**  
+    - N2: 1 (I)  
+    - V1: 1 (show)  
+    - N2: 1 (you)  
+
+83. **woe !**  
+    - No applicable items.
+
+84. **I want go xxx play yard .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - V1: 1 (go)  
+    - N1: 1 (play yard)  
+
+85. **xxx dis [: this] .**  
+    - N1: 1 (dis)  
+
+86. **oh my .**  
+    - No applicable items.
+
+87. **xxx (.) xxx my xxx .**  
+    - No applicable items.
+
+88. **ow (.) my finger xxx .**  
+    - N2: 1 (my)  
+    - N1: 1 (finger)  
+
+89. **finger .**  
+    - N1: 1 (finger)  
+
+90. **right here .**  
+    - N1: 1 (here)  
+
+91. **&~n nothing !**  
+    - N1: 1 (nothing)  
+
+92. **yes !**  
+    - No applicable items.
+
+93. **where bird .**  
+    - Q2: 1 (where)  
+    - N1: 1 (bird)  
+
+94. **all_gone .**  
+    - N1: 1 (all_gone)  
+
+95. **bird .**  
+    - N1: 1 (bird)  
+
+96. **whoop day xxx .**  
+    - No applicable items.
+
+97. **byebye (.) xxx bus .**  
+    - N1: 1 (bus)  
+
+98. **I want bus .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - N1: 1 (bus)  
+
+99. **hi (.) bus .**  
+    - N1: 1 (bus)  
+
+100. **I want bath .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - N1: 1 (bath)  
+
+Now, let's compile the scores:
+
+- N1: 20
+- N2: 10
+- N3: 5
+- N4: 0
+- N5: 8
+- N6: 0
+- N7: 0
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 15
+- V2: 0
+- V3: 3
+- V4: 2
+- V5: 0
+- V6: 0
+- V7: 0
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 3
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- Q1: 3
+- Q2: 4
+- Q3: 0
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 0
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2
+N2, 2
+N3, 2
+N4, 0
+N5, 2
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 2
+V5, 0
+V6, 0
+V7, 0
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 2
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+Q1, 2
+Q2, 2
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

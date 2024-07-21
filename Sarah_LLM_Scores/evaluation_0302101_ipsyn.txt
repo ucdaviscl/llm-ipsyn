@@ -1,0 +1,423 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **that's a bird .**
+   - N1: 1 (bird)
+   - V4: 1 (that's = that is)
+
+2. **wait a minute (.) I gotta ge(t) a book .**
+   - N1: 1 (minute)
+   - N5: 1 (a book)
+   - V1: 1 (gotta = got to)
+
+3. **I ge(t) book .**
+   - N1: 1 (book)
+   - V1: 1 (get)
+
+4. **wai(t) fo(r) me .**
+   - V1: 1 (wait)
+
+5. **the [//] there yyy .**
+   - N5: 1 (the)
+
+6. **yyy xxx there is a there .**
+   - N5: 1 (a there)
+   - V6: 1 (is)
+
+7. **there is (.) a kite .**
+   - N1: 1 (kite)
+   - V6: 1 (is)
+
+8. **once upon a time (.) <the rabbit> [/] the ra(bbit) .**
+   - N1: 1 (rabbit)
+
+9. **once there was a bear .**
+   - N1: 1 (bear)
+   - V6: 1 (was)
+
+10. **and dat [: that] all fell down .**
+    - V1: 1 (fell)
+
+11. **blue (.) tha(t)'s blue .**
+    - N1: 1 (blue)
+    - V4: 1 (that's = that is)
+
+12. **&-uh (.) pink .**
+    - N1: 1 (pink)
+
+13. **xxx tha(t)'s black [/] black .**
+    - N1: 1 (black)
+    - V4: 1 (that's = that is)
+
+14. **wha(t) color dis [: this] ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+15. **purple .**
+    - N1: 1 (purple)
+
+16. **huh ?**
+    - Q1: 1 (contains a question mark)
+
+17. **xxx down a beach .**
+    - N5: 1 (a beach)
+
+18. **xxx met ya .**
+    - V1: 1 (met)
+
+19. **I be right back .**
+    - V1: 1 (be)
+
+20. **xxx Mommy xxx .**
+    - N1: 1 (Mommy)
+
+21. **you fin(d) em (.) I can('t) fin(d) em .**
+    - N2: 1 (you)
+    - V1: 1 (find)
+    - V3: 1 (find em)
+
+22. **I can't fin(d) em xxx in there .**
+    - N2: 1 (I)
+    - V1: 1 (can't find)
+
+23. **I saw it (.) somewhere .**
+    - N2: 1 (I)
+    - N1: 1 (somewhere)
+    - V1: 1 (saw)
+
+24. **yyy case .**
+    - N1: 1 (case)
+
+25. **xxx here .**
+    - N1: 1 (here)
+
+26. **wai(t) .**
+    - V1: 1 (wait)
+
+27. **yeah .**
+    - (no applicable items)
+
+28. **you foun(d) dem [: them] .**
+    - N2: 1 (you)
+    - V1: 1 (found)
+
+29. **glove [?] .**
+    - N1: 1 (glove)
+
+30. **these are gloves .**
+    - N5: 1 (these)
+    - N7: 1 (gloves)
+    - V4: 1 (are)
+
+31. **this a Bam_Bam .**
+    - N5: 1 (a Bam_Bam)
+    - V4: 1 (is)
+
+32. **o:h (.) hello day .**
+    - N1: 1 (day)
+
+33. **hello .**
+    - (no applicable items)
+
+34. **nowhere .**
+    - N1: 1 (nowhere)
+
+35. **handball .**
+    - N1: 1 (handball)
+
+36. **yes .**
+    - (no applicable items)
+
+37. **Bam_Bam .**
+    - N1: 1 (Bam_Bam)
+
+38. **shake your head .**
+    - V1: 1 (shake)
+
+39. **hey (.) he got sand in us .**
+    - N2: 1 (he)
+    - V1: 1 (got)
+
+40. **I hit her on the head .**
+    - N2: 1 (I)
+    - N1: 1 (head)
+    - V4: 1 (hit)
+
+41. **she [/] she got no bone .**
+    - N2: 1 (she)
+    - V1: 1 (got)
+    - N1: 1 (bone)
+
+42. **no bone .**
+    - N1: 1 (bone)
+
+43. **tha(t)'s Pebbles .**
+    - N1: 1 (Pebbles)
+    - V4: 1 (that's = that is)
+
+44. **I (.) oh .**
+    - N2: 1 (I)
+
+45. **come here .**
+    - V1: 1 (come)
+
+46. **xxx peek .**
+    - V1: 1 (peek)
+
+47. **picture of my Bunny .**
+    - N1: 1 (Bunny)
+    - N5: 1 (my Bunny)
+
+48. **wanna see it ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+49. **oh .**
+    - (no applicable items)
+
+50. **wait a minute now .**
+    - N1: 1 (minute)
+    - V1: 1 (wait)
+
+51. **xxx to you .**
+    - N2: 1 (you)
+
+52. **xxx wants the blue one .**
+    - N5: 1 (the blue one)
+    - V1: 1 (wants)
+
+53. **he ya .**
+    - N2: 1 (he)
+
+54. **I want the blue one .**
+    - N5: 1 (the blue one)
+    - V1: 1 (want)
+
+55. **help .**
+    - V1: 1 (help)
+
+56. **two bunnies .**
+    - N7: 1 (bunnies)
+
+57. **a big one .**
+    - N5: 1 (a big one)
+
+58. **what i(t) doin(g) .**
+    - Q2: 1 (wh-word alone)
+    - V7: 1 (doin(g))
+
+59. **hey (.) a Santa_Claus .**
+    - N5: 1 (a Santa_Claus)
+
+60. **two [/] (.) two Santa_Claus .**
+    - N7: 1 (Santa_Claus)
+
+61. **a tonic .**
+    - N5: 1 (a tonic)
+
+62. **you .**
+    - N2: 1 (you)
+
+63. **orange juice .**
+    - N1: 1 (juice)
+
+64. **open the yyy .**
+    - N5: 1 (the yyy)
+    - V1: 1 (open)
+
+65. **you [//] the orange juice xxx .**
+    - N5: 1 (the orange juice)
+    - V1: 1 (you)
+
+66. **a yyy .**
+    - N5: 1 (a yyy)
+
+67. **(a)n(d) potato_chips .**
+    - N1: 1 (potato_chips)
+
+68. **shake it .**
+    - V1: 1 (shake)
+
+69. **shake it (.) you [/] you will shake it .**
+    - V1: 1 (shake)
+    - V6: 1 (will shake)
+
+70. **for me .**
+    - V3: 1 (for me)
+
+71. **I'm a potato_chips .**
+    - N5: 1 (a potato_chips)
+    - V6: 1 (I'm)
+
+72. **hm: (.) hm: mm [/] mm .**
+    - (no applicable items)
+
+73. **xxx from the book .**
+    - N5: 1 (the book)
+
+74. **the book .**
+    - N5: 1 (the book)
+
+75. **I fall down .**
+    - N2: 1 (I)
+    - V1: 1 (fall)
+
+76. **I ge(t) up .**
+    - N2: 1 (I)
+    - V1: 1 (get)
+
+77. **I'm up .**
+    - N2: 1 (I)
+    - V6: 1 (I'm)
+
+78. **I fel(t) it [/] it .**
+    - N2: 1 (I)
+    - V1: 1 (felt)
+
+79. **the rooster and the hare .**
+    - N1: 1 (rooster)
+    - N1: 1 (hare)
+    - S7: 1 (and)
+
+80. **a rabbit goin(g) toward [?] .**
+    - N1: 1 (rabbit)
+    - V7: 1 (goin(g))
+
+81. **a &~rit (.) goin(g) (.) ta .**
+    - N1: 1 (&~rit)
+    - V7: 1 (goin(g))
+
+82. **you drink oran(ge) juice ?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (drink)
+
+83. **need some yyy .**
+    - V1: 1 (need)
+
+84. **so(me) more ?**
+    - Q1: 1 (contains a question mark)
+
+85. **sit right here .**
+    - V1: 1 (sit)
+
+86. **once upon a time .**
+    - (no applicable items)
+
+87. **I [//] <I wa(nt) [?]> [//] the bear (.) go (.) yyy .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (bear)
+    - V1: 1 (go)
+
+88. **the [/] the [//] <the bear> [//] the [/] the [/] the (.) yyy .**
+    - N5: 1 (the bear)
+
+89. **yyy (.) Bertha .**
+    - N1: 1 (Bertha)
+
+90. **oh (.) look what I did .**
+    - N2: 1 (I)
+    - V1: 1 (look)
+    - V1: 1 (did)
+
+91. **later .**
+    - (no applicable items)
+
+92. **ho [/] (.) ho (.) ho .**
+    - (no applicable items)
+
+93. **he(re) ya some .**
+    - N2: 1 (he)
+
+94. **what ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+95. **a song xxx .**
+    - N5: 1 (a song)
+
+96. **this old man (.) he buy five (.) he buy knick@b naddy@b .**
+    - N1: 1 (man)
+    - N1: 1 (five)
+    - V1: 1 (buy)
+
+97. **yyy I drink it up .**
+    - N2: 1 (I)
+    - V1: 1 (drink)
+
+98. **once upon a time there's a little yyy (.) o:h (.) Bam_Bam .**
+    - N5: 1 (a little yyy)
+    - V6: 1 (there's)
+
+99. **nope (.) he can read .**
+    - N2: 1 (he)
+    - V9: 1 (can read)
+
+100. **he can talk (.) too .**
+    - N2: 1 (he)
+    - V9: 1 (can talk)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20
+N2, 10
+N3, 0
+N4, 0
+N5, 12
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 3
+V4, 5
+V5, 0
+V6, 5
+V7, 5
+V8, 0
+V9, 2
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 8
+Q2, 5
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

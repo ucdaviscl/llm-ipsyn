@@ -1,0 +1,585 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **<one fist> [/] (.) one fist .**
+   - N1: 1 (fist)
+   - N4: 1 (one fist)
+   - N5: 1 (one fist)
+   - S1: 1 (one fist)
+
+2. **fist .**
+   - N1: 1 (fist)
+
+3. **how much is this ?**
+   - Q1: 1 (contains a question mark)
+   - Q2: 1 (wh-word alone)
+
+4. **look it .**
+   - V1: 1 (look)
+   - N2: 1 (it)
+   - S2: 1 (look it)
+
+5. **what (.) he's goin(g) say ?**
+   - Q1: 1 (contains a question mark)
+   - Q4: 1 (Wh-Question + Verb)
+
+6. **what two nights ?**
+   - Q1: 1 (contains a question mark)
+   - Q9: 1 (Wh-Question)
+
+7. **one (.) over Cheryl's .**
+   - N1: 1 (Cheryl's)
+   - N5: 1 (one over Cheryl's)
+
+8. **one is over Cheryl's and [/] (.) and another one I slept over my Nana's .**
+   - N1: 1 (one)
+   - N5: 1 (one)
+   - N5: 1 (another one)
+   - V1: 1 (slept)
+   - N3: 1 (over)
+   - S4: 1 (one is over Cheryl's)
+
+9. **mhm .**
+   - (No applicable items)
+
+10. **on the couch .**
+    - N5: 1 (the couch)
+    - V3: 1 (on the couch)
+
+11. **hey gi(ve) me a drink .**
+    - V1: 1 (give)
+    - N2: 1 (me)
+    - N5: 1 (a drink)
+    - S4: 1 (give me a drink)
+
+12. **that .**
+    - N2: 1 (that)
+
+13. **coffee .**
+    - N1: 1 (coffee)
+
+14. **well (.) I'll wait (un)till it cools .**
+    - V1: 1 (wait)
+    - V6: 1 (I'll)
+    - N1: 1 (it)
+    - S2: 1 (I will wait)
+
+15. **I just took a little sip .**
+    - N2: 1 (I)
+    - V12: 1 (took)
+    - N5: 1 (a sip)
+    - N3: 1 (little)
+    - S4: 1 (I took a little sip)
+
+16. **oh .**
+    - (No applicable items)
+
+17. **yeah .**
+    - (No applicable items)
+
+18. **Melissa (.) guess what ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+19. **I can spell cake and (.) ski .**
+    - N2: 1 (I)
+    - V1: 1 (can spell)
+    - N1: 1 (cake)
+    - N1: 1 (ski)
+    - S6: 1 (can spell and ski)
+
+20. **c@l (.) wait a minute .**
+    - V1: 1 (wait)
+    - N5: 1 (a minute)
+    - S2: 1 (wait a minute)
+
+21. **first I'm gonna (.) make (.) ski .**
+    - N2: 1 (I)
+    - V1: 1 (gonna make)
+    - N1: 1 (ski)
+    - S2: 1 (I am gonna make)
+
+22. **le(t) me see .**
+    - V1: 1 (let)
+    - N2: 1 (me)
+    - V1: 1 (see)
+    - S3: 1 (let me see)
+
+23. **k@l .**
+    - (No applicable items)
+
+24. **i@l .**
+    - (No applicable items)
+
+25. **my Nana taught me .**
+    - N2: 1 (my)
+    - N1: 1 (Nana)
+    - V12: 1 (taught)
+    - N2: 1 (me)
+    - S4: 1 (my Nana taught me)
+
+26. **now (.) let me have a big sip this time .**
+    - N2: 1 (me)
+    - V1: 1 (let)
+    - V1: 1 (have)
+    - N5: 1 (a sip)
+    - N3: 1 (big)
+    - S4: 1 (let me have a big sip)
+
+27. **what's that letter again ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+28. **I still forgot the letter .**
+    - N2: 1 (I)
+    - V12: 1 (forgot)
+    - N5: 1 (the letter)
+    - S2: 1 (I forgot)
+
+29. **what ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+30. **c@l a@l k@l e@l .**
+    - (No applicable items)
+
+31. **we saw dogs .**
+    - N2: 1 (we)
+    - V12: 1 (saw)
+    - N7: 1 (dogs)
+    - S3: 1 (we saw dogs)
+
+32. **and there was lions (a)n(d) (.) there was tigers .**
+    - N1: 1 (lions)
+    - N1: 1 (tigers)
+    - V6: 1 (there was)
+    - S12: 1 (and there was lions and there was tigers)
+
+33. **lions and tigers (.) (a)n(d) (.) they jumped through the hoops .**
+    - N1: 1 (lions)
+    - N1: 1 (tigers)
+    - V1: 1 (jumped)
+    - N5: 1 (the hoops)
+    - S7: 1 (lions and tigers)
+
+34. **the (.) twenty nine (.) tiger .**
+    - N1: 1 (tiger)
+    - N5: 1 (the tiger)
+
+35. **all of em .**
+    - N2: 1 (em)
+
+36. **&-um (.) there was donkeys (a)n(d) horses (a)n(d) elephants (a)n(d) (.) &-um (.) little monkeys dressed in .**
+    - N1: 1 (donkeys)
+    - N1: 1 (horses)
+    - N1: 1 (elephants)
+    - N1: 1 (monkeys)
+    - S12: 1 (there was donkeys and horses and elephants)
+
+37. **bird .**
+    - N1: 1 (bird)
+
+38. **Batman ?**
+    - Q1: 1 (contains a question mark)
+
+39. **Batman or Superman .**
+    - N1: 1 (Batman)
+    - N1: 1 (Superman)
+    - S5: 1 (Batman or Superman)
+
+40. **oh (.) the trapeze .**
+    - N1: 1 (trapeze)
+    - N5: 1 (the trapeze)
+
+41. **no .**
+    - (No applicable items)
+
+42. **I don't know .**
+    - N2: 1 (I)
+    - V3: 1 (don't know)
+    - S2: 1 (I don't know)
+
+43. **oh yeah (.) <an(d) the> [/] (.) (a)n(d) the toys .**
+    - N5: 1 (the toys)
+
+44. **the toys toys .**
+    - N1: 1 (toys)
+    - N5: 1 (the toys)
+
+45. **well (.) the man &-um (.) let me have a broken one so we didn't want a broken one .**
+    - N5: 1 (the man)
+    - V1: 1 (let)
+    - N2: 1 (me)
+    - V1: 1 (have)
+    - N5: 1 (a one)
+    - N3: 1 (broken)
+    - S4: 1 (let me have a broken one)
+
+46. **I'm not goin(g) tell .**
+    - N2: 1 (I)
+    - V1: 1 (gonna tell)
+    - S2: 1 (I am not going to tell)
+
+47. **I was screamin(g) because I wanted to call the police .**
+    - N2: 1 (I)
+    - V13: 1 (was)
+    - V7: 1 (screaming)
+    - N2: 1 (I)
+    - V12: 1 (wanted)
+    - V8: 1 (to call)
+    - N5: 1 (the police)
+    - S4: 1 (I was screaming because I wanted to call the police)
+
+48. **to put him in jail .**
+    - V1: 1 (put)
+    - N2: 1 (him)
+    - N1: 1 (jail)
+    - S3: 1 (to put him in jail)
+
+49. **&-um (.) not a broken one .**
+    - N3: 1 (not)
+    - N5: 1 (a broken one)
+
+50. **gonna call the police .**
+    - V1: 1 (gonna call)
+    - N5: 1 (the police)
+    - S3: 1 (gonna call the police)
+
+51. **(a)n(d) my mother hadta fight for the money .**
+    - N2: 1 (my)
+    - N1: 1 (mother)
+    - V12: 1 (had)
+    - V1: 1 (fight)
+    - N5: 1 (the money)
+    - S4: 1 (my mother had to fight for the money)
+
+52. **he gave her some money .**
+    - N2: 1 (he)
+    - V12: 1 (gave)
+    - N2: 1 (her)
+    - N5: 1 (some money)
+    - S4: 1 (he gave her some money)
+
+53. **I hate him .**
+    - N2: 1 (I)
+    - V1: 1 (hate)
+    - N2: 1 (him)
+    - S3: 1 (I hate him)
+
+54. **I think he was a crook .**
+    - N2: 1 (I)
+    - V1: 1 (think)
+    - N2: 1 (he)
+    - V6: 1 (was)
+    - N5: 1 (a crook)
+    - S4: 1 (I think he was a crook)
+
+55. **so ?**
+    - Q1: 1 (contains a question mark)
+
+56. **when I get to have a broken toy (.) I'm gonna give [!!] that to him .**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - V1: 1 (have)
+    - N5: 1 (a broken toy)
+    - N2: 1 (I)
+    - V1: 1 (gonna give)
+    - N2: 1 (that)
+    - N2: 1 (him)
+    - S4: 1 (when I get to have a broken toy I'm gonna give that to him)
+
+57. **I do ?**
+    - Q1: 1 (contains a question mark)
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+58. **so I'm goin(g) give him a broken arm .**
+    - N2: 1 (I)
+    - V1: 1 (gonna give)
+    - N2: 1 (him)
+    - N5: 1 (a broken arm)
+    - S4: 1 (I'm gonna give him a broken arm)
+
+59. **I'm gonna give him a broken arm .**
+    - N2: 1 (I)
+    - V1: 1 (gonna give)
+    - N2: 1 (him)
+    - N5: 1 (a broken arm)
+    - S4: 1 (I'm gonna give him a broken arm)
+
+60. **you hold me up (a)n(d) I'll have a hammer (a)n(d) go like this .**
+    - N2: 1 (you)
+    - V1: 1 (hold)
+    - N2: 1 (me)
+    - V6: 1 (I'll)
+    - V1: 1 (have)
+    - N5: 1 (a hammer)
+    - V1: 1 (go)
+    - S4: 1 (you hold me up and I'll have a hammer)
+
+61. **like that (.) hard .**
+    - N1: 1 (that)
+    - N1: 1 (hard)
+
+62. **yeah (.) (a)n(d) I'm gonna put him in jail .**
+    - N2: 1 (I)
+    - V1: 1 (gonna put)
+    - N2: 1 (him)
+    - N1: 1 (jail)
+    - S4: 1 (I'm gonna put him in jail)
+
+63. **drag him .**
+    - V1: 1 (drag)
+    - N2: 1 (him)
+    - S3: 1 (drag him)
+
+64. **I liked the monkeys .**
+    - N2: 1 (I)
+    - V12: 1 (liked)
+    - N7: 1 (monkeys)
+    - S3: 1 (I liked the monkeys)
+
+65. **(be)cause .**
+    - (No applicable items)
+
+66. **no sir .**
+    - (No applicable items)
+
+67. **because (.) you were sleeping .**
+    - N2: 1 (you)
+    - V6: 1 (were)
+    - V7: 1 (sleeping)
+    - S2: 1 (you were sleeping)
+
+68. **okay .**
+    - (No applicable items)
+
+69. **there was one (.) two (.) three (.) (.) four .**
+    - N1: 1 (one)
+    - N1: 1 (two)
+    - N1: 1 (three)
+    - N1: 1 (four)
+    - V6: 1 (there was)
+    - S4: 1 (there was one two three four)
+
+70. **four ?**
+    - Q1: 1 (contains a question mark)
+
+71. **how much ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+72. **put up your fingers .**
+    - V1: 1 (put)
+    - N2: 1 (your)
+    - N1: 1 (fingers)
+    - S3: 1 (put up your fingers)
+
+73. **so there's one (.) two (.) three (.) four .**
+    - N1: 1 (one)
+    - N1: 1 (two)
+    - N1: 1 (three)
+    - N1: 1 (four)
+    - V6: 1 (there's)
+    - S4: 1 (there's one two three four)
+
+74. **one (.) two (.) three (.) four (.) five .**
+    - N1: 1 (one)
+    - N1: 1 (two)
+    - N1: 1 (three)
+    - N1: 1 (four)
+    - N1: 1 (five)
+    - S4: 1 (one two three four five)
+
+75. **five .**
+    - N1: 1 (five)
+
+76. **who ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+77. **five ?**
+    - Q1: 1 (contains a question mark)
+
+78. **yes .**
+    - (No applicable items)
+
+79. **hey (.) I'm (.) stuck .**
+    - N2: 1 (I)
+    - V1: 1 (am)
+    - V7: 1 (stuck)
+    - S2: 1 (I am stuck)
+
+80. **seven .**
+    - N1: 1 (seven)
+
+81. **I knew .**
+    - N2: 1 (I)
+    - V12: 1 (knew)
+    - S2: 1 (I knew)
+
+82. **a e@l .**
+    - (No applicable items)
+
+83. **I did (.) see ?**
+    - N2: 1 (I)
+    - V12: 1 (did)
+    - V1: 1 (see)
+    - Q1: 1 (contains a question mark)
+
+84. **one (.) two (.) three (.) four (.) five (.) six .**
+    - N1: 1 (one)
+    - N1: 1 (two)
+    - N1: 1 (three)
+    - N1: 1 (four)
+    - N1: 1 (five)
+    - N1: 1 (six)
+    - S4: 1 (one two three four five six)
+
+85. **why ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+86. **one (.) two (.) three (.) four (.) five (.) six (.) seven .**
+    - N1: 1 (one)
+    - N1: 1 (two)
+    - N1: 1 (three)
+    - N1: 1 (four)
+    - N1: 1 (five)
+    - N1: 1 (six)
+    - N1: 1 (seven)
+    - S4: 1 (one two three four five six seven)
+
+87. **I knew it was seven .**
+    - N2: 1 (I)
+    - V1: 1 (knew)
+    - N2: 1 (it)
+    - V6: 1 (was)
+    - N1: 1 (seven)
+    - S4: 1 (I knew it was seven)
+
+88. **how much is eleven ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+89. **oh (.) no .**
+    - (No applicable items)
+
+90. **not with my toes .**
+    - N3: 1 (not)
+    - N5: 1 (my toes)
+
+91. **oh Daddy (.) you're funny .**
+    - N2: 1 (you)
+    - V6: 1 (are)
+    - N1: 1 (funny)
+    - S2: 1 (you are funny)
+
+92. **I'm gonna get your belt .**
+    - N2: 1 (I)
+    - V1: 1 (gonna get)
+    - N2: 1 (your)
+    - N1: 1 (belt)
+    - S4: 1 (I'm gonna get your belt)
+
+93. **you're a great .**
+    - N2: 1 (you)
+    - V6: 1 (are)
+    - N1: 1 (great)
+    - S2: 1 (you are great)
+
+94. **me too .**
+    - N2: 1 (me)
+
+95. **+" no (.) you're the son .**
+    - N2: 1 (you)
+    - V6: 1 (are)
+    - N5: 1 (the son)
+    - S4: 1 (you are the son)
+
+96. **no (.) like this .**
+    - N3: 1 (no)
+    - N1: 1 (this)
+
+97. **like this .**
+    - N1: 1 (this)
+
+98. **(be)cause you (.) can't forget your operation .**
+    - N2: 1 (you)
+    - V3: 1 (can't forget)
+    - N5: 1 (your operation)
+    - S2: 1 (you can't forget your operation)
+
+99. **on your dog &-uh .**
+    - N2: 1 (your)
+    - N1: 1 (dog)
+
+100. **where ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 20
+N2, 15
+N3, 6
+N4, 3
+N5, 12
+N6, 4
+N7, 5
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 15
+V2, 0
+V3, 5
+V4, 0
+V5, 0
+V6, 6
+V7, 3
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 8
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 15
+Q2, 8
+Q3, 0
+Q4, 3
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 1
+Q9, 3
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for items that reached a maximum of 2 were capped accordingly, but in this case, none reached that limit.)

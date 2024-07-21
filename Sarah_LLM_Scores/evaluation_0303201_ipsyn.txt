@@ -1,0 +1,537 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **xxx is tha(t) ball ?**
+   - Q1: 1
+   - S2: 1
+   - V1: 1
+   - N1: 1
+   - N5: 1
+
+2. **huh ?**
+   - Q1: 1
+
+3. **is tha(t) yyy ?**
+   - Q1: 1
+   - S2: 1
+   - V1: 1
+
+4. **it throw away ?**
+   - Q1: 1
+   - S2: 1
+   - V1: 1
+
+5. **ri(ght) there .**
+   - N1: 1
+   - N3: 1
+
+6. **ge(t) tv in again ?**
+   - Q1: 1
+   - V1: 1
+   - V2: 1
+
+7. **maybe xxx .**
+   - N1: 1
+
+8. **I made it q@l .**
+   - N1: 1
+   - N2: 1
+   - V12: 1
+   - S2: 1
+   - S4: 1
+
+9. **dat [: that's] a q@l .**
+   - N1: 1
+   - N5: 1
+   - V4: 1
+
+10. **that way .**
+    - N1: 1
+    - N3: 1
+
+11. **now (.) dis [: this] way .**
+    - N1: 1
+    - N3: 1
+
+12. **dis [: this] way .**
+    - N1: 1
+    - N3: 1
+
+13. **he make a Momma (.) (a)n(d) a baby (a)n(d) sister .**
+    - N1: 1
+    - N5: 1
+    - S4: 1
+    - V1: 1
+
+14. **now I make em .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+15. **&-uh (.) sit dere [: there] Mother (.) <woof@o (.) woof@o> [/] (.) woof@o .**
+    - N1: 1
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+16. **hey (.) I can'(t) .**
+    - N2: 1
+    - V9: 1
+
+17. **woof@o hey (.) listen to that .**
+    - N1: 1
+    - V1: 1
+
+18. **where's my mask ?**
+    - Q1: 1
+    - N2: 1
+    - V1: 1
+
+19. **I'm &~a:h (.) &-um .**
+    - N2: 1
+    - V6: 1
+
+20. **I own the addresser@c .**
+    - N5: 1
+    - V1: 1
+    - S2: 1
+
+21. **d@l .**
+    - N1: 1
+
+22. **I make &-uh q@l .**
+    - N1: 1
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+23. **what ?**
+    - Q1: 1
+
+24. **wi(th) you ma(ke) ?**
+    - Q1: 1
+    - V1: 1
+
+25. **you make &-uh s@l ?**
+    - Q1: 1
+    - N2: 1
+    - V1: 1
+
+26. **Mommy (.) I get it .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+27. **(o)kay (.) xxx .**
+    - N1: 1
+
+28. **xxx not me .**
+    - N2: 1
+    - V3: 1
+
+29. **i(t)'s b(r)eaked [: broken] [* +ed] .**
+    - N1: 1
+    - V11: 1
+
+30. **make &-uh (.) Mommy .**
+    - N2: 1
+    - V1: 1
+
+31. **(l)ook it .**
+    - V1: 1
+
+32. **i(t) s(t)op .**
+    - V1: 1
+
+33. **des [: there's] a yyy .**
+    - N5: 1
+
+34. **it's leakin(g) again (.) Mummy .**
+    - N2: 1
+    - V7: 1
+
+35. **oh .**
+    - N1: 1
+
+36. **up .**
+    - N1: 1
+
+37. **Seven_up .**
+    - N1: 1
+
+38. **I don('t) want cereal .**
+    - N1: 1
+    - V3: 1
+    - V3: 1
+
+39. **what w(r)ong with you ?**
+    - Q1: 1
+    - N2: 1
+
+40. **I have an egg .**
+    - N5: 1
+    - V1: 1
+    - S2: 1
+
+41. **where it ?**
+    - Q1: 1
+
+42. **mhm .**
+    - N1: 1
+
+43. **uhoh (.) it goin(g) xxx .**
+    - V7: 1
+
+44. **it goin(g) up my lips .**
+    - V7: 1
+    - N1: 1
+
+45. **it's goin(g) up [/] (.) up my lips .**
+    - V7: 1
+    - N1: 1
+
+46. **yeah .**
+    - N1: 1
+
+47. **Mummy (.) de [: the] orange (.) juice goin(g) up my lip .**
+    - N1: 1
+    - N5: 1
+    - V7: 1
+
+48. **orange juice goin(g) up my lips .**
+    - N1: 1
+    - V7: 1
+
+49. **&-uh (.) <I eat too &~ma> [//] I eat two orange juice .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+50. **<Tressu (.) Tressa (.) Tressa (.) Tressa (.) Tressa> [/] (.) Tressa .**
+    - N1: 1
+
+51. **I want Tressa .**
+    - N1: 1
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+52. **I want xxx .**
+    - N2: 1
+    - V1: 1
+    - S2: 1
+
+53. **I ge(t) (n)ew pai(r) shoe(s) .**
+    - N1: 1
+    - N5: 1
+    - V1: 1
+
+54. **I going ge(t) xxx you .**
+    - N2: 1
+    - V1: 1
+
+55. **a new dog .**
+    - N5: 1
+
+56. **uhoh the(r)e's a xxx man .**
+    - N1: 1
+    - N5: 1
+    - V1: 1
+
+57. **<Tressa (.) Tressa> [/] (.) Tressa (.) <red blue> [/] (.) red blue (.) <Tressa (.) Tressa (.) Tressa> [/] (.) Tressa .**
+    - N1: 1
+
+58. **whe(re)'s my bottles ?**
+    - Q1: 1
+    - N2: 1
+    - V1: 1
+
+59. **I wan(t) pu(t) some milk in it .**
+    - N1: 1
+    - N5: 1
+    - V1: 1
+    - S4: 1
+
+60. **milk .**
+    - N1: 1
+
+61. **two waters .**
+    - N7: 1
+
+62. **the top onto this one .**
+    - N5: 1
+
+63. **my pretty slippers .**
+    - N5: 1
+
+64. **they are beautiful .**
+    - N2: 1
+    - V4: 1
+
+65. **we're go(ing) have ta pu(t) tha(t) top .**
+    - V6: 1
+    - V1: 1
+
+66. **know .**
+    - V1: 1
+
+67. **I ge(t) some milk in (th)ere for her .**
+    - N1: 1
+    - N5: 1
+    - V1: 1
+
+68. **(o)kay ?**
+    - Q1: 1
+
+69. **I ge(t) some milk in it (.) (o)kay ?**
+    - Q1: 1
+    - N1: 1
+    - V1: 1
+
+70. **don('t) fo(rget) so(me) fo(r) me .**
+    - V3: 1
+    - V3: 1
+
+71. **Mother .**
+    - N1: 1
+
+72. **he(r)e's a pin for her .**
+    - N5: 1
+    - V1: 1
+
+73. **get a pin fo(r) her .**
+    - N5: 1
+    - V1: 1
+
+74. **get a pen .**
+    - N5: 1
+    - V1: 1
+
+75. **get a bobby_pin .**
+    - N5: 1
+    - V1: 1
+
+76. **what's the matter with ya ?**
+    - Q1: 1
+    - N5: 1
+    - V1: 1
+
+77. **me .**
+    - N2: 1
+
+78. **oh (.) how nice .**
+    - N1: 1
+
+79. **you better cradle her in your arms here .**
+    - N1: 1
+    - N2: 1
+    - V1: 1
+
+80. **like this (.) that's it .**
+    - N1: 1
+    - V1: 1
+
+81. **&-uh (.) let me see .**
+    - N2: 1
+    - V1: 1
+
+82. **&-uh that's a name ?**
+    - Q1: 1
+    - N5: 1
+    - V4: 1
+
+83. **tha(t)'s a name .**
+    - N5: 1
+    - V4: 1
+
+84. **I'm a big Sarah .**
+    - N2: 1
+    - N5: 1
+    - V6: 1
+
+85. **I know it .**
+    - N2: 1
+    - V1: 1
+
+86. **I yyy yyy .**
+    - N1: 1
+
+87. **it dribbling .**
+    - V7: 1
+
+88. **she's dribbling .**
+    - V7: 1
+
+89. **here's another kleenex to wipe her off .**
+    - N1: 1
+    - N5: 1
+    - V1: 1
+
+90. **here .**
+    - N1: 1
+
+91. **it isn't my xxx .**
+    - N2: 1
+    - V3: 1
+
+92. **tha(t)'s a orange .**
+    - N5: 1
+    - V4: 1
+
+93. **tha(t)'s orange .**
+    - N1: 1
+    - V4: 1
+
+94. **huh .**
+    - N1: 1
+
+95. **uhuh .**
+    - N1: 1
+
+96. **ge(t) some more .**
+    - V1: 1
+
+97. **come on .**
+    - V1: 1
+
+98. **who d(r)op (th)is ?**
+    - Q1: 1
+    - N1: 1
+    - V1: 1
+
+99. **hey (.) look it .**
+    - V1: 1
+
+100. **those [//] a one &-um (.) her bottles .**
+    - N1: 1
+    - N5: 1
+
+Now, let's compile the scores for each item:
+
+- N1: 20
+- N2: 12
+- N3: 8
+- N4: 3
+- N5: 12
+- N6: 0
+- N7: 2
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 25
+- V2: 2
+- V3: 5
+- V4: 5
+- V5: 0
+- V6: 3
+- V7: 5
+- V8: 0
+- V9: 1
+- V10: 0
+- V11: 1
+- V12: 1
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 15
+- Q2: 0
+- Q3: 3
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 15
+- S3: 0
+- S4: 8
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum score of 2:
+
+Final score:
+N1, 2
+N2, 2
+N3, 2
+N4, 2
+N5, 2
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 2
+V3, 2
+V4, 2
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 1
+V10, 0
+V11, 1
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 0
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 2
+S3, 0
+S4, 2
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

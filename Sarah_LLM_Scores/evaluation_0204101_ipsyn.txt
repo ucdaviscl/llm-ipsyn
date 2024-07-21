@@ -1,0 +1,422 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **mine .**  
+   - N2: 1 (Pronoun)
+
+2. **Mommy .**  
+   - N1: 1 (Noun)
+
+3. **yyy dere [: there] .**  
+   - N1: 2 (Noun) - Stop checking for N1  
+   - N3: 1 (Modifier)
+
+4. **bear ?**  
+   - N1: 1 (Noun)  
+   - Q1: 1 (contains a question mark)
+
+5. **(h)ey dere [: there] .**  
+   - N1: 2 (Noun) - Stop checking for N1  
+   - N3: 2 (Modifier) - Stop checking for N3
+
+6. **lion .**  
+   - N1: 3 (Noun) - Stop checking for N1
+
+7. **cow ?**  
+   - N1: 1 (Noun)  
+   - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+8. **cow Mommy ?**  
+   - N1: 4 (Noun) - Stop checking for N1  
+   - S1: 1 (Two words)  
+   - Q1: 1 (contains a question mark)
+
+9. **Bobo [?] .**  
+   - N1: 5 (Noun) - Stop checking for N1  
+   - Q1: 1 (contains a question mark)
+
+10. **a Bobo .**  
+    - N5: 1 (Determiner + Noun)
+
+11. **I Sarah [?] .**  
+    - N2: 2 (Pronoun) - Stop checking for N2  
+    - Q1: 1 (contains a question mark)
+
+12. **boy .**  
+    - N1: 6 (Noun)
+
+13. **eye [?] head [?] .**  
+    - N1: 8 (Noun) - Stop checking for N1  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+14. **tail dere [: there] .**  
+    - N1: 9 (Noun)  
+    - N3: 3 (Modifier) - Stop checking for N3
+
+15. **right [?] dere [: there] .**  
+    - N1: 10 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+16. **witch .**  
+    - N1: 11 (Noun)
+
+17. **shoe Mommy ?**  
+    - N1: 12 (Noun)  
+    - S1: 1 (Two words)  
+    - Q1: 1 (contains a question mark)
+
+18. **right dere [: there] ?**  
+    - N1: 13 (Noun)  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+19. **and witch there [?] .**  
+    - N1: 14 (Noun)  
+    - S5: 1 (Any Conjunction)  
+    - Q1: 1 (contains a question mark)
+
+20. **witch dere [: there] .**  
+    - N1: 15 (Noun)
+
+21. **two witch .**  
+    - N1: 16 (Noun)  
+    - N7: 1 (Noun Plural)
+
+22. **in (th)ere .**  
+    - N3: 4 (Modifier)
+
+23. **two .**  
+    - N1: 17 (Noun)  
+    - N7: 2 (Noun Plural) - Stop checking for N7
+
+24. **sleep .**  
+    - N1: 18 (Noun)
+
+25. **nigh_nigh@f ?**  
+    - N1: 19 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+26. **I nigh_nigh@f too .**  
+    - N2: 3 (Pronoun) - Stop checking for N2
+
+27. **boy nigh_nigh@f (.) right dere [: there] .**  
+    - N1: 20 (Noun)  
+    - N3: 5 (Modifier)
+
+28. **I write wi(tch) .**  
+    - N2: 4 (Pronoun) - Stop checking for N2  
+    - V1: 1 (Verb)
+
+29. **I write dere [: there] .**  
+    - N2: 5 (Pronoun) - Stop checking for N2  
+    - V1: 2 (Verb) - Stop checking for V1
+
+30. **horn .**  
+    - N1: 21 (Noun)
+
+31. **door ?**  
+    - N1: 22 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+32. **door .**  
+    - N1: 23 (Noun)
+
+33. **window .**  
+    - N1: 24 (Noun)
+
+34. **o:h !**  
+    - Q1: 1 (contains a question mark)
+
+35. **xxx in .**  
+    - N3: 6 (Modifier)
+
+36. **princess .**  
+    - N1: 25 (Noun)
+
+37. **<bad (.) bad> [/] (.) bad .**  
+    - N3: 7 (Modifier)
+
+38. **pa(rt)y ?**  
+    - N1: 26 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+39. **mirror .**  
+    - N1: 27 (Noun)
+
+40. **p(rett)y hair ?**  
+    - N1: 28 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+41. **more [/] (.) more witch .**  
+    - N3: 8 (Modifier)
+
+42. **moon dere [: there] .**  
+    - N1: 29 (Noun)  
+    - N3: 9 (Modifier)
+
+43. **see moon ?**  
+    - N1: 30 (Noun)  
+    - V1: 3 (Verb)  
+    - Q1: 1 (contains a question mark)
+
+44. **moon ?**  
+    - N1: 31 (Noun)  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+45. **right dere [: there] !**  
+    - N1: 32 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+46. **king .**  
+    - N1: 33 (Noun)
+
+47. **horsie .**  
+    - N1: 34 (Noun)
+
+48. **ride horsie .**  
+    - V1: 4 (Verb)  
+    - S3: 1 (Verb + Object)
+
+49. **my horsie .**  
+    - N2: 6 (Pronoun) - Stop checking for N2  
+    - N5: 1 (Determiner + Noun)
+
+50. **two horsie .**  
+    - N1: 35 (Noun)  
+    - N7: 3 (Noun Plural) - Stop checking for N7
+
+51. **bird ?**  
+    - N1: 36 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+52. **bu(nn)y .**  
+    - N1: 37 (Noun)
+
+53. **bug .**  
+    - N1: 38 (Noun)
+
+54. **p(rett)y bug .**  
+    - N1: 39 (Noun)  
+    - N3: 10 (Modifier)
+
+55. **princess (.) yyy dere [: there] .**  
+    - N1: 40 (Noun)  
+    - N3: 11 (Modifier)
+
+56. **tree yyy dere [: there] .**  
+    - N1: 41 (Noun)  
+    - N3: 12 (Modifier)
+
+57. **a bu(nn)y .**  
+    - N5: 2 (Determiner + Noun) - Stop checking for N5
+
+58. **big bird .**  
+    - N1: 42 (Noun)  
+    - N3: 13 (Modifier)
+
+59. **squirrel ?**  
+    - N1: 43 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+60. **xxx owl ?**  
+    - N1: 44 (Noun)  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+61. **ano(ther) bird ?**  
+    - N1: 45 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+62. **bird .**  
+    - N1: 46 (Noun)
+
+63. **xxx (.) more bird (.) two bird ?**  
+    - N1: 47 (Noun)  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+64. **bu(nn)y ?**  
+    - N1: 48 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+65. **xxx here bu(nn)y .**  
+    - N1: 49 (Noun)
+
+66. **old la(d)y ?**  
+    - N1: 50 (Noun)  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+67. **egg .**  
+    - N1: 51 (Noun)
+
+68. **xxx Nana xxx .**  
+    - N1: 52 (Noun)
+
+69. **Nana home .**  
+    - N1: 53 (Noun)  
+    - S2: 1 (Subject + Verb)
+
+70. **Nana home (.) nope .**  
+    - N1: 54 (Noun)  
+    - S2: 2 (Subject + Verb) - Stop checking for S2
+
+71. **gone store .**  
+    - V12: 1 (Regular Past Tense)
+
+72. **gone .**  
+    - V12: 2 (Regular Past Tense) - Stop checking for V12
+
+73. **star .**  
+    - N1: 55 (Noun)
+
+74. **heaven .**  
+    - N1: 56 (Noun)
+
+75. **fire .**  
+    - N1: 57 (Noun)
+
+76. **bad !**  
+    - N3: 14 (Modifier)
+
+77. **xxx horsie go .**  
+    - N1: 58 (Noun)  
+    - V1: 5 (Verb)
+
+78. **I xxx .**  
+    - N2: 7 (Pronoun) - Stop checking for N2
+
+79. **two Bobo .**  
+    - N1: 59 (Noun)  
+    - N7: 4 (Noun Plural) - Stop checking for N7
+
+80. **hm: ?**  
+    - Q1: 1 (contains a question mark)
+
+81. **xxx dollie .**  
+    - N1: 60 (Noun)
+
+82. **Mu(mm)y dollie .**  
+    - N1: 61 (Noun)
+
+83. **my dollie .**  
+    - N2: 8 (Pronoun) - Stop checking for N2  
+    - N5: 1 (Determiner + Noun)
+
+84. **can't take down [?] .**  
+    - V3: 1 (Prepositional Phrase)  
+    - Q1: 1 (contains a question mark)
+
+85. **xxx two dollie .**  
+    - N1: 62 (Noun)
+
+86. **Chatty_baby .**  
+    - N1: 63 (Noun)
+
+87. **two doggie .**  
+    - N1: 64 (Noun)  
+    - N7: 5 (Noun Plural) - Stop checking for N7
+
+88. **ceiling .**  
+    - N1: 65 (Noun)
+
+89. **doggie .**  
+    - N1: 66 (Noun)
+
+90. **go bowwow .**  
+    - V1: 6 (Verb)  
+    - S2: 3 (Subject + Verb)
+
+91. **fall on bike [?] .**  
+    - V1: 7 (Verb)  
+    - Q1: 1 (contains a question mark)
+
+92. **see do(ll)y [?] .**  
+    - V1: 8 (Verb)  
+    - Q1: 1 (contains a question mark)
+
+93. **shoe .**  
+    - N1: 67 (Noun)
+
+94. **no shoe ?**  
+    - N1: 68 (Noun)  
+    - Q1: 2 (contains a question mark) - Stop checking for Q1
+
+95. **shoe (a)way ?**  
+    - N1: 69 (Noun)  
+    - Q1: 1 (contains a question mark)
+
+96. **all dirty ?**  
+    - Q1: 1 (contains a question mark)
+
+97. **walk .**  
+    - V1: 9 (Verb)
+
+98. **xxx baby xxx fall down .**  
+    - V1: 10 (Verb)
+
+99. **take [?] hand xxx .**  
+    - V1: 11 (Verb)  
+    - Q1: 1 (contains a question mark)
+
+100. **<three (.) five (.) five (.) xxx (.) eight> [?] .**  
+    - Q1: 1 (contains a question mark)
+
+Final score:
+N1, 69  
+N2, 8  
+N3, 14  
+N4, 0  
+N5, 2  
+N6, 0  
+N7, 4  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 11  
+V2, 0  
+V3, 1  
+V4, 0  
+V5, 0  
+V6, 0  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 2  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 12  
+Q2, 0  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 3  
+S3, 1  
+S4, 0  
+S5, 1  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

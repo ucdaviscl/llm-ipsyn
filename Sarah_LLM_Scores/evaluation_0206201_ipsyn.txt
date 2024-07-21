@@ -1,0 +1,426 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **Mommy .**  
+   - N1: 1 (Mommy)
+
+2. **your (.) Mommy .**  
+   - N2: 1 (your)
+   - N1: 2 (Mommy) - capped at 2
+
+3. **xxx have one ?**  
+   - V1: 1 (have)
+   - Q1: 1 (contains a question mark)
+
+4. **xxx my on .**  
+   - N2: 1 (my)
+
+5. **yyy yours (.) Mommy .**  
+   - N2: 2 (yours) - capped at 2
+   - N1: 2 (Mommy) - capped at 2
+
+6. **you have one ?**  
+   - N2: 1 (you)
+   - V1: 1 (have)
+   - Q1: 1 (contains a question mark)
+
+7. **call dat [: that] .**  
+   - V1: 1 (call)
+   - N1: 1 (dat)
+
+8. **mike .**  
+   - N1: 1 (mike)
+
+9. **a me one too .**  
+   - N5: 1 (a me)
+
+10. **what ?**  
+    - Q1: 1 (contains a question mark)
+
+11. **oh my pants .**  
+    - N2: 1 (my)
+    - N1: 1 (pants)
+
+12. **lose em .**  
+    - V1: 1 (lose)
+
+13. **one .**  
+    - N1: 1 (one)
+
+14. **two (.) what happen ?**  
+    - N1: 1 (two)
+    - Q1: 1 (contains a question mark)
+
+15. **<happen> [?] .**  
+    - V1: 1 (happen)
+    - Q1: 1 (contains a question mark)
+
+16. **four .**  
+    - N1: 1 (four)
+
+17. **two four .**  
+    - N1: 2 (two) - capped at 2
+    - N1: 2 (four) - capped at 2
+
+18. **three .**  
+    - N1: 1 (three)
+
+19. **six .**  
+    - N1: 1 (six)
+
+20. **six six six six .**  
+    - N1: 2 (six) - capped at 2
+
+21. **eight .**  
+    - N1: 1 (eight)
+
+22. **nine .**  
+    - N1: 1 (nine)
+
+23. **ten !**  
+    - N1: 1 (ten)
+    - Q1: 1 (contains a question mark)
+
+24. **&~t ten ten .**  
+    - N1: 2 (ten) - capped at 2
+
+25. **ten finger .**  
+    - N5: 1 (ten finger)
+
+26. **ayenie@b .**  
+    - N1: 1 (ayenie@b)
+
+27. **doodoodooduh@b xxx .**  
+    - N1: 1 (doodoodooduh@b)
+
+28. **my flower .**  
+    - N2: 1 (my)
+    - N1: 1 (flower)
+
+29. **nope .**  
+    - N1: 1 (nope)
+
+30. **Mommy did .**  
+    - N1: 2 (Mommy) - capped at 2
+    - V1: 1 (did)
+
+31. **what happen .**  
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (happen)
+
+32. **ow .**  
+    - N1: 1 (ow)
+
+33. **all yyy .**  
+    - N1: 1 (all)
+
+34. **I so(rr)y now .**  
+    - N2: 1 (I)
+    - V1: 1 (sorry)
+
+35. **I sad blue .**  
+    - N2: 1 (I)
+    - N1: 1 (sad)
+    - N1: 1 (blue)
+
+36. **I cry too .**  
+    - N2: 1 (I)
+    - V1: 1 (cry)
+
+37. **happy to you .**  
+    - N1: 1 (happy)
+    - N2: 1 (you)
+
+38. **to you .**  
+    - N2: 1 (you)
+
+39. **a more .**  
+    - N5: 1 (a more)
+
+40. **a one more .**  
+    - N5: 1 (a one)
+
+41. **happy day .**  
+    - N1: 1 (happy)
+    - N1: 1 (day)
+
+42. **a blow out .**  
+    - N5: 1 (a blow)
+
+43. **xxx wind .**  
+    - N1: 1 (wind)
+
+44. **mm xxx .**  
+    - N1: 1 (mm)
+
+45. **doggie .**  
+    - N1: 1 (doggie)
+
+46. **out .**  
+    - N1: 1 (out)
+
+47. **a my doggie xxx big doggie .**  
+    - N5: 1 (a my)
+    - N1: 1 (doggie)
+    - N1: 1 (big doggie)
+
+48. **T(r)amp .**  
+    - N1: 1 (T(r)amp)
+
+49. **my doggie .**  
+    - N2: 1 (my)
+    - N1: 1 (doggie)
+
+50. **red .**  
+    - N1: 1 (red)
+
+51. **what color [?] .**  
+    - Q1: 1 (contains a question mark)
+
+52. **pink .**  
+    - N1: 1 (pink)
+
+53. **yyy white .**  
+    - N1: 1 (white)
+
+54. **&-uh my Daddy .**  
+    - N2: 1 (my)
+    - N1: 1 (Daddy)
+
+55. **Ma Ma Ma .**  
+    - N1: 1 (Ma)
+
+56. **no .**  
+    - N1: 1 (no)
+
+57. **I fall down !**  
+    - N2: 1 (I)
+    - V1: 1 (fall)
+    - Q1: 1 (contains a question mark)
+
+58. **boom .**  
+    - N1: 1 (boom)
+
+59. **I fall boo(m) boom .**  
+    - N2: 1 (I)
+    - V1: 1 (fall)
+    - N1: 1 (boom)
+
+60. **floor .**  
+    - N1: 1 (floor)
+
+61. **monkey xxx .**  
+    - N1: 1 (monkey)
+
+62. **ear .**  
+    - N1: 1 (ear)
+
+63. **horsie .**  
+    - N1: 1 (horsie)
+
+64. **xxx deedee@b .**  
+    - N1: 1 (deedee@b)
+
+65. **hm: ?**  
+    - Q1: 1 (contains a question mark)
+
+66. **a me .**  
+    - N5: 1 (a me)
+
+67. **I fall down .**  
+    - N2: 1 (I)
+    - V1: 1 (fall)
+
+68. **a wa(ter) (i)n (th)ere ?**  
+    - N5: 1 (a wa(ter))
+    - Q1: 1 (contains a question mark)
+
+69. **a wa(ter) nere@p Mommy ?**  
+    - N5: 1 (a wa(ter))
+    - Q1: 1 (contains a question mark)
+
+70. **no wa(ter) ?**  
+    - N1: 1 (no)
+    - N5: 1 (wa(ter))
+    - Q1: 1 (contains a question mark)
+
+71. **Bobo .**  
+    - N1: 1 (Bobo)
+
+72. **Bobo clown .**  
+    - N1: 1 (Bobo)
+    - N1: 1 (clown)
+
+73. **I broke it .**  
+    - N2: 1 (I)
+    - V12: 1 (broke)
+
+74. **me broke it .**  
+    - N2: 1 (me)
+    - V12: 1 (broke)
+
+75. **I no know xxx .**  
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - N3: 1 (no)
+
+76. **gone .**  
+    - N1: 1 (gone)
+
+77. **you took it .**  
+    - N2: 1 (you)
+    - V12: 1 (took)
+
+78. **all go(ne) gone .**  
+    - N1: 1 (all)
+    - N1: 1 (gone)
+
+79. **my bawbo@c gone .**  
+    - N2: 1 (my)
+    - N1: 1 (bawbo@c)
+    - N1: 1 (gone)
+
+80. **you yyy .**  
+    - N2: 1 (you)
+
+81. **Daddy broke .**  
+    - N1: 1 (Daddy)
+    - V12: 1 (broke)
+
+82. **man !**  
+    - N1: 1 (man)
+    - Q1: 1 (contains a question mark)
+
+83. **I big girl .**  
+    - N2: 1 (I)
+    - N1: 1 (big)
+    - N1: 1 (girl)
+
+84. **a yyy .**  
+    - N5: 1 (a yyy)
+
+85. **in (th)ere .**  
+    - N1: 1 (in)
+
+86. **I know .**  
+    - N2: 1 (I)
+    - V1: 1 (know)
+
+87. **right here .**  
+    - N1: 1 (right)
+    - N1: 1 (here)
+
+88. **right here my pocket .**  
+    - N1: 1 (right)
+    - N1: 1 (here)
+    - N2: 1 (my)
+    - N1: 1 (pocket)
+
+89. **pocket .**  
+    - N1: 1 (pocket)
+
+90. **two p(enn)ies .**  
+    - N1: 1 (two)
+    - N1: 1 (pennies)
+
+91. **where ?**  
+    - Q1: 1 (contains a question mark)
+
+92. **got !**  
+    - V1: 1 (got)
+
+93. **all_gone .**  
+    - N1: 1 (all_gone)
+
+94. **here .**  
+    - N1: 1 (here)
+
+95. **right here a yyy .**  
+    - N1: 1 (right)
+    - N1: 1 (here)
+    - N5: 1 (a yyy)
+
+96. **milk .**  
+    - N1: 1 (milk)
+
+97. **bread .**  
+    - N1: 1 (bread)
+
+98. **I go st^ore .**  
+    - N2: 1 (I)
+    - V1: 1 (go)
+
+99. **goes back down the hall and returns , hands an imaginary package to Father .**  
+    - V1: 1 (goes)
+    - V1: 1 (returns)
+    - V1: 1 (hands)
+    - N1: 1 (package)
+    - N1: 1 (Father)
+
+100. **a broke .**  
+    - N5: 1 (a broke)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20  
+N2, 10  
+N3, 1  
+N4, 0  
+N5, 8  
+N6, 0  
+N7, 0  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 15  
+V2, 0  
+V3, 0  
+V4, 0  
+V5, 0  
+V6, 0  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 4  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 12  
+Q2, 0  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

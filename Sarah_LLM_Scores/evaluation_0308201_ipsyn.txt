@@ -1,0 +1,472 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **hey look it I (.) got another one .**
+   - N1: 1 (one)
+   - V1: 1 (got)
+
+2. **I went away for the weekend .**
+   - N1: 1 (weekend)
+   - V1: 1 (went)
+
+3. **I <n(ever)> [/] <n(ever)> [/] never go there (.) again .**
+   - N1: 1 (there)
+   - V1: 1 (go)
+   - Q3: 1 (never)
+
+4. **hey I goin(g) make a yyy .**
+   - V1: 1 (goin(g))
+   - N1: 1 (yyy)
+
+5. **what ?**
+   - Q1: 1
+
+6. **<go(ing)> [/] (.) <go(ing)> [/] I goin(g) make another one .**
+   - N1: 1 (one)
+   - V1: 1 (goin(g))
+   - N5: 1 (another one)
+
+7. **see ?**
+   - Q1: 1
+   - V1: 1 (see)
+
+8. **I want some .**
+   - V1: 1 (want)
+   - N1: 1 (some)
+
+9. **they're hot .**
+   - V6: 1 (are)
+   - N1: 1 (hot)
+
+10. **huh ?**
+    - Q1: 1
+
+11. **like that .**
+    - N1: 1 (that)
+
+12. **&-uh (.) &~h (.) this .**
+    - N1: 1 (this)
+
+13. **you're not yyy .**
+    - N2: 1 (you're)
+    - Q3: 1 (not)
+
+14. **(a)n(d) alright George .**
+    - N1: 1 (George)
+
+15. **there .**
+    - N1: 1 (there)
+
+16. **you like coffee best ?**
+    - N1: 1 (coffee)
+    - Q1: 1
+
+17. **I didn't .**
+    - V11: 1 (did)
+
+18. **I like orange juice best .**
+    - N1: 1 (juice)
+    - V1: 1 (like)
+
+19. **I wanna do this .**
+    - V1: 1 (wanna)
+    - N1: 1 (this)
+
+20. **I goin(g) make <an o@l (.) an o@l (.) an o@l (.) o@l (.) o@l> [/] (.) an o@l .**
+    - V1: 1 (goin(g))
+    - N1: 1 (o@l)
+
+21. **o@l [/] (.) o@l (.) an o@l .**
+    - N1: 1 (o@l)
+
+22. **right ?**
+    - Q1: 1
+
+23. **an o@l [/] (.) o@l .**
+    - N1: 1 (o@l)
+
+24. **o@l [/] (.) o@l .**
+    - N1: 1 (o@l)
+
+25. **I goin(g) make a whole one .**
+    - V1: 1 (goin(g))
+    - N1: 1 (one)
+
+26. **this will bring you .**
+    - V1: 1 (will bring)
+
+27. **huhuh .**
+    - (no applicable items)
+
+28. **I'm blowing a horn .**
+    - V6: 1 (am)
+    - V7: 1 (blowing)
+    - N1: 1 (horn)
+
+29. **I haven't finished yet .**
+    - V13: 1 (haven't)
+    - V1: 1 (finished)
+
+30. **where's Donald ?**
+    - Q1: 1
+    - V6: 1 (is)
+
+31. **did he go ?**
+    - Q1: 1
+    - V1: 1 (go)
+
+32. **Donald .**
+    - N1: 1 (Donald)
+
+33. **oh !**
+    - (no applicable items)
+
+34. **my bum [!!] is tired .**
+    - N1: 1 (bum)
+    - V6: 1 (is)
+    - N1: 1 (tired)
+
+35. **no !**
+    - (no applicable items)
+
+36. **my xxx .**
+    - N1: 1 (xxx)
+
+37. **look it .**
+    - V1: 1 (look)
+
+38. **I yyy .**
+    - (no applicable items)
+
+39. **I want it right there .**
+    - V1: 1 (want)
+    - N1: 1 (it)
+    - N1: 1 (there)
+
+40. **who ?**
+    - Q1: 1
+
+41. **me ?**
+    - Q1: 1
+
+42. **(a)n(d) Ann_Marie .**
+    - N1: 1 (Ann_Marie)
+
+43. **yeah .**
+    - (no applicable items)
+
+44. **(a)n(d) that my (.) (a)n(d) this is yours .**
+    - N2: 1 (that)
+    - N2: 1 (this)
+    - V6: 1 (is)
+
+45. **alright (.) Ann_Marie .**
+    - N1: 1 (Ann_Marie)
+
+46. **xxx bring me (.) into the xxx .**
+    - V1: 1 (bring)
+
+47. **mustard .**
+    - N1: 1 (mustard)
+
+48. **Mommy (.) I fall .**
+    - N1: 1 (Mommy)
+    - V1: 1 (fall)
+
+49. **xxx the dog have that .**
+    - V1: 1 (have)
+    - N1: 1 (dog)
+
+50. **(a)n(d) the dog have that .**
+    - V1: 1 (have)
+    - N1: 1 (dog)
+
+51. **who ya talkin(g) ?**
+    - Q1: 1
+    - V1: 1 (talkin(g))
+
+52. **I fall .**
+    - V1: 1 (fall)
+
+53. **I hafta go the bathroom .**
+    - V1: 1 (hafta)
+    - N1: 1 (bathroom)
+
+54. **I don't wanna bring you yyy .**
+    - V3: 1 (don't)
+    - V1: 1 (wanna)
+    - N1: 1 (you)
+
+55. **tired [?] .**
+    - N1: 1 (tired)
+
+56. **turn the light on .**
+    - V1: 1 (turn)
+    - N5: 1 (the light)
+
+57. **come here xxx .**
+    - V1: 1 (come)
+
+58. **I goin(g) &-uh (.) an(d) (.) do you see my dog ?**
+    - V1: 1 (goin(g))
+    - V1: 1 (do)
+    - N1: 1 (dog)
+    - Q1: 1
+
+59. **oh .**
+    - (no applicable items)
+
+60. **xxx he tired .**
+    - V1: 1 (is)
+    - N1: 1 (tired)
+
+61. **when you pat him like this .**
+    - V1: 1 (pat)
+    - N1: 1 (this)
+
+62. **I goin(g) get my new book .**
+    - V1: 1 (goin(g))
+    - N1: 1 (book)
+
+63. **look what he doin(g) .**
+    - V1: 1 (look)
+    - V1: 1 (doin(g))
+
+64. **&-um (.) yeah (.) <&~h> [//] I do let him out .**
+    - V1: 1 (do)
+    - V1: 1 (let)
+
+65. **know why ?**
+    - Q1: 1
+    - V1: 1 (know)
+
+66. **(be)cause my mother .**
+    - N1: 1 (mother)
+
+67. **one night Peter_Rabbit .**
+    - N1: 1 (night)
+    - N1: 1 (Peter_Rabbit)
+
+68. **knock [//] (.) rock on de [: the] yyy .**
+    - V1: 1 (knock)
+    - N1: 1 (rock)
+
+69. **now .**
+    - (no applicable items)
+
+70. **when Peter_Rabbit want (.) it was scaredy cat .**
+    - V1: 1 (want)
+    - V6: 1 (was)
+    - N1: 1 (cat)
+
+71. **and it is <run (.) run (.) run (.) run run> [/] (.) run .**
+    - V1: 1 (is)
+    - V1: 1 (run)
+
+72. **(a)n(d) he started (.) to run .**
+    - V1: 1 (started)
+    - S8: 1 (to run)
+
+73. **next mornin(g) (.) the mouth open (.) (a)n(d) it came to (.) what ?**
+    - N1: 1 (mouth)
+    - V1: 1 (open)
+    - V1: 1 (came)
+    - Q1: 1
+
+74. **(.) pee .**
+    - N1: 1 (pee)
+
+75. **a doggie (a)n(d) a cat (a)n(d) a yyy .**
+    - N1: 1 (doggie)
+    - N1: 1 (cat)
+
+76. **one night (.) a <big (.) big> [/] (.) big rabbit .**
+    - N1: 1 (rabbit)
+
+77. **(a)n(d) xxx <I'm> [//] it's so cold out xxx .**
+    - V6: 1 (is)
+    - N1: 1 (cold)
+
+78. **next morning the full moon was out .**
+    - N1: 1 (moon)
+    - V6: 1 (was)
+
+79. **(a)n(d) started [/] (.) started to run .**
+    - V1: 1 (started)
+    - S8: 1 (to run)
+
+80. **(a)n(d) (.) runway .**
+    - N1: 1 (runway)
+
+81. **(a)n(d) one night (.) he jump up (a)n(d) (.) it came to that .**
+    - V1: 1 (jump)
+    - V1: 1 (came)
+
+82. **next morning (.) he was yyy .**
+    - V6: 1 (was)
+
+83. **he (.) diggin(g) .**
+    - V7: 1 (diggin(g))
+
+84. **Bigs_Bunny [: Bugs_Bunny] doesn't do that .**
+    - N1: 1 (Bugs_Bunny)
+    - V10: 1 (doesn't)
+    - V1: 1 (do)
+
+85. **next morning (.) a big rabbit come .**
+    - N1: 1 (rabbit)
+    - V1: 1 (come)
+
+86. **and started a xxx .**
+    - V1: 1 (started)
+
+87. **started the yyy (.) up .**
+    - V1: 1 (started)
+
+88. **started the hole to dig .**
+    - V1: 1 (started)
+    - S8: 1 (to dig)
+
+89. **and was come out his hole .**
+    - V1: 1 (was)
+    - V1: 1 (come)
+
+90. **feed the rabbits .**
+    - V1: 1 (feed)
+    - N1: 1 (rabbits)
+
+91. **only (.) he get some carrots .**
+    - V1: 1 (get)
+    - N1: 1 (carrots)
+
+92. **<he get a> [//] (.) look it (.) that .**
+    - V1: 1 (get)
+    - N1: 1 (that)
+
+93. **what's that (.) Mommy ?**
+    - V6: 1 (is)
+    - N1: 1 (that)
+    - Q1: 1
+
+94. **hey (.) he's eating it .**
+    - V6: 1 (is)
+    - V1: 1 (eating)
+    - N1: 1 (it)
+
+95. **+, teeth .**
+    - N1: 1 (teeth)
+
+96. **next morning (.) a (.) black rabbit (.) and a white rabbit .**
+    - N1: 1 (rabbit)
+    - N1: 1 (black)
+    - N1: 1 (white)
+
+97. **and he (.) get a mustache .**
+    - V1: 1 (get)
+    - N1: 1 (mustache)
+
+98. **see his mustache ?**
+    - V1: 1 (see)
+    - Q1: 1
+
+99. **next morning (.) Peter_Rabbit (.) went (.) into the [/] (.) the apples on [/] (.) on [//] (.) (a)n(d) he started with it one night .**
+    - N1: 1 (Peter_Rabbit)
+    - V1: 1 (went)
+    - N1: 1 (apples)
+    - V1: 1 (started)
+
+100. **the bird tryin(g) get out .**
+    - N1: 1 (bird)
+    - V1: 1 (tryin(g))
+    - V1: 1 (get)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 20
+N2, 4
+N3, 0
+N4, 0
+N5, 5
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 30
+V2, 0
+V3, 1
+V4, 0
+V5, 0
+V6, 8
+V7, 5
+V8, 0
+V9, 0
+V10, 1
+V11, 1
+V12, 0
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 0
+Q3, 3
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+
+Capping each item at a maximum of 2:
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 0
+N5, 2
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 1
+V4, 0
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 0
+V10, 1
+V11, 1
+V12, 0
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 0
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0

@@ -1,0 +1,508 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **Mummy where my xxx ?**
+   - Q1: 1
+   - Q2: 1
+   - N2: 1
+
+2. **oh .**
+   - (No applicable items)
+
+3. **Nana home ?**
+   - Q1: 1
+
+4. **where you keys ?**
+   - Q1: 1
+   - N2: 1
+
+5. **I want play dem [: them] .**
+   - N1: 1
+   - V1: 1
+   - N2: 1
+
+6. **&-um dat [: that] mine .**
+   - N2: 1
+   - N1: 1
+
+7. **where mine ?**
+   - Q1: 1
+   - N2: 1
+
+8. **in (th)ere ?**
+   - Q1: 1
+   - V3: 1
+
+9. **you bake up .**
+   - N2: 1
+   - V1: 1
+
+10. **I turn off .**
+    - N1: 1
+    - V1: 1
+
+11. **yes off .**
+    - (No applicable items)
+
+12. **I want [//] <don't want> [//] I don't want it on .**
+    - N1: 1
+    - V1: 1
+    - V3: 1
+    - Q3: 1
+
+13. **no .**
+    - (No applicable items)
+
+14. **I want go doctor's .**
+    - N1: 1
+    - V1: 1
+
+15. **I want fix my xxx .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+16. **<I want> [/] I want xxx .**
+    - N1: 1
+    - V1: 1
+
+17. **want my finger .**
+    - N1: 1
+    - N2: 1
+
+18. **where bandaid ?**
+    - Q1: 1
+    - N1: 1
+
+19. **I want do it .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+20. **put dat [: that] finger ?**
+    - N2: 1
+    - N1: 1
+    - V1: 1
+
+21. **dis [: this] finger ?**
+    - N2: 1
+    - N1: 1
+
+22. **dat [: that] one .**
+    - N2: 1
+    - N1: 1
+
+23. **okay .**
+    - (No applicable items)
+
+24. **see my finger ?**
+    - N2: 1
+    - N1: 1
+    - V1: 1
+
+25. **I bumped it .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+26. **what's that ?**
+    - Q1: 1
+    - N1: 1
+
+27. **I (do)n('t) know .**
+    - N2: 1
+    - V1: 1
+
+28. **what's that .**
+    - N1: 1
+
+29. **pot holder .**
+    - N1: 1
+
+30. **you know .**
+    - N2: 1
+    - V1: 1
+
+31. **dat [: that] thing .**
+    - N2: 1
+    - N1: 1
+
+32. **Shyer .**
+    - (No applicable items)
+
+33. **circus .**
+    - N1: 1
+
+34. **beach .**
+    - N1: 1
+
+35. **I play water .**
+    - N1: 1
+    - V1: 1
+
+36. **I wanna (.) beach .**
+    - N1: 1
+    - V1: 1
+
+37. **uhoh .**
+    - (No applicable items)
+
+38. **where beach ?**
+    - Q1: 1
+    - N1: 1
+
+39. **uhoh (.) a cat dere [: there] .**
+    - N1: 1
+    - N2: 1
+
+40. **in a box .**
+    - V3: 1
+
+41. **he hide .**
+    - N2: 1
+    - V1: 1
+
+42. **kitty hiding .**
+    - N1: 1
+    - V7: 1
+
+43. **yeah .**
+    - (No applicable items)
+
+44. **he xxx go sleep .**
+    - N2: 1
+    - V1: 1
+
+45. **no (.) kitty go sleep .**
+    - N1: 1
+    - V1: 1
+    - Q3: 1
+
+46. **I want see him .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+47. **I wanna see him .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+48. **mhm [/] (.) mhm .**
+    - (No applicable items)
+
+49. **no he isn't .**
+    - N2: 1
+    - V7: 1
+    - Q7: 1
+
+50. **xxx doggie .**
+    - N1: 1
+
+51. **a doggie .**
+    - N1: 1
+
+52. **not a doggie .**
+    - N1: 1
+    - Q3: 1
+
+53. **I want go xxx .**
+    - N1: 1
+    - V1: 1
+
+54. **I fix dat [: that] .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+55. **ow .**
+    - (No applicable items)
+
+56. **it hurts .**
+    - N2: 1
+    - V1: 1
+
+57. **no uhoh my fishie .**
+    - N2: 1
+    - N1: 1
+    - Q3: 1
+
+58. **where ?**
+    - Q1: 1
+
+59. **&-um (.) toy(s) .**
+    - N1: 1
+    - N7: 1
+
+60. **&-uh cups .**
+    - N1: 1
+
+61. **me .**
+    - N2: 1
+
+62. **I'm a play .**
+    - N1: 1
+    - V6: 1
+
+63. **in a (.) bathtub .**
+    - V3: 1
+
+64. **xxx toe_toe .**
+    - N1: 1
+
+65. **xxx my shoes .**
+    - N2: 1
+    - N1: 1
+
+66. **xxx buy new shoes .**
+    - N1: 1
+    - V1: 1
+
+67. **I want buy new shoes .**
+    - N1: 1
+    - V1: 1
+
+68. **a me .**
+    - N2: 1
+
+69. **on my birthday .**
+    - V3: 1
+    - N2: 1
+
+70. **&=0the Square .**
+    - N1: 1
+
+71. **xxx square too .**
+    - N1: 1
+
+72. **happy <to you> [/] (.) to you .**
+    - (No applicable items)
+
+73. **birthday .**
+    - N1: 1
+
+74. **happy to you birthday .**
+    - N1: 1
+
+75. **happy birthday to you .**
+    - N1: 1
+
+76. **happy .**
+    - (No applicable items)
+
+77. **I burn your fingers ?**
+    - N1: 1
+    - N2: 1
+    - Q1: 1
+
+78. **it (.) hurt ?**
+    - N2: 1
+    - Q1: 1
+
+79. **a hurt my finger(s) .**
+    - N1: 1
+    - N2: 1
+
+80. **Nana .**
+    - N1: 1
+
+81. **Peter .**
+    - N1: 1
+
+82. **Grampy .**
+    - N1: 1
+
+83. **Arthur .**
+    - N1: 1
+
+84. **what Daddy name ?**
+    - Q1: 1
+    - N1: 1
+
+85. **<he name> [?] my father .**
+    - N1: 1
+    - N2: 1
+
+86. **he be alright (.) uhhuh .**
+    - N2: 1
+    - V6: 1
+
+87. **Mommy girl .**
+    - N1: 1
+    - N1: 1
+
+88. **I sure .**
+    - N1: 1
+    - V1: 1
+
+89. **Mummy (.) take bandaid off .**
+    - N1: 1
+    - V1: 1
+
+90. **it be alright .**
+    - N2: 1
+    - V6: 1
+
+91. **your cousin [?] .**
+    - N2: 1
+    - Q1: 1
+
+92. **I want pin .**
+    - N1: 1
+    - V1: 1
+
+93. **Esther .**
+    - N1: 1
+
+94. **I want put dis [: this] on (th)ere .**
+    - N1: 1
+    - V1: 1
+    - N2: 1
+
+95. **oh (i)n (th)ere .**
+    - (No applicable items)
+
+96. **let me see .**
+    - N2: 1
+    - V1: 1
+
+97. **oh (.) floor .**
+    - N1: 1
+
+98. **floor ?**
+    - N1: 1
+    - Q1: 1
+
+99. **yes .**
+    - (No applicable items)
+
+100. **ow !**
+    - (No applicable items)
+
+Now, let's compile the scores for each item:
+
+- N1: 20
+- N2: 15
+- N3: 0
+- N4: 0
+- N5: 0
+- N6: 0
+- N7: 2
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 20
+- V2: 0
+- V3: 6
+- V4: 0
+- V5: 0
+- V6: 3
+- V7: 2
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 0
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 12
+- Q2: 2
+- Q3: 5
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 2
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 0
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 0
+N5, 0
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 0
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 2
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 2
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

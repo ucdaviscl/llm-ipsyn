@@ -1,0 +1,472 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **do it have any buttons in the back ?**
+   - Q1: 1
+   - Q4: 1
+   - S2: 1
+
+2. **it's Kissy .**
+   - N1: 1
+   - N4: 1
+   - V6: 1
+   - V10: 1
+
+3. **paper .**
+   - N1: 1
+
+4. **oh .**
+   - (No applicable items)
+
+5. **that's why it's too tight .**
+   - N1: 1
+   - N4: 1
+   - V6: 1
+
+6. **yeah .**
+   - (No applicable items)
+
+7. **alright .**
+   - (No applicable items)
+
+8. **hey (.) y(ou) want some tea ?**
+   - Q1: 1
+   - S2: 1
+
+9. **tea .**
+   - N1: 1
+
+10. **I maked [: made] [* +ed] it .**
+    - N2: 1
+    - V12: 1
+    - S2: 1
+
+11. **I maked [: made] [* +ed] it with water .**
+    - N2: 1
+    - V12: 1
+    - S4: 1
+    - V3: 1
+
+12. **it's really food .**
+    - N1: 1
+    - V6: 1
+
+13. **that's to (.) stir it (.) I mean (.) stir it .**
+    - N1: 1
+    - V6: 1
+    - S2: 1
+
+14. **see ?**
+    - Q1: 1
+
+15. **go on .**
+    - V1: 1
+
+16. **it's cold .**
+    - N1: 1
+    - V6: 1
+
+17. **not quite .**
+    - (No applicable items)
+
+18. **no .**
+    - (No applicable items)
+
+19. **I know how to write Donna .**
+    - N2: 1
+    - V1: 1
+    - S8: 1
+
+20. **&-um (.) my Mother .**
+    - N2: 1
+    - N1: 1
+    - N5: 1
+
+21. **a@l .**
+    - (No applicable items)
+
+22. **o@l .**
+    - (No applicable items)
+
+23. **d@l .**
+    - (No applicable items)
+
+24. **isn't it (.) Ma ?**
+    - Q1: 1
+    - Q7: 1
+
+25. **from Christmas .**
+    - V3: 1
+
+26. **Santa_Claus .**
+    - N1: 1
+
+27. **did he ?**
+    - Q1: 1
+    - Q8: 1
+
+28. **here's Baby_First_Step .**
+    - N1: 1
+    - V6: 1
+
+29. **she doesn't work .**
+    - N2: 1
+    - V3: 1
+    - V7: 1
+
+30. **she (sup)posed to walk .**
+    - N2: 1
+    - V1: 1
+    - S8: 1
+
+31. **the battery's gone .**
+    - N1: 1
+    - V6: 1
+
+32. **my baking oven don't work .**
+    - N2: 1
+    - N1: 1
+    - V3: 1
+    - V7: 1
+
+33. **because (.) nobody didn't broke it .**
+    - V12: 1
+    - S4: 1
+
+34. **dis [: this] don't work like dat [: that] (be)cause (.) know why ?**
+    - N1: 1
+    - V3: 1
+    - Q1: 1
+    - Q3: 1
+
+35. **Santa_Claus didn't bring any bulbs .**
+    - N1: 1
+    - V12: 1
+    - S4: 1
+
+36. **you can slide some food in .**
+    - N2: 1
+    - V1: 1
+    - S3: 1
+
+37. **it bakes .**
+    - V1: 1
+
+38. **real food .**
+    - N1: 1
+
+39. **&-um (.) brownies .**
+    - N1: 1
+
+40. **they were good .**
+    - N7: 1
+    - V6: 1
+
+41. **yup .**
+    - (No applicable items)
+
+42. **with all these .**
+    - (No applicable items)
+
+43. **like pizza (.) (a)n(d) buns (a)n(d) everything .**
+    - N1: 1
+    - N7: 1
+
+44. **I didn't make em yet .**
+    - N2: 1
+    - V12: 1
+    - Q3: 1
+
+45. **(a)n(d) here (.) what I did .**
+    - N2: 1
+    - S2: 1
+
+46. **the thing .**
+    - N1: 1
+
+47. **ya don't light xxx oven .**
+    - N2: 1
+    - N1: 1
+    - V7: 1
+
+48. **the thing that's over there .**
+    - N1: 1
+    - N9: 1
+
+49. **that doesn't turn in the oven .**
+    - N1: 1
+    - V3: 1
+    - V7: 1
+
+50. **just put it in with [?] brownies [?] .**
+    - V1: 1
+    - S3: 1
+    - V3: 1
+
+51. **c(a)n I write with ya ?**
+    - Q1: 1
+    - Q8: 1
+
+52. **I didn't shut her off .**
+    - N2: 1
+    - V12: 1
+    - Q3: 1
+
+53. **I did now .**
+    - V12: 1
+    - S2: 1
+
+54. **y(ou) wanna see my carriage ?**
+    - Q1: 1
+    - S2: 1
+
+55. **okay .**
+    - (No applicable items)
+
+56. **it's really stuff .**
+    - N1: 1
+    - V6: 1
+
+57. **lipstick (a)n(d) e(ve)rything .**
+    - N1: 1
+    - N7: 1
+
+58. **y(ou) wanna put some on ?**
+    - Q1: 1
+    - S2: 1
+
+59. **you ?**
+    - N2: 1
+
+60. **you have orange lipstick on .**
+    - N2: 1
+    - N5: 1
+    - V1: 1
+    - S2: 1
+
+61. **I'm gonna put together .**
+    - V1: 1
+    - S2: 1
+
+62. **good .**
+    - (No applicable items)
+
+63. **ya should put some on your nose .**
+    - N2: 1
+    - V9: 1
+    - S2: 1
+
+64. **yeah (.) (a)n(d) on your cheek (.) (a)n(d) there (.) an(d) there (.) (a)n(d) here .**
+    - N2: 1
+    - N5: 1
+    - S7: 1
+
+65. **le(t) me wipe it off ?**
+    - Q1: 1
+    - S2: 1
+
+66. **y(ou) know what else I got ?**
+    - Q1: 1
+    - S2: 1
+
+67. **&-um (.) powder .**
+    - N1: 1
+
+68. **yes it is .**
+    - N2: 1
+    - V6: 1
+
+69. **inside there is .**
+    - V6: 1
+
+70. **yep .**
+    - (No applicable items)
+
+71. **no sir .**
+    - (No applicable items)
+
+72. **like dat [: that] .**
+    - (No applicable items)
+
+73. **I'm gonna get the powder out .**
+    - V1: 1
+    - S2: 1
+
+74. **I think so .**
+    - V1: 1
+    - S2: 1
+
+75. **awoh .**
+    - (No applicable items)
+
+76. **it broke .**
+    - V12: 1
+    - S2: 1
+
+77. **anyway I don't need dis [: this] .**
+    - N2: 1
+    - V12: 1
+    - Q3: 1
+
+78. **(be)cause it doesn't really work .**
+    - V3: 1
+    - V7: 1
+
+79. **I try [?] (.) get it .**
+    - V1: 1
+    - S8: 1
+
+80. **brush (a)n(d) comb (a)n(d) (.) lipstick (a)n(d) e(ve)rything .**
+    - N1: 1
+    - N7: 1
+
+81. **I did a quite job .**
+    - N2: 1
+    - V12: 1
+    - S2: 1
+
+82. **I [/] (.) I did it quite job .**
+    - N2: 1
+    - V12: 1
+    - S4: 1
+
+83. **it's powder .**
+    - N1: 1
+    - V6: 1
+
+84. **you can write on dis [: this] like dat [: that] .**
+    - N2: 1
+    - V1: 1
+    - S3: 1
+
+85. **can't you get it out ?**
+    - Q1: 1
+    - Q8: 1
+
+86. **I'm right .**
+    - N2: 1
+    - V6: 1
+
+87. **there's a lot (.) see ?**
+    - N1: 1
+    - V6: 1
+    - Q1: 1
+
+88. **I was right .**
+    - N2: 1
+    - V13: 1
+
+89. **I'm always right .**
+    - N2: 1
+    - V6: 1
+
+90. **I guess in my head .**
+    - N2: 1
+    - V1: 1
+    - S3: 1
+
+91. **everything's guessing .**
+    - N1: 1
+    - V6: 1
+
+92. **I will bobo@b (.) bobo@b (.) bobo@b wear .**
+    - V9: 1
+    - S2: 1
+
+93. **in the boomboom@b (.) boomboom@b wear .**
+    - V1: 1
+    - S2: 1
+
+94. **I'll get all powdery .**
+    - V1: 1
+    - S2: 1
+
+95. **nope .**
+    - (No applicable items)
+
+96. **but I have real powder !**
+    - N2: 1
+    - V6: 1
+    - S2: 1
+
+97. **I look like a clown .**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+98. **I look funny .**
+    - N2: 1
+    - V1: 1
+
+99. **here .**
+    - (No applicable items)
+
+100. **<I'm> [/] (.) I'm lookin(g) like a clown .**
+    - N2: 1
+    - V7: 1
+    - S4: 1
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 14
+N2, 12
+N3, 0
+N4, 3
+N5, 4
+N6, 5
+N7, 5
+N8, 0
+N9, 2
+N10, 0
+N11, 0
+V1, 10
+V2, 0
+V3, 5
+V4, 0
+V5, 0
+V6, 8
+V7, 5
+V8, 0
+V9, 1
+V10, 0
+V11, 0
+V12, 5
+V13, 1
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 8
+Q2, 0
+Q3, 5
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 2
+Q8, 3
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 15
+S3, 6
+S4, 8
+S5, 0
+S6, 0
+S7, 2
+S8, 3
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

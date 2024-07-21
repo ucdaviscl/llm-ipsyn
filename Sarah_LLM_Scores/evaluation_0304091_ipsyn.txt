@@ -1,0 +1,450 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **goo(d)_mo(r)ning .**
+   - N1: 1 (morning)
+
+2. **hey (.) don't put on other bandaid .**
+   - N1: 1 (bandaid)
+   - V3: 1 (put on)
+   - V3: 1 (don't put on)
+
+3. **I go on ta trailer .**
+   - N1: 1 (trailer)
+   - N2: 1 (I)
+   - V1: 1 (go)
+
+4. **don('t) a get (.) cut .**
+   - V3: 1 (get cut)
+   - V3: 1 (don't get cut)
+
+5. **i(t) off .**
+   - V1: 1 (off)
+
+6. **hey .**
+   - S1: 1 (hey)
+
+7. **yeah .**
+   - S1: 1 (yeah)
+
+8. **jus(t) a minute with it .**
+   - N1: 1 (minute)
+   - N5: 1 (a minute)
+
+9. **Mommy (.) what's the matter ?**
+   - N1: 1 (matter)
+   - N2: 1 (what's)
+   - Q1: 1 (question mark)
+
+10. **I wan(t) a piece o(f) paper .**
+    - N1: 1 (piece)
+    - N1: 1 (paper)
+    - N5: 1 (a piece)
+
+11. **<please (.) please> [/] (.) please .**
+    - S1: 1 (please)
+
+12. **pretty please .**
+    - S1: 1 (pretty)
+
+13. **nuhhuh .**
+    - S1: 1 (nuhhuh)
+
+14. **I want one .**
+    - N2: 1 (I)
+    - N1: 1 (one)
+    - V1: 1 (want)
+
+15. **write .**
+    - V1: 1 (write)
+
+16. **tha:t's orange .**
+    - N1: 1 (orange)
+    - N2: 1 (that's)
+
+17. **o:h .**
+    - S1: 1 (o:h)
+
+18. **Mommy (.) that's orange (.) here .**
+    - N1: 1 (orange)
+    - N2: 1 (that's)
+
+19. **this way .**
+    - N1: 1 (way)
+    - N5: 1 (this way)
+
+20. **like that .**
+    - N1: 1 (that)
+    - S1: 1 (like)
+
+21. **this is scribble .**
+    - N1: 1 (scribble)
+    - N4: 1 (this is)
+
+22. **no .**
+    - S1: 1 (no)
+
+23. **huh ?**
+    - Q1: 1 (question mark)
+
+24. **you write ?**
+    - N2: 1 (you)
+    - V1: 1 (write)
+    - Q1: 1 (question mark)
+
+25. **it go that way (.) <(a)n(d) that way (.) (a)n(d) that way> [/] (.) (a)n(d) that way .**
+    - N1: 1 (way)
+    - N2: 1 (it)
+    - V1: 1 (go)
+
+26. **I can('t) make an h@l .**
+    - N1: 1 (h@l)
+    - N2: 1 (I)
+    - V1: 1 (make)
+
+27. **&-um I go get my a(l)phabets ?**
+    - N1: 1 (alphabets)
+    - N2: 1 (I)
+    - V1: 1 (go)
+
+28. **wan(t) me go ge(t) my alphabets ?**
+    - N1: 1 (alphabets)
+    - N2: 1 (me)
+    - V1: 1 (go)
+
+29. **you know either .**
+    - N2: 1 (you)
+    - V1: 1 (know)
+
+30. **da(t) [: that] a scribble .**
+    - N1: 1 (scribble)
+    - N5: 1 (a scribble)
+
+31. **that's a scribble .**
+    - N1: 1 (scribble)
+    - N5: 1 (a scribble)
+
+32. **I did it all over .**
+    - N2: 1 (I)
+    - V12: 1 (did)
+
+33. **I make one (.) dat [: that] way (.) (a)n(d) that way .**
+    - N1: 1 (one)
+    - N1: 1 (way)
+    - N5: 1 (that way)
+
+34. **hey (.) dere [: there] they are .**
+    - N1: 1 (they)
+    - N1: 1 (there)
+
+35. **what ?**
+    - Q1: 1 (question mark)
+
+36. **here .**
+    - S1: 1 (here)
+
+37. **&-um blue .**
+    - N1: 1 (blue)
+
+38. **orange .**
+    - N1: 1 (orange)
+
+39. **no that's a fo(r)ty .**
+    - N1: 1 (forty)
+    - N5: 1 (that's a forty)
+
+40. **that's an n@l .**
+    - N1: 1 (n@l)
+    - N5: 1 (an n@l)
+
+41. **i(t) chew it .**
+    - N2: 1 (it)
+    - V1: 1 (chew)
+
+42. **r@l (.) I mean an x@l .**
+    - N1: 1 (x@l)
+    - N2: 1 (I)
+
+43. **there .**
+    - S1: 1 (there)
+
+44. **what they do .**
+    - N2: 1 (they)
+    - V1: 1 (do)
+
+45. **where [/] (.) where ?**
+    - Q1: 1 (question mark)
+
+46. **alright .**
+    - S1: 1 (alright)
+
+47. **(a)n(d) I make Chantilly .**
+    - N1: 1 (Chantilly)
+    - N2: 1 (I)
+    - V1: 1 (make)
+
+48. **i(s) this goin(g) (.) be &-uh (.) <Chan(tilly)> [/] (.) Chantilly ?**
+    - N1: 1 (this)
+    - N1: 1 (Chantilly)
+    - V1: 1 (is)
+
+49. **&-uh big dog (.) like Chantilly .**
+    - N1: 1 (dog)
+    - N1: 1 (Chantilly)
+
+50. **you're a little dog now .**
+    - N1: 1 (dog)
+    - N5: 1 (a little dog)
+
+51. **he have a ball (.) wi(th) me .**
+    - N1: 1 (ball)
+    - N2: 1 (he)
+    - V1: 1 (have)
+
+52. **he likes me .**
+    - N2: 1 (he)
+    - V1: 1 (likes)
+
+53. **he [/] (.) he nose is cold .**
+    - N1: 1 (nose)
+    - N2: 1 (he)
+    - V1: 1 (is)
+
+54. **yes .**
+    - S1: 1 (yes)
+
+55. **Mommy (.) where's a yyy ?**
+    - N2: 1 (where's)
+    - Q1: 1 (question mark)
+
+56. **you make it .**
+    - N2: 1 (you)
+    - V1: 1 (make)
+
+57. **no (.) put it up his head .**
+    - N1: 1 (head)
+    - V1: 1 (put)
+
+58. **that's not Chantilly .**
+    - N1: 1 (Chantilly)
+    - N2: 1 (that's)
+
+59. **huh .**
+    - S1: 1 (huh)
+
+60. **hunm .**
+    - S1: 1 (hunm)
+
+61. **that's not a cat .**
+    - N1: 1 (cat)
+    - N5: 1 (a cat)
+
+62. **no wake a .**
+    - N1: 1 (wake)
+    - N5: 1 (a)
+
+63. **he's (.) layin(g) down .**
+    - N2: 1 (he)
+    - V7: 1 (laying)
+
+64. **ouch .**
+    - S1: 1 (ouch)
+
+65. **like this .**
+    - N1: 1 (this)
+    - S1: 1 (like)
+
+66. **like this (.) Mommy .**
+    - N1: 1 (this)
+    - N2: 1 (Mommy)
+
+67. **yeah (.) make it .**
+    - N2: 1 (it)
+    - V1: 1 (make)
+
+68. **will you make a dog ?**
+    - N2: 1 (you)
+    - V9: 1 (will make)
+    - Q1: 1 (question mark)
+
+69. **make a dog .**
+    - N1: 1 (dog)
+    - N5: 1 (a dog)
+
+70. **this a dog ?**
+    - N1: 1 (dog)
+    - Q1: 1 (question mark)
+
+71. **this goin(g) be a dog ?**
+    - N1: 1 (dog)
+    - V7: 1 (goin(g))
+
+72. **that's a dog ?**
+    - N1: 1 (dog)
+    - N5: 1 (a dog)
+
+73. **Mommy (.) I wan(t) a dog .**
+    - N1: 1 (dog)
+    - N2: 1 (I)
+    - V1: 1 (want)
+
+74. **(.) wan(t) a make a f(r)og .**
+    - N1: 1 (frog)
+    - N5: 1 (a frog)
+
+75. **is xxx o:h .**
+    - S1: 1 (is)
+
+76. **there's a eye .**
+    - N1: 1 (eye)
+    - N5: 1 (a eye)
+
+77. **right there ?**
+    - Q1: 1 (question mark)
+
+78. **that's a frog .**
+    - N1: 1 (frog)
+    - N5: 1 (a frog)
+
+79. **Mommy .**
+    - N2: 1 (Mommy)
+
+80. **flying yyy .**
+    - N1: 1 (yyy)
+
+81. **that ?**
+    - Q1: 1 (question mark)
+
+82. **I (.) don('t) like the seeds .**
+    - N1: 1 (seeds)
+    - N2: 1 (I)
+    - V3: 1 (don't like)
+
+83. **mhm [?] .**
+    - S1: 1 (mhm)
+
+84. **&-uh &-uh chew dat [: that] [?] like this .**
+    - N1: 1 (this)
+    - V1: 1 (chew)
+
+85. **don('t) chew dat [: that] [?] like this .**
+    - N1: 1 (this)
+    - V3: 1 (don't chew)
+
+86. **cracked .**
+    - S1: 1 (cracked)
+
+87. **&-um &-uh (.) &-um (.) ouch !**
+    - S1: 1 (ouch)
+
+88. **that's the one .**
+    - N1: 1 (one)
+    - N5: 1 (the one)
+
+89. **that's a m@l .**
+    - N1: 1 (m@l)
+    - N5: 1 (a m@l)
+
+90. **I mean a (.) yyy .**
+    - N1: 1 (yyy)
+    - N2: 1 (I)
+
+91. **next birthday have a cake .**
+    - N1: 1 (cake)
+    - N5: 1 (a cake)
+
+92. **right there .**
+    - S1: 1 (right)
+
+93. **ow [?] .**
+    - S1: 1 (ow)
+
+94. **h(ey) you wan(t) make a dog .**
+    - N1: 1 (dog)
+    - N2: 1 (you)
+    - V1: 1 (want)
+
+95. **right here .**
+    - S1: 1 (right)
+
+96. **tha(t)'s wha(t) I goin(g) a do .**
+    - N2: 1 (I)
+    - V7: 1 (goin(g))
+
+97. **hm: ?**
+    - Q1: 1 (question mark)
+
+98. **what's this ?**
+    - Q1: 1 (question mark)
+
+99. **I know it .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+
+100. **<hop@o (.) hop@o> [/] (.) hop@o .**
+    - S1: 1 (hop@o)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20
+N2, 14
+N3, 0
+N4, 0
+N5, 12
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 5
+V4, 0
+V5, 0
+V6, 0
+V7, 3
+V8, 0
+V9, 1
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 0
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 20
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

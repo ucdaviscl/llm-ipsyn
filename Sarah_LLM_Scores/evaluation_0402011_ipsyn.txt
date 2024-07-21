@@ -1,0 +1,505 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **not that .**
+   - N2: 1 (that)
+   - V3: 1 (not)
+   
+2. **and not that .**
+   - N2: 1 (that)
+   - V3: 1 (not)
+   - S5: 1 (and)
+
+3. **hey we saw this in the zoo .**
+   - N1: 1 (zoo)
+   - N2: 1 (we)
+   - N5: 1 (this)
+   - V1: 1 (saw)
+   - V3: 1 (in the zoo)
+
+4. **in the zoo .**
+   - N1: 1 (zoo)
+   - V3: 1 (in the zoo)
+
+5. **that .**
+   - N2: 1 (that)
+
+6. **what called now ?**
+   - Q2: 1 (what)
+   - Q1: 1 (?)
+
+7. **I am thinkin(g) .**
+   - N2: 1 (I)
+   - V6: 1 (am)
+   - V7: 1 (thinkin(g))
+
+8. **fish .**
+   - N1: 1 (fish)
+
+9. **stunk ?**
+   - V12: 1 (stunk)
+   - Q1: 1 (?)
+
+10. **I am thinkin(g) (.) I told ya .**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - V7: 1 (thinkin(g))
+    - V1: 1 (told)
+
+11. **yeah .**
+    - (No applicable items)
+
+12. **in the water (.) swimming (.) huh ?**
+    - N1: 1 (water)
+    - V7: 1 (swimming)
+    - Q1: 1 (?)
+
+13. **&-uh (.) animal farm .**
+    - N1: 1 (farm)
+    - N4: 1 (animal farm)
+
+14. **(.) nuh (.) and you didn't see it (.) uhhuh Daddy ?**
+    - N2: 1 (you)
+    - V3: 1 (didn't see)
+    - S5: 1 (and)
+    - Q1: 1 (?)
+
+15. **huh ?**
+    - Q1: 1 (?)
+
+16. **&-um (.) a seal .**
+    - N1: 1 (seal)
+    - N5: 1 (a seal)
+
+17. **that's my biggest .**
+    - N2: 1 (that)
+    - N3: 1 (biggest)
+    - V4: 1 (that's my biggest)
+
+18. **animal .**
+    - N1: 1 (animal)
+
+19. **that's my biggest animal .**
+    - N2: 1 (that)
+    - N3: 1 (biggest)
+    - N1: 1 (animal)
+    - V4: 1 (that's my biggest)
+
+20. **that's my biggest (.) huh ?**
+    - N2: 1 (that)
+    - N3: 1 (biggest)
+    - V4: 1 (that's my biggest)
+    - Q1: 1 (?)
+
+21. **I colored that but I didn't color the whole thing .**
+    - N2: 1 (I)
+    - N2: 1 (that)
+    - V1: 1 (colored)
+    - V1: 1 (didn't color)
+    - S5: 1 (but)
+
+22. **that was too big for me .**
+    - N2: 1 (that)
+    - V4: 1 (was too big)
+
+23. **that hen was too big for me .**
+    - N2: 1 (that)
+    - N1: 1 (hen)
+    - V4: 1 (was too big)
+
+24. **turkey ?**
+    - N1: 1 (turkey)
+    - Q1: 1 (?)
+
+25. **the boat .**
+    - N1: 1 (boat)
+    - N5: 1 (the boat)
+
+26. **you call it a boat (.) Daddy ?**
+    - N2: 1 (you)
+    - V1: 1 (call)
+    - N5: 1 (a boat)
+    - Q1: 1 (?)
+
+27. **a boat ?**
+    - N5: 1 (a boat)
+    - Q1: 1 (?)
+
+28. **on the other book .**
+    - N1: 1 (book)
+    - V3: 1 (on the other book)
+
+29. **Mommy .**
+    - N2: 1 (Mommy)
+
+30. **how_about the animal farm ?**
+    - N1: 1 (farm)
+    - Q1: 1 (?)
+
+31. **there's the animal farmhouse .**
+    - N1: 1 (farmhouse)
+    - V6: 1 (there's)
+
+32. **there's two doors .**
+    - N1: 1 (doors)
+    - V6: 1 (there's)
+
+33. **uhuh .**
+    - (No applicable items)
+
+34. **I saw one outside .**
+    - N2: 1 (I)
+    - N1: 1 (one)
+    - V1: 1 (saw)
+
+35. **oh (.) yeah .**
+    - (No applicable items)
+
+36. **when the [/] (.) the red one turned off (.) then the other one turned off [/] (.) off upstairs ?**
+    - N1: 1 (one)
+    - N1: 1 (red)
+    - V1: 1 (turned off)
+    - Q1: 1 (?)
+
+37. **was this is the boat we saw ?**
+    - N2: 1 (this)
+    - N1: 1 (boat)
+    - N2: 1 (we)
+    - V1: 1 (saw)
+    - Q1: 1 (?)
+
+38. **hm: ?**
+    - Q1: 1 (?)
+
+39. **what boat ?**
+    - N1: 1 (boat)
+    - Q2: 1 (what)
+
+40. **where's the light ?**
+    - N1: 1 (light)
+    - Q1: 1 (?)
+
+41. **look it (.) a big boat we gonna buy .**
+    - N1: 1 (boat)
+    - N3: 1 (big)
+    - V1: 1 (look)
+    - V1: 1 (gonna buy)
+
+42. **a turtle (.) huh ?**
+    - N1: 1 (turtle)
+    - Q1: 1 (?)
+
+43. **I don't have a turtle .**
+    - N2: 1 (I)
+    - V3: 1 (don't have)
+    - N5: 1 (a turtle)
+
+44. **oh yes I do .**
+    - N2: 1 (I)
+    - V1: 1 (do)
+
+45. **in the bathtub .**
+    - N1: 1 (bathtub)
+    - V3: 1 (in the bathtub)
+
+46. **there was soap in it .**
+    - N1: 1 (soap)
+    - V4: 1 (was soap)
+
+47. **I used it all .**
+    - N2: 1 (I)
+    - V1: 1 (used)
+
+48. **now .**
+    - (No applicable items)
+
+49. **how_come he taked [: took] [* +ed] all his crayons out ?**
+    - N2: 1 (he)
+    - V12: 1 (taked)
+    - Q1: 1 (?)
+
+50. **you stupid (.) elephant .**
+    - N2: 1 (you)
+    - N1: 1 (elephant)
+
+51. **stupid elephant (.) I said .**
+    - N1: 1 (elephant)
+    - N2: 1 (I)
+    - V1: 1 (said)
+
+52. **because .**
+    - (No applicable items)
+
+53. **he has a funny tail (.) that's why .**
+    - N2: 1 (he)
+    - N5: 1 (a tail)
+    - V1: 1 (has)
+    - V4: 1 (that's why)
+
+54. **not Lizzie .**
+    - N2: 1 (Lizzie)
+    - V3: 1 (not)
+
+55. **there's Bozo .**
+    - N1: 1 (Bozo)
+    - V6: 1 (there's)
+
+56. **(.) xxx I had a Bozo .**
+    - N2: 1 (I)
+    - N5: 1 (a Bozo)
+    - V12: 1 (had)
+
+57. **yes I do .**
+    - N2: 1 (I)
+    - V1: 1 (do)
+
+58. **I'm gonna see Bozo .**
+    - N2: 1 (I)
+    - V6: 1 (I'm)
+    - V1: 1 (gonna see)
+
+59. **now wee_wee do off the pot .**
+    - N1: 1 (pot)
+    - V1: 1 (do)
+
+60. **in the balloons again .**
+    - N1: 1 (balloons)
+    - V3: 1 (in the balloons)
+
+61. **the balloons again (.) on the other side .**
+    - N1: 1 (balloons)
+    - N1: 1 (side)
+    - V3: 1 (on the other side)
+
+62. **two balloons .**
+    - N1: 1 (balloons)
+    - N7: 1 (two)
+
+63. **they singin(g) happy_birthday .**
+    - N2: 1 (they)
+    - V7: 1 (singin(g))
+
+64. **happy birthday to you .**
+    - N1: 1 (birthday)
+    - N2: 1 (you)
+
+65. **Christmas time .**
+    - N1: 1 (time)
+    - N1: 1 (Christmas)
+
+66. **you belong in the zoo ?**
+    - N2: 1 (you)
+    - V1: 1 (belong)
+    - Q1: 1 (?)
+
+67. **you belong in a zoo .**
+    - N2: 1 (you)
+    - V1: 1 (belong)
+    - N5: 1 (a zoo)
+
+68. **you smell like a monkey .**
+    - N2: 1 (you)
+    - V1: 1 (smell)
+    - N5: 1 (a monkey)
+
+69. **and belong in a zoo .**
+    - V1: 1 (belong)
+    - S5: 1 (and)
+
+70. **belong in a zoo .**
+    - V1: 1 (belong)
+    - N5: 1 (a zoo)
+
+71. **look like one too .**
+    - V1: 1 (look)
+    - N1: 1 (one)
+
+72. **Uncle_Buster .**
+    - N2: 1 (Uncle_Buster)
+
+73. **dubadubadubdumdum@b .**
+    - (No applicable items)
+
+74. **I have a drum over my Nana's but I don't have two monkeys .**
+    - N2: 1 (I)
+    - N5: 1 (a drum)
+    - V1: 1 (have)
+    - N2: 1 (I)
+    - V3: 1 (don't have)
+    - N7: 1 (two)
+    - N1: 1 (monkeys)
+    - S5: 1 (but)
+
+75. **you snap and he comes .**
+    - N2: 1 (you)
+    - V1: 1 (snap)
+    - N2: 1 (he)
+    - V1: 1 (comes)
+    - S5: 1 (and)
+
+76. **I snap a little .**
+    - N2: 1 (I)
+    - V1: 1 (snap)
+
+77. **it's Easter time .**
+    - N2: 1 (it)
+    - V6: 1 (it's)
+    - N1: 1 (Easter time)
+
+78. **Easter time .**
+    - N1: 1 (Easter time)
+
+79. **it's Easter time (.) Mommy .**
+    - N2: 1 (it)
+    - V6: 1 (it's)
+    - N1: 1 (Easter time)
+    - N2: 1 (Mommy)
+
+80. **it's all over .**
+    - N2: 1 (it)
+    - V6: 1 (it's)
+    - N1: 1 (all over)
+
+81. **now (.) no now .**
+    - (No applicable items)
+
+82. **Halloween .**
+    - N1: 1 (Halloween)
+
+83. **I saw that before .**
+    - N2: 1 (I)
+    - V1: 1 (saw)
+    - N2: 1 (that)
+
+84. **I get some candy and everything .**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - N1: 1 (candy)
+    - S5: 1 (and)
+
+85. **yup .**
+    - (No applicable items)
+
+86. **Mommy (.) I caught a grasshopper before .**
+    - N2: 1 (I)
+    - V1: 1 (caught)
+    - N5: 1 (a grasshopper)
+
+87. **he ate leaves .**
+    - N2: 1 (he)
+    - V1: 1 (ate)
+    - N7: 1 (leaves)
+
+88. **he ate a leaf .**
+    - N2: 1 (he)
+    - V1: 1 (ate)
+    - N5: 1 (a leaf)
+
+89. **he was real .**
+    - N2: 1 (he)
+    - V4: 1 (was real)
+
+90. **yep .**
+    - (No applicable items)
+
+91. **Hippity .**
+    - (No applicable items)
+
+92. **leaves and everything and flowers .**
+    - N7: 1 (leaves)
+    - N1: 1 (flowers)
+    - S5: 1 (and)
+
+93. **did he ?**
+    - N2: 1 (he)
+    - Q1: 1 (?)
+
+94. **flowers .**
+    - N1: 1 (flowers)
+
+95. **new flowers .**
+    - N1: 1 (flowers)
+    - N3: 1 (new)
+
+96. **and grasshopper .**
+    - N1: 1 (grasshopper)
+    - S5: 1 (and)
+
+97. **&-uh (.) Hippity_Doo .**
+    - (No applicable items)
+
+98. **oh .**
+    - (No applicable items)
+
+99. **caterpillar .**
+    - N1: 1 (caterpillar)
+
+100. **like mine's like mine .**
+    - (No applicable items)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 14
+N2, 12
+N3, 6
+N4, 3
+N5, 8
+N6, 3
+N7, 5
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 15
+V2, 0
+V3, 8
+V4, 5
+V5, 0
+V6, 5
+V7, 4
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 3
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 3
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 8
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none exceeded that limit.)

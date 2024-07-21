@@ -1,0 +1,440 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **look it .**
+   - N1: 1 (look)
+   - V1: 1 (look)
+
+2. **I get my yyy Bunny .**
+   - N2: 1 (I)
+   - N5: 1 (my Bunny)
+   - V1: 1 (get)
+
+3. **I walk under the table .**
+   - N2: 1 (I)
+   - N5: 1 (the table)
+   - V1: 1 (walk)
+   - V3: 1 (under the table)
+
+4. **I'm tryin(g) to hol(d) my bunny this week .**
+   - N2: 1 (I)
+   - N5: 1 (my bunny)
+   - V1: 1 (try)
+   - V7: 1 (tryin(g))
+
+5. **hi (.) <hello (.) hello> [/] (.) hello .**
+   - N1: 1 (hello)
+
+6. **don't talk .**
+   - V1: 1 (talk)
+   - Q3: 1 (don't)
+
+7. **can't .**
+   - Q3: 1 (can't)
+
+8. **oh yes (.) yes [/] (.) <no (.) no> [/] (.) no .**
+   - N1: 1 (yes)
+   - N1: 1 (no)
+
+9. **I not goin(g) to do it .**
+   - N2: 1 (I)
+   - V1: 1 (go)
+   - Q3: 1 (not)
+
+10. **oh .**
+    - N1: 1 (oh)
+
+11. **I'm twist (.) his head .**
+    - N2: 1 (I)
+    - N5: 1 (his head)
+    - V1: 1 (twist)
+
+12. **I'd xxx put it back on .**
+    - N5: 1 (it)
+    - V1: 1 (put)
+
+13. **<going (.) going> [/] (.) going .**
+    - V1: 1 (going)
+
+14. **upside down .**
+    - N1: 1 (upside down)
+
+15. **down upside down .**
+    - N1: 1 (upside down)
+
+16. **this [/] this (.) won't twist .**
+    - N5: 1 (this)
+    - V1: 1 (twist)
+    - Q3: 1 (won't)
+
+17. **this (.) whoops .**
+    - N1: 1 (whoops)
+
+18. **hey (.) xxx .**
+    - N1: 1 (hey)
+
+19. **bam_bam@o .**
+    - N1: 1 (bam_bam@o)
+
+20. **o:h (.) he fall down .**
+    - N2: 1 (he)
+    - V1: 1 (fall)
+
+21. **you look crosser (.) (a)n(d) I'm a hater yyy .**
+    - N2: 1 (you)
+    - N2: 1 (I)
+    - V1: 1 (look)
+
+22. **in the odd yyy head it hurts .**
+    - N5: 1 (the odd head)
+    - V1: 1 (hurts)
+
+23. **here a poster (.) like that .**
+    - N5: 1 (a poster)
+
+24. **the bunny go yyy haha !**
+    - N5: 1 (the bunny)
+    - V1: 1 (go)
+
+25. **he runnin(g) (.) o:h .**
+    - N2: 1 (he)
+    - V1: 1 (runnin(g))
+
+26. **I'm (.) no one .**
+    - N2: 1 (I)
+    - N1: 1 (one)
+
+27. **no .**
+    - N1: 1 (no)
+
+28. **huh ?**
+    - Q1: 1 (huh)
+
+29. **like that ?**
+    - Q1: 1 (like that)
+
+30. **I do this when ya hold her .**
+    - N2: 1 (I)
+    - N5: 1 (this)
+    - V1: 1 (do)
+
+31. **I have school (.) Donna .**
+    - N2: 1 (I)
+    - N5: 1 (school)
+    - V1: 1 (have)
+
+32. **I can push this .**
+    - N2: 1 (I)
+    - N5: 1 (this)
+    - V1: 1 (push)
+
+33. **see .**
+    - V1: 1 (see)
+
+34. **hey (.) I did it .**
+    - N2: 1 (I)
+    - V1: 1 (did)
+
+35. **(a)n(d) he go backwards .**
+    - N2: 1 (he)
+    - V1: 1 (go)
+
+36. **can he go backwards too ?**
+    - N2: 1 (he)
+    - V1: 1 (go)
+    - Q1: 1 (can he go backwards)
+
+37. **backwards like this .**
+    - N5: 1 (this)
+
+38. **is it ?**
+    - Q1: 1 (is it)
+
+39. **xxx where there wood .**
+    - Q2: 1 (where)
+
+40. **help he fallin(g) down the wood .**
+    - N2: 1 (he)
+    - V1: 1 (fallin(g))
+
+41. **fallin(g) down the wood (.) hop@o .**
+    - V1: 1 (fallin(g))
+
+42. **hop@o .**
+    - N1: 1 (hop@o)
+
+43. **oo .**
+    - N1: 1 (oo)
+
+44. **he fall down .**
+    - N2: 1 (he)
+    - V1: 1 (fall)
+
+45. **two babies .**
+    - N7: 1 (babies)
+
+46. **babies .**
+    - N7: 1 (babies)
+
+47. **Timothy's .**
+    - N1: 1 (Timothy's)
+
+48. **Mommy .**
+    - N1: 1 (Mommy)
+
+49. **I'm squashed .**
+    - N2: 1 (I)
+    - V1: 1 (squashed)
+
+50. **no !**
+    - N1: 1 (no)
+
+51. **yeah .**
+    - N1: 1 (yeah)
+
+52. **don't spray it .**
+    - V1: 1 (spray)
+    - Q3: 1 (don't)
+
+53. **right .**
+    - N1: 1 (right)
+
+54. **here .**
+    - N1: 1 (here)
+
+55. **right here .**
+    - N1: 1 (right here)
+
+56. **why ?**
+    - Q1: 1 (why)
+
+57. **was pink .**
+    - V1: 1 (was)
+
+58. **orange .**
+    - N1: 1 (orange)
+
+59. **bee@c .**
+    - N1: 1 (bee@c)
+
+60. **beebo@c .**
+    - N1: 1 (beebo@c)
+
+61. **what ?**
+    - Q1: 1 (what)
+
+62. **I can rollerskate .**
+    - N2: 1 (I)
+    - V1: 1 (can)
+
+63. **wanna see me rollerskate ?**
+    - N2: 1 (me)
+    - V1: 1 (see)
+    - Q1: 1 (wanna)
+
+64. **we will make that (.) sun shine .**
+    - N2: 1 (we)
+    - V1: 1 (make)
+
+65. **see me roller(skate) .**
+    - N2: 1 (me)
+    - V1: 1 (see)
+
+66. **skate .**
+    - V1: 1 (skate)
+
+67. **ouch .**
+    - N1: 1 (ouch)
+
+68. **ow .**
+    - N1: 1 (ow)
+
+69. **<&~w> [/] <&~w> [//] I hafta go to the bathroom .**
+    - N2: 1 (I)
+    - V1: 1 (hafta)
+
+70. **down my pants .**
+    - N5: 1 (my pants)
+
+71. **hurts .**
+    - V1: 1 (hurts)
+
+72. **xxx get down my pants .**
+    - V1: 1 (get)
+
+73. **see what I done to these .**
+    - N2: 1 (I)
+    - V1: 1 (done)
+
+74. **my toe .**
+    - N5: 1 (my toe)
+
+75. **my heart .**
+    - N5: 1 (my heart)
+
+76. **I'm howlin(g) all over xxx .**
+    - N2: 1 (I)
+    - V1: 1 (howlin(g))
+
+77. **wanna have a nice xxx ?**
+    - Q1: 1 (wanna)
+
+78. **o:h (.) Mama .**
+    - N1: 1 (Mama)
+
+79. **what kind is a big one ?**
+    - Q1: 1 (what kind)
+
+80. **this the one is the little one .**
+    - N5: 1 (the one)
+    - V1: 1 (is)
+
+81. **is this is a whole jar ?**
+    - Q1: 1 (is this)
+
+82. **wow (.) that's a whole jar .**
+    - N5: 1 (a whole jar)
+    - V1: 1 (that's)
+
+83. **I can't get xxx whole jar .**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - Q3: 1 (can't)
+
+84. **Mama .**
+    - N1: 1 (Mama)
+
+85. **Ma: .**
+    - N1: 1 (Ma)
+
+86. **Sarah talks about the jars .**
+    - N2: 1 (Sarah)
+    - N5: 1 (the jars)
+    - V1: 1 (talks)
+
+87. **do you go xxx .**
+    - N2: 1 (you)
+    - V1: 1 (go)
+
+88. **you got marshmallow ?**
+    - N2: 1 (you)
+    - V1: 1 (got)
+    - Q1: 1 (you got marshmallow)
+
+89. **do you have peanut_butter (a)n(d) marshmallow ?**
+    - N2: 1 (you)
+    - V1: 1 (have)
+    - Q1: 1 (do you have)
+
+90. **do you like peanut_butter ?**
+    - N2: 1 (you)
+    - V1: 1 (like)
+    - Q1: 1 (do you like)
+
+91. **just don't like it .**
+    - V1: 1 (like)
+    - Q3: 1 (don't)
+
+92. **well you're goin(g) to have some .**
+    - N2: 1 (you)
+    - V1: 1 (are)
+
+93. **I have a peanut_butter sandwich .**
+    - N2: 1 (I)
+    - N5: 1 (a peanut_butter sandwich)
+    - V1: 1 (have)
+
+94. **I love &-uh peanut_butter sandwich .**
+    - N2: 1 (I)
+    - N5: 1 (peanut_butter sandwich)
+    - V1: 1 (love)
+
+95. **all this is .**
+    - N5: 1 (this)
+    - V1: 1 (is)
+
+96. **what's this ?**
+    - Q1: 1 (what's this)
+
+97. **see the butter here in your mouth xxx .**
+    - N5: 1 (the butter)
+    - V1: 1 (see)
+
+98. **I'll drink xxx .**
+    - N2: 1 (I)
+    - V1: 1 (drink)
+
+99. **can you do this ?**
+    - N2: 1 (you)
+    - V1: 1 (do)
+    - Q1: 1 (can you do)
+
+100. **this .**
+    - N1: 1 (this)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12
+N2, 10
+N3, 0
+N4, 0
+N5, 10
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 2
+V4, 0
+V5, 0
+V6, 0
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 10
+Q2, 1
+Q3, 5
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none exceeded that limit.)

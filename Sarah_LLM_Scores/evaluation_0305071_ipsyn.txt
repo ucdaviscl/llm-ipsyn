@@ -1,0 +1,522 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **he go(t) bi(g) cup .**
+   - N1: 1 (cup)
+   - V1: 1 (go)
+   - S2: 1 (he go)
+
+2. **wan(t) see this ?**
+   - V1: 1 (wan(t))
+   - N2: 1 (this)
+   - Q1: 1 (contains a question mark)
+
+3. **wait a minute .**
+   - N1: 1 (minute)
+   - V1: 1 (wait)
+   - S2: 1 (wait a)
+
+4. **just keep laughin(g) .**
+   - V1: 1 (keep)
+   - V7: 1 (laughin(g))
+   - S2: 1 (keep laughin(g))
+
+5. **ow .**
+   - (No applicable items)
+
+6. **puzzle .**
+   - N1: 1 (puzzle)
+
+7. **a puzzle .**
+   - N5: 1 (a puzzle)
+
+8. **Mommy (.) two puzzle .**
+   - N1: 1 (puzzle)
+   - N7: 1 (puzzles)
+   - N5: 1 (two puzzle)
+
+9. **I wanna find other one .**
+   - N2: 1 (I)
+   - N1: 1 (one)
+   - V1: 1 (wanna)
+   - S2: 1 (I wanna)
+
+10. **Mommy (.) I don('t) know where my other puzzle .**
+    - N2: 1 (I)
+    - N1: 1 (puzzle)
+    - V1: 1 (know)
+    - Q1: 1 (contains a question mark)
+
+11. **I need another one .**
+    - N2: 1 (I)
+    - N1: 1 (one)
+    - V1: 1 (need)
+    - S2: 1 (I need)
+
+12. **there's &-uh yyy two .**
+    - N1: 1 (two)
+    - V6: 1 (there's)
+
+13. **I'm gettin(g) two puzzles .**
+    - N2: 1 (I)
+    - V6: 1 (I'm)
+    - V7: 1 (gettin(g))
+    - N7: 1 (puzzles)
+    - S2: 1 (I'm gettin(g))
+
+14. **Mommy (.) can I open it ?**
+    - N2: 1 (I)
+    - V9: 1 (can open)
+    - Q1: 1 (contains a question mark)
+
+15. **alright .**
+    - (No applicable items)
+
+16. **I open it .**
+    - N2: 1 (I)
+    - V1: 1 (open)
+    - S2: 1 (I open)
+
+17. **yeah .**
+    - (No applicable items)
+
+18. **that's the cat one .**
+    - N2: 1 (that)
+    - N5: 1 (the cat)
+    - V4: 1 (that's the cat)
+
+19. **that's the fuzzy one (.) alright .**
+    - N2: 1 (that)
+    - N5: 1 (the fuzzy)
+    - V4: 1 (that's the fuzzy)
+
+20. **I better get two .**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - N7: 1 (two)
+    - S2: 1 (I better get)
+
+21. **take apart ?**
+    - V1: 1 (take)
+    - Q1: 1 (contains a question mark)
+
+22. **nope .**
+    - (No applicable items)
+
+23. **you can get em for christ [/] chris [//] for my birthday xxx .**
+    - N2: 1 (you)
+    - V9: 1 (can get)
+    - N1: 1 (birthday)
+    - S2: 1 (you can get)
+
+24. **oh_boy .**
+    - (No applicable items)
+
+25. **it stuck .**
+    - N2: 1 (it)
+    - V1: 1 (stuck)
+    - S2: 1 (it stuck)
+
+26. **I pick it .**
+    - N2: 1 (I)
+    - V1: 1 (pick)
+    - N1: 1 (it)
+    - S3: 1 (pick it)
+
+27. **there .**
+    - (No applicable items)
+
+28. **I pull it off .**
+    - N2: 1 (I)
+    - V1: 1 (pull)
+    - N1: 1 (it)
+    - V2: 1 (off)
+    - S3: 1 (pull it)
+
+29. **a fraidy_cat .**
+    - N5: 1 (a fraidy_cat)
+
+30. **fraidy_cat (.) long [/] (.) long cat .**
+    - N1: 1 (fraidy_cat)
+    - N1: 1 (cat)
+
+31. **oh (.) he peekin(g) .**
+    - N2: 1 (he)
+    - V7: 1 (peekin(g))
+
+32. **what this ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+33. **oh .**
+    - (No applicable items)
+
+34. **that the water ?**
+    - N2: 1 (that)
+    - V4: 1 (that the)
+    - Q1: 1 (contains a question mark)
+
+35. **think it's a yyy .**
+    - N2: 1 (it)
+    - V1: 1 (think)
+    - N5: 1 (a yyy)
+
+36. **oh_boy (.) what's this ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (wh-Question + Verb)
+
+37. **what's this goin(g) be ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (wh-Question + Verb)
+    - V1: 1 (goin(g))
+
+38. **that way ?**
+    - Q1: 1 (contains a question mark)
+
+39. **what ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+40. **I don't know .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - V3: 1 (don't)
+    - S2: 1 (I don't)
+
+41. **right here ?**
+    - Q1: 1 (contains a question mark)
+
+42. **push it in .**
+    - V1: 1 (push)
+    - N1: 1 (it)
+    - V2: 1 (in)
+    - S3: 1 (push it)
+
+43. **&-um [/] (.) &-um (.) will you go in there ?**
+    - N2: 1 (you)
+    - V9: 1 (will go)
+    - Q1: 1 (contains a question mark)
+
+44. **oh (.) I think it's a ball .**
+    - N2: 1 (I)
+    - V1: 1 (think)
+    - N5: 1 (a ball)
+
+45. **oh (.) you forgot (.) Mommy .**
+    - N2: 1 (you)
+    - V1: 1 (forgot)
+    - N1: 1 (Mommy)
+
+46. **now that go ?**
+    - Q1: 1 (contains a question mark)
+
+47. **mm .**
+    - (No applicable items)
+
+48. **we goin(g) a be off in a minute .**
+    - N2: 1 (we)
+    - V7: 1 (goin(g))
+    - V1: 1 (be)
+    - N1: 1 (minute)
+
+49. **that goes right there .**
+    - N2: 1 (that)
+    - V1: 1 (goes)
+    - N1: 1 (there)
+
+50. **ano(ther) piece .**
+    - N1: 1 (piece)
+
+51. **I want that piece .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (piece)
+
+52. **where ?**
+    - Q1: 1 (contains a question mark)
+
+53. **that look nice ?**
+    - N2: 1 (that)
+    - V1: 1 (look)
+    - Q1: 1 (contains a question mark)
+
+54. **oh [/] oh !**
+    - (No applicable items)
+
+55. **now .**
+    - (No applicable items)
+
+56. **that look nice (.) huh ?**
+    - N2: 1 (that)
+    - V1: 1 (look)
+    - Q1: 1 (contains a question mark)
+
+57. **wan(t) me go get my o(ther) puzzle .**
+    - N2: 1 (me)
+    - V1: 1 (wan(t))
+    - V1: 1 (go)
+    - N1: 1 (puzzle)
+
+58. **le(t) me go find it .**
+    - N2: 1 (me)
+    - V1: 1 (le(t))
+    - V1: 1 (go)
+    - N1: 1 (it)
+
+59. **you know what (.) you forgot .**
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - V1: 1 (forgot)
+
+60. **you xxx forgot a@l b@l c@l d@l e@l f@l g@l h@l i@l j@l n@l i@l k@l .**
+    - N2: 1 (you)
+    - V1: 1 (forgot)
+
+61. **oh (.) boy !**
+    - (No applicable items)
+
+62. **I want show Kent this .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 1 (Kent)
+    - N1: 1 (this)
+
+63. **it's already open .**
+    - N2: 1 (it)
+    - V6: 1 (it's)
+    - V1: 1 (open)
+
+64. **it's a crazy bone (.) I think .**
+    - N2: 1 (it)
+    - N5: 1 (a crazy)
+    - V1: 1 (think)
+
+65. **I think so .**
+    - N2: 1 (I)
+    - V1: 1 (think)
+
+66. **I know it .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - N1: 1 (it)
+
+67. **huh ?**
+    - Q1: 1 (contains a question mark)
+
+68. **bubblebath .**
+    - N1: 1 (bubblebath)
+
+69. **it's bubblebath .**
+    - N2: 1 (it)
+    - V6: 1 (it's)
+    - N1: 1 (bubblebath)
+
+70. **le(t) throw it over here to it .**
+    - N2: 1 (it)
+    - V1: 1 (le(t))
+    - V1: 1 (throw)
+    - N1: 1 (it)
+
+71. **hey de [: the] make a moon .**
+    - N1: 1 (moon)
+    - V1: 1 (make)
+
+72. **(a)n(d) oh (.) boy !**
+    - (No applicable items)
+
+73. **it [/] it [//] it's lanny [: landing] too [: tube] .**
+    - N2: 1 (it)
+    - V6: 1 (it's)
+
+74. **go dat [: that] way .**
+    - V1: 1 (go)
+    - N1: 1 (way)
+
+75. **oo can play with it .**
+    - N2: 1 (oo)
+    - V1: 1 (can play)
+    - N1: 1 (it)
+
+76. **the dog can play with it .**
+    - N5: 1 (the dog)
+    - V1: 1 (can play)
+    - N1: 1 (it)
+
+77. **I'm play with it .**
+    - N2: 1 (I)
+    - V1: 1 (play)
+    - N1: 1 (it)
+
+78. **<loo(k)> [//] look it (.) Kent .**
+    - N2: 1 (Kent)
+    - V1: 1 (look)
+    - N1: 1 (it)
+
+79. **look it .**
+    - V1: 1 (look)
+    - N1: 1 (it)
+
+80. **you know what ?**
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - Q1: 1 (contains a question mark)
+
+81. **that ?**
+    - N2: 1 (that)
+    - Q1: 1 (contains a question mark)
+
+82. **I xxx wait a minute .**
+    - N2: 1 (I)
+    - V1: 1 (wait)
+    - N1: 1 (minute)
+
+83. **I got another thing to bring here .**
+    - N2: 1 (I)
+    - V1: 1 (got)
+    - N1: 1 (thing)
+
+84. **I got two .**
+    - N2: 1 (I)
+    - V1: 1 (got)
+    - N7: 1 (two)
+
+85. **take him out ?**
+    - V1: 1 (take)
+    - Q1: 1 (contains a question mark)
+
+86. **there's some more bubblebath in there .**
+    - V6: 1 (there's)
+    - N1: 1 (bubblebath)
+
+87. **there's some more bubblebath .**
+    - V6: 1 (there's)
+    - N1: 1 (bubblebath)
+
+88. **this is s(h)ampoo ?**
+    - N2: 1 (this)
+    - V4: 1 (this is)
+    - Q1: 1 (contains a question mark)
+
+89. **awoh .**
+    - (No applicable items)
+
+90. **rip it .**
+    - V1: 1 (rip)
+    - N1: 1 (it)
+
+91. **you put that's a day .**
+    - N2: 1 (you)
+    - V1: 1 (put)
+    - N5: 1 (a day)
+
+92. **you put ants in they .**
+    - N2: 1 (you)
+    - V1: 1 (put)
+    - N1: 1 (ants)
+
+93. **we don('t) know who work it .**
+    - N2: 1 (we)
+    - V1: 1 (know)
+    - N1: 1 (it)
+
+94. **this anything ?**
+    - N2: 1 (this)
+    - Q1: 1 (contains a question mark)
+
+95. **they put it on .**
+    - N2: 1 (they)
+    - V1: 1 (put)
+    - N1: 1 (it)
+
+96. **le(t) me smell it .**
+    - N2: 1 (me)
+    - V1: 1 (le(t))
+    - V1: 1 (smell)
+    - N1: 1 (it)
+
+97. **I smell it .**
+    - N2: 1 (I)
+    - V1: 1 (smell)
+    - N1: 1 (it)
+
+98. **let Kent smell it .**
+    - N2: 1 (Kent)
+    - V1: 1 (let)
+    - V1: 1 (smell)
+    - N1: 1 (it)
+
+99. **you smell (.) Kent ?**
+    - N2: 1 (you)
+    - V1: 1 (smell)
+    - N2: 1 (Kent)
+    - Q1: 1 (contains a question mark)
+
+100. **hm: ?**
+    - Q1: 1 (contains a question mark)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 14
+N2, 14
+N3, 0
+N4, 0
+N5, 6
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 3
+V3, 0
+V4, 3
+V5, 0
+V6, 5
+V7, 5
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 20
+Q2, 3
+Q3, 0
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 20
+S3, 5
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

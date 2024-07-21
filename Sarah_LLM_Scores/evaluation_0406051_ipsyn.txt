@@ -1,0 +1,483 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **you can't peek .**
+   - N2: 1 (you)
+   - V3: 1 (can't peek)
+   - S2: 1 (you can't peek)
+
+2. **what is dis [: this] ?**
+   - N1: 1 (dis)
+   - N2: 1 (what)
+   - V1: 1 (is)
+   - Q1: 1 (contains a question mark)
+
+3. **a butterfly .**
+   - N1: 1 (butterfly)
+   - N5: 1 (a butterfly)
+
+4. **look at dis [: this] .**
+   - N1: 1 (dis)
+   - V1: 1 (look)
+   - V2: 1 (at)
+
+5. **you wanna see it (.) that's a banana .**
+   - N2: 1 (you)
+   - N1: 1 (banana)
+   - V1: 1 (wanna, see)
+   - V6: 1 (that's)
+   - S4: 1 (you wanna see it)
+
+6. **it havin(g) a hand .**
+   - N2: 1 (it)
+   - N1: 1 (hand)
+   - V7: 1 (havin(g))
+
+7. **havin(g) a hand .**
+   - N1: 1 (hand)
+   - V7: 1 (havin(g))
+
+8. **see ?**
+   - V1: 1 (see)
+   - Q1: 1 (contains a question mark)
+
+9. **it's this banana .**
+   - N2: 1 (it)
+   - N1: 1 (banana)
+   - V6: 1 (it's)
+
+10. **see (.) it's that banana .**
+    - N2: 1 (it)
+    - N1: 1 (banana)
+    - V1: 1 (see)
+    - V6: 1 (it's)
+
+11. **see (.) it's this kind o(f) banana .**
+    - N2: 1 (it)
+    - N1: 1 (banana)
+    - V1: 1 (see)
+    - V6: 1 (it's)
+
+12. **see that banana right here ?**
+    - N1: 1 (banana)
+    - V1: 1 (see)
+    - Q1: 1 (contains a question mark)
+
+13. **I have bananas in this cornflakes .**
+    - N2: 1 (I)
+    - N7: 1 (bananas)
+    - V1: 1 (have)
+    - V3: 1 (in this cornflakes)
+
+14. **yep .**
+    - S1: 1 (yep)
+
+15. **(a)n(d) guess what I can make still ?**
+    - N2: 1 (I)
+    - V1: 1 (guess, can make)
+    - Q1: 1 (contains a question mark)
+
+16. **I not finished .**
+    - N2: 1 (I)
+    - V1: 1 (finished)
+    - V3: 1 (not)
+
+17. **look it .**
+    - V1: 1 (look)
+    - N2: 1 (it)
+
+18. **<a hand> [/] (.) a hand gettin(g) a match .**
+    - N1: 1 (hand)
+    - V7: 1 (gettin(g))
+
+19. **a hand gettin(g) match .**
+    - N1: 1 (hand)
+    - V7: 1 (gettin(g))
+
+20. **yeah .**
+    - S1: 1 (yeah)
+
+21. **it will blow up the house .**
+    - N2: 1 (it)
+    - N1: 1 (house)
+    - V1: 1 (will blow)
+
+22. **&~m &~m match xxx (.) not yyy .**
+    - N1: 1 (match)
+    - V3: 1 (not)
+
+23. **well (.) <I will> [/] (.) I will get dead .**
+    - N2: 1 (I)
+    - V1: 1 (will get)
+
+24. **but we [?] say [?] .**
+    - N2: 1 (we)
+    - V1: 1 (say)
+
+25. **my daddy's on the fireman (de)partment .**
+    - N2: 1 (my)
+    - N1: 1 (daddy)
+    - N1: 1 (fireman department)
+    - V4: 1 (is on)
+
+26. **someone burned a car up .**
+    - N1: 1 (car)
+    - V12: 1 (burned)
+
+27. **uhhuh .**
+    - S1: 1 (uhhuh)
+
+28. **he can get dead .**
+    - N2: 1 (he)
+    - V1: 1 (can get)
+
+29. **he put the hose out .**
+    - N2: 1 (he)
+    - N1: 1 (hose)
+    - V1: 1 (put)
+
+30. **he [//] (.) they spray water (.) to take the fire out .**
+    - N2: 1 (he)
+    - N2: 1 (they)
+    - N1: 1 (water)
+    - V1: 1 (spray)
+    - V8: 1 (to take)
+
+31. **and (.) y(ou) want me to make my daddy ?**
+    - N2: 1 (you)
+    - N2: 1 (me)
+    - V1: 1 (want)
+    - Q1: 1 (contains a question mark)
+
+32. **he has a round mouth .**
+    - N2: 1 (he)
+    - N1: 1 (mouth)
+    - V1: 1 (has)
+
+33. **he has eyeglasses on .**
+    - N2: 1 (he)
+    - N1: 1 (eyeglasses)
+    - V1: 1 (has)
+
+34. **hello there .**
+    - S1: 1 (hello there)
+
+35. **I got sunglasses on .**
+    - N2: 1 (I)
+    - N1: 1 (sunglasses)
+    - V12: 1 (got)
+
+36. **don't hit a girl with eye glasses .**
+    - N1: 1 (girl)
+    - V3: 1 (don't hit)
+    - V1: 1 (hit)
+
+37. **alright .**
+    - S1: 1 (alright)
+
+38. **they're not fixed yet .**
+    - N2: 1 (they)
+    - V6: 1 (they're)
+    - V3: 1 (not fixed)
+
+39. **they won't stay on though .**
+    - N2: 1 (they)
+    - V6: 1 (won't stay)
+
+40. **like this .**
+    - S1: 1 (like this)
+
+41. **feel inside .**
+    - V1: 1 (feel)
+
+42. **soft .**
+    - S1: 1 (soft)
+
+43. **(a)n(d) here's somethin(g) else .**
+    - N1: 1 (somethin(g))
+    - V1: 1 (here's)
+
+44. **yep (.) but the other one's too big for me (.) right ?**
+    - N2: 1 (me)
+    - N1: 1 (one)
+    - Q1: 1 (contains a question mark)
+
+45. **ballets .**
+    - N7: 1 (ballets)
+
+46. **these ?**
+    - N2: 1 (these)
+    - Q1: 1 (contains a question mark)
+
+47. **to stand on ?**
+    - V1: 1 (stand)
+    - Q1: 1 (contains a question mark)
+
+48. **well (.) you dance .**
+    - N2: 1 (you)
+    - V1: 1 (dance)
+
+49. **look .**
+    - V1: 1 (look)
+
+50. **this ain't for your heel (.) o(f) course .**
+    - N1: 1 (heel)
+    - V1: 1 (ain't)
+
+51. **uhuh .**
+    - S1: 1 (uhuh)
+
+52. **up here .**
+    - S1: 1 (up here)
+
+53. **(be)cause look it .**
+    - V1: 1 (look)
+
+54. **yup .**
+    - S1: 1 (yup)
+
+55. **ah .**
+    - S1: 1 (ah)
+
+56. **I'm gettin(g) these dirty .**
+    - N2: 1 (I)
+    - V7: 1 (gettin(g))
+
+57. **Esther [= dancing teacher] will kill me .**
+    - N2: 1 (me)
+    - N1: 1 (Esther)
+    - V1: 1 (will kill)
+
+58. **dey [: they] fit me (.) o(f) course .**
+    - N2: 1 (dey)
+    - N2: 1 (me)
+    - V1: 1 (fit)
+
+59. **look at my sensible hat .**
+    - N2: 1 (my)
+    - N1: 1 (hat)
+    - V1: 1 (look)
+
+60. **see .**
+    - V1: 1 (see)
+
+61. **I [/] (.) I like dese [: these] .**
+    - N2: 1 (I)
+    - N1: 1 (dese)
+    - V1: 1 (like)
+
+62. **dey [: they] fit me .**
+    - N2: 1 (dey)
+    - N2: 1 (me)
+    - V1: 1 (fit)
+
+63. **can I show her ?**
+    - N2: 1 (I)
+    - Q1: 1 (contains a question mark)
+
+64. **I want you to sew it on .**
+    - N2: 1 (I)
+    - N2: 1 (you)
+    - V1: 1 (want)
+
+65. **I wanna show ya (.) today .**
+    - N2: 1 (I)
+    - N2: 1 (ya)
+    - V1: 1 (wanna)
+
+66. **anyway I got my underpants on .**
+    - N2: 1 (I)
+    - N1: 1 (underpants)
+    - V12: 1 (got)
+
+67. **can I try em on (.) this ?**
+    - N2: 1 (I)
+    - Q1: 1 (contains a question mark)
+
+68. **first you do these .**
+    - N2: 1 (you)
+    - V1: 1 (do)
+
+69. **first ya do this .**
+    - N2: 1 (ya)
+    - V1: 1 (do)
+
+70. **this is more .**
+    - N1: 1 (this)
+    - V4: 1 (is)
+
+71. **c(a)n I do this too xxx .**
+    - N2: 1 (I)
+    - V1: 1 (do)
+
+72. **Mommy (.) can I put em on ?**
+    - N2: 1 (I)
+    - Q1: 1 (contains a question mark)
+
+73. **dis [: this] de [: the] right thing ?**
+    - N1: 1 (thing)
+    - Q1: 1 (contains a question mark)
+
+74. **the right one ?**
+    - N1: 1 (one)
+    - Q1: 1 (contains a question mark)
+
+75. **see my heel pushes em in .**
+    - N2: 1 (my)
+    - N1: 1 (heel)
+    - V1: 1 (pushes)
+
+76. **will you sew them on today ?**
+    - N2: 1 (you)
+    - Q1: 1 (contains a question mark)
+
+77. **oh .**
+    - S1: 1 (oh)
+
+78. **wait .**
+    - V1: 1 (wait)
+
+79. **Esther got em on yesterday .**
+    - N1: 1 (Esther)
+    - V12: 1 (got)
+
+80. **it's in .**
+    - V6: 1 (it's)
+
+81. **there .**
+    - S1: 1 (there)
+
+82. **but the ribbon hurts me .**
+    - N1: 1 (ribbon)
+    - N2: 1 (me)
+    - V1: 1 (hurts)
+
+83. **yes sir .**
+    - S1: 1 (yes sir)
+
+84. **that's not my name (.) Tina .**
+    - N2: 1 (my)
+    - N1: 1 (name)
+    - V6: 1 (that's)
+
+85. **a total girl .**
+    - N1: 1 (girl)
+    - N5: 1 (a total girl)
+
+86. **yeah (.) (a)n(d) a total girl .**
+    - N1: 1 (girl)
+    - N5: 1 (a total girl)
+
+87. **can I &-uh (.) show her &-uh the xxx .**
+    - N2: 1 (I)
+    - Q1: 1 (contains a question mark)
+
+88. **why ?**
+    - Q1: 1 (contains a question mark)
+
+89. **for flirt .**
+    - S1: 1 (for flirt)
+
+90. **is my daddy this big ?**
+    - N2: 1 (my)
+    - N1: 1 (daddy)
+    - Q1: 1 (contains a question mark)
+
+91. **<goin(g)> [/] (.) goin(g) a work .**
+    - V1: 1 (goin(g))
+
+92. **in the fireman .**
+    - N1: 1 (fireman)
+
+93. **where ?**
+    - Q1: 1 (contains a question mark)
+
+94. **but in the fireman too .**
+    - N1: 1 (fireman)
+
+95. **le(t) me make his hands .**
+    - N2: 1 (me)
+    - N1: 1 (hands)
+    - V1: 1 (make)
+
+96. **can I play with him ?**
+    - N2: 1 (I)
+    - Q1: 1 (contains a question mark)
+
+97. **Daddy .**
+    - N1: 1 (Daddy)
+
+98. **Simon says don't stop .**
+    - N1: 1 (Simon)
+    - V1: 1 (says)
+
+99. **go fast (.) go fast .**
+    - V1: 1 (go)
+
+100. **hi big daddy .**
+    - N1: 1 (daddy)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 15
+N2, 14
+N3, 0
+N4, 0
+N5, 5
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 22
+V2, 1
+V3, 5
+V4, 2
+V5, 0
+V6, 5
+V7, 4
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 4
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 15
+Q2, 0
+Q3, 1
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 12
+S2, 3
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

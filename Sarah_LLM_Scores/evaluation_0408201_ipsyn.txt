@@ -1,0 +1,520 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I don't want the gum anyways .**
+   - N1: 1 (gum)
+   - N3: 1 (the)
+   - V3: 1 (want)
+   - V3: 1 (don't)
+   - Q3: 1 (don't)
+   
+2. **because .**
+   - (No applicable items)
+
+3. **I like that kind [//] kind o(f) gum .**
+   - N1: 2 (kind, gum)
+   - N3: 1 (that)
+   - V1: 1 (like)
+
+4. **I useta didn't like it .**
+   - N2: 1 (I)
+   - V1: 1 (like)
+   - V3: 1 (didn't)
+
+5. **(a)n(d) it has cards in it .**
+   - N1: 1 (cards)
+   - N2: 1 (it)
+   - V1: 1 (has)
+   - V3: 1 (in)
+
+6. **Batman cards .**
+   - N1: 1 (Batman)
+   - N1: 1 (cards)
+
+7. **hey !**
+   - (No applicable items)
+
+8. **if you put a pencil there (.) le(t) me see that pencil for a minute .**
+   - N1: 1 (pencil)
+   - N2: 1 (you)
+   - V1: 1 (put)
+   - V1: 1 (see)
+   - V3: 1 (there)
+
+9. **it makes a star .**
+   - N1: 1 (star)
+   - N2: 1 (it)
+   - V1: 1 (makes)
+
+10. **if ya put it like that (.) it makes a star .**
+    - N1: 1 (star)
+    - N2: 1 (ya)
+    - V1: 1 (put)
+    - V1: 1 (makes)
+
+11. **see (.) <two pointed stars there> [/] (.) two pointed stars there .**
+    - N1: 2 (stars)
+    - N3: 1 (two)
+    - V1: 1 (see)
+
+12. **ya still can have your pencil back .**
+    - N2: 1 (ya)
+    - N1: 1 (pencil)
+    - V1: 1 (have)
+
+13. **I just wanna show ya .**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - V1: 1 (show)
+    - N2: 1 (ya)
+
+14. **somethin(g) different .**
+    - N1: 1 (somethin(g))
+
+15. **I don't know though .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - Q3: 1 (don't)
+
+16. **mhm .**
+    - (No applicable items)
+
+17. **what is that ?**
+    - N2: 1 (that)
+    - Q1: 1 (?)
+
+18. **hm: (.) nothin(g) .**
+    - N1: 1 (nothin(g))
+
+19. **yeah (.) is it ?**
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - Q1: 1 (?)
+
+20. **Mama .**
+    - N2: 1 (Mama)
+
+21. **d(o) you like this ?**
+    - N2: 1 (you)
+    - V1: 1 (like)
+    - Q1: 1 (?)
+
+22. **Mama (.) can you hold these sides (a)n(d) put glue on it ?**
+    - N2: 1 (you)
+    - N1: 1 (sides)
+    - V1: 1 (hold)
+    - V1: 1 (put)
+    - V3: 1 (on)
+
+23. **huh ?**
+    - Q1: 1 (?)
+
+24. **it won't stick to the paper (.) no more ?**
+    - N2: 1 (it)
+    - N1: 1 (paper)
+    - V1: 1 (stick)
+    - Q1: 1 (?)
+
+25. **throwin(g) the old glue away ?**
+    - N1: 1 (glue)
+    - V7: 1 (throwin(g))
+    - Q1: 1 (?)
+
+26. **the carriage .**
+    - N1: 1 (carriage)
+
+27. **when [/] when xxx .**
+    - (No applicable items)
+
+28. **(a)n(d) when I got out (a)n(d) looked at it (.) then it was wet (a)n(d) I feeled [: felt] [* +ed] it .**
+    - N2: 1 (I)
+    - V1: 1 (got)
+    - V1: 1 (looked)
+    - V1: 1 (was)
+    - V12: 1 (feeled)
+
+29. **the [//] it's dirty .**
+    - N1: 1 (it)
+    - V1: 1 (is)
+    - N3: 1 (dirty)
+
+30. **(a)n(d) that little puppy (.) his name is Princess .**
+    - N1: 1 (puppy)
+    - N2: 1 (that)
+    - N2: 1 (his)
+    - V1: 1 (is)
+    - N1: 1 (Princess)
+
+31. **yeah .**
+    - (No applicable items)
+
+32. **somethin(g) (.) good out o(f) this paper .**
+    - N1: 1 (somethin(g))
+    - N3: 1 (good)
+    - N1: 1 (paper)
+
+33. **(a)n(d) you don't know (.) but I know .**
+    - N2: 1 (you)
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - Q3: 1 (don't)
+
+34. **no we know .**
+    - N2: 1 (we)
+    - V1: 1 (know)
+
+35. **uhhuh .**
+    - (No applicable items)
+
+36. **I wish we had some glue to go like this (a)n(d) make it (.) make it .**
+    - N2: 1 (I)
+    - N2: 1 (we)
+    - V1: 1 (wish)
+    - V1: 1 (had)
+    - V1: 1 (go)
+    - V1: 1 (make)
+
+37. **good glue .**
+    - N1: 1 (glue)
+    - N3: 1 (good)
+
+38. **glue .**
+    - N1: 1 (glue)
+
+39. **flying .**
+    - (No applicable items)
+
+40. **what does it look like ?**
+    - N2: 1 (it)
+    - V1: 1 (does)
+    - Q1: 1 (?)
+
+41. **somethin(g) different ?**
+    - N1: 1 (somethin(g))
+    - Q1: 1 (?)
+
+42. **a new one .**
+    - N1: 1 (one)
+    - N3: 1 (new)
+
+43. **<it's> [/] it's a small room <an(d) it> [/] (a)n(d) it has somethin(g) on it <an(d)> [/] (a)n(d) you walk on it .**
+    - N1: 1 (room)
+    - N3: 1 (small)
+    - N2: 1 (it)
+    - V1: 1 (has)
+    - N1: 1 (somethin(g))
+    - V1: 1 (walk)
+    - V3: 1 (on)
+
+44. **no .**
+    - Q3: 1 (no)
+
+45. **it's (.) right on the dirt .**
+    - N1: 1 (dirt)
+    - N2: 1 (it)
+    - V1: 1 (is)
+
+46. **it's for walkin(g) .**
+    - N2: 1 (it)
+    - V1: 1 (is)
+    - V7: 1 (walkin(g))
+
+47. **but what is that down there ?**
+    - N2: 1 (that)
+    - Q1: 1 (?)
+    - V1: 1 (is)
+
+48. **you guessed it !**
+    - N2: 1 (you)
+    - V1: 1 (guessed)
+
+49. **now what is this when I make it out_of like this ?**
+    - N2: 1 (this)
+    - N2: 1 (I)
+    - V1: 1 (make)
+    - Q1: 1 (?)
+
+50. **no (.) you hafta use a string to make that .**
+    - N2: 1 (you)
+    - N1: 1 (string)
+    - V1: 1 (make)
+
+51. **see if I can make a kite .**
+    - N2: 1 (I)
+    - N1: 1 (kite)
+    - V1: 1 (make)
+    - V1: 1 (see)
+
+52. **let's go flying kite .**
+    - N1: 1 (kite)
+    - V1: 1 (go)
+
+53. **xxx I had a big finger .**
+    - N2: 1 (I)
+    - N1: 1 (finger)
+    - N3: 1 (big)
+    - V12: 1 (had)
+
+54. **no (.) huh ?**
+    - Q1: 1 (?)
+
+55. **it's goin(g) tear it .**
+    - N2: 1 (it)
+    - V1: 1 (goin(g))
+
+56. **<what cha [: you] think> [//] gonna think I'm gonna do ?**
+    - N2: 1 (I)
+    - V1: 1 (think)
+    - Q1: 1 (?)
+
+57. **go fly a kite ?**
+    - N1: 1 (kite)
+    - V1: 1 (go)
+    - Q1: 1 (?)
+
+58. **I am goin(g) fly a kite but (.) I don't (sup)posed to make a hole there (.) do I ?**
+    - N2: 1 (I)
+    - N1: 1 (kite)
+    - V1: 1 (am)
+    - V1: 1 (goin(g))
+    - Q1: 1 (?)
+
+59. **then I'm (sup)posed to make a hole there .**
+    - N2: 1 (I)
+    - N1: 1 (hole)
+    - V1: 1 (make)
+
+60. **make a hole here .**
+    - N1: 1 (hole)
+    - V1: 1 (make)
+
+61. **what you think ?**
+    - N2: 1 (you)
+    - Q1: 1 (?)
+
+62. **what I said before when you said that .**
+    - N2: 1 (I)
+    - N2: 1 (you)
+    - V1: 1 (said)
+
+63. **I'm bitin(g) my finger though .**
+    - N2: 1 (I)
+    - N1: 1 (finger)
+    - V7: 1 (bitin(g))
+
+64. **guh@b guh@b guh@b .**
+    - (No applicable items)
+
+65. **Batman costume .**
+    - N1: 1 (costume)
+
+66. **<an Easter &~ba> [//] no (.) not a Easter basket but a Easter_Bunny .**
+    - N1: 1 (basket)
+    - N1: 1 (Easter_Bunny)
+
+67. **adorable .**
+    - (No applicable items)
+
+68. **oh they were little .**
+    - N2: 1 (they)
+    - V1: 1 (were)
+    - N3: 1 (little)
+
+69. **&-um (.) I can't tell ya .**
+    - N2: 1 (I)
+    - V1: 1 (can't)
+    - V1: 1 (tell)
+    - N2: 1 (ya)
+
+70. **I don't know what .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - Q3: 1 (don't)
+
+71. **yup .**
+    - (No applicable items)
+
+72. **(a)n(d) had a little nose (.) a ping-pong@wp nose .**
+    - N1: 1 (nose)
+    - N3: 1 (little)
+    - N1: 1 (nose)
+
+73. **no (.) you can't buy one .**
+    - N2: 1 (you)
+    - V1: 1 (buy)
+    - Q3: 1 (can't)
+
+74. **I don't know .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - Q3: 1 (don't)
+
+75. **yeah (.) I know what a big chicken looks like .**
+    - N2: 1 (I)
+    - N1: 1 (chicken)
+    - N3: 1 (big)
+    - V1: 1 (know)
+
+76. **it's like a hen .**
+    - N2: 1 (it)
+    - N1: 1 (hen)
+    - V1: 1 (like)
+
+77. **then they grow into hens .**
+    - N2: 1 (they)
+    - V1: 1 (grow)
+    - N1: 1 (hens)
+
+78. **why ?**
+    - Q1: 1 (?)
+
+79. **how do they make it (.) chickens ?**
+    - N2: 1 (they)
+    - V1: 1 (make)
+    - Q1: 1 (?)
+
+80. **from the zoo (.) (a)n(d) they let em go .**
+    - N1: 1 (zoo)
+    - N2: 1 (they)
+    - V1: 1 (let)
+
+81. **know who I'm goin(g) make a star for ?**
+    - N2: 1 (I)
+    - V1: 1 (goin(g))
+    - Q1: 1 (?)
+
+82. **ya gotta guess .**
+    - N2: 1 (ya)
+    - V1: 1 (gotta)
+
+83. **<the one> [/] the one that said [/] said somethin(g) .**
+    - N1: 1 (one)
+    - N1: 1 (somethin(g))
+
+84. **not her .**
+    - N2: 1 (her)
+
+85. **not her (.) but someone that said somethin(g) .**
+    - N1: 1 (somethin(g))
+
+86. **what ?**
+    - Q1: 1 (?)
+
+87. **that folds the papers .**
+    - N1: 1 (papers)
+    - V1: 1 (folds)
+
+88. **<that's> [/] that's the one .**
+    - N1: 1 (one)
+    - N2: 1 (that)
+
+89. **xxx you did too .**
+    - N2: 1 (you)
+    - V1: 1 (did)
+
+90. **hi today .**
+    - (No applicable items)
+
+91. **a cake (.) huh ?**
+    - N1: 1 (cake)
+    - Q1: 1 (?)
+
+92. **which one ?**
+    - Q1: 1 (?)
+
+93. **I can't (.) which Nana ?**
+    - N2: 1 (I)
+    - Q1: 1 (?)
+
+94. **I said that (.) a cake .**
+    - N2: 1 (I)
+    - N1: 1 (cake)
+    - V1: 1 (said)
+
+95. **a half a dollar .**
+    - N1: 1 (dollar)
+
+96. **a dollar .**
+    - N1: 1 (dollar)
+
+97. **ten dollars ?**
+    - N1: 1 (dollars)
+    - Q1: 1 (?)
+
+98. **can he hear that ?**
+    - N2: 1 (he)
+    - Q1: 1 (?)
+
+99. **can he hear it if I do that ?**
+    - N2: 1 (he)
+    - N2: 1 (I)
+    - Q1: 1 (?)
+
+100. **can I hear (.) can he hear it if I do that ?**
+    - N2: 1 (I)
+    - N2: 1 (he)
+    - Q1: 1 (?)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 20
+N2, 20
+N3, 10
+N4, 0
+N5, 0
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 25
+V2, 0
+V3, 10
+V4, 0
+V5, 0
+V6, 0
+V7, 5
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 2
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+Q1, 20
+Q2, 0
+Q3, 8
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

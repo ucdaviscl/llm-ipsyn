@@ -1,0 +1,421 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. (h)ey [?] boy doing ?  
+   - N1: 1 (boy)  
+   - V1: 1 (doing)  
+   - Q1: 1  
+
+2. xxx wa(ter) .  
+   - N1: 1 (water)  
+
+3. he get [?] up .  
+   - N2: 1 (he)  
+   - V1: 1 (get)  
+
+4. box .  
+   - N1: 1 (box)  
+
+5. xxx toys .  
+   - N1: 1 (toys)  
+   - N7: 1 (toys)  
+
+6. ki(tt)y .  
+   - N1: 1 (kitty)  
+
+7. neow@o .  
+   - N1: 1 (neow)  
+
+8. Tuppy .  
+   - N1: 1 (Tuppy)  
+
+9. he run .  
+   - N2: 1 (he)  
+   - V1: 1 (run)  
+
+10. he jumping rope .  
+    - N2: 1 (he)  
+    - V7: 1 (jumping)  
+
+11. pee ?  
+    - N1: 1 (pee)  
+    - Q1: 1  
+
+12. xxx a ball .  
+    - N1: 1 (ball)  
+    - N5: 1 (a ball)  
+
+13. kite .  
+    - N1: 1 (kite)  
+
+14. li(ttle) one ?  
+    - N1: 1 (one)  
+    - N3: 1 (little)  
+    - Q1: 1  
+
+15. lamb eee oh may .  
+    - N1: 1 (lamb)  
+
+16. Ma(r)y a lamb ?  
+    - N1: 1 (lamb)  
+    - N5: 1 (a lamb)  
+    - Q1: 1  
+
+17. doggie ?  
+    - N1: 1 (doggie)  
+    - Q1: 1  
+
+18. he go mirror .  
+    - N2: 1 (he)  
+    - V1: 1 (go)  
+
+19. mhm .  
+    - (no applicable items)  
+
+20. xxx eat .  
+    - V1: 1 (eat)  
+
+21. li(o)n .  
+    - N1: 1 (lion)  
+
+22. he eat .  
+    - N2: 1 (he)  
+    - V1: 1 (eat)  
+
+23. xxx some ki(tt)y (.) xxx more ki(tt)y .  
+    - N1: 1 (kitty)  
+    - N5: 1 (some kitty)  
+    - N5: 1 (more kitty)  
+
+24. more ki(tt)y .  
+    - N1: 1 (kitty)  
+    - N5: 1 (more kitty)  
+
+25. boy .  
+    - N1: 1 (boy)  
+
+26. Michael .  
+    - N1: 1 (Michael)  
+
+27. a monkey !  
+    - N1: 1 (monkey)  
+    - N5: 1 (a monkey)  
+
+28. he xxx .  
+    - N2: 1 (he)  
+
+29. he tail .  
+    - N2: 1 (he)  
+    - N1: 1 (tail)  
+
+30. curly tail .  
+    - N1: 1 (tail)  
+    - N3: 1 (curly)  
+
+31. shoes .  
+    - N1: 1 (shoes)  
+    - N7: 1 (shoes)  
+
+32. red .  
+    - N3: 1 (red)  
+
+33. he go ni(ght)_ni(ght) ?  
+    - N2: 1 (he)  
+    - V1: 1 (go)  
+    - Q1: 1  
+
+34. here .  
+    - (no applicable items)  
+
+35. va(len)tine ?  
+    - N1: 1 (valentine)  
+    - Q1: 1  
+
+36. I love you ?  
+    - N2: 1 (I)  
+    - V1: 1 (love)  
+    - Q1: 1  
+
+37. dere [: there] .  
+    - (no applicable items)  
+
+38. trunk ?  
+    - N1: 1 (trunk)  
+    - Q1: 1  
+
+39. mine ?  
+    - N2: 1 (mine)  
+    - Q1: 1  
+
+40. have one for do(ll)y clothes ?  
+    - N1: 1 (one)  
+    - N5: 1 (one for dolly clothes)  
+    - Q1: 1  
+
+41. (h)ey dere [: there] ?  
+    - Q1: 1  
+
+42. xxx pencil xxx .  
+    - N1: 1 (pencil)  
+
+43. mo(ne)y !  
+    - N1: 1 (money)  
+
+44. mo(ne)y .  
+    - N1: 1 (money)  
+
+45. doggie .  
+    - N1: 1 (doggie)  
+
+46. pig .  
+    - N1: 1 (pig)  
+
+47. onk@o [/] onk@o .  
+    - N1: 1 (onk)  
+
+48. slide down slide .  
+    - V1: 1 (slide)  
+    - V2: 1 (down)  
+
+49. man .  
+    - N1: 1 (man)  
+
+50. dere [: there] !  
+    - (no applicable items)  
+
+51. rabbit .  
+    - N1: 1 (rabbit)  
+
+52. swim .  
+    - V1: 1 (swim)  
+
+53. clock .  
+    - N1: 1 (clock)  
+
+54. ging_going@o .  
+    - V1: 1 (going)  
+
+55. phone .  
+    - N1: 1 (phone)  
+
+56. ging@o .  
+    - V1: 1 (going)  
+
+57. I talk phone .  
+    - N2: 1 (I)  
+    - V1: 1 (talk)  
+
+58. call phone .  
+    - V1: 1 (call)  
+
+59. hello .  
+    - (no applicable items)  
+
+60. Santie_Claus .  
+    - N1: 1 (Santie Claus)  
+
+61. a doggie .  
+    - N1: 1 (doggie)  
+    - N5: 1 (a doggie)  
+
+62. me .  
+    - N2: 1 (me)  
+
+63. step (a)n(d) stones ?  
+    - N1: 1 (step)  
+    - N1: 1 (stones)  
+    - Q1: 1  
+
+64. dat [: that] .  
+    - N1: 1 (that)  
+
+65. hit .  
+    - V1: 1 (hit)  
+
+66. when rains .  
+    - V1: 1 (rains)  
+
+67. a rain dere [: there] .  
+    - N1: 1 (rain)  
+    - N5: 1 (a rain)  
+
+68. rain .  
+    - N1: 1 (rain)  
+
+69. xxx cold out .  
+    - N3: 1 (cold)  
+
+70. whistle .  
+    - N1: 1 (whistle)  
+
+71. wheel .  
+    - N1: 1 (wheel)  
+
+72. horsie !  
+    - N1: 1 (horsie)  
+
+73. I have big horsie .  
+    - N2: 1 (I)  
+    - V6: 1 (have)  
+    - N3: 1 (big)  
+    - N1: 1 (horsie)  
+
+74. dere [: there] lion [/] lion .  
+    - N1: 1 (lion)  
+
+75. giraffe .  
+    - N1: 1 (giraffe)  
+
+76. kangaroo .  
+    - N1: 1 (kangaroo)  
+
+77. Nana !  
+    - N1: 1 (Nana)  
+
+78. cake .  
+    - N1: 1 (cake)  
+
+79. read (a)gain .  
+    - V1: 1 (read)  
+
+80. xxx book ?  
+    - N1: 1 (book)  
+    - Q1: 1  
+
+81. who did dat [: that] ?  
+    - Q1: 1  
+    - Q4: 1  
+
+82. Mike did ?  
+    - Q1: 1  
+
+83. bad dog !  
+    - N1: 1 (dog)  
+    - N3: 1 (bad)  
+
+84. he bad boy .  
+    - N2: 1 (he)  
+    - N1: 1 (boy)  
+    - N3: 1 (bad)  
+
+85. bad girl .  
+    - N1: 1 (girl)  
+    - N3: 1 (bad)  
+
+86. you do dat [: that] ?  
+    - N2: 1 (you)  
+    - V1: 1 (do)  
+    - Q1: 1  
+
+87. Michael ?  
+    - N1: 1 (Michael)  
+    - Q1: 1  
+
+88. Michael !  
+    - N1: 1 (Michael)  
+
+89. a one ?  
+    - N1: 1 (one)  
+    - N5: 1 (a one)  
+    - Q1: 1  
+
+90. here wuh@p one .  
+    - N1: 1 (one)  
+
+91. here ?  
+    - Q1: 1  
+
+92. right dere [: there] ?  
+    - Q1: 1  
+
+93. xxx dere [: there] ?  
+    - Q1: 1  
+
+94. xxx one dere [: there] ?  
+    - Q1: 1  
+
+95. one da(t) [: that] ?  
+    - N1: 1 (one)  
+    - Q1: 1  
+
+96. Don(ald)z_Duck !  
+    - N1: 1 (Donald Duck)  
+
+97. wow woe Don(ald)z_Duck .  
+    - N1: 1 (Donald Duck)  
+
+98. one my head .  
+    - N1: 1 (head)  
+    - N5: 1 (my head)  
+
+99. one head .  
+    - N1: 1 (head)  
+    - N5: 1 (one head)  
+
+100. eyes .  
+    - N1: 1 (eyes)  
+
+Now, let's compile the scores:
+
+Final score:
+N1, 22
+N2, 8
+N3, 10
+N4, 0
+N5, 8
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 15
+V2, 1
+V3, 0
+V4, 0
+V5, 0
+V6, 2
+V7, 1
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 20
+Q2, 0
+Q3, 0
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

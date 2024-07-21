@@ -1,0 +1,495 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **say hello to my birdie .**
+   - N1: 1 (birdie)
+   - N5: 1 (my birdie)
+   - V1: 1 (say)
+   - V6: 1 (to)
+   - S2: 1 (say hello)
+
+2. **he my birdie alright .**
+   - N2: 1 (he)
+   - N1: 1 (birdie)
+   - S2: 1 (he my)
+
+3. **right (.) remember .**
+   - V1: 1 (remember)
+   - S2: 1 (right remember)
+
+4. **here [//] maybe here .**
+   - N1: 1 (here)
+   - N1: 1 (here)
+
+5. **there .**
+   - N1: 1 (there)
+
+6. **let's cut it out .**
+   - V1: 1 (cut)
+   - N2: 1 (it)
+   - S2: 1 (let's cut)
+
+7. **I hafta cut it out .**
+   - N2: 1 (I)
+   - V1: 1 (hafta)
+   - S2: 1 (I hafta)
+
+8. **Easter_Bunny left it for me .**
+   - N1: 1 (Easter_Bunny)
+   - V1: 1 (left)
+   - N2: 1 (it)
+   - N2: 1 (me)
+   - S4: 1 (Easter_Bunny left it)
+
+9. **yeah .**
+   - N1: 1 (yeah)
+
+10. **know where my games are ?**
+    - V1: 1 (know)
+    - N5: 1 (my games)
+    - Q1: 1 (?)
+
+11. **I can't find em .**
+    - N2: 1 (I)
+    - V1: 1 (can't)
+    - N2: 1 (em)
+    - S2: 1 (I can't)
+
+12. **my games .**
+    - N5: 1 (my games)
+
+13. **you know Mama (.) I [/] I bought for Christmas .**
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - N2: 1 (I)
+    - V1: 1 (bought)
+    - S4: 1 (you know Mama)
+
+14. **huh ?**
+    - Q1: 1 (?)
+
+15. **(a)n(d) Ann_Marie .**
+    - N1: 1 (Ann_Marie)
+
+16. **there're some jellybeans in here .**
+    - N1: 1 (jellybeans)
+    - N5: 1 (some jellybeans)
+    - V1: 1 (there're)
+    - V3: 1 (in here)
+
+17. **oh .**
+    - N1: 1 (oh)
+
+18. **see: let me show ya .**
+    - V1: 1 (see)
+    - V1: 1 (show)
+    - N2: 1 (me)
+    - N2: 1 (ya)
+    - S6: 1 (let me show)
+
+19. **o:h look here .**
+    - V1: 1 (look)
+    - N1: 1 (here)
+
+20. **pick the red while making [?] .**
+    - V1: 1 (pick)
+    - N5: 1 (the red)
+    - S4: 1 (pick the red)
+
+21. **<pick them up (.) pick them up> [/] (.) pick them up .**
+    - V1: 1 (pick)
+    - N2: 1 (them)
+    - S6: 1 (pick them up)
+
+22. **lay them down .**
+    - V1: 1 (lay)
+    - N2: 1 (them)
+
+23. **<pick (.) them up> [/] (.) pick them up (.) pick .**
+    - V1: 1 (pick)
+    - N2: 1 (them)
+
+24. **will you hold this ?**
+    - V1: 1 (will)
+    - N2: 1 (you)
+    - N2: 1 (this)
+    - Q8: 1 (?)
+
+25. **right there on the table .**
+    - N1: 1 (table)
+    - N5: 1 (the table)
+
+26. **now where the top ?**
+    - N1: 1 (top)
+    - Q1: 1 (?)
+
+27. **the top fall off .**
+    - N5: 1 (the top)
+    - V1: 1 (fall)
+
+28. **&-uh (.) that .**
+    - N1: 1 (that)
+
+29. **<four (.) five (.) six (.) seven (.) eight (.) tied (.) ten (.) four (.) five six (.) seven (.) eight (.) nine (.) ten> [=! counting] . [+ bch]**
+    - N1: 1 (four)
+    - N1: 1 (five)
+    - N1: 1 (six)
+    - N1: 1 (seven)
+    - N1: 1 (eight)
+    - N1: 1 (ten)
+    - S1: 1 (four five)
+
+30. **ready or not here I come .**
+    - N1: 1 (here)
+    - V1: 1 (come)
+    - S5: 1 (or)
+
+31. **you: .**
+    - N2: 1 (you)
+
+32. **see my muscle .**
+    - V1: 1 (see)
+    - N5: 1 (my muscle)
+
+33. **that for you too (.) &-um .**
+    - N1: 1 (that)
+    - N2: 1 (you)
+
+34. **got holes in them .**
+    - V1: 1 (got)
+    - N1: 1 (holes)
+    - N2: 1 (them)
+
+35. **yellow .**
+    - N1: 1 (yellow)
+
+36. **green yeah (.) like .**
+    - N1: 1 (green)
+
+37. **know what Easter_Bunny gave me ?**
+    - V1: 1 (know)
+    - N1: 1 (Easter_Bunny)
+    - N2: 1 (me)
+    - Q1: 1 (?)
+
+38. **some these (.) xxx these .**
+    - N1: 1 (these)
+
+39. **I went to Aunt_Dot's .**
+    - N2: 1 (I)
+    - V1: 1 (went)
+    - N1: 1 (Aunt_Dot's)
+
+40. **the Bunny .**
+    - N5: 1 (the Bunny)
+
+41. **<I go (.) down> [?] .**
+    - V1: 1 (go)
+    - Q1: 1 (?)
+
+42. **hi .**
+    - N1: 1 (hi)
+
+43. **what ?**
+    - Q1: 1 (?)
+
+44. **know that new dishes on [/] (.) on the tv .**
+    - V1: 1 (know)
+    - N1: 1 (dishes)
+    - N1: 1 (tv)
+
+45. **new plates .**
+    - N1: 1 (plates)
+
+46. **big plates .**
+    - N1: 1 (plates)
+
+47. **train_tray_ching@c .**
+    - N1: 1 (train_tray_ching@c)
+
+48. **on train_tray_ching@c .**
+    - N1: 1 (train_tray_ching@c)
+
+49. **I'm a little bit sticky .**
+    - N2: 1 (I)
+    - V6: 1 (am)
+    - N1: 1 (bit)
+    - N1: 1 (sticky)
+
+50. **<hello (.) hello> [/] (.) hello .**
+    - N1: 1 (hello)
+
+51. **oh my ears .**
+    - N1: 1 (ears)
+    - N2: 1 (my)
+
+52. **I don't wanna .**
+    - N2: 1 (I)
+    - V1: 1 (don't)
+
+53. **I got a little one .**
+    - N2: 1 (I)
+    - V1: 1 (got)
+    - N5: 1 (a little one)
+
+54. **one from Grampy (a)n(d) one from Easter_Bunny .**
+    - N1: 1 (one)
+    - N1: 1 (Grampy)
+    - N1: 1 (one)
+    - N1: 1 (Easter_Bunny)
+
+55. **no !**
+    - N1: 1 (no)
+
+56. **did you see him ?**
+    - V1: 1 (did)
+    - N2: 1 (you)
+    - V1: 1 (see)
+    - N2: 1 (him)
+    - Q8: 1 (?)
+
+57. **(be)cause (.) I go to bed at night .**
+    - N2: 1 (I)
+    - V1: 1 (go)
+    - N1: 1 (bed)
+    - N1: 1 (night)
+
+58. **he's a snoopy guy .**
+    - N2: 1 (he)
+    - V6: 1 (is)
+    - N1: 1 (guy)
+
+59. **&-um (.) where that come from ?**
+    - Q1: 1 (?)
+    - N1: 1 (that)
+    - V1: 1 (come)
+
+60. **Easter_Bunny .**
+    - N1: 1 (Easter_Bunny)
+
+61. **this tail broke ?**
+    - N1: 1 (tail)
+    - V1: 1 (broke)
+    - Q1: 1 (?)
+
+62. **look it .**
+    - V1: 1 (look)
+    - N2: 1 (it)
+
+63. **<&~kuh> [//] kangaroo .**
+    - N1: 1 (kangaroo)
+
+64. **hoppy kangaroo (.) <hop (.) hop> [/] (.) hop .**
+    - N1: 1 (kangaroo)
+    - V1: 1 (hop)
+
+65. **<hop (.) hop> [/] (.) hop .**
+    - V1: 1 (hop)
+
+66. **I'm xxx I goin(g) make it up xxx .**
+    - N2: 1 (I)
+    - V1: 1 (goin(g))
+    - V1: 1 (make)
+
+67. **I xxx it .**
+    - N2: 1 (I)
+    - N2: 1 (it)
+
+68. **now I goin(g) to do it xxx .**
+    - N2: 1 (I)
+    - V1: 1 (goin(g))
+    - V1: 1 (do)
+
+69. **no .**
+    - N1: 1 (no)
+
+70. **<jump Jiminy> [/] (.) jump Jiminy .**
+    - V1: 1 (jump)
+
+71. **Mommy (.) get the other one .**
+    - N2: 1 (Mommy)
+    - V1: 1 (get)
+    - N5: 1 (the other one)
+
+72. **hi (.) Daddy .**
+    - N1: 1 (hi)
+    - N2: 1 (Daddy)
+
+73. **go .**
+    - V1: 1 (go)
+
+74. **don't do that to xxx .**
+    - V1: 1 (do)
+    - N1: 1 (that)
+
+75. **(a)n(d) here I come .**
+    - N1: 1 (here)
+    - V1: 1 (come)
+
+76. **do you like these ?**
+    - V1: 1 (do)
+    - N2: 1 (you)
+    - N1: 1 (these)
+    - Q8: 1 (?)
+
+77. **you want this ?**
+    - N2: 1 (you)
+    - V1: 1 (want)
+    - N2: 1 (this)
+    - Q8: 1 (?)
+
+78. **Aunt_Dot's ?**
+    - N1: 1 (Aunt_Dot's)
+    - Q1: 1 (?)
+
+79. **&-um (.) dat [: that] (.) Chrissie .**
+    - N1: 1 (Chrissie)
+
+80. **she didn't have any brother .**
+    - N2: 1 (she)
+    - V1: 1 (didn't)
+    - N1: 1 (brother)
+
+81. **li(tt)le boy .**
+    - N1: 1 (boy)
+
+82. **Robbie [/] (.) Robbie ?**
+    - N1: 1 (Robbie)
+    - Q1: 1 (?)
+
+83. **yeah (.) that's the name .**
+    - N1: 1 (name)
+    - V1: 1 (that's)
+
+84. **a house .**
+    - N1: 1 (house)
+
+85. **me .**
+    - N2: 1 (me)
+
+86. **<&~cu> [//] cry .**
+    - V1: 1 (cry)
+
+87. **(be)cause .**
+    - N1: 1 (cause)
+
+88. **don't see any tears .**
+    - V1: 1 (don't)
+    - N1: 1 (tears)
+
+89. **me too .**
+    - N2: 1 (me)
+
+90. **see my cheek .**
+    - V1: 1 (see)
+    - N5: 1 (my cheek)
+
+91. **see my .**
+    - V1: 1 (see)
+    - N2: 1 (my)
+
+92. **thumb .**
+    - N1: 1 (thumb)
+
+93. **see my finger .**
+    - V1: 1 (see)
+    - N5: 1 (my finger)
+
+94. **see my other finger .**
+    - V1: 1 (see)
+    - N5: 1 (my other finger)
+
+95. **see my fist (.) you better run .**
+    - V1: 1 (see)
+    - N1: 1 (fist)
+    - V1: 1 (run)
+
+96. **<see my fist> [?] .**
+    - V1: 1 (see)
+    - N1: 1 (fist)
+    - Q1: 1 (?)
+
+97. **<you better run> [?] .**
+    - V1: 1 (run)
+    - Q1: 1 (?)
+
+98. **I didn't bite .**
+    - N2: 1 (I)
+    - V1: 1 (didn't)
+    - V12: 1 (bite)
+
+99. **I bite .**
+    - N2: 1 (I)
+    - V1: 1 (bite)
+
+100. **I love you .**
+    - N2: 1 (I)
+    - V1: 1 (love)
+    - N2: 1 (you)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 20
+N2, 18
+N3, 0
+N4, 0
+N5, 10
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 30
+V2, 0
+V3, 1
+V4, 0
+V5, 0
+V6, 3
+V7, 0
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 10
+Q2, 0
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 5
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 20
+S3, 0
+S4, 10
+S5, 3
+S6, 5
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

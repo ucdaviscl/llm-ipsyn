@@ -1,0 +1,429 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **my woman .**  
+   - N1: 1 (woman)  
+   - N5: 1 (my woman)  
+
+2. **hey where's my doggie .**  
+   - N5: 2 (my doggie)  
+   - V6: 1 (where's)  
+
+3. **xxx may doggie .**  
+   - N1: 1 (doggie)  
+
+4. **xxx popsicles .**  
+   - N7: 1 (popsicles)  
+
+5. **popsicle .**  
+   - N1: 1 (popsicle)  
+
+6. **I want a popsicle .**  
+   - N5: 1 (a popsicle)  
+   - V1: 1 (want)  
+   - S2: 1 (I want)  
+
+7. **no .**  
+   - Q3: 1 (Simple Negation)  
+
+8. **want xxx .**  
+   - V1: 1 (want)  
+
+9. **dis [: this] big (.) Mommy .**  
+   - N3: 1 (big)  
+   - N5: 1 (dis big)  
+
+10. **I want dis [: this] big .**  
+    - N5: 2 (dis big)  
+    - V1: 1 (want)  
+    - S2: 1 (I want)  
+
+11. **like orange .**  
+    - N1: 1 (orange)  
+    - V1: 1 (like)  
+
+12. **orange .**  
+    - N1: 1 (orange)  
+
+13. **Donna like it (.) too .**  
+    - N2: 1 (it)  
+    - V1: 1 (like)  
+    - S2: 1 (Donna like)  
+
+14. **mm .**  
+    - (No applicable items)  
+
+15. **she's my friend .**  
+    - N2: 1 (she)  
+    - N5: 1 (my friend)  
+    - V4: 1 (she's my friend)  
+
+16. **we [/] we play dolls .**  
+    - N2: 2 (we)  
+    - V1: 1 (play)  
+    - S2: 1 (we play)  
+
+17. **too .**  
+    - (No applicable items)  
+
+18. **I've got that popsicle on right here .**  
+    - N5: 1 (that popsicle)  
+    - V6: 1 (I've got)  
+    - V3: 1 (on right here)  
+
+19. **I've got popsicle on right (.) here .**  
+    - N1: 1 (popsicle)  
+    - V6: 1 (I've got)  
+    - V3: 1 (on right here)  
+
+20. **I want two .**  
+    - V1: 1 (want)  
+    - N1: 1 (two)  
+    - S2: 1 (I want)  
+
+21. **dis [: this] .**  
+    - N2: 1 (dis)  
+
+22. **yep .**  
+    - (No applicable items)  
+
+23. **nope .**  
+    - Q3: 1 (Simple Negation)  
+
+24. **candy .**  
+    - N1: 1 (candy)  
+
+25. **manny@b .**  
+    - (No applicable items)  
+
+26. **tanny@b .**  
+    - (No applicable items)  
+
+27. **tanny@b !**  
+    - (No applicable items)  
+
+28. **I say em .**  
+    - N2: 1 (em)  
+    - V1: 1 (say)  
+    - S2: 1 (I say)  
+
+29. **canny@b .**  
+    - (No applicable items)  
+
+30. **&-uh (.) black one .**  
+    - N1: 1 (one)  
+    - N3: 1 (black)  
+
+31. **no (.) black ones .**  
+    - N7: 1 (ones)  
+    - Q3: 1 (Simple Negation)  
+
+32. **black ones .**  
+    - N7: 2 (ones)  
+
+33. **what ?**  
+    - Q1: 1 (contains a question mark)  
+
+34. **&-uh (.) &-um (.) for breakfast .**  
+    - V3: 1 (for breakfast)  
+
+35. **who's that .**  
+    - N2: 1 (that)  
+    - V6: 1 (who's)  
+
+36. **new .**  
+    - N3: 1 (new)  
+
+37. **cereal .**  
+    - N1: 1 (cereal)  
+
+38. **a seek .**  
+    - N5: 1 (a seek)  
+
+39. **whippin(g) on me .**  
+    - V7: 1 (whippin(g))  
+    - V3: 1 (on me)  
+
+40. **yeah .**  
+    - (No applicable items)  
+
+41. **on my hand .**  
+    - V3: 1 (on my hand)  
+
+42. **no (.) it's not .**  
+    - Q3: 1 (Simple Negation)  
+    - V6: 1 (it's)  
+
+43. **&-uh (.) I want t(o) go .**  
+    - V1: 1 (want)  
+    - S2: 1 (I want)  
+
+44. **here .**  
+    - (No applicable items)  
+
+45. **Mommy .**  
+    - N1: 1 (Mommy)  
+
+46. **a farmer .**  
+    - N5: 1 (a farmer)  
+
+47. **here's a doggie .**  
+    - N5: 1 (a doggie)  
+    - V6: 1 (here's)  
+
+48. **&-uh (.) brown .**  
+    - N3: 1 (brown)  
+
+49. **I want an orange .**  
+    - N5: 1 (an orange)  
+    - V1: 1 (want)  
+    - S2: 1 (I want)  
+
+50. **a chicken .**  
+    - N5: 1 (a chicken)  
+
+51. **a ho(r)sie .**  
+    - N5: 1 (a ho(r)sie)  
+
+52. **ho(r)sie .**  
+    - N1: 1 (ho(r)sie)  
+
+53. **is too Mommy .**  
+    - V4: 1 (is too)  
+
+54. **what .**  
+    - (No applicable items)  
+
+55. **cow .**  
+    - N1: 1 (cow)  
+
+56. **huh ?**  
+    - Q1: 1 (contains a question mark)  
+
+57. **(a)n(d) this (.) huh ?**  
+    - S5: 1 (and)  
+
+58. **(a)n(d) this .**  
+    - S5: 1 (and)  
+
+59. **oh .**  
+    - (No applicable items)  
+
+60. **I wanna race around .**  
+    - V1: 1 (wanna)  
+    - S2: 1 (I wanna)  
+
+61. **I want t(o) race around .**  
+    - V1: 1 (want)  
+    - S2: 1 (I want)  
+
+62. **I want t(o) taste an orange .**  
+    - V1: 1 (want)  
+    - N5: 1 (an orange)  
+    - S2: 1 (I want)  
+
+63. **a rooster .**  
+    - N5: 1 (a rooster)  
+
+64. **this a ho(r)sie .**  
+    - N5: 1 (this ho(r)sie)  
+
+65. **here's another one .**  
+    - N5: 1 (another one)  
+    - V6: 1 (here's)  
+
+66. **here's another one (.) Courtney .**  
+    - N5: 1 (another one)  
+    - V6: 1 (here's)  
+
+67. **C(o)urtney .**  
+    - N1: 1 (Courtney)  
+
+68. **Carol .**  
+    - N1: 1 (Carol)  
+
+69. **Sarah (.) I told you (.) that (be)fore .**  
+    - N2: 1 (you)  
+    - V1: 1 (told)  
+    - S4: 1 (I told you)  
+
+70. **yeah (.) I told you that before .**  
+    - V1: 1 (told)  
+    - S4: 1 (I told you)  
+
+71. **xxx they tip over (.) like this .**  
+    - N2: 1 (they)  
+    - V1: 1 (tip)  
+    - S4: 1 (they tip over)  
+
+72. **tip over .**  
+    - V1: 1 (tip)  
+
+73. **tip over (.) I'm goin(g) get .**  
+    - V1: 1 (get)  
+    - S2: 1 (I'm goin(g))  
+
+74. **Mommy (.) where's my popsicle ?**  
+    - N5: 1 (my popsicle)  
+    - V6: 1 (where's)  
+    - Q1: 1 (contains a question mark)  
+
+75. **I want it .**  
+    - V1: 1 (want)  
+    - N2: 1 (it)  
+    - S2: 1 (I want)  
+
+76. **xxx in the teeth .**  
+    - V3: 1 (in the teeth)  
+
+77. **bad black .**  
+    - N3: 1 (bad)  
+    - N3: 1 (black)  
+
+78. **black (.) my teeth are black .**  
+    - N1: 1 (teeth)  
+    - V4: 1 (my teeth are black)  
+
+79. **my teeth are black .**  
+    - N1: 1 (teeth)  
+    - V4: 1 (my teeth are black)  
+
+80. **right here .**  
+    - (No applicable items)  
+
+81. **&-um (.) blood .**  
+    - N1: 1 (blood)  
+
+82. **I got red do .**  
+    - V1: 1 (got)  
+    - N1: 1 (do)  
+
+83. **a xxx .**  
+    - (No applicable items)  
+
+84. **a little s(t)uff on my nose .**  
+    - N5: 1 (a little s(t)uff)  
+    - V3: 1 (on my nose)  
+
+85. **I wanna go out .**  
+    - V1: 1 (wanna)  
+    - S2: 1 (I wanna)  
+
+86. **hold on pops(icle) .**  
+    - V1: 1 (hold)  
+
+87. **don't put it in first .**  
+    - V1: 1 (put)  
+    - Q3: 1 (Simple Negation)  
+
+88. **dum(p) all a stuff out .**  
+    - V1: 1 (dum(p))  
+    - N5: 1 (a stuff)  
+
+89. **there .**  
+    - (No applicable items)  
+
+90. **Mummy .**  
+    - N1: 1 (Mummy)  
+
+91. **<my house (.) &~det> [//] there my house .**  
+    - N5: 1 (my house)  
+
+92. **no Mummy .**  
+    - Q3: 1 (Simple Negation)  
+
+93. **didn't bite it .**  
+    - V11: 1 (didn't)  
+    - V1: 1 (bite)  
+
+94. **uhoh .**  
+    - (No applicable items)  
+
+95. **<&~whe> [/] where's my home ?**  
+    - N5: 1 (my home)  
+    - V6: 1 (where's)  
+    - Q1: 1 (contains a question mark)  
+
+96. **I goin(g) to <&~pu> [?] .**  
+    - V1: 1 (goin(g))  
+    - S2: 1 (I goin(g))  
+
+97. **put this <in my (.) &-uh> [/] &-uh in my house .**  
+    - V1: 1 (put)  
+    - N5: 1 (my house)  
+    - V3: 1 (in my house)  
+
+98. **oh bobobo@b .**  
+    - (No applicable items)  
+
+99. **t(h)em (.) two sizes .**  
+    - N1: 1 (sizes)  
+    - N7: 1 (two sizes)  
+
+100. **this way .**  
+    - (No applicable items)  
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12  
+N2, 6  
+N3, 5  
+N4, 0  
+N5, 10  
+N6, 4  
+N7, 3  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 12  
+V2, 0  
+V3, 5  
+V4, 3  
+V5, 0  
+V6, 5  
+V7, 2  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 1  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 4  
+Q2, 0  
+Q3, 5  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 10  
+S3, 0  
+S4, 5  
+S5, 2  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

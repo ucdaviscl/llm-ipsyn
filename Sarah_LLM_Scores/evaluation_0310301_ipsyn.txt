@@ -1,0 +1,413 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **hey (.) &-uh .**
+   - No applicable items.
+
+2. **e@l i@l e@l i@l o@l o@l . [+ bch]**
+   - No applicable items.
+
+3. **what's dat [: that] spell ?**
+   - Q1: 1 (contains a question mark)
+   - Q4: 1 (Wh-Question + Verb)
+
+4. **uhuh !**
+   - No applicable items.
+
+5. **Kent .**
+   - N1: 1 (Noun)
+
+6. **oop (.) &-uh !**
+   - No applicable items.
+
+7. **pee_pee .**
+   - N1: 2 (Noun)
+
+8. **she doesn't stand up .**
+   - N2: 1 (Pronoun)
+   - V3: 1 (Prepositional Phrase)
+   - V5: 1 (Catenative)
+
+9. **Pinkuh .**
+   - N1: 1 (Noun)
+
+10. **Penny_Bright .**
+    - N1: 1 (Noun)
+
+11. **no !**
+    - No applicable items.
+
+12. **yeah .**
+    - No applicable items.
+
+13. **to the circus !**
+    - V3: 1 (Prepositional Phrase)
+
+14. **<to go to> [//] (.) had school .**
+    - V12: 1 (Regular Past Tense)
+
+15. **that xxx hurt .**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+16. **&-um (.) to (.) yyy .**
+    - No applicable items.
+
+17. **to Magazine_Beach .**
+    - V3: 1 (Prepositional Phrase)
+
+18. **I played in the water .**
+    - N2: 1 (Pronoun)
+    - V12: 1 (Regular Past Tense)
+
+19. **yeah !**
+    - No applicable items.
+
+20. **uhhuh .**
+    - No applicable items.
+
+21. **Old_MacDonald had a xxx .**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+22. **e@l i@l e@l i@l o@l . [+ bch]**
+    - No applicable items.
+
+23. **a lipstick .**
+    - N5: 1 (Determiner + Noun)
+
+24. **I close my pocketbook .**
+    - N2: 1 (Pronoun)
+    - V1: 1 (Verb)
+    - N5: 1 (Determiner + Noun)
+
+25. **see my pocketbook ?**
+    - N2: 1 (Pronoun)
+    - V1: 1 (Verb)
+    - Q1: 1 (contains a question mark)
+
+26. **yes .**
+    - No applicable items.
+
+27. **what is it ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+28. **uhuh .**
+    - No applicable items.
+
+29. **ee_yay_ee_yay_oh . [+ bch]**
+    - No applicable items.
+
+30. **Old_Mac_Donald had a farm ee_yay_ee_yay_oh . [+ bch]**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+31. **what d(o) ya say ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+32. **what ya say ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+33. **are you (.) Old_MacDonald ?**
+    - Q1: 1 (contains a question mark)
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+34. **are you (.) Kent ?**
+    - Q1: 1 (contains a question mark)
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+35. **how_come you have glasses on ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+36. **why [/] (.) <why d(o) ya> [/] (.) <why d(o) ya> [/] (.) why d(o) ya (.) cook xxx .**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+37. **why're you doin(g) that ?**
+    - Q1: 1 (contains a question mark)
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+38. **<where's ya> [/] where's ya baby brother ?**
+    - Q1: 1 (contains a question mark)
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+39. **why not ?**
+    - Q1: 1 (contains a question mark)
+
+40. **no you're not .**
+    - Q3: 1 (Simple Negation)
+
+41. **Old_Mac_Donald had a farm (.) e@l i@l e@l i@l o@l ! [+ bch]**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+42. **nah nah [/] (.) you can't catch me .**
+    - Q3: 1 (Simple Negation)
+
+43. **nah (.) nah (.) you can't catch me .**
+    - Q3: 1 (Simple Negation)
+
+44. **huh ?**
+    - Q1: 1 (contains a question mark)
+
+45. **Old_Mac_Donald had a chick (.) e@l i@l e@l i@l o@l (.) o@l . [+ bch]**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+46. **let me swing ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+47. **xxx gonna .**
+    - No applicable items.
+
+48. **I'm gonna Mama .**
+    - N2: 1 (Pronoun)
+    - V6: 1 (Auxiliary Be, Do, Have)
+
+49. **please xxx .**
+    - No applicable items.
+
+50. **he gonna break it .**
+    - N2: 1 (Pronoun)
+    - V6: 1 (Auxiliary Be, Do, Have)
+
+51. **you're (.) gonna break it .**
+    - N2: 1 (Pronoun)
+    - V6: 1 (Auxiliary Be, Do, Have)
+
+52. **Soopa@c .**
+    - N1: 1 (Noun)
+
+53. **Old_MacDonald had a (.) snake .**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+54. **see the little snake ?**
+    - N5: 1 (Determiner + Noun)
+    - V1: 1 (Verb)
+    - Q1: 1 (contains a question mark)
+
+55. **uhuh (.) a snake .**
+    - N5: 1 (Determiner + Noun)
+
+56. **uhuh lipstick .**
+    - N1: 1 (Noun)
+
+57. **no (.) it isn't .**
+    - Q3: 1 (Simple Negation)
+
+58. **for Nana !**
+    - V3: 1 (Prepositional Phrase)
+
+59. **I don't wanna .**
+    - N2: 1 (Pronoun)
+    - Q3: 1 (Simple Negation)
+
+60. **xxx get ready anyway for dance school tonight .**
+    - No applicable items.
+
+61. **what ?**
+    - Q1: 1 (contains a question mark)
+
+62. **to Zayre's .**
+    - V3: 1 (Prepositional Phrase)
+
+63. **I'm goin(g) to (.) downstairs .**
+    - N2: 1 (Pronoun)
+    - V6: 1 (Auxiliary Be, Do, Have)
+
+64. **Ol(d)z_MacDonald had a yyy e@l i@l e@l i@l o@l .**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+65. **yellow .**
+    - No applicable items.
+
+66. **Old_Mac_D(o)n(ald) (.) <Don (.) Don> [/] (.) Don .**
+    - N1: 1 (Noun)
+
+67. **like this (.) Don [/] Don Donal(d) .**
+    - No applicable items.
+
+68. **<Don (.) Don (.) Don (.) Don> [/] (.) Don .**
+    - No applicable items.
+
+69. **how do you open this ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+70. **Uncle_Eddie died .**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+71. **he goed [: went] [* +ed] to heaven .**
+    - N2: 1 (Pronoun)
+    - V12: 1 (Regular Past Tense)
+
+72. **no .**
+    - No applicable items.
+
+73. **(be)cause he already died .**
+    - N2: 1 (Pronoun)
+    - V12: 1 (Regular Past Tense)
+
+74. **<(be)cause> [/] (.) <(be)cause> [/] (.) <(be)cause> [/] (.) (be)cause he wanted to .**
+    - N2: 1 (Pronoun)
+    - V12: 1 (Regular Past Tense)
+
+75. **maybe he's yyy .**
+    - N2: 1 (Pronoun)
+    - V6: 1 (Auxiliary Be, Do, Have)
+
+76. **Ol(d)z_MacDonald had a farm . [+ bch]**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+77. **I gonna put the ducks in here .**
+    - N2: 1 (Pronoun)
+    - V6: 1 (Auxiliary Be, Do, Have)
+
+78. **the two little ducks .**
+    - N5: 1 (Determiner + Noun)
+
+79. **two little ducks oh ohs [: oh] .**
+    - N7: 1 (Noun Plural)
+
+80. **two .**
+    - No applicable items.
+
+81. **I got (.) a lot (a)n(d) he has one .**
+    - N2: 1 (Pronoun)
+    - V1: 1 (Verb)
+    - N5: 1 (Determiner + Noun)
+
+82. **give me that .**
+    - V3: 1 (Prepositional Phrase)
+
+83. **fine .**
+    - No applicable items.
+
+84. **one .**
+    - No applicable items.
+
+85. **Don (.) two xxx .**
+    - No applicable items.
+
+86. **one (.) two (.) three (.) four (.) five . [+ bch]**
+    - No applicable items.
+
+87. **meenie@b (.) ninie@b (.) yyy (.) take a tiger .**
+    - N5: 1 (Determiner + Noun)
+
+88. **dis [: this] is mine .**
+    - N1: 1 (Noun)
+    - V4: 1 (Noun + Copula + Noun)
+
+89. **meenie@b minie@b .**
+    - No applicable items.
+
+90. **truck a tiger or a (.) toe .**
+    - N5: 1 (Determiner + Noun)
+
+91. **meenie@b minie@b yyy truck a tiger on a toe meenie@b minie@b yyy . [+ bch]**
+    - No applicable items.
+
+92. **da(t) [: that's] my ducks .**
+    - N5: 1 (Determiner + Noun)
+
+93. **you can have one .**
+    - N2: 1 (Pronoun)
+    - V1: 1 (Verb)
+
+94. **banana (.) banana (.) banana black .**
+    - N1: 1 (Noun)
+
+95. **look like Momma babysit .**
+    - N1: 1 (Noun)
+    - V1: 1 (Verb)
+
+96. **chickie died Mama cried .**
+    - N1: 1 (Noun)
+    - V12: 1 (Regular Past Tense)
+
+97. **banana (.) banana black .**
+    - N1: 1 (Noun)
+
+98. **you did .**
+    - N2: 1 (Pronoun)
+    - V12: 1 (Regular Past Tense)
+
+99. **oh (.) <who (.) who (.) who> [/] who .**
+    - Q1: 1 (contains a question mark)
+
+100. **what's this ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+Final score:
+N1, 12
+N2, 8
+N3, 0
+N4, 0
+N5, 6
+N6, 0
+N7, 1
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 6
+V2, 0
+V3, 5
+V4, 2
+V5, 0
+V6, 4
+V7, 1
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 6
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 0
+Q3, 5
+Q4, 6
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 3
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

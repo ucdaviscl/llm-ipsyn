@@ -1,0 +1,548 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **didn('t) huh ?**
+   - Q1: 1
+   - Q2: 1
+
+2. **huh ?**
+   - Q1: 1
+
+3. **trying to make den@u r@l .**
+   - V1: 1
+   - S8: 1
+
+4. **I can make it dis [: this] way .**
+   - N2: 1
+   - V1: 1
+   - S4: 1
+
+5. **dere [: there] .**
+   - N1: 1
+
+6. **dat [: that] how you do it ?**
+   - Q4: 1
+   - Q1: 1
+
+7. **dat [: that's] how ya do it .**
+   - Q4: 1
+
+8. **no .**
+   - Q3: 1
+
+9. **let's try another one .**
+   - N1: 1
+   - N5: 1
+   - S4: 1
+
+10. **I think I saw one .**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+11. **dere [: there] it is .**
+    - N1: 1
+    - V1: 1
+    - S4: 1
+
+12. **is dis [: this] a r@l or r@l ?**
+    - N1: 1
+    - N5: 1
+    - V4: 1
+    - Q1: 1
+
+13. **dis [: this] is an r@l .**
+    - N1: 1
+    - N5: 1
+    - V4: 1
+
+14. **this is an n@l .**
+    - N1: 1
+    - N5: 1
+    - V4: 1
+
+15. **n@l or m@l ?**
+    - Q1: 1
+
+16. **can you erase dis [: this] off ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+17. **yep .**
+    - (No applicable items)
+
+18. **is that all you hafta do ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+19. **how you (e)rase dis [: this] off ?**
+    - Q4: 1
+    - N1: 1
+    - V1: 1
+
+20. **dis [: this] how you do it light .**
+    - N1: 1
+    - S2: 1
+
+21. **that how you do it light ?**
+    - Q4: 1
+    - Q1: 1
+
+22. **real light .**
+    - N1: 1
+
+23. **can you do that (a)n(d) that (.) light ?**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+24. **I bet you can't make a u@l .**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+25. **can't you ?**
+    - Q8: 1
+
+26. **yeah .**
+    - (No applicable items)
+
+27. **I made a u@l .**
+    - N2: 1
+    - V12: 1
+    - S4: 1
+
+28. **here's how you make a u@l .**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+29. **is (th)at how you make one ?**
+    - Q4: 1
+    - Q1: 1
+
+30. **how you make one ?**
+    - Q4: 1
+    - Q1: 1
+
+31. **like (.) that ?**
+    - Q1: 1
+
+32. **that's a s@l .**
+    - N2: 1
+    - N5: 1
+    - V4: 1
+
+33. **how you do it ?**
+    - Q1: 1
+
+34. **here's another r@l .**
+    - N2: 1
+    - N5: 1
+    - V1: 1
+
+35. **this is another r@l ?**
+    - N2: 1
+    - N5: 1
+    - V4: 1
+    - Q1: 1
+
+36. **no sir .**
+    - Q3: 1
+
+37. **this is the same one .**
+    - N2: 1
+    - N5: 1
+    - V4: 1
+
+38. **what is this (.) an a@l ?**
+    - N2: 1
+    - N5: 1
+    - V4: 1
+    - Q1: 1
+
+39. **&-uh (.) you wanna see me make a@l ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+40. **can't you get a red pencil ?**
+    - Q8: 1
+
+41. **you got a lot o(f) pencils in your hand .**
+    - N2: 1
+    - N5: 1
+    - V1: 1
+    - S4: 1
+
+42. **now I have two .**
+    - N2: 1
+    - V6: 1
+    - S2: 1
+
+43. **is that blue or red ?**
+    - Q1: 1
+
+44. **blue .**
+    - N1: 1
+
+45. **red ?**
+    - N1: 1
+
+46. **what is dat [: that] ?**
+    - N2: 1
+    - N5: 1
+    - V4: 1
+    - Q1: 1
+
+47. **dat [: that's] a d@l .**
+    - N2: 1
+    - N5: 1
+    - V4: 1
+
+48. **did I make it crooked ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+49. **now dat [: that's] two blocks (.) right ?**
+    - N1: 1
+    - N5: 1
+    - V1: 1
+    - Q1: 1
+
+50. **goes over there (.) right ?**
+    - V1: 1
+    - Q1: 1
+
+51. **I can make dat [: that] (.) right ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+52. **(e)rase it off (.) right ?**
+    - V1: 1
+    - Q1: 1
+
+53. **now .**
+    - (No applicable items)
+
+54. **how you (e)rase the blue off ?**
+    - Q4: 1
+    - N1: 1
+    - V1: 1
+
+55. **what ?**
+    - (No applicable items)
+
+56. **&~c (.) can I (e)rase the red off ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+57. **how you (e)rase the red off ?**
+    - Q4: 1
+    - N1: 1
+    - V1: 1
+
+58. **I'm getting it .**
+    - N2: 1
+    - V7: 1
+    - S2: 1
+
+59. **can I get it ?**
+    - Q8: 1
+
+60. **is it off ?**
+    - Q1: 1
+
+61. **it xxx off .**
+    - (No applicable items)
+
+62. **this how you push it down .**
+    - N1: 1
+    - S2: 1
+
+63. **do you use milk or no ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+64. **do you use sugar or no ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+65. **do you use (.) &-uh .**
+    - N2: 1
+    - V1: 1
+
+66. **hey (.) you not learn how to do this (.) yet ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+67. **you don't learn to do this yet ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+68. **yes .**
+    - (No applicable items)
+
+69. **see ?**
+    - (No applicable items)
+
+70. **this is hard .**
+    - N2: 1
+    - V4: 1
+
+71. **that's really hard .**
+    - N2: 1
+    - V4: 1
+    - V3: 1
+
+72. **like that (.) huh ?**
+    - Q1: 1
+
+73. **is like that .**
+    - V1: 1
+
+74. **is that really hard ?**
+    - Q1: 1
+
+75. **that medium ?**
+    - Q1: 1
+
+76. **this is medium .**
+    - N2: 1
+    - V4: 1
+
+77. **that's light .**
+    - N2: 1
+    - V4: 1
+
+78. **can (e)rase it right off .**
+    - V1: 1
+    - S2: 1
+
+79. **pink .**
+    - N1: 1
+
+80. **well (.) we put all the pinks right here (.) (o)kay ?**
+    - N2: 1
+    - N7: 1
+    - V1: 1
+    - Q1: 1
+
+81. **ya put all these (.) that .**
+    - N2: 1
+    - V1: 1
+    - S4: 1
+
+82. **this is pink ?**
+    - N2: 1
+    - V4: 1
+    - Q1: 1
+
+83. **it is pink ?**
+    - N2: 1
+    - V4: 1
+    - Q1: 1
+
+84. **this pink ?**
+    - N1: 1
+    - Q1: 1
+
+85. **pink ?**
+    - N1: 1
+    - Q1: 1
+
+86. **five .**
+    - N1: 1
+
+87. **one (.) two (.) three (.) four (.) five (.) six .**
+    - N1: 1
+    - N7: 1
+
+88. **six .**
+    - N1: 1
+
+89. **watch this .**
+    - V1: 1
+    - N1: 1
+
+90. **y@l ?**
+    - Q1: 1
+
+91. **o@l ?**
+    - Q1: 1
+
+92. **we got all the pinks .**
+    - N2: 1
+    - N5: 1
+    - V1: 1
+
+93. **no more pinks ?**
+    - Q1: 1
+    - N7: 1
+
+94. **well the blues (.) go on the bottom .**
+    - N1: 1
+    - N7: 1
+    - V1: 1
+
+95. **isn't any more blues ?**
+    - Q1: 1
+    - N7: 1
+
+96. **ya only get (.) five .**
+    - N2: 1
+    - V1: 1
+
+97. **what that spell ?**
+    - Q1: 1
+
+98. **gi(ve) me that ?**
+    - N2: 1
+    - V1: 1
+    - Q1: 1
+
+99. **where's another blue ?**
+    - Q1: 1
+    - N1: 1
+
+100. **that one ?**
+    - Q1: 1
+
+Now, let's compile the scores for each item:
+
+- N1: 12
+- N2: 12
+- N3: 0
+- N4: 0
+- N5: 10
+- N6: 0
+- N7: 5
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 20
+- V2: 0
+- V3: 0
+- V4: 8
+- V5: 0
+- V6: 2
+- V7: 1
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 1
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 20
+- Q2: 0
+- Q3: 3
+- Q4: 8
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 3
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 8
+- S3: 0
+- S4: 12
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 1
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum of 2:
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 0
+N5, 2
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 0
+V4, 2
+V5, 0
+V6, 2
+V7, 1
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 0
+Q3, 2
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 2
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 2
+S3, 0
+S4, 2
+S5, 0
+S6, 0
+S7, 0
+S8, 1
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

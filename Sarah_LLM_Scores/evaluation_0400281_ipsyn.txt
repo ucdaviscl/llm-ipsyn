@@ -1,0 +1,495 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax scoring table.
+
+1. **want my knife .**
+   - N1: 1 (knife)
+   - N2: 1 (my)
+   - V1: 1 (want)
+
+2. **this is take glue pieces (.) huh ?**
+   - N1: 1 (pieces)
+   - N2: 1 (this)
+   - V1: 1 (is)
+   - V3: 1 (take)
+
+3. **I'll show you in a minute .**
+   - N2: 1 (you)
+   - V1: 1 (show)
+   - V6: 1 (I'll)
+
+4. **no .**
+   - Q3: 1 (Simple Negation)
+
+5. **I'm gonna make a cupcake .**
+   - N1: 1 (cupcake)
+   - V1: 1 (make)
+   - V6: 1 (I'm)
+
+6. **you can make cupcake out_of these (.) Mommy .**
+   - N1: 1 (cupcake)
+   - N2: 1 (you)
+   - V1: 1 (make)
+   - V2: 1 (out_of)
+
+7. **<wait a minute> [?] .**
+   - Q1: 1 (contains a question mark)
+
+8. **yyy I picks .**
+   - N2: 1 (I)
+   - V1: 1 (picks)
+
+9. **awful .**
+   - (No applicable items)
+
+10. **old piece (.) so you can make it (.) huh ?**
+    - N1: 1 (piece)
+    - N2: 1 (you)
+    - V1: 1 (make)
+    - Q1: 1 (contains a question mark)
+
+11. **yep .**
+    - (No applicable items)
+
+12. **next ones (.) in the pink (.) ya get em mixed up together .**
+    - N1: 1 (ones)
+    - N2: 1 (ya)
+    - V1: 1 (get)
+
+13. **huh ?**
+    - Q1: 1 (contains a question mark)
+
+14. **huh Mom ?**
+    - Q1: 1 (contains a question mark)
+    - N2: 1 (Mom)
+
+15. **so (.) so we can make different kinds of balls .**
+    - N1: 1 (kinds)
+    - N2: 1 (we)
+    - V1: 1 (make)
+
+16. **different kind of balls ?**
+    - N1: 1 (kind)
+    - N1: 1 (balls)
+    - Q1: 1 (contains a question mark)
+
+17. **yeah .**
+    - (No applicable items)
+
+18. **&~a:h (.) we doin(g) (.) that middle right there .**
+    - N2: 1 (we)
+    - V7: 1 (doin(g))
+
+19. **good .**
+    - (No applicable items)
+
+20. **china [: trying to] push it down .**
+    - N1: 1 (china)
+    - V1: 1 (push)
+
+21. **oh (.) tryin(g) to get it out too .**
+    - V1: 1 (get)
+    - V7: 1 (tryin(g))
+
+22. **hard to be (.) out .**
+    - (No applicable items)
+
+23. **it got hard .**
+    - N2: 1 (it)
+    - V12: 1 (got)
+
+24. **but ya can't get it out .**
+    - N2: 1 (ya)
+    - V1: 1 (get)
+    - V3: 1 (can't)
+
+25. **it's not hard .**
+    - N2: 1 (it)
+    - V7: 1 (not)
+
+26. **now (.) here comes a cupcake .**
+    - N1: 1 (cupcake)
+    - V1: 1 (comes)
+
+27. **oh cupcake fall out .**
+    - N1: 1 (cupcake)
+    - V1: 1 (fall)
+
+28. **ring@b (.) ring@b a ringa@b ming@b .**
+    - (No applicable items)
+
+29. **see (.) that's how you make a cake .**
+    - N1: 1 (cake)
+    - N2: 1 (you)
+    - V1: 1 (make)
+
+30. **I take big pieces .**
+    - N1: 1 (pieces)
+    - N2: 1 (I)
+    - V1: 1 (take)
+
+31. **what ?**
+    - Q1: 1 (contains a question mark)
+
+32. **<that same thing as me> [?] ?**
+    - Q1: 1 (contains a question mark)
+    - N2: 1 (me)
+
+33. **get out .**
+    - V1: 1 (get)
+
+34. **get the whole thing out .**
+    - N1: 1 (thing)
+    - V1: 1 (get)
+
+35. **take it out .**
+    - N2: 1 (it)
+    - V1: 1 (take)
+
+36. **oh (.) I can't .**
+    - N2: 1 (I)
+    - V3: 1 (can't)
+
+37. **I can't xxx a dogs .**
+    - N1: 1 (dogs)
+    - N2: 1 (I)
+
+38. **watch me make somethin(g) (.) out_of this .**
+    - N2: 1 (me)
+    - V1: 1 (make)
+    - V2: 1 (out_of)
+
+39. **take [/] take a little piece here .**
+    - N1: 1 (piece)
+    - V1: 1 (take)
+
+40. **(a)n(d) you make a pie .**
+    - N1: 1 (pie)
+    - N2: 1 (you)
+    - V1: 1 (make)
+
+41. **Bob (.) you can make balls out_of these (.) huh ?**
+    - N1: 1 (balls)
+    - N2: 1 (you)
+    - V1: 1 (make)
+    - Q1: 1 (contains a question mark)
+
+42. **see (.) it's call Big_Bub(ble) (.) gum (.) catch .**
+    - N1: 1 (gum)
+    - N2: 1 (it)
+    - V1: 1 (call)
+
+43. **it's gotta be a bubblegum .**
+    - N2: 1 (it)
+    - V1: 1 (gotta)
+
+44. **this (.) are you can make an elephant ?**
+    - N2: 1 (you)
+    - V1: 1 (make)
+    - Q1: 1 (contains a question mark)
+
+45. **I goin(g) make an elephant .**
+    - N1: 1 (elephant)
+    - N2: 1 (I)
+    - V1: 1 (goin(g))
+
+46. **a little baby one .**
+    - N1: 1 (baby)
+    - N1: 1 (one)
+
+47. **I'm open my mouth .**
+    - N2: 1 (I)
+    - V1: 1 (open)
+
+48. **(.) you can make (.) things out_of this (.) a bone out this .**
+    - N1: 1 (things)
+    - N1: 1 (bone)
+    - N2: 1 (you)
+    - V1: 1 (make)
+    - V2: 1 (out_of)
+
+49. **you can make a bone out_of this .**
+    - N1: 1 (bone)
+    - N2: 1 (you)
+    - V1: 1 (make)
+    - V2: 1 (out_of)
+
+50. **&~l look it (.) see .**
+    - N2: 1 (it)
+    - V1: 1 (look)
+
+51. **this is a &~t (.) xxx .**
+    - N2: 1 (this)
+    - V1: 1 (is)
+
+52. **I gotta make a big ball (.) a big one .**
+    - N1: 1 (ball)
+    - N1: 1 (one)
+    - N2: 1 (I)
+    - V1: 1 (gotta)
+
+53. **an elephant .**
+    - N1: 1 (elephant)
+
+54. **she makin(g) an elephant .**
+    - N1: 1 (elephant)
+    - N2: 1 (she)
+    - V7: 1 (makin(g))
+
+55. **you're makin(g) one awful .**
+    - N2: 1 (you)
+    - V7: 1 (makin(g))
+
+56. **oh (.) you make a monster .**
+    - N1: 1 (monster)
+    - N2: 1 (you)
+    - V1: 1 (make)
+
+57. **<just a little bit hard (.) huh> [?] ?**
+    - Q1: 1 (contains a question mark)
+
+58. **hey Daddy it's a little bit xxx .**
+    - N2: 1 (it)
+    - N2: 1 (Daddy)
+
+59. **you put a seat up here .**
+    - N1: 1 (seat)
+    - N2: 1 (you)
+    - V1: 1 (put)
+
+60. **this is (.) the rockin(g)_chair (.) right ?**
+    - N1: 1 (chair)
+    - N2: 1 (this)
+    - V1: 1 (is)
+    - Q1: 1 (contains a question mark)
+
+61. **(a)n(d) he puts his feet up here .**
+    - N2: 1 (he)
+    - V1: 1 (puts)
+
+62. **up here (.) Dad (.) (.) puts his feet up here .**
+    - N2: 1 (Dad)
+    - V1: 1 (puts)
+
+63. **because .**
+    - (No applicable items)
+
+64. **xxx look awful .**
+    - (No applicable items)
+
+65. **(a)n(d) he get the pillow huh ?**
+    - N1: 1 (pillow)
+    - N2: 1 (he)
+    - V1: 1 (get)
+    - Q1: 1 (contains a question mark)
+
+66. **(a)n(d) lay down .**
+    - V1: 1 (lay)
+
+67. **<an(d) he gets> [//] (a)n(d) he has (.) another pillow .**
+    - N1: 1 (pillow)
+    - N2: 1 (he)
+    - V1: 1 (has)
+
+68. **<an(d) he has> [/] (a)n(d) he has xxx (.) xxx (.) (a)n(d) (.) (a)n(d) he (.) no .**
+    - N2: 1 (he)
+    - V1: 1 (has)
+    - Q3: 1 (Simple Negation)
+
+69. **he flies a down office xxx .**
+    - N1: 1 (office)
+    - N2: 1 (he)
+    - V1: 1 (flies)
+
+70. **you goin(g) make it ?**
+    - N2: 1 (you)
+    - V1: 1 (goin(g))
+    - Q1: 1 (contains a question mark)
+
+71. **what's this ?**
+    - Q1: 1 (contains a question mark)
+
+72. **I can make a frog out_of this .**
+    - N1: 1 (frog)
+    - N2: 1 (I)
+    - V1: 1 (make)
+    - V2: 1 (out_of)
+
+73. **see right there .**
+    - (No applicable items)
+
+74. **hm: .**
+    - (No applicable items)
+
+75. **I can fox this out .**
+    - N2: 1 (I)
+    - V1: 1 (fox)
+
+76. **I can fox about (.) hard .**
+    - N2: 1 (I)
+    - V1: 1 (fox)
+
+77. **&-um (.) this (.) got this xxx .**
+    - N2: 1 (this)
+    - V1: 1 (got)
+
+78. **what is it ?**
+    - N2: 1 (it)
+    - Q1: 1 (contains a question mark)
+
+79. **<a cat> [?] ?**
+    - Q1: 1 (contains a question mark)
+
+80. **say (.) yyy are you makin(g) ?**
+    - N2: 1 (you)
+    - V1: 1 (are)
+    - V7: 1 (makin(g))
+    - Q1: 1 (contains a question mark)
+
+81. **give me a cup for ya .**
+    - N1: 1 (cup)
+    - N2: 1 (me)
+    - V1: 1 (give)
+
+82. **a cup for you .**
+    - N1: 1 (cup)
+    - N2: 1 (you)
+
+83. **you lazy .**
+    - N2: 1 (you)
+    - V1: 1 (lazy)
+
+84. **you have a bite .**
+    - N1: 1 (bite)
+    - N2: 1 (you)
+    - V1: 1 (have)
+
+85. **not you .**
+    - N2: 1 (you)
+    - Q3: 1 (Simple Negation)
+
+86. **(.) not you huh ?**
+    - N2: 1 (you)
+    - Q1: 1 (contains a question mark)
+    - Q3: 1 (Simple Negation)
+
+87. **he doesn't bite really hard .**
+    - N2: 1 (he)
+    - V3: 1 (doesn't)
+    - V1: 1 (bite)
+
+88. **what are these ?**
+    - N1: 1 (these)
+    - Q1: 1 (contains a question mark)
+
+89. **ouch he bite .**
+    - N2: 1 (he)
+    - V1: 1 (bite)
+
+90. **you [/] you made this one kind of xxx .**
+    - N1: 1 (kind)
+    - N2: 1 (you)
+    - V12: 1 (made)
+
+91. **I gonna break this .**
+    - N2: 1 (I)
+    - V1: 1 (gonna)
+    - V1: 1 (break)
+
+92. **I break it .**
+    - N2: 1 (I)
+    - V1: 1 (break)
+    - N2: 1 (it)
+
+93. **<a little> [/] a little xxx .**
+    - N1: 1 (little)
+
+94. **goin(g) make out_of this .**
+    - V1: 1 (goin(g))
+    - V2: 1 (out_of)
+
+95. **what's your favorite pet ?**
+    - Q1: 1 (contains a question mark)
+    - N2: 1 (your)
+
+96. **pet .**
+    - N1: 1 (pet)
+
+97. **&-um (.) monsters .**
+    - N1: 1 (monsters)
+
+98. **and a xxx .**
+    - (No applicable items)
+
+99. **bridge .**
+    - N1: 1 (bridge)
+
+100. **Mommy (.) can you make (.) doggie of this ?**
+    - N2: 1 (you)
+    - V1: 1 (make)
+    - N1: 1 (doggie)
+    - Q1: 1 (contains a question mark)
+
+Now, let's compile the scores for each item, capping at a maximum of 2:
+
+Final score:
+N1, 20
+N2, 20
+N3, 0
+N4, 0
+N5, 0
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 22
+V2, 5
+V3, 4
+V4, 0
+V5, 0
+V6, 3
+V7, 5
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 2
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 15
+Q2, 0
+Q3, 5
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

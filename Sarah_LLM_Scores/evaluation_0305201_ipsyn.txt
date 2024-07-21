@@ -1,0 +1,590 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I make a house .**  
+   - N1: 1 (house)  
+   - N5: 1 (a house)  
+   - V1: 1 (make)  
+   - S2: 1 (I make)  
+   - S4: 1 (I make a house)  
+
+2. **I going to build a house .**  
+   - N1: 1 (house)  
+   - V1: 1 (going)  
+   - V1: 1 (build)  
+   - S2: 1 (I going)  
+   - S4: 1 (I going to build a house)  
+
+3. **look .**  
+   - V1: 1 (look)  
+   - S2: 1 (look)  
+
+4. **you .**  
+   - N2: 1 (you)  
+
+5. **(h)e eat it .**  
+   - N1: 1 (it)  
+   - V1: 1 (eat)  
+   - S3: 1 (eat it)  
+
+6. **we'll see .**  
+   - V1: 1 (see)  
+   - S2: 1 (we'll see)  
+
+7. **makin(g) a bridge .**  
+   - N1: 1 (bridge)  
+   - V7: 1 (makin(g))  
+   - S2: 1 (makin(g))  
+
+8. **why ?**  
+   - Q1: 1  
+
+9. **whoa .**  
+   - (No applicable items)  
+
+10. **like that ?**  
+    - Q1: 1  
+
+11. **oh !**  
+    - (No applicable items)  
+
+12. **yes .**  
+    - (No applicable items)  
+
+13. **that was a chimney .**  
+    - N1: 1 (chimney)  
+    - V1: 1 (was)  
+    - N5: 1 (a chimney)  
+    - S4: 1 (that was a chimney)  
+
+14. **get away .**  
+    - V1: 1 (get)  
+    - V2: 1 (away)  
+    - S2: 1 (get away)  
+
+15. **he wen(t) away .**  
+    - N2: 1 (he)  
+    - V12: 1 (wen(t))  
+    - S2: 1 (he wen(t))  
+
+16. **we have a dog here .**  
+    - N1: 1 (dog)  
+    - N5: 1 (a dog)  
+    - V1: 1 (have)  
+    - S4: 1 (we have a dog)  
+
+17. **hm: ?**  
+    - Q1: 1  
+
+18. **he alright here .**  
+    - N2: 1 (he)  
+    - V1: 1 (alright)  
+    - S2: 1 (he alright)  
+
+19. **yeah .**  
+    - (No applicable items)  
+
+20. **take that one out .**  
+    - N1: 1 (one)  
+    - N5: 1 (that one)  
+    - V1: 1 (take)  
+    - S3: 1 (take one)  
+
+21. **a purple one .**  
+    - N1: 1 (one)  
+    - N3: 1 (purple)  
+    - N5: 1 (a purple one)  
+
+22. **climb up .**  
+    - V1: 1 (climb)  
+    - V2: 1 (up)  
+    - S2: 1 (climb up)  
+
+23. **Chantilly .**  
+    - N1: 1 (Chantilly)  
+
+24. **look at that .**  
+    - V1: 1 (look)  
+    - V2: 1 (at)  
+    - N5: 1 (that)  
+    - S3: 1 (look at that)  
+
+25. **it's going to fall .**  
+    - N1: 1 (it)  
+    - V6: 1 (is)  
+    - V1: 1 (going)  
+    - V1: 1 (fall)  
+    - S4: 1 (it is going to fall)  
+
+26. **yep .**  
+    - (No applicable items)  
+
+27. **I gonna (.) make &-uh (.) yyy .**  
+    - N2: 1 (I)  
+    - V1: 1 (make)  
+    - S2: 1 (I gonna make)  
+
+28. **what I doin(g) ?**  
+    - Q1: 1  
+    - Q4: 1 (what I doin(g))  
+
+29. **I makin(g) a slide .**  
+    - N1: 1 (slide)  
+    - V7: 1 (makin(g))  
+    - S4: 1 (I makin(g) a slide)  
+
+30. **I don't know .**  
+    - N2: 1 (I)  
+    - V1: 1 (know)  
+    - V3: 1 (don't)  
+    - S2: 1 (I don't)  
+
+31. **is it ?**  
+    - Q1: 1  
+    - Q8: 1 (is it)  
+
+32. **can't put it up .**  
+    - V1: 1 (put)  
+    - V2: 1 (up)  
+    - S3: 1 (put it up)  
+
+33. **fall down .**  
+    - V1: 1 (fall)  
+    - V2: 1 (down)  
+    - S2: 1 (fall down)  
+
+34. **o:h .**  
+    - (No applicable items)  
+
+35. **this is stuck .**  
+    - N1: 1 (this)  
+    - V1: 1 (is)  
+    - N1: 1 (stuck)  
+    - S2: 1 (this is stuck)  
+
+36. **sposta be on there .**  
+    - V1: 1 (be)  
+    - V2: 1 (on)  
+    - S2: 1 (sposta be)  
+
+37. **ow !**  
+    - (No applicable items)  
+
+38. **alright .**  
+    - (No applicable items)  
+
+39. **whe(re) some (.) orange ?**  
+    - Q1: 1  
+    - Q4: 1 (whe(re) some orange)  
+
+40. **in here .**  
+    - V3: 1 (in here)  
+
+41. **ri(ght) here .**  
+    - (No applicable items)  
+
+42. **fine .**  
+    - (No applicable items)  
+
+43. **we can .**  
+    - N2: 1 (we)  
+    - V1: 1 (can)  
+    - S2: 1 (we can)  
+
+44. **are we .**  
+    - V6: 1 (are)  
+    - N2: 1 (we)  
+    - S2: 1 (are we)  
+
+45. **thank_you .**  
+    - (No applicable items)  
+
+46. **I make it .**  
+    - N2: 1 (I)  
+    - V1: 1 (make)  
+    - N1: 1 (it)  
+    - S4: 1 (I make it)  
+
+47. **and make a xxx this little boy .**  
+    - V1: 1 (make)  
+    - N1: 1 (boy)  
+    - S5: 1 (and make)  
+
+48. **I'm playin(g) with them again .**  
+    - N2: 1 (I)  
+    - V7: 1 (playin(g))  
+    - V3: 1 (with them)  
+    - S4: 1 (I'm playin(g) with them)  
+
+49. **oh (.) here's one !**  
+    - N1: 1 (one)  
+    - V1: 1 (here's)  
+    - S2: 1 (here's one)  
+
+50. **I yyy it .**  
+    - N2: 1 (I)  
+    - V1: 1 (yyy)  
+    - S3: 1 (yyy it)  
+
+51. **the yyy .**  
+    - N1: 1 (yyy)  
+    - N5: 1 (the yyy)  
+
+52. **girl [//] (.) on the top of the girl .**  
+    - N1: 1 (girl)  
+    - N5: 1 (the top)  
+    - N5: 1 (the girl)  
+    - V3: 1 (on the top)  
+
+53. **put the girl on that girl .**  
+    - N1: 1 (girl)  
+    - N5: 1 (the girl)  
+    - N5: 1 (that girl)  
+    - V1: 1 (put)  
+    - S4: 1 (put the girl on that girl)  
+
+54. **I make a duck .**  
+    - N1: 1 (duck)  
+    - V1: 1 (make)  
+    - N5: 1 (a duck)  
+    - S4: 1 (I make a duck)  
+
+55. **&-um (.) I goin(g) build my house .**  
+    - N1: 1 (house)  
+    - V1: 1 (goin(g))  
+    - V1: 1 (build)  
+    - S4: 1 (I goin(g) build my house)  
+
+56. **won't stay on there .**  
+    - V1: 1 (stay)  
+    - V2: 1 (on)  
+    - S2: 1 (won't stay)  
+
+57. **hey !**  
+    - (No applicable items)  
+
+58. **there's no xxx .**  
+    - N1: 1 (xxx)  
+    - V1: 1 (there's)  
+    - S2: 1 (there's no xxx)  
+
+59. **xxx find it .**  
+    - V1: 1 (find)  
+    - S3: 1 (find it)  
+
+60. **where is it ?**  
+    - Q1: 1  
+    - Q8: 1 (where is it)  
+
+61. **over there (.) xxx .**  
+    - (No applicable items)  
+
+62. **brown .**  
+    - (No applicable items)  
+
+63. **yellow .**  
+    - (No applicable items)  
+
+64. **that .**  
+    - (No applicable items)  
+
+65. **take out .**  
+    - V1: 1 (take)  
+    - V2: 1 (out)  
+    - S2: 1 (take out)  
+
+66. **I get the peg out .**  
+    - N1: 1 (peg)  
+    - V1: 1 (get)  
+    - N5: 1 (the peg)  
+    - S4: 1 (I get the peg out)  
+
+67. **I wan(t) xxx .**  
+    - N2: 1 (I)  
+    - V1: 1 (wan(t))  
+    - S2: 1 (I wan(t))  
+
+68. **&-um (.) Mommy (.) can I have my little things ?**  
+    - N2: 1 (I)  
+    - V1: 1 (can)  
+    - N5: 1 (my little things)  
+    - Q1: 1  
+
+69. **&-uh (.) quick ones .**  
+    - N1: 1 (ones)  
+    - N3: 1 (quick)  
+    - N5: 1 (quick ones)  
+
+70. **boy !**  
+    - N1: 1 (boy)  
+
+71. **take this one .**  
+    - N1: 1 (one)  
+    - N5: 1 (this one)  
+    - V1: 1 (take)  
+    - S3: 1 (take this one)  
+
+72. **like this one .**  
+    - N1: 1 (one)  
+    - N5: 1 (this one)  
+    - V1: 1 (like)  
+    - S3: 1 (like this one)  
+
+73. **goes on it .**  
+    - V1: 1 (goes)  
+    - V2: 1 (on)  
+    - N1: 1 (it)  
+    - S3: 1 (goes on it)  
+
+74. **here's a yellow .**  
+    - N1: 1 (yellow)  
+    - V1: 1 (here's)  
+    - N5: 1 (a yellow)  
+    - S4: 1 (here's a yellow)  
+
+75. **a yellow .**  
+    - N1: 1 (yellow)  
+    - N5: 1 (a yellow)  
+
+76. **that go on they .**  
+    - N1: 1 (that)  
+    - V1: 1 (go)  
+    - N1: 1 (they)  
+    - S3: 1 (that go on they)  
+
+77. **a (.) tree .**  
+    - N1: 1 (tree)  
+    - N5: 1 (a tree)  
+
+78. **that's a yyy .**  
+    - N1: 1 (yyy)  
+    - V1: 1 (that's)  
+    - N5: 1 (a yyy)  
+    - S4: 1 (that's a yyy)  
+
+79. **how you open it ?**  
+    - Q1: 1  
+    - Q4: 1 (how you open)  
+
+80. **is any more cars ?**  
+    - Q1: 1  
+    - Q4: 1 (is any more cars)  
+
+81. **a truck .**  
+    - N1: 1 (truck)  
+    - N5: 1 (a truck)  
+
+82. **ow .**  
+    - (No applicable items)  
+
+83. **you know what ?**  
+    - Q1: 1  
+    - Q4: 1 (you know what)  
+
+84. **I'm thinking .**  
+    - N2: 1 (I)  
+    - V1: 1 (thinking)  
+    - S2: 1 (I'm thinking)  
+
+85. **whoopsies .**  
+    - (No applicable items)  
+
+86. **there's another one of em up here .**  
+    - N1: 1 (one)  
+    - N5: 1 (another one)  
+    - V1: 1 (there's)  
+    - S2: 1 (there's another one)  
+
+87. **I found another one .**  
+    - N2: 1 (I)  
+    - V1: 1 (found)  
+    - N1: 1 (one)  
+    - S4: 1 (I found another one)  
+
+88. **ya want one ?**  
+    - Q1: 1  
+    - Q4: 1 (ya want one)  
+
+89. **now (.) can't find it .**  
+    - V1: 1 (find)  
+    - V3: 1 (can't)  
+    - S2: 1 (can't find it)  
+
+90. **you okay ?**  
+    - Q1: 1  
+    - Q8: 1 (you okay)  
+
+91. **o:h (.) I found them .**  
+    - N2: 1 (I)  
+    - V1: 1 (found)  
+    - N1: 1 (them)  
+    - S4: 1 (I found them)  
+
+92. **it go in there ?**  
+    - Q1: 1  
+    - Q8: 1 (it go in there)  
+
+93. **I wanna find a new one .**  
+    - N2: 1 (I)  
+    - V1: 1 (wanna)  
+    - N1: 1 (one)  
+    - S4: 1 (I wanna find a new one)  
+
+94. **did I ?**  
+    - Q1: 1  
+    - Q8: 1 (did I)  
+
+95. **ya gonna play with me .**  
+    - N2: 1 (ya)  
+    - V1: 1 (gonna)  
+    - S2: 1 (ya gonna play)  
+
+96. **whoa !**  
+    - (No applicable items)  
+
+97. **come back here .**  
+    - V1: 1 (come)  
+    - V2: 1 (back)  
+    - S2: 1 (come back)  
+
+98. **I find it up (.) in yyy .**  
+    - N2: 1 (I)  
+    - V1: 1 (find)  
+    - N1: 1 (it)  
+    - S3: 1 (find it)  
+
+99. **hey (.) in a teeny boat .**  
+    - N1: 1 (boat)  
+    - N5: 1 (a teeny boat)  
+    - V3: 1 (in a teeny boat)  
+
+100. **take the tree (.) off the boat .**  
+    - N1: 1 (tree)  
+    - N5: 1 (the tree)  
+    - N1: 1 (boat)  
+    - V1: 1 (take)  
+    - S4: 1 (take the tree off the boat)  
+
+Now, let's compile the scores for each item:
+
+- N1: 20
+- N2: 12
+- N3: 5
+- N4: 0
+- N5: 15
+- N6: 0
+- N7: 0
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 25
+- V2: 8
+- V3: 6
+- V4: 0
+- V5: 0
+- V6: 3
+- V7: 5
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 1
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- Q1: 12
+- Q2: 0
+- Q3: 0
+- Q4: 8
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 5
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 20
+- S3: 15
+- S4: 20
+- S5: 2
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum of 2:
+
+Final score:
+N1, 2
+N2, 2
+N3, 2
+N4, 0
+N5, 2
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 2
+V3, 2
+V4, 0
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 1
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+Q1, 2
+Q2, 0
+Q3, 0
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 2
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 2
+S3, 2
+S4, 2
+S5, 2
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

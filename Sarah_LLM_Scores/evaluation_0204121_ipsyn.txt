@@ -1,0 +1,455 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **milk .**  
+   - N1: 1
+
+2. **I be filled [* pos] .**  
+   - N2: 1  
+   - V6: 1
+
+3. **filled [* pos] .**  
+   - V1: 1
+
+4. **I juice [?] .**  
+   - N2: 2 (max reached)  
+   - N1: 1  
+   - Q1: 1
+
+5. **I milk juice [?] .**  
+   - N2: 2 (max reached)  
+   - N1: 2 (max reached)  
+   - Q1: 2 (max reached)  
+   - V3: 1
+
+6. **milk juice .**  
+   - N1: 2 (max reached)  
+   - N4: 1
+
+7. **cold .**  
+   - N1: 1
+
+8. **oh (.) o:h [/] (.) o:h .**  
+   - (No applicable items)
+
+9. **<o:h (.) o:h (.) o:h (.) o:h> [/] (.) o:h .**  
+   - (No applicable items)
+
+10. **happy birthday to you .**  
+    - N1: 1  
+    - N9: 1
+
+11. **hot .**  
+    - N1: 1
+
+12. **sun ?**  
+    - N1: 1  
+    - Q1: 1
+
+13. **here sun . [+ bch]**  
+    - N1: 2 (max reached)  
+    - N3: 1
+
+14. **I hot too .**  
+    - N2: 2 (max reached)  
+    - N1: 1  
+    - S2: 1
+
+15. **yyy duckie yyy .**  
+    - N1: 1
+
+16. **yyy two yyy .**  
+    - N1: 1  
+    - N7: 1
+
+17. **yyy two duckie two yyy .**  
+    - N1: 2 (max reached)  
+    - N7: 1  
+    - N4: 1
+
+18. **duck .**  
+    - N1: 2 (max reached)
+
+19. **two duck .**  
+    - N1: 2 (max reached)  
+    - N5: 1
+
+20. **Don(ald)z_Duck ?**  
+    - N1: 1  
+    - Q1: 1
+
+21. **head .**  
+    - N1: 1
+
+22. **a hat .**  
+    - N5: 1  
+    - N1: 1
+
+23. **two hat .**  
+    - N1: 2 (max reached)  
+    - N5: 1
+
+24. **and two duck .**  
+    - N1: 2 (max reached)  
+    - N5: 1  
+    - S5: 1
+
+25. **two duckie .**  
+    - N1: 2 (max reached)  
+    - N5: 1
+
+26. **two three duckie ?**  
+    - N1: 2 (max reached)  
+    - Q1: 1
+
+27. **a two .**  
+    - N5: 1
+
+28. **one two !**  
+    - N1: 1  
+    - S1: 1
+
+29. **one two xxx .**  
+    - N1: 1  
+    - S1: 1
+
+30. **a cold .**  
+    - N5: 1  
+    - N1: 1
+
+31. **hm: ?**  
+    - Q1: 1
+
+32. **I two milk .**  
+    - N2: 2 (max reached)  
+    - N1: 1  
+    - S2: 1
+
+33. **I two xxx .**  
+    - N2: 2 (max reached)
+
+34. **a duckie .**  
+    - N5: 1  
+    - N1: 1
+
+35. **doggie .**  
+    - N1: 1
+
+36. **awow@o .**  
+    - (No applicable items)
+
+37. **wow_wow@o .**  
+    - (No applicable items)
+
+38. **bow_wow@o .**  
+    - (No applicable items)
+
+39. **I all xxx .**  
+    - N2: 2 (max reached)
+
+40. **all done yyy .**  
+    - (No applicable items)
+
+41. **gone .**  
+    - N1: 1
+
+42. **xxx way .**  
+    - N1: 1
+
+43. **in (th)ere ?**  
+    - Q1: 1
+
+44. **up dere [: there] .**  
+    - (No applicable items)
+
+45. **yyy dere [: there] .**  
+    - (No applicable items)
+
+46. **xxx do(ll)y .**  
+    - N1: 1
+
+47. **too big .**  
+    - N3: 1  
+    - N1: 1
+
+48. **too big me .**  
+    - N3: 1  
+    - N2: 1
+
+49. **byebye .**  
+    - (No applicable items)
+
+50. **a book .**  
+    - N5: 1  
+    - N1: 1
+
+51. **I pull light .**  
+    - N2: 1  
+    - V1: 1  
+    - N1: 1  
+    - S2: 1
+
+52. **a my book .**  
+    - N5: 1  
+    - N1: 1
+
+53. **a mine .**  
+    - N5: 1  
+    - N2: 1
+
+54. **my book .**  
+    - N2: 2 (max reached)  
+    - N1: 1
+
+55. **xxx horsie wow_wow@o .**  
+    - (No applicable items)
+
+56. **doggie wow_wow@o ?**  
+    - N1: 1  
+    - Q1: 1
+
+57. **meow .**  
+    - (No applicable items)
+
+58. **xxx piggie xxx .**  
+    - (No applicable items)
+
+59. **hee_haw@o ?**  
+    - Q1: 1
+
+60. **hee_haw@o yyy .**  
+    - (No applicable items)
+
+61. **yyy bite me .**  
+    - N2: 1  
+    - V1: 1  
+    - S3: 1
+
+62. **a bite me .**  
+    - N5: 1  
+    - N2: 1  
+    - S3: 1
+
+63. **bad [/] (.) bad doggie .**  
+    - N1: 1  
+    - N3: 1
+
+64. **bad [/] (.) bad horsie .**  
+    - N1: 1  
+    - N3: 1
+
+65. **<bad (.) bad (.) bad> [/] (.) bad .**  
+    - N1: 1  
+    - N3: 1
+
+66. **xxx hit [?] me .**  
+    - N2: 1  
+    - V1: 1  
+    - Q1: 1
+
+67. **xxx Don(na) .**  
+    - (No applicable items)
+
+68. **xxx ride my horsie .**  
+    - N2: 1  
+    - N1: 1  
+    - V1: 1
+
+69. **I ride my horsie .**  
+    - N2: 2 (max reached)  
+    - N1: 1  
+    - V1: 1  
+    - S2: 1
+
+70. **ride: .**  
+    - V1: 1
+
+71. **<ride (.) ride> [/] (.) ride horsie .**  
+    - N1: 1  
+    - V1: 1  
+    - S6: 1
+
+72. **I wan(t) ride [/] ride (.) two doll .**  
+    - N2: 2 (max reached)  
+    - V1: 1  
+    - N1: 1  
+    - N5: 1
+
+73. **two doll .**  
+    - N1: 2 (max reached)  
+    - N5: 1
+
+74. **big dollie xxx .**  
+    - N1: 1  
+    - N3: 1
+
+75. **little baby dere [: there] .**  
+    - N1: 1  
+    - N3: 1
+
+76. **big baby ?**  
+    - N1: 1  
+    - Q1: 1
+
+77. **xxx my baby .**  
+    - N2: 1  
+    - N1: 1
+
+78. **too big me ? [+ bch]**  
+    - N3: 1  
+    - N2: 1  
+    - Q1: 1
+
+79. **little do(ll)y ?**  
+    - N1: 1  
+    - Q1: 1
+
+80. **two do(ll)y ?**  
+    - N1: 1  
+    - Q1: 1
+
+81. **I ride xxx .**  
+    - N2: 2 (max reached)  
+    - V1: 1
+
+82. **too big you [?] .**  
+    - N3: 1  
+    - N2: 1  
+    - Q1: 1
+
+83. **hand [?] ?**  
+    - N1: 1  
+    - Q1: 1
+
+84. **broke ?**  
+    - V1: 1  
+    - Q1: 1
+
+85. **hand .**  
+    - N1: 1
+
+86. **xxx two do(ll)y .**  
+    - N1: 1
+
+87. **I wan(t) ride a horsie !**  
+    - N2: 2 (max reached)  
+    - V1: 1  
+    - N5: 1  
+    - S4: 1
+
+88. **I do hand .**  
+    - N2: 2 (max reached)  
+    - V1: 1  
+    - N1: 1  
+    - S2: 1
+
+89. **hm: (.) my horsie .**  
+    - N2: 2 (max reached)  
+    - N1: 1
+
+90. **I fall [?] .**  
+    - N2: 2 (max reached)  
+    - V1: 1  
+    - Q1: 1
+
+91. **boom boom .**  
+    - (No applicable items)
+
+92. **huh ?**  
+    - Q1: 1
+
+93. **rock a baby .**  
+    - N5: 1  
+    - N1: 1  
+    - S2: 1
+
+94. **xxx two eye .**  
+    - N1: 1
+
+95. **you bite me ?**  
+    - N2: 1  
+    - V1: 1  
+    - Q1: 1
+
+96. **knock a door .**  
+    - N5: 1  
+    - N1: 1  
+    - S2: 1
+
+97. **xxx door .**  
+    - N1: 1
+
+98. **peek in .**  
+    - V1: 1  
+    - V2: 1
+
+99. **ah .**  
+    - (No applicable items)
+
+100. **xxx me .**  
+    - N1: 1
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20  
+N2, 14  
+N3, 8  
+N4, 3  
+N5, 8  
+N6, 1  
+N7, 5  
+N8, 0  
+N9, 2  
+N10, 0  
+N11, 0  
+V1, 15  
+V2, 2  
+V3, 3  
+V4, 0  
+V5, 0  
+V6, 3  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 12  
+Q2, 0  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 4  
+S2, 8  
+S3, 6  
+S4, 3  
+S5, 1  
+S6, 1  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

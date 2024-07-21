@@ -1,0 +1,451 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **my (.) guy (.) so .**
+   - N1: 2 (my, guy)
+   - S1: 2 (my guy)
+
+2. **klahngkleeso@b .**
+   - No applicable items.
+
+3. **kahngkleeso@b .**
+   - No applicable items.
+
+4. **fahngkleeso@b .**
+   - No applicable items.
+
+5. **that's there .**
+   - N1: 1 (there)
+   - V1: 1 (that's)
+
+6. **that's there (.) Mommy .**
+   - N1: 1 (Mommy)
+   - V1: 1 (that's)
+
+7. **I wanna move down the stairs .**
+   - N2: 1 (I)
+   - V1: 1 (wanna)
+   - V3: 1 (down the stairs)
+
+8. **Betty .**
+   - N1: 1 (Betty)
+
+9. **yes .**
+   - No applicable items.
+
+10. **I invited xxx .**
+    - N2: 1 (I)
+    - V1: 1 (invited)
+
+11. **she moved .**
+    - N2: 1 (she)
+    - V1: 1 (moved)
+
+12. **&~a:h (.) out .**
+    - No applicable items.
+
+13. **I got the xxx .**
+    - N2: 1 (I)
+    - N5: 1 (the xxx)
+    - V1: 1 (got)
+
+14. **I got [//] oh .**
+    - N2: 1 (I)
+    - V1: 1 (got)
+
+15. **see the rabbit .**
+    - N5: 1 (the rabbit)
+    - V1: 1 (see)
+
+16. **Bunny hop .**
+    - N1: 1 (Bunny)
+    - N1: 1 (hop)
+
+17. **girl .**
+    - N1: 1 (girl)
+
+18. **(be)cause .**
+    - No applicable items.
+
+19. **here's Bozo .**
+    - N1: 1 (Bozo)
+    - V1: 1 (here's)
+
+20. **Bozo the clown .**
+    - N1: 1 (Bozo)
+    - N5: 1 (the clown)
+
+21. **ah .**
+    - No applicable items.
+
+22. **he's hittin(g) you .**
+    - N2: 1 (he)
+    - V1: 1 (hittin(g))
+
+23. **he's hittin(g) xxx you [!!] now .**
+    - N2: 1 (he)
+    - V1: 1 (hittin(g))
+
+24. **clappin(g) .**
+    - V1: 1 (clappin(g))
+
+25. **he clappin(g) .**
+    - N2: 1 (he)
+    - V1: 1 (clappin(g))
+
+26. **now .**
+    - No applicable items.
+
+27. **because he's at the circus .**
+    - N2: 1 (he)
+    - V1: 1 (he's)
+    - N5: 1 (the circus)
+
+28. **how are you ?**
+    - N2: 1 (you)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+29. **how are you today ?**
+    - N2: 1 (you)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+30. **hi .**
+    - No applicable items.
+
+31. **gi(ve) me your hand .**
+    - N2: 1 (me)
+    - N5: 1 (your hand)
+    - V1: 1 (gi(ve))
+
+32. **Daddy (.) where are you ?**
+    - N1: 1 (Daddy)
+    - N2: 1 (you)
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+33. **Daddy .**
+    - N1: 1 (Daddy)
+
+34. **doing !**
+    - V1: 1 (doing)
+
+35. **no (.) not this time .**
+    - Q3: 1 (Simple Negation)
+
+36. **yeah .**
+    - No applicable items.
+
+37. **I never had curls .**
+    - N2: 1 (I)
+    - V12: 1 (had)
+
+38. **ahhaha@b .**
+    - No applicable items.
+
+39. **see ?**
+    - V1: 1 (see)
+    - Q1: 1 (contains a question mark)
+
+40. **sit .**
+    - V1: 1 (sit)
+
+41. **he sits like this .**
+    - N2: 1 (he)
+    - V10: 1 (sits)
+
+42. **put your head up .**
+    - N5: 1 (your head)
+    - V1: 1 (put)
+
+43. **put your feet in back .**
+    - N5: 1 (your feet)
+    - V1: 1 (put)
+
+44. **so !**
+    - No applicable items.
+
+45. **now kick your head .**
+    - N5: 1 (your head)
+    - V1: 1 (kick)
+
+46. **he kicked his head .**
+    - N2: 1 (he)
+    - V12: 1 (kicked)
+    - N5: 1 (his head)
+
+47. **umumum@b .**
+    - No applicable items.
+
+48. **&~aw naumum@b .**
+    - No applicable items.
+
+49. **do your exercise .**
+    - N5: 1 (your exercise)
+    - V1: 1 (do)
+
+50. **do clap hands .**
+    - N1: 1 (hands)
+    - V1: 1 (do)
+
+51. **Mama (.) he doesn't stand up real (.) huh ?**
+    - N1: 1 (Mama)
+    - N2: 1 (he)
+    - V7: 1 (doesn't)
+    - Q1: 1 (contains a question mark)
+
+52. **ate (.) dooda@b (.) o:h .**
+    - No applicable items.
+
+53. **he's a floppy .**
+    - N2: 1 (he)
+    - V1: 1 (he's)
+    - N1: 1 (floppy)
+
+54. **o:h la@b .**
+    - No applicable items.
+
+55. **klahngklingklangkling@b .**
+    - No applicable items.
+
+56. **kingkongkong@b .**
+    - No applicable items.
+
+57. **kling@b (.) kling@b .**
+    - No applicable items.
+
+58. **o:h .**
+    - No applicable items.
+
+59. **know what ?**
+    - V1: 1 (know)
+    - Q1: 1 (contains a question mark)
+
+60. **I put a bandaid on that .**
+    - N2: 1 (I)
+    - N5: 1 (a bandaid)
+    - V1: 1 (put)
+
+61. **now who put the bandaid on ?**
+    - N2: 1 (who)
+    - N5: 1 (the bandaid)
+    - V1: 1 (put)
+    - Q1: 1 (contains a question mark)
+
+62. **now who put this hair down ?**
+    - N2: 1 (who)
+    - N5: 1 (this hair)
+    - V1: 1 (put)
+    - Q1: 1 (contains a question mark)
+
+63. **has no hair .**
+    - V1: 1 (has)
+    - N3: 1 (no hair)
+
+64. **huh ?**
+    - Q1: 1 (contains a question mark)
+
+65. **had it cut .**
+    - V12: 1 (had)
+    - N2: 1 (it)
+    - V1: 1 (cut)
+
+66. **no .**
+    - Q3: 1 (Simple Negation)
+
+67. **no she doesn't .**
+    - Q3: 1 (Simple Negation)
+    - N2: 1 (she)
+    - V7: 1 (doesn't)
+
+68. **she's going to bed .**
+    - N2: 1 (she)
+    - V1: 1 (she's)
+    - V8: 1 (going)
+
+69. **yes sir .**
+    - No applicable items.
+
+70. **he's bald up here .**
+    - N2: 1 (he)
+    - V1: 1 (he's)
+    - N1: 1 (bald)
+
+71. **he's bald up there .**
+    - N2: 1 (he)
+    - V1: 1 (he's)
+    - N1: 1 (bald)
+
+72. **all bald up here .**
+    - N3: 1 (all bald)
+
+73. **I'm gonna take the bandaid off .**
+    - N2: 1 (I)
+    - V1: 1 (gonna)
+    - N5: 1 (the bandaid)
+
+74. **I could put it back too .**
+    - N2: 1 (I)
+    - V9: 1 (could)
+    - N2: 1 (it)
+    - V1: 1 (put)
+
+75. **it cuts there .**
+    - N2: 1 (it)
+    - V1: 1 (cuts)
+
+76. **cut xxx .**
+    - V1: 1 (cut)
+
+77. **for Christmas .**
+    - V3: 1 (for Christmas)
+
+78. **stand up .**
+    - V1: 1 (stand)
+
+79. **what ?**
+    - Q1: 1 (contains a question mark)
+
+80. **now now .**
+    - No applicable items.
+
+81. **I don't want any .**
+    - N2: 1 (I)
+    - V3: 1 (don't want)
+
+82. **kingkingkingking@b .**
+    - No applicable items.
+
+83. **I told ya .**
+    - N2: 1 (I)
+    - V12: 1 (told)
+
+84. **I told you .**
+    - N2: 1 (I)
+    - V12: 1 (told)
+
+85. **wahnkwahnk@b .**
+    - No applicable items.
+
+86. **oh (.) you did it .**
+    - N2: 1 (you)
+    - V12: 1 (did)
+    - N2: 1 (it)
+
+87. **rahnk@b .**
+    - No applicable items.
+
+88. **Ma .**
+    - N1: 1 (Ma)
+
+89. **there .**
+    - N1: 1 (there)
+
+90. **nahngahngahnguh@b .**
+    - No applicable items.
+
+91. **he's like Flip_flop .**
+    - N2: 1 (he)
+    - V1: 1 (he's)
+    - N1: 1 (Flip_flop)
+
+92. **yeah (.) he's Bozo but he looks like flipflop (.) (be)cause he don't stand up (.) huh ?**
+    - N2: 1 (he)
+    - V1: 1 (he's)
+    - N1: 1 (Bozo)
+    - V1: 1 (looks)
+    - Q1: 1 (contains a question mark)
+
+93. **go on .**
+    - V1: 1 (go)
+
+94. **who dirty it ?**
+    - N2: 1 (who)
+    - Q1: 1 (contains a question mark)
+
+95. **everybody ?**
+    - No applicable items.
+
+96. **did the dog ?**
+    - V1: 1 (did)
+    - Q1: 1 (contains a question mark)
+
+97. **you ?**
+    - No applicable items.
+
+98. **me ?**
+    - No applicable items.
+
+99. **and all my dirt .**
+    - N3: 1 (all my dirt)
+
+100. **and all my piggie .**
+    - N3: 1 (all my piggie)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12
+N2, 10
+N3, 5
+N4, 0
+N5, 8
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 3
+V4, 0
+V5, 0
+V6, 0
+V7, 3
+V8, 0
+V9, 1
+V10, 0
+V11, 0
+V12, 5
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 8
+Q2, 3
+Q3, 3
+Q4, 1
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: Each item is capped at a maximum of 2, but none of the items exceeded that limit in this evaluation.)

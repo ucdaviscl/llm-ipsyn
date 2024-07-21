@@ -1,0 +1,455 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I nee(d) tha(t) one .**
+   - N1: 1 (one)
+   - N5: 1 (tha(t) one)
+   - V1: 1 (nee(d))
+
+2. **here de [: the] bear [?] .**
+   - N1: 1 (bear)
+   - N5: 1 (de [: the] bear)
+   - Q1: 1 (contains a question mark)
+
+3. **here .**
+   - (No applicable items)
+
+4. **a yyy .**
+   - N1: 1 (yyy)
+   - N5: 1 (a yyy)
+
+5. **oh .**
+   - (No applicable items)
+
+6. **Mommy here another one (.) Mummy .**
+   - N1: 1 (one)
+   - N5: 1 (another one)
+   - N2: 1 (Mommy, Mummy)
+
+7. **here another one .**
+   - N1: 1 (one)
+   - N5: 1 (another one)
+
+8. **a(l)ri(ght) .**
+   - (No applicable items)
+
+9. **here &-uh (.) I wan(t) a pillow .**
+   - N1: 1 (pillow)
+   - N5: 1 (a pillow)
+   - V1: 1 (wan(t))
+
+10. **I wan(t) a pillow .**
+    - N1: 1 (pillow)
+    - N5: 1 (a pillow)
+    - V1: 1 (wan(t))
+
+11. **for my baby .**
+    - N1: 1 (baby)
+    - N2: 1 (my)
+
+12. **why ?**
+    - Q1: 1 (contains a question mark)
+
+13. **xxx I wanna eat a blank .**
+    - N1: 1 (blank)
+    - V1: 1 (wanna)
+
+14. **I need a blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (a blanket)
+    - V1: 1 (need)
+
+15. **xxx Mommy .**
+    - N2: 1 (Mommy)
+
+16. **I got no blanket .**
+    - N1: 1 (blanket)
+    - V1: 1 (got)
+    - Q3: 1 (Simple Negation)
+
+17. **I got no [/] no blankets for my baby .**
+    - N1: 1 (blankets)
+    - N5: 1 (no blankets)
+    - V1: 1 (got)
+    - Q3: 1 (Simple Negation)
+
+18. **xxx I had two blankets (.) I think .**
+    - N1: 1 (blankets)
+    - N5: 1 (two blankets)
+    - V12: 1 (had)
+
+19. **I gotta <get a yyy in> [>] here .**
+    - N1: 1 (yyy)
+    - V1: 1 (gotta)
+    - V6: 1 (get)
+
+20. **I go(t) de [: the] ge(t) do(ll)ie in (h)ere .**
+    - N1: 1 (do(ll)ie)
+    - N5: 1 (de [: the] do(ll)ie)
+    - V1: 1 (go(t))
+
+21. **she's goin(g) to the beach .**
+    - N1: 1 (beach)
+    - V6: 1 (she's)
+
+22. **yeah .**
+    - (No applicable items)
+
+23. **she goin(g) to the beach .**
+    - N1: 1 (beach)
+    - V1: 1 (goin(g))
+
+24. **she goin(g) to the beach (.) Mommy .**
+    - N1: 1 (beach)
+    - N2: 1 (Mommy)
+    - V1: 1 (goin(g))
+
+25. **she's goin(g) right now .**
+    - V6: 1 (she's)
+    - V1: 1 (goin(g))
+    - V7: 1 (goin(g))
+
+26. **San(d)ra .**
+    - N2: 1 (San(d)ra)
+
+27. **I wan(t) go [/] go to school .**
+    - N1: 1 (school)
+    - V1: 1 (wan(t))
+    - V1: 1 (go)
+
+28. **yyy (.) I wan(t) any lunch .**
+    - N1: 1 (lunch)
+    - V1: 1 (wan(t))
+
+29. **here's a blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (a blanket)
+
+30. **Mommy (.) dis [: this] wi(ll) be the baby's blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (the baby's blanket)
+    - V6: 1 (wi(ll) be)
+
+31. **(o)kay ?**
+    - Q1: 1 (contains a question mark)
+
+32. **no .**
+    - (No applicable items)
+
+33. **I can't do yyy it .**
+    - N1: 1 (yyy)
+    - V1: 1 (can't)
+
+34. **ri(ght) now .**
+    - (No applicable items)
+
+35. **xxx s(o) I go dan(cing)_school .**
+    - N1: 1 (school)
+    - V1: 1 (go)
+
+36. **I wanna go ou(t) .**
+    - V1: 1 (wanna)
+    - V1: 1 (go)
+
+37. **that Mommy .**
+    - N2: 1 (that)
+    - N2: 1 (Mommy)
+
+38. **that .**
+    - N2: 1 (that)
+
+39. **look it (.) Mommy .**
+    - N2: 1 (Mommy)
+    - V1: 1 (look)
+
+40. **I made a blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (a blanket)
+    - V12: 1 (made)
+
+41. **yyy my (bl)anket .**
+    - N1: 1 (blanket)
+    - N2: 1 (my)
+
+42. **hey San(d)ra (.) okay ?**
+    - N2: 1 (San(d)ra)
+    - Q1: 1 (contains a question mark)
+
+43. **(o)kay .**
+    - (No applicable items)
+
+44. **I wanna make a blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (a blanket)
+    - V1: 1 (wanna)
+    - V1: 1 (make)
+
+45. **dis [: this] be the blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (the blanket)
+    - V4: 1 (dis [: this] be)
+
+46. **I wanna make a blanket (.) huh San(d)ra .**
+    - N1: 1 (blanket)
+    - N5: 1 (a blanket)
+    - V1: 1 (wanna)
+    - N2: 1 (San(d)ra)
+
+47. **the blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (the blanket)
+
+48. **heh [/] (.) heh .**
+    - (No applicable items)
+
+49. **(.) this'll be the blanket .**
+    - N1: 1 (blanket)
+    - N5: 1 (the blanket)
+    - V6: 1 (this'll be)
+
+50. **I did it .**
+    - V12: 1 (did)
+
+51. **I did it !**
+    - V12: 1 (did)
+    - Q1: 1 (contains a question mark)
+
+52. **ri(ght) here ?**
+    - Q1: 1 (contains a question mark)
+
+53. **hey (.) I go(t) a yyy way .**
+    - N1: 1 (way)
+    - N5: 1 (a yyy)
+    - V1: 1 (go(t))
+
+54. **(.) wait a minute .**
+    - N1: 1 (minute)
+    - N5: 1 (a minute)
+    - V1: 1 (wait)
+
+55. **there (.) I made i:t .**
+    - V12: 1 (made)
+
+56. **I made i:t .**
+    - V12: 1 (made)
+
+57. **xxx brin(g) ba(ck) m(y) toys .**
+    - N1: 1 (toys)
+    - N2: 1 (my)
+    - V1: 1 (brin(g))
+
+58. **<yee@b (.) yee@b> [/] (.) yee@b (.) here dollie .**
+    - N1: 1 (dollie)
+
+59. **here's a dollie .**
+    - N1: 1 (dollie)
+    - N5: 1 (a dollie)
+
+60. **here (.) he yaah@b .**
+    - (No applicable items)
+
+61. **here's a blanket (.) Mommy .**
+    - N1: 1 (blanket)
+    - N5: 1 (a blanket)
+    - N2: 1 (Mommy)
+
+62. **there .**
+    - (No applicable items)
+
+63. **Mommy (.) dis [: this] a crib .**
+    - N1: 1 (crib)
+    - N5: 1 (a crib)
+    - V4: 1 (dis [: this] a)
+
+64. **dis [: this] okay .**
+    - (No applicable items)
+
+65. **don't touch .**
+    - V3: 1 (don't)
+
+66. **here Mommy (.) here .**
+    - N2: 1 (Mommy)
+
+67. **Mommy (.) dis [: this] yyy .**
+    - N2: 1 (Mommy)
+    - N1: 1 (yyy)
+
+68. **Mama .**
+    - N2: 1 (Mama)
+
+69. **dis [: this] alright (.) Mommy ?**
+    - N2: 1 (Mommy)
+    - Q1: 1 (contains a question mark)
+
+70. **whee .**
+    - (No applicable items)
+
+71. **(h)ello [?] .**
+    - Q1: 1 (contains a question mark)
+
+72. **a yyy it .**
+    - N1: 1 (yyy)
+    - N5: 1 (a yyy)
+
+73. **de [: the] Sandra .**
+    - N2: 1 (Sandra)
+    - N5: 1 (de [: the] Sandra)
+
+74. **I yyy .**
+    - N1: 1 (yyy)
+
+75. **here she col(d) .**
+    - N2: 1 (she)
+    - V1: 1 (col(d))
+
+76. **Mommy (.) she cold .**
+    - N2: 1 (Mommy)
+    - N2: 1 (she)
+    - V1: 1 (cold)
+
+77. **wa(nt) kleenex .**
+    - N1: 1 (kleenex)
+    - V1: 1 (wa(nt))
+
+78. **where'd you put it ?**
+    - Q1: 1 (contains a question mark)
+
+79. **&-uh here's a ball .**
+    - N1: 1 (ball)
+    - N5: 1 (a ball)
+
+80. **here's a ball (.) Mummy .**
+    - N1: 1 (ball)
+    - N5: 1 (a ball)
+    - N2: 1 (Mummy)
+
+81. **here's ball .**
+    - N1: 1 (ball)
+    - N5: 1 (here's ball)
+
+82. **oh woe [/] woe .**
+    - (No applicable items)
+
+83. **look it .**
+    - V1: 1 (look)
+
+84. **Tickles .**
+    - N1: 1 (Tickles)
+
+85. **(a)n(d) (.) now you lay down .**
+    - V1: 1 (lay)
+
+86. **ah .**
+    - (No applicable items)
+
+87. **how old are me ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+88. **three .**
+    - (No applicable items)
+
+89. **I three .**
+    - N2: 1 (I)
+
+90. **yeah up .**
+    - (No applicable items)
+
+91. **o:h Mommy .**
+    - N2: 1 (Mommy)
+
+92. **dis [: this] chair .**
+    - N1: 1 (chair)
+    - N5: 1 (dis [: this] chair)
+
+93. **Mommy (.) dis [: this] too heavy .**
+    - N2: 1 (Mommy)
+    - N5: 1 (dis [: this] too heavy)
+
+94. **wha(t) .**
+    - (No applicable items)
+
+95. **dis [: this] (.) &-uh [/] (.) &-uh (.) too heavy .**
+    - N5: 1 (dis [: this] too heavy)
+
+96. **yes it do .**
+    - V1: 1 (do)
+
+97. **she sittin(g) down .**
+    - V7: 1 (sittin(g))
+
+98. **she [/] (.) she sit down .**
+    - V1: 1 (sit)
+
+99. **San(d)ra (.) she sit down .**
+    - N2: 1 (San(d)ra)
+    - V1: 1 (sit)
+
+100. **loo(k) does she stan(d) ups [: up] [*] .**
+    - V1: 1 (loo(k))
+    - V1: 1 (stan(d))
+
+Now, let's compile the scores for each item, capping at a maximum of 2:
+
+Final score:
+N1, 16
+N2, 10
+N3, 0
+N4, 0
+N5, 14
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 0
+V4, 2
+V5, 0
+V6, 3
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 5
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 7
+Q2, 2
+Q3, 3
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

@@ -1,0 +1,416 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. (c)ome o(n) .  
+   - No applicable items.
+
+2. a blanket .  
+   - N5: 1 (Determiner + Noun)
+
+3. who put these things my room ?  
+   - N2: 1 (Pronoun)  
+   - Q4: 1 (Wh-Question + Verb)
+
+4. in my toy box (.) though .  
+   - N2: 2 (Pronoun)  
+   - V3: 1 (Prepositional Phrase)
+
+5. ah .  
+   - No applicable items.
+
+6. where's the string ?  
+   - N5: 1 (Determiner + Noun)  
+   - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+7. it's not here .  
+   - N2: 2 (Pronoun)  
+   - V3: 1 (Prepositional Phrase)  
+   - Q3: 1 (Simple Negation)
+
+8. maybe it's in here .  
+   - N2: 2 (Pronoun)  
+   - V3: 2 (Prepositional Phrase)
+
+9. Bozo .  
+   - N1: 1 (Noun)
+
+10. no (.) they wasn't on .  
+    - N2: 2 (Pronoun)  
+    - Q3: 1 (Simple Negation)
+
+11. twelve thirty .  
+    - No applicable items.
+
+12. and &-um (.) I watched Kangaroo .  
+    - S5: 1 (Any Conjunction)  
+    - S2: 1 (Subject + Verb)
+
+13. I do too .  
+    - S2: 2 (Subject + Verb)
+
+14. shut your mouth .  
+    - S4: 1 (Subject + Verb + Object)
+
+15. what ?  
+    - Q2: 1 (wh-word alone; routine question with or without a verb)
+
+16. <said I> [//] (.) I (.) said shut [/] (.) shut your mouth (.) Bozo .  
+    - S4: 2 (Subject + Verb + Object)
+
+17. there .  
+    - No applicable items.
+
+18. can't shut his mouth .  
+    - V3: 1 (Prepositional Phrase)  
+    - Q3: 1 (Simple Negation)
+
+19. I know it doesn't .  
+    - N2: 2 (Pronoun)  
+    - V3: 2 (Prepositional Phrase)
+
+20. got it for Christmas .  
+    - V1: 1 (Verb)  
+    - V3: 1 (Prepositional Phrase)
+
+21. he has a boo_boo on his head .  
+    - N5: 1 (Determiner + Noun)  
+    - V3: 2 (Prepositional Phrase)
+
+22. you know .  
+    - S2: 1 (Subject + Verb)
+
+23. Betty .  
+    - N1: 2 (Noun)
+
+24. didn't color .  
+    - V1: 1 (Verb)  
+    - Q3: 1 (Simple Negation)
+
+25. I played .  
+    - S2: 2 (Subject + Verb)
+
+26. toys (.) my toys .  
+    - N7: 1 (Noun Plural)  
+    - N2: 1 (Pronoun)
+
+27. yup .  
+    - No applicable items.
+
+28. I sang .  
+    - S2: 1 (Subject + Verb)
+
+29. not the Foolish_Man .  
+    - Q3: 2 (Simple Negation)
+
+30. I (.) Mommy .  
+    - N2: 1 (Pronoun)
+
+31. the Bible ?  
+    - N5: 1 (Determiner + Noun)  
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+32. yeah .  
+    - No applicable items.
+
+33. who is that ?  
+    - N2: 1 (Pronoun)  
+    - Q4: 1 (Wh-Question + Verb)
+
+34. I didn't color .  
+    - N2: 2 (Pronoun)  
+    - Q3: 1 (Simple Negation)
+
+35. Melissa is here .  
+    - N2: 1 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+36. the light is broken up there .  
+    - N5: 1 (Determiner + Noun)  
+    - V4: 2 (Noun + Copula + Noun)
+
+37. it doesn't work .  
+    - N2: 2 (Pronoun)  
+    - V3: 1 (Prepositional Phrase)  
+    - Q3: 1 (Simple Negation)
+
+38. my Daddy took it down .  
+    - N2: 1 (Pronoun)  
+    - S4: 1 (Subject + Verb + Object)
+
+39. uhhuh (.) Mommy ?  
+    - No applicable items.
+
+40. pennies and nickels and dimes .  
+    - N7: 1 (Noun Plural)  
+    - S7: 1 (Conjoined Phrases)
+
+41. and quarters .  
+    - S5: 1 (Any Conjunction)  
+    - N7: 2 (Noun Plural)
+
+42. me .  
+    - N2: 1 (Pronoun)
+
+43. from my daddy .  
+    - N2: 2 (Pronoun)  
+    - V3: 1 (Prepositional Phrase)
+
+44. and Mommy .  
+    - S5: 2 (Any Conjunction)
+
+45. and Uncle_Buster .  
+    - S5: 2 (Any Conjunction)  
+    - N1: 1 (Noun)
+
+46. you .  
+    - N2: 1 (Pronoun)
+
+47. Mommy ?  
+    - No applicable items.
+
+48. the fairygodmother .  
+    - N5: 1 (Determiner + Noun)
+
+49. I was good in bed .  
+    - N2: 1 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+50. Mommy (.) c(a)n I have my lunch ?  
+    - N2: 2 (Pronoun)  
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+51. I want mayonnaise .  
+    - S2: 1 (Subject + Verb)
+
+52. ow (.) ouch .  
+    - No applicable items.
+
+53. Mommy (.) I want mayonnaise .  
+    - N2: 2 (Pronoun)  
+    - S2: 2 (Subject + Verb)
+
+54. it's sour ?  
+    - N2: 2 (Pronoun)  
+    - Q8: 1 (Yes/No Question with Subject–Auxiliary Inversion)
+
+55. yes (.) I do .  
+    - N2: 2 (Pronoun)  
+    - S2: 1 (Subject + Verb)
+
+56. who's that ?  
+    - N2: 1 (Pronoun)  
+    - Q4: 1 (Wh-Question + Verb)
+
+57. Vernon ?  
+    - N1: 1 (Noun)
+
+58. we saw her down the thing .  
+    - N2: 2 (Pronoun)  
+    - V3: 1 (Prepositional Phrase)
+
+59. Foxboro .  
+    - N1: 2 (Noun)
+
+60. nowhere (.) everywhere .  
+    - No applicable items.
+
+61. four .  
+    - No applicable items.
+
+62. that's Shirley .  
+    - N2: 1 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+63. Auntie_Shirley .  
+    - N1: 1 (Noun)
+
+64. yeah (.) her car .  
+    - N2: 1 (Pronoun)  
+    - N5: 1 (Determiner + Noun)
+
+65. have a new car .  
+    - N5: 2 (Determiner + Noun)  
+    - S2: 1 (Subject + Verb)
+
+66. Mommy .  
+    - N1: 2 (Noun)
+
+67. I think you hafta go in a bath .  
+    - N2: 2 (Pronoun)  
+    - S2: 1 (Subject + Verb)
+
+68. go in a bath .  
+    - N5: 1 (Determiner + Noun)  
+    - V3: 1 (Prepositional Phrase)
+
+69. bath .  
+    - N1: 1 (Noun)
+
+70. yeah (.) you .  
+    - N2: 1 (Pronoun)
+
+71. yeah (.) look at her hands .  
+    - N2: 2 (Pronoun)  
+    - V3: 1 (Prepositional Phrase)
+
+72. all dirty .  
+    - No applicable items.
+
+73. I did that .  
+    - S2: 1 (Subject + Verb)
+
+74. I [/] (.) I [/] (.) I didn't .  
+    - N2: 2 (Pronoun)  
+    - Q3: 2 (Simple Negation)
+
+75. Rosie .  
+    - N1: 1 (Noun)
+
+76. she taked [: took] [* +ed] my chair .  
+    - N2: 1 (Pronoun)  
+    - S4: 1 (Subject + Verb + Object)
+
+77. then she called up her father .  
+    - N2: 2 (Pronoun)  
+    - S4: 2 (Subject + Verb + Object)
+
+78. no .  
+    - Q3: 1 (Simple Negation)
+
+79. Michael .  
+    - N1: 1 (Noun)
+
+80. nobody (.) only boys .  
+    - N2: 1 (Pronoun)  
+    - N7: 1 (Noun Plural)
+
+81. yea:h (.) Rosie .  
+    - N1: 1 (Noun)
+
+82. because she's bad .  
+    - N2: 2 (Pronoun)  
+    - S2: 1 (Subject + Verb)
+
+83. she's little .  
+    - N2: 2 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+84. bad (.) bad girl .  
+    - N1: 1 (Noun)
+
+85. uhhuh (.) they moved .  
+    - N2: 2 (Pronoun)  
+    - S2: 1 (Subject + Verb)
+
+86. they are .  
+    - N2: 2 (Pronoun)  
+    - V4: 1 (Noun + Copula + Noun)
+
+87. candy .  
+    - N1: 1 (Noun)
+
+88. hm: ?  
+    - No applicable items.
+
+89. they're gonna have some new children .  
+    - N2: 2 (Pronoun)  
+    - S4: 1 (Subject + Verb + Object)
+
+90. they're gonna have all new children .  
+    - N2: 2 (Pronoun)  
+    - S4: 2 (Subject + Verb + Object)
+
+91. huh ?  
+    - No applicable items.
+
+92. I don't know .  
+    - N2: 2 (Pronoun)  
+    - Q3: 1 (Simple Negation)
+
+93. uhhuh .  
+    - No applicable items.
+
+94. we don't do that .  
+    - N2: 2 (Pronoun)  
+    - Q3: 2 (Simple Negation)
+
+95. mm (.) mhm .  
+    - No applicable items.
+
+96. I don't .  
+    - N2: 2 (Pronoun)  
+    - Q3: 2 (Simple Negation)
+
+97. mhm .  
+    - No applicable items.
+
+98. I got the thing on .  
+    - N5: 1 (Determiner + Noun)  
+    - S2: 1 (Subject + Verb)
+
+99. that [/] (.) that zipper on .  
+    - N2: 2 (Pronoun)  
+    - V3: 1 (Prepositional Phrase)
+
+Final score:
+N1, 10  
+N2, 20  
+N3, 0  
+N4, 0  
+N5, 6  
+N6, 0  
+N7, 4  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 5  
+V2, 0  
+V3, 6  
+V4, 5  
+V5, 0  
+V6, 0  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 0  
+Q2, 2  
+Q3, 6  
+Q4, 2  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 3  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 10  
+S3, 0  
+S4, 6  
+S5, 4  
+S6, 0  
+S7, 2  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

@@ -1,0 +1,396 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. gone (.) Mommy ?  
+   - Q1: 1  
+   - N2: 1  
+
+2. all_gone ?  
+   - Q1: 1  
+
+3. huh ?  
+   - Q1: 1  
+
+4. gone ?  
+   - Q1: 1  
+
+5. a bunny .  
+   - N5: 1  
+
+6. Bug .  
+   - N1: 1  
+
+7. ahhah .  
+   - (no applicable items)  
+
+8. (a)gain .  
+   - (no applicable items)  
+
+9. hi xxx .  
+   - (no applicable items)  
+
+10. take it easy .  
+    - V6: 1  
+    - N1: 1  
+
+11. see .  
+    - V1: 1  
+
+12. easy .  
+    - (no applicable items)  
+
+13. take easy .  
+    - V1: 1  
+    - N1: 1  
+
+14. I xxx .  
+    - N2: 1  
+
+15. I carrots .  
+    - N2: 1  
+    - N1: 1  
+
+16. I'm sleepy .  
+    - V6: 1  
+
+17. with you .  
+    - (no applicable items)  
+
+18. hug tight .  
+    - (no applicable items)  
+
+19. what's up (.) doc .  
+    - N1: 1  
+    - Q1: 1  
+
+20. dere [: there] .  
+    - (no applicable items)  
+
+21. Mommy .  
+    - N1: 1  
+
+22. baby .  
+    - N1: 1  
+
+23. coat .  
+    - N1: 1  
+
+24. shoe ?  
+    - Q1: 1  
+    - N1: 1  
+
+25. shoe .  
+    - N1: 1  
+
+26. a .  
+    - (no applicable items)  
+
+27. dress .  
+    - N1: 1  
+
+28. boy .  
+    - N1: 1  
+
+29. a Mummy .  
+    - N5: 1  
+
+30. see there ?  
+    - Q1: 1  
+    - V1: 1  
+
+31. right here ?  
+    - Q1: 1  
+
+32. Daddy .  
+    - N1: 1  
+
+33. me .  
+    - N2: 1  
+
+34. apple a pie .  
+    - N5: 1  
+
+35. apple ?  
+    - Q1: 1  
+    - N1: 1  
+
+36. Sarah (.) apple .  
+    - N1: 1  
+
+37. right there .  
+    - (no applicable items)  
+
+38. see there .  
+    - V1: 1  
+
+39. carrot ?  
+    - Q1: 1  
+    - N1: 1  
+
+40. a milk .  
+    - N5: 1  
+
+41. (br)ead .  
+    - N1: 1  
+
+42. milk here ?  
+    - Q1: 1  
+
+43. bed .  
+    - N1: 1  
+
+44. broom ?  
+    - Q1: 1  
+
+45. right here .  
+    - (no applicable items)  
+
+46. table xxx ?  
+    - Q1: 1  
+
+47. horsie .  
+    - N1: 1  
+
+48. my horsie .  
+    - N2: 1  
+    - N1: 1  
+
+49. my horsie dere [: there] .  
+    - N2: 1  
+    - N1: 1  
+
+50. room .  
+    - N1: 1  
+
+51. my teddy_bear .  
+    - N2: 1  
+    - N1: 1  
+
+52. a bike .  
+    - N5: 1  
+
+53. my bike (.) all_gone .  
+    - N2: 1  
+    - N1: 1  
+
+54. car .  
+    - N1: 1  
+
+55. t(r)ee .  
+    - N1: 1  
+
+56. tree ?  
+    - Q1: 1  
+    - N1: 1  
+
+57. more tree dere [: there] .  
+    - N1: 1  
+
+58. store ?  
+    - Q1: 1  
+
+59. yyy pear .  
+    - N1: 1  
+
+60. Daddy store .  
+    - N1: 1  
+
+61. work ?  
+    - Q1: 1  
+
+62. my yyy dere [: there] .  
+    - N2: 1  
+
+63. a bird .  
+    - N5: 1  
+
+64. bird ?  
+    - Q1: 1  
+    - N1: 1  
+
+65. my duckie .  
+    - N2: 1  
+    - N1: 1  
+
+66. stay there ?  
+    - Q1: 1  
+
+67. a monkey .  
+    - N5: 1  
+
+68. monkey .  
+    - N1: 1  
+
+69. a ki(tt)y .  
+    - N5: 1  
+
+70. a doggie .  
+    - N5: 1  
+
+71. Sarah [?] .  
+    - (no applicable items)  
+
+72. Mikey .  
+    - N1: 1  
+
+73. Mike gone .  
+    - N1: 1  
+    - V1: 1  
+
+74. out ?  
+    - Q1: 1  
+
+75. see chair [?] .  
+    - V1: 1  
+    - N1: 1  
+
+76. xxx chair [?] .  
+    - N1: 1  
+
+77. raining out .  
+    - (no applicable items)  
+
+78. xxx cold ?  
+    - Q1: 1  
+
+79. see that .  
+    - V1: 1  
+
+80. doggie ?  
+    - Q1: 1  
+    - N1: 1  
+
+81. little doggie ?  
+    - Q1: 1  
+    - N1: 1  
+
+82. big doggie ?  
+    - Q1: 1  
+    - N1: 1  
+
+83. xxx doggie .  
+    - N1: 1  
+
+84. xxx my doggie .  
+    - N2: 1  
+    - N1: 1  
+
+85. a teddy_bear .  
+    - N5: 1  
+
+86. not a teddy_bear (.) a xxx bear .  
+    - N5: 1  
+    - V3: 1  
+
+87. my teddy_bear gone .  
+    - N2: 1  
+    - N1: 1  
+    - V1: 1  
+
+88. teddy_bear gone ?  
+    - Q1: 1  
+    - N1: 1  
+
+89. foot .  
+    - N1: 1  
+
+90. toes dere [: there] .  
+    - N1: 1  
+
+91. turn page .  
+    - V1: 1  
+    - N1: 1  
+
+92. candy ?  
+    - Q1: 1  
+    - N1: 1  
+
+93. ice_cream .  
+    - N1: 1  
+
+94. I like xxx .  
+    - N2: 1  
+    - V1: 1  
+
+95. rake .  
+    - N1: 1  
+
+96. xxx pail .  
+    - N1: 1  
+
+97. clock .  
+    - N1: 1  
+
+98. hey yeah .  
+    - (no applicable items)  
+
+99. wawa ?  
+    - Q1: 1  
+
+100. swimming ?  
+    - Q1: 1  
+
+Now, let's compile the scores for each item, capping at a maximum of 2:
+
+Final score:
+N1, 20
+N2, 10
+N3, 0
+N4, 0
+N5, 6
+N6, 2
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 10
+V2, 0
+V3, 2
+V4, 0
+V5, 0
+V6, 2
+V7, 0
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 20
+Q2, 0
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

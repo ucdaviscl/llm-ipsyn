@@ -1,0 +1,427 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax scoring table.
+
+1. **hey (.) I do work .**
+   - N1: 1 (work)
+   - V1: 1 (do)
+   - V4: 1 (I do work)
+
+2. **look_it .**
+   - N1: 1 (look_it)
+
+3. **I'm working .**
+   - V7: 1 (working)
+
+4. **mhm .**
+   - (No applicable items)
+
+5. **hey .**
+   - (No applicable items)
+
+6. **I drawing a bed .**
+   - N1: 1 (bed)
+   - V1: 1 (drawing)
+
+7. **a bed .**
+   - N5: 1 (a bed)
+
+8. **bed .**
+   - N1: 1 (bed)
+
+9. **pretty .**
+   - N3: 1 (pretty)
+
+10. **hm: ?**
+    - Q1: 1 (contains a question mark)
+
+11. **in the room .**
+    - N5: 1 (the room)
+    - V3: 1 (in the room)
+
+12. **<come in> [/] come in &-uh [?] my room .**
+    - N1: 1 (room)
+    - V1: 1 (come)
+    - V2: 1 (in)
+
+13. **(o)kay ?**
+    - Q1: 1 (contains a question mark)
+
+14. **pink .**
+    - N1: 1 (pink)
+
+15. **I'm no like color .**
+    - V1: 1 (like)
+    - V3: 1 (no like color)
+
+16. **I yyy .**
+    - (No applicable items)
+
+17. **I drop it .**
+    - V1: 1 (drop)
+    - S3: 1 (drop it)
+
+18. **here .**
+    - (No applicable items)
+
+19. **it's cold .**
+    - V6: 1 (it's)
+    - N1: 1 (cold)
+
+20. **o:h (.) I hot .**
+    - V1: 1 (I hot)
+
+21. **(.) I hot .**
+    - V1: 1 (I hot)
+
+22. **you a(re) .**
+    - V10: 1 (are)
+
+23. **you .**
+    - N2: 1 (you)
+
+24. **hey (.) yeah .**
+    - (No applicable items)
+
+25. **Jo_ann .**
+    - N1: 1 (Jo_ann)
+
+26. **yeah (.) my Jo_ann .**
+    - N1: 1 (Jo_ann)
+    - N5: 1 (my Jo_ann)
+
+27. **my Jo_ann .**
+    - N5: 1 (my Jo_ann)
+
+28. **what's Jo_ann ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+29. **yeah .**
+    - (No applicable items)
+
+30. **hey (.) go ge(t) my pretty thing in there .**
+    - N1: 1 (thing)
+    - N5: 1 (my pretty thing)
+    - V1: 1 (go)
+    - V2: 1 (get)
+
+31. **hey (.) go get .**
+    - V1: 1 (go)
+    - V1: 1 (get)
+
+32. **I fa(ll) down .**
+    - V1: 1 (fall)
+
+33. **<I saw> [/] I saw em on tv .**
+    - V1: 1 (saw)
+    - V3: 1 (on tv)
+
+34. **at night .**
+    - V3: 1 (at night)
+
+35. **hop [/] (.) hop (.) I saw yyy (.) kangaroo up there .**
+    - N1: 1 (kangaroo)
+    - V1: 1 (saw)
+
+36. **doo@b oh .**
+    - (No applicable items)
+
+37. **hop@o [/] (.) hop@o .**
+    - (No applicable items)
+
+38. **this many .**
+    - N1: 1 (many)
+
+39. **three .**
+    - N1: 1 (three)
+
+40. **<hop@o (.) hop@o> [/] (.) hop@o (.) go in .**
+    - V1: 1 (go)
+    - V2: 1 (in)
+
+41. **yyy a dairy .**
+    - N1: 1 (dairy)
+
+42. **oh (.) I gonna ge(t) a yyy .**
+    - V1: 1 (gonna)
+    - V2: 1 (get)
+    - N5: 1 (a yyy)
+
+43. **whee (.) <gonna ge(t) a &~fu> [//] I gonna .**
+    - V1: 1 (gonna)
+    - V2: 1 (get)
+
+44. **now .**
+    - (No applicable items)
+
+45. **is this broken ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+46. **I had one yesterday .**
+    - V12: 1 (had)
+    - N1: 1 (one)
+
+47. **please .**
+    - (No applicable items)
+
+48. **howolwi@b out flyby@b .**
+    - (No applicable items)
+
+49. **peanut_butter .**
+    - N1: 1 (peanut_butter)
+
+50. **not Skippy .**
+    - N1: 1 (Skippy)
+    - Q3: 1 (Simple Negation)
+
+51. **oodeyehyeh@b .**
+    - (No applicable items)
+
+52. **gi(ve) me peanut_butter .**
+    - V1: 1 (give)
+    - N5: 1 (peanut_butter)
+
+53. **gi(ve) me one .**
+    - V1: 1 (give)
+    - N1: 1 (one)
+
+54. **hopperoo@b (.) hop .**
+    - (No applicable items)
+
+55. **bri(ng) ou(t) Bam_bam and <&~pe> [/] Pebbles .**
+    - V1: 1 (bring)
+    - N1: 1 (Bam_bam)
+    - N1: 1 (Pebbles)
+    - S7: 1 (Bam_bam and Pebbles)
+
+56. **<an(d) this (w)ay> [/] (.) an(d) this way .**
+    - S5: 1 (and)
+
+57. **wait a minute .**
+    - V1: 1 (wait)
+    - N5: 1 (a minute)
+
+58. **oh .**
+    - (No applicable items)
+
+59. **I took a (.) big bite .**
+    - V12: 1 (took)
+    - N5: 1 (a bite)
+
+60. **fee(l) it .**
+    - V1: 1 (feel)
+    - S3: 1 (feel it)
+
+61. **it snow .**
+    - V1: 1 (snow)
+
+62. **I go on a picnic .**
+    - V1: 1 (go)
+    - N5: 1 (a picnic)
+
+63. **this May .**
+    - N1: 1 (May)
+
+64. **I goin(g) yyy yyy yyy .**
+    - V7: 1 (going)
+
+65. **the show .**
+    - N5: 1 (the show)
+
+66. **tha(t)'s wha(t) ya tol(d) me las(t) night .**
+    - V10: 1 (that's)
+    - V12: 1 (told)
+
+67. **you wan(t) have bite ?**
+    - Q1: 1 (contains a question mark)
+    - V9: 1 (want)
+
+68. **you ?**
+    - Q1: 1 (contains a question mark)
+
+69. **what you had ?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (Wh-Question + Verb)
+
+70. **what you had .**
+    - Q4: 1 (Wh-Question + Verb)
+
+71. **I [//] you ge(t) popsi(c)les ?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (get)
+
+72. **like Fudgesicles .**
+    - (No applicable items)
+
+73. **uhhuh (.) like Fudgesicles .**
+    - (No applicable items)
+
+74. **hey (.) you wanna taste ?**
+    - Q1: 1 (contains a question mark)
+    - V9: 1 (wanna)
+
+75. **you had Loop_loops .**
+    - V12: 1 (had)
+    - N1: 1 (Loop_loops)
+
+76. **an(d) (.) cereal .**
+    - N1: 1 (cereal)
+    - S5: 1 (and)
+
+77. **eeobeeo@b yyy ya@b better idea .**
+    - (No applicable items)
+
+78. **I'm a pill .**
+    - V6: 1 (I'm)
+    - N5: 1 (a pill)
+
+79. **&-um (.) Whisomes .**
+    - N1: 1 (Whisomes)
+
+80. **I ge(t) napkin .**
+    - V1: 1 (get)
+    - N1: 1 (napkin)
+
+81. **fine .**
+    - (No applicable items)
+
+82. **I (do)n('t) know .**
+    - V1: 1 (know)
+    - Q3: 1 (Simple Negation)
+
+83. **yyy my bump .**
+    - N1: 1 (bump)
+
+84. **my yyy did it .**
+    - N2: 1 (my)
+    - V1: 1 (did)
+
+85. **my cousin hit [/] hit me .**
+    - N1: 1 (cousin)
+    - V12: 1 (hit)
+    - S4: 1 (my cousin hit me)
+
+86. **an(d) she's a ba(d) girl .**
+    - N5: 1 (a girl)
+    - S5: 1 (and)
+
+87. **an(d) she a ba(d) girl .**
+    - N5: 1 (a girl)
+    - S5: 1 (and)
+
+88. **an(d) she don't p(l)ay with bunnies .**
+    - V3: 1 (don't)
+    - N1: 1 (bunnies)
+    - S5: 1 (and)
+
+89. **nope (.) she doesn't .**
+    - Q3: 1 (Simple Negation)
+    - V3: 1 (doesn't)
+
+90. **she [/] she on(l)y hits .**
+    - V1: 1 (hits)
+
+91. **I ma(d) Cindy .**
+    - V12: 1 (mad)
+
+92. **I goin(g) ta get ta (.) come here xxx .**
+    - V7: 1 (going)
+    - V1: 1 (get)
+    - V1: 1 (come)
+
+93. **I ge(t) xxx though .**
+    - V1: 1 (get)
+
+94. **I poke in jar .**
+    - V1: 1 (poke)
+    - N1: 1 (jar)
+
+95. **vitamins .**
+    - N1: 1 (vitamins)
+
+96. **you're xxx .**
+    - (No applicable items)
+
+97. **I wan(t) my vi(t)amins (.) you hearin(g) .**
+    - V1: 1 (want)
+    - N1: 1 (vitamins)
+    - V7: 1 (hearing)
+
+98. **yyy ya &~d don't .**
+    - Q3: 1 (Simple Negation)
+
+99. **you go(t) your own vitamins .**
+    - V12: 1 (got)
+    - N1: 1 (vitamins)
+
+100. **he ge(t) sick .**
+    - V1: 1 (get)
+    - S2: 1 (he get sick)
+
+Now, let's compile the scores for each item:
+
+Final score:
+N1, 14
+N2, 3
+N3, 3
+N4, 3
+N5, 8
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 15
+V2, 4
+V3, 5
+V4, 1
+V5, 0
+V6, 3
+V7, 3
+V8, 0
+V9, 2
+V10, 2
+V11, 0
+V12, 5
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 8
+Q2, 0
+Q3, 4
+Q4, 4
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 3
+S3, 5
+S4, 3
+S5, 5
+S6, 0
+S7, 1
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: Each item is capped at a maximum score of 2, but in this case, none of the items exceeded that limit.)

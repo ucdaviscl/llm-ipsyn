@@ -1,0 +1,455 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **wan(t) Bobo .**  
+   - N1: 1 (Bobo)  
+   - V1: 1 (wan(t))  
+   - S2: 1 (Bobo)  
+
+2. **milk .**  
+   - N1: 1 (milk)  
+
+3. **Bobo .**  
+   - N1: 1 (Bobo)  
+
+4. **hi de [: there] .**  
+   - N1: 1 (de)  
+
+5. **hi .**  
+   - S1: 1 (hi)  
+
+6. **a skirt .**  
+   - N5: 1 (a skirt)  
+
+7. **dollie .**  
+   - N1: 1 (dollie)  
+
+8. **hit .**  
+   - V1: 1 (hit)  
+
+9. **a yyy xxx .**  
+   - N5: 1 (a yyy)  
+
+10. **eye .**  
+    - N1: 1 (eye)  
+
+11. **a car .**  
+    - N5: 1 (a car)  
+
+12. **a chair .**  
+    - N5: 1 (a chair)  
+
+13. **a eye .**  
+    - N5: 1 (a eye)  
+
+14. **eye eye eye eye eye .**  
+    - N1: 1 (eye)  
+
+15. **boat .**  
+    - N1: 1 (boat)  
+
+16. **nose .**  
+    - N1: 1 (nose)  
+
+17. **hm: .**  
+    - S1: 1 (hm:)  
+
+18. **oh .**  
+    - S1: 1 (oh)  
+
+19. **a eye yyy car .**  
+    - N5: 1 (a eye)  
+
+20. **more car .**  
+    - N1: 1 (car)  
+
+21. **a bike .**  
+    - N5: 1 (a bike)  
+
+22. **a girl .**  
+    - N5: 1 (a girl)  
+
+23. **a dog .**  
+    - N5: 1 (a dog)  
+
+24. **ah (.) ba@b (.) ba@b (.) ba@b .**  
+    - S1: 1 (ah)  
+
+25. **doggy .**  
+    - N1: 1 (doggy)  
+
+26. **a baby .**  
+    - N5: 1 (a baby)  
+
+27. **hi (.) baby .**  
+    - N1: 1 (baby)  
+
+28. **xxx baby .**  
+    - N1: 1 (baby)  
+
+29. **ice cream .**  
+    - N1: 1 (cream)  
+
+30. **ah (.) ah .**  
+    - S1: 1 (ah)  
+
+31. **a key .**  
+    - N5: 1 (a key)  
+
+32. **a kitty .**  
+    - N5: 1 (a kitty)  
+
+33. **my little kitty .**  
+    - N2: 1 (my)  
+    - N3: 1 (little)  
+    - N5: 1 (my little kitty)  
+
+34. **kitty gone .**  
+    - N1: 1 (kitty)  
+    - V1: 1 (gone)  
+
+35. **mm a bubble .**  
+    - N5: 1 (a bubble)  
+
+36. **a milk .**  
+    - N5: 1 (a milk)  
+
+37. **a money .**  
+    - N5: 1 (a money)  
+
+38. **a moon .**  
+    - N5: 1 (a moon)  
+
+39. **a monkey .**  
+    - N5: 1 (a monkey)  
+
+40. **a boat .**  
+    - N5: 1 (a boat)  
+
+41. **a girl Mummy .**  
+    - N5: 1 (a girl)  
+
+42. **a girl ?**  
+    - N5: 1 (a girl)  
+    - Q1: 1  
+
+43. **girl girl ?**  
+    - N1: 1 (girl)  
+    - Q1: 1  
+
+44. **xxx girl xxx ?**  
+    - N1: 1 (girl)  
+    - Q1: 1  
+
+45. **girl dere [: there] ?**  
+    - N1: 1 (girl)  
+    - Q1: 1  
+
+46. **apple pie .**  
+    - N1: 1 (pie)  
+
+47. **right there (.) Mommy .**  
+    - N1: 1 (there)  
+
+48. **a Bobo .**  
+    - N5: 1 (a Bobo)  
+
+49. **a blue budoo@c .**  
+    - N5: 1 (a blue budoo@c)  
+
+50. **Mommy .**  
+    - N1: 1 (Mommy)  
+
+51. **Santie_Claus .**  
+    - N1: 1 (Santie_Claus)  
+
+52. **a table .**  
+    - N5: 1 (a table)  
+
+53. **a bunny .**  
+    - N5: 1 (a bunny)  
+
+54. **a bunny dere [: there] (.) dere [: there] .**  
+    - N5: 1 (a bunny)  
+
+55. **teddy_bear bear ?**  
+    - N1: 1 (bear)  
+    - Q1: 1  
+
+56. **Christmas tree ?**  
+    - N1: 1 (tree)  
+    - Q1: 1  
+
+57. **xxx toy .**  
+    - N1: 1 (toy)  
+
+58. **a doggy .**  
+    - N5: 1 (a doggy)  
+
+59. **here he is .**  
+    - N2: 1 (he)  
+    - V6: 1 (is)  
+
+60. **tiger .**  
+    - N1: 1 (tiger)  
+
+61. **xxx ride .**  
+    - N1: 1 (ride)  
+
+62. **seesaw .**  
+    - N1: 1 (seesaw)  
+
+63. **a xxx door .**  
+    - N5: 1 (a door)  
+
+64. **door .**  
+    - N1: 1 (door)  
+
+65. **an orange .**  
+    - N5: 1 (an orange)  
+
+66. **a light .**  
+    - N5: 1 (a light)  
+
+67. **that light (.) Mommy .**  
+    - N1: 1 (light)  
+
+68. **xxx yyy kiki@c .**  
+    - N1: 1 (kiki@c)  
+
+69. **horsie .**  
+    - N1: 1 (horsie)  
+
+70. **that horsie .**  
+    - N1: 1 (horsie)  
+
+71. **that's horsie .**  
+    - N1: 1 (horsie)  
+    - V6: 1 (is)  
+
+72. **I ride horsie .**  
+    - N2: 1 (I)  
+    - V1: 1 (ride)  
+    - N1: 1 (horsie)  
+
+73. **I ride he .**  
+    - N2: 1 (I)  
+    - V1: 1 (ride)  
+    - N2: 1 (he)  
+
+74. **horsie (.) horsie .**  
+    - N1: 1 (horsie)  
+
+75. **ride horsie .**  
+    - V1: 1 (ride)  
+    - N1: 1 (horsie)  
+
+76. **nice doggy .**  
+    - N3: 1 (nice)  
+    - N1: 1 (doggy)  
+
+77. **yeah .**  
+    - S1: 1 (yeah)  
+
+78. **Mummy .**  
+    - N1: 1 (Mummy)  
+
+79. **doctor .**  
+    - N1: 1 (doctor)  
+
+80. **Dr Marx ?**  
+    - N1: 1 (Marx)  
+    - Q1: 1  
+
+81. **duckie .**  
+    - N1: 1 (duckie)  
+
+82. **mine .**  
+    - N2: 1 (mine)  
+
+83. **dat [: that] .**  
+    - N1: 1 (dat)  
+
+84. **see dat [: that] .**  
+    - V1: 1 (see)  
+    - N1: 1 (dat)  
+
+85. **see there .**  
+    - V1: 1 (see)  
+    - N1: 1 (there)  
+
+86. **see there (.) Mommy .**  
+    - V1: 1 (see)  
+    - N1: 1 (there)  
+
+87. **my hand .**  
+    - N2: 1 (my)  
+    - N1: 1 (hand)  
+
+88. **xxx more horsie .**  
+    - N1: 1 (horsie)  
+
+89. **monkey .**  
+    - N1: 1 (monkey)  
+
+90. **xxx donkey .**  
+    - N1: 1 (donkey)  
+
+91. **dere [: there] .**  
+    - N1: 1 (dere)  
+
+92. **kiku@c ?**  
+    - N1: 1 (kiku@c)  
+    - Q1: 1  
+
+93. **kiku@c Mommy ?**  
+    - N1: 1 (kiku@c)  
+    - N1: 1 (Mommy)  
+    - Q1: 1  
+
+94. **hm: ?**  
+    - S1: 1 (hm:)  
+    - Q1: 1  
+
+95. **huh ?**  
+    - S1: 1 (huh)  
+    - Q1: 1  
+
+96. **bird ?**  
+    - N1: 1 (bird)  
+    - Q1: 1  
+
+97. **a bird (.) Mummy ?**  
+    - N5: 1 (a bird)  
+    - Q1: 1  
+
+98. **a duckie .**  
+    - N5: 1 (a duckie)  
+
+99. **a da@b da@b da@b da@b da@b da@b da@b da@b da@b xxx .**  
+    - N5: 1 (a da@b)  
+
+100. **dadada@b (.) dadada@b .**  
+    - S1: 1 (dadada@b)  
+
+Now, let's compile the scores:
+
+- N1: 20
+- N2: 5
+- N3: 3
+- N4: 0
+- N5: 16
+- N6: 0
+- N7: 0
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 10
+- V2: 0
+- V3: 0
+- V4: 0
+- V5: 0
+- V6: 3
+- V7: 0
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 0
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- Q1: 15
+- Q2: 0
+- Q3: 0
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 12
+- S2: 3
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2  
+N2, 2  
+N3, 2  
+N4, 0  
+N5, 2  
+N6, 0  
+N7, 0  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 2  
+V2, 0  
+V3, 0  
+V4, 0  
+V5, 0  
+V6, 2  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+Q1, 2  
+Q2, 0  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 2  
+S2, 2  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

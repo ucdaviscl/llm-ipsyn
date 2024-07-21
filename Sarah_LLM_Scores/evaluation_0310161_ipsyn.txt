@@ -1,0 +1,489 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **xxx out .**  
+   - No applicable items.
+
+2. **I going to draw this one .**  
+   - N2: 1 (I)  
+   - V1: 1 (going)  
+   - V6: 1 (going to)  
+   - N5: 1 (this one)  
+
+3. **on the back .**  
+   - V3: 1 (on the back)  
+
+4. **green .**  
+   - N1: 1 (green)  
+
+5. **it's goin(g) to be green egg when colored .**  
+   - N1: 1 (egg)  
+   - V6: 1 (it's going to be)  
+   - N3: 1 (green)  
+
+6. **<that's just like> [//] (.) I goin(g) make Easter eggs .**  
+   - N1: 1 (Easter eggs)  
+   - V1: 1 (goin(g))  
+   - V6: 1 (goin(g) make)  
+
+7. **Easter eggs .**  
+   - N1: 1 (Easter eggs)  
+
+8. **yeah .**  
+   - No applicable items.
+
+9. **no .**  
+   - No applicable items.
+
+10. **I didn't cross the lines .**  
+    - N2: 1 (I)  
+    - V1: 1 (didn't cross)  
+    - N1: 1 (lines)  
+    - Q3: 1 (didn't)  
+
+11. **do you wanna sit in that chair ?**  
+    - N2: 1 (you)  
+    - V1: 1 (wanna sit)  
+    - N5: 1 (that chair)  
+    - Q1: 1 (question mark)  
+
+12. **guess I lay it down .**  
+    - N2: 1 (I)  
+    - V1: 1 (guess)  
+    - V3: 1 (lay it down)  
+
+13. **(un)till it cools off .**  
+    - N2: 1 (it)  
+    - V1: 1 (cools)  
+
+14. **xxx my xxx .**  
+    - No applicable items.
+
+15. **I'm not allowed .**  
+    - N2: 1 (I)  
+    - V6: 1 (I'm)  
+    - Q3: 1 (not)  
+
+16. **(.) (a)n(d) I'm stupid .**  
+    - N2: 1 (I)  
+    - N1: 1 (stupid)  
+    - V1: 1 (I'm)  
+
+17. **going to color this one xxx blue .**  
+    - V6: 1 (going to color)  
+    - N5: 1 (this one)  
+
+18. **I need a couple bobby_pins .**  
+    - N2: 1 (I)  
+    - V1: 1 (need)  
+    - N5: 1 (a couple bobby_pins)  
+
+19. **I need a hairdresser .**  
+    - N2: 1 (I)  
+    - V1: 1 (need)  
+    - N5: 1 (a hairdresser)  
+
+20. **I baby blue .**  
+    - N2: 1 (I)  
+    - N1: 1 (blue)  
+
+21. **what color is this one ?**  
+    - N2: 1 (this one)  
+    - Q1: 1 (question mark)  
+
+22. **is this one blue ?**  
+    - N2: 1 (this one)  
+    - Q1: 1 (question mark)  
+    - V1: 1 (is)  
+
+23. **red ?**  
+    - N1: 1 (red)  
+    - Q1: 1 (question mark)  
+
+24. **(a)n(d) this one's blue .**  
+    - N2: 1 (this one)  
+    - V1: 1 (is)  
+    - N1: 1 (blue)  
+
+25. **red .**  
+    - N1: 1 (red)  
+
+26. **that red ?**  
+    - N1: 1 (red)  
+    - Q1: 1 (question mark)  
+
+27. **(a)n(d) those red .**  
+    - N1: 1 (red)  
+    - N7: 1 (those red)  
+
+28. **that's a blue one .**  
+    - N2: 1 (that)  
+    - N5: 1 (a blue one)  
+    - V1: 1 (that's)  
+
+29. **I get some colors always .**  
+    - N2: 1 (I)  
+    - V1: 1 (get)  
+    - N1: 1 (colors)  
+
+30. **yep .**  
+    - No applicable items.
+
+31. **I will break my yyy .**  
+    - N2: 1 (I)  
+    - V9: 1 (will break)  
+
+32. **I going to fall down .**  
+    - N2: 1 (I)  
+    - V6: 1 (going to fall)  
+
+33. **hey who did that ?**  
+    - Q1: 1 (question mark)  
+
+34. **still I went out the lines .**  
+    - N2: 1 (I)  
+    - V12: 1 (went)  
+    - N1: 1 (lines)  
+
+35. **I went out the lines ?**  
+    - N2: 1 (I)  
+    - V12: 1 (went)  
+    - N1: 1 (lines)  
+    - Q1: 1 (question mark)  
+
+36. **that [/] (.) that out lines .**  
+    - N1: 1 (lines)  
+    - N2: 1 (that)  
+
+37. **when I get bigger ?**  
+    - N2: 1 (I)  
+    - V1: 1 (get)  
+    - Q1: 1 (question mark)  
+
+38. **awoh !**  
+    - No applicable items.
+
+39. **I made a xxx .**  
+    - N2: 1 (I)  
+    - V12: 1 (made)  
+
+40. **and it yyy (.) huh ?**  
+    - N2: 1 (it)  
+    - Q1: 1 (question mark)  
+
+41. **I scribbled .**  
+    - N2: 1 (I)  
+    - V12: 1 (scribbled)  
+
+42. **don't scribble like this .**  
+    - N2: 1 (you)  
+    - V3: 1 (don't scribble)  
+
+43. **ya got a (.) pigtail ?**  
+    - N2: 1 (ya)  
+    - V1: 1 (got)  
+    - N5: 1 (a pigtail)  
+    - Q1: 1 (question mark)  
+
+44. **that's (.) pigtail alright .**  
+    - N2: 1 (that)  
+    - N1: 1 (pigtail)  
+    - V1: 1 (that's)  
+
+45. **<I made a> [/] (.) I made a (.) big pig tail (.) (a)n(d) I'm make a bigger tail .**  
+    - N2: 1 (I)  
+    - V12: 1 (made)  
+    - N5: 1 (a big pig tail)  
+    - V1: 1 (I'm make)  
+
+46. **for a little &-uh (.) little pig .**  
+    - N5: 1 (a little pig)  
+
+47. **huh ?**  
+    - Q1: 1 (question mark)  
+
+48. **sometimes bigs [: big] [* +s-pos] pig (.) sometimes [/] sometimes little pigs .**  
+    - N1: 1 (bigs)  
+    - N7: 1 (pigs)  
+
+49. **(a)n(d) sometimes little animals huh ?**  
+    - N1: 1 (animals)  
+    - Q1: 1 (question mark)  
+
+50. **but my dog (.) this is that .**  
+    - N2: 1 (my)  
+    - N1: 1 (dog)  
+    - V4: 1 (this is that)  
+
+51. **I was stupid .**  
+    - N2: 1 (I)  
+    - V13: 1 (was)  
+    - N1: 1 (stupid)  
+
+52. **where is that red ?**  
+    - N1: 1 (red)  
+    - Q1: 1 (question mark)  
+
+53. **oh .**  
+    - No applicable items.
+
+54. **here it is .**  
+    - N2: 1 (it)  
+    - V1: 1 (is)  
+
+55. **here's a stupid .**  
+    - N5: 1 (a stupid)  
+    - V1: 1 (here's)  
+
+56. **hey I got the wrong end .**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+    - N5: 1 (the wrong end)  
+
+57. **hey .**  
+    - No applicable items.
+
+58. **blue .**  
+    - N1: 1 (blue)  
+
+59. **it looks like blue .**  
+    - N2: 1 (it)  
+    - V1: 1 (looks)  
+    - N1: 1 (blue)  
+
+60. **what is it ?**  
+    - N2: 1 (it)  
+    - Q1: 1 (question mark)  
+    - V1: 1 (is)  
+
+61. **I don't know .**  
+    - N2: 1 (I)  
+    - V3: 1 (don't know)  
+
+62. **what's this ?**  
+    - N2: 1 (this)  
+    - Q1: 1 (question mark)  
+
+63. **do you know the colors ?**  
+    - N2: 1 (you)  
+    - V1: 1 (know)  
+    - N5: 1 (the colors)  
+    - Q1: 1 (question mark)  
+
+64. **Christmas egg is gone .**  
+    - N1: 1 (Christmas egg)  
+    - V1: 1 (is)  
+
+65. **hm: .**  
+    - No applicable items.
+
+66. **I big yyy .**  
+    - N2: 1 (I)  
+    - N1: 1 (big)  
+
+67. **no (.) lie down .**  
+    - V3: 1 (lie down)  
+    - Q3: 1 (no)  
+
+68. **do I have another green ?**  
+    - N2: 1 (I)  
+    - V1: 1 (have)  
+    - Q1: 1 (question mark)  
+
+69. **black .**  
+    - N1: 1 (black)  
+
+70. **grey .**  
+    - N1: 1 (grey)  
+
+71. **I don't have any .**  
+    - N2: 1 (I)  
+    - V3: 1 (don't have)  
+
+72. **is that grey ?**  
+    - N2: 1 (that)  
+    - V1: 1 (is)  
+    - Q1: 1 (question mark)  
+
+73. **in my book .**  
+    - V3: 1 (in my book)  
+
+74. **a funny book .**  
+    - N5: 1 (a funny book)  
+
+75. **I didn't go to [/] (.) to the zoo yet .**  
+    - N2: 1 (I)  
+    - V1: 1 (didn't go)  
+    - N5: 1 (the zoo)  
+
+76. **that last Thursday ?**  
+    - Q1: 1 (question mark)  
+
+77. **last summer ?**  
+    - Q1: 1 (question mark)  
+
+78. **I go last summer .**  
+    - N2: 1 (I)  
+    - V1: 1 (go)  
+
+79. **I broke my crayon .**  
+    - N2: 1 (I)  
+    - V12: 1 (broke)  
+    - N5: 1 (my crayon)  
+
+80. **Sandra broke em .**  
+    - N2: 1 (Sandra)  
+    - V12: 1 (broke)  
+
+81. **<Sandr(a)> [/] (.) Sandra broke all them .**  
+    - N2: 1 (Sandra)  
+    - V12: 1 (broke)  
+    - N1: 1 (them)  
+
+82. **this blue xxx (.) it's from the popsicle .**  
+    - N1: 1 (blue)  
+    - V1: 1 (it's)  
+    - N5: 1 (the popsicle)  
+
+83. **you said purple .**  
+    - N2: 1 (you)  
+    - V1: 1 (said)  
+    - N1: 1 (purple)  
+
+84. **it isn't blue .**  
+    - N2: 1 (it)  
+    - V1: 1 (isn't)  
+    - N1: 1 (blue)  
+
+85. **here look it (.) she broke that .**  
+    - N2: 1 (she)  
+    - V12: 1 (broke)  
+    - N1: 1 (that)  
+
+86. **she was in school .**  
+    - N2: 1 (she)  
+    - V13: 1 (was)  
+    - N1: 1 (school)  
+
+87. **I guess saw me break them .**  
+    - N2: 1 (I)  
+    - V1: 1 (guess)  
+    - N1: 1 (them)  
+
+88. **did I break this ?**  
+    - N2: 1 (I)  
+    - V1: 1 (break)  
+    - Q1: 1 (question mark)  
+
+89. **I didn't broke this .**  
+    - N2: 1 (I)  
+    - V12: 1 (broke)  
+
+90. **I not gonna &~k (.) take no more out .**  
+    - N2: 1 (I)  
+    - V1: 1 (gonna take)  
+    - Q3: 1 (not)  
+
+91. **all my crayons .**  
+    - N5: 1 (my crayons)  
+
+92. **I break it <(be)cause> [/] (.) (be)cause they won't get soft enough .**  
+    - N2: 1 (I)  
+    - V1: 1 (break)  
+    - N1: 1 (it)  
+
+93. **yes they do .**  
+    - N2: 1 (they)  
+    - V1: 1 (do)  
+
+94. **that's you .**  
+    - N2: 1 (you)  
+    - V1: 1 (that's)  
+
+95. **you c(o)me (h)ere .**  
+    - N2: 1 (you)  
+    - V1: 1 (come)  
+
+96. **I goin(g) to show somethin(g) .**  
+    - N2: 1 (I)  
+    - V6: 1 (goin(g) to show)  
+
+97. **c(o)me (h)ere .**  
+    - V1: 1 (come)  
+
+98. **nope .**  
+    - No applicable items.
+
+99. **I goin(g) to show ya somethin(g) .**  
+    - N2: 1 (I)  
+    - V6: 1 (goin(g) to show)  
+
+100. **she put it in (.) on [/] (.) on the houses .**  
+    - N2: 1 (she)  
+    - V1: 1 (put)  
+    - N5: 1 (the houses)  
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12  
+N2, 16  
+N3, 3  
+N4, 0  
+N5, 10  
+N6, 5  
+N7, 3  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 20  
+V2, 0  
+V3, 5  
+V4, 1  
+V5, 0  
+V6, 5  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 6  
+V13, 2  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 12  
+Q2, 0  
+Q3, 5  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

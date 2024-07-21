@@ -1,0 +1,517 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I wanna show Melissa how I tie.**
+   - N1: 1 (Melissa)
+   - V1: 1 (wanna)
+   - V1: 2 (show)
+   - V1: 3 (tie)
+
+2. **see?**
+   - V1: 1 (see)
+   - Q1: 1 (contains a question mark)
+
+3. **cross em over an(d) put it down.**
+   - V1: 1 (cross)
+   - V1: 2 (put)
+   - V2: 1 (over)
+   - V2: 2 (down)
+
+4. **that way.**
+   - N1: 1 (way)
+
+5. **cross [/] (.) cross one over an(d) put it (.) down.**
+   - V1: 1 (cross)
+   - V1: 2 (put)
+   - V2: 1 (over)
+   - V2: 2 (down)
+   - N1: 1 (one)
+
+6. **not dat [: that] one.**
+   - N1: 1 (one)
+   - N3: 1 (not)
+
+7. **this one?**
+   - N1: 1 (one)
+   - Q1: 1 (contains a question mark)
+
+8. **dat [: that] how (.) do it?**
+   - Q2: 1 (routine question)
+   - Q4: 1 (Wh-Question + Verb)
+
+9. **yeah.**
+   - (No applicable items)
+
+10. **a little tiny one.**
+    - N1: 1 (one)
+    - N5: 1 (a little tiny)
+
+11. **come a wise guy!**
+    - V1: 1 (come)
+    - N1: 1 (guy)
+
+12. **I know it.**
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - N1: 1 (it)
+
+13. **<my &~s> [//] (.) my daddy.**
+    - N2: 1 (my)
+    - N1: 1 (daddy)
+
+14. **dat [: that's] swinging high?**
+    - Q1: 1 (contains a question mark)
+    - V7: 1 (swinging)
+
+15. **how did I untangled it?**
+    - Q4: 1 (Wh-Question + Verb)
+    - V12: 1 (untangled)
+
+16. **tangle it.**
+    - V1: 1 (tangle)
+
+17. **<whee whee> [/] whee <whoo whoo> [/] whoo whee.**
+    - (No applicable items)
+
+18. **today.**
+    - (No applicable items)
+
+19. **yep.**
+    - (No applicable items)
+
+20. **we goin(g) shoppin(g).**
+    - N2: 1 (we)
+    - V7: 1 (goin(g))
+    - V1: 1 (shoppin(g))
+
+21. **y(ou) know who's comin(g) today?**
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - V1: 2 (comin(g))
+    - Q1: 1 (contains a question mark)
+
+22. **Jo_Ann an(d) she's goin(g) sleep over.**
+    - N1: 1 (Jo_Ann)
+    - N2: 1 (she)
+    - V1: 1 (goin(g))
+    - V1: 2 (sleep)
+
+23. **she's goin(g) sleep over.**
+    - N2: 1 (she)
+    - V1: 1 (goin(g))
+    - V1: 2 (sleep)
+
+24. **I never seen her.**
+    - N2: 1 (I)
+    - V12: 1 (seen)
+    - N2: 2 (her)
+
+25. **that ain't Norwood.**
+    - N1: 1 (Norwood)
+    - V7: 1 (ain't)
+
+26. **this is Norwood.**
+    - N1: 1 (this)
+    - V4: 1 (is Norwood)
+
+27. **because.**
+    - (No applicable items)
+
+28. **buhbuhboo@b (.) booboobuhl@b.**
+    - (No applicable items)
+
+29. **I will show you what I got for Christmas.**
+    - N2: 1 (I)
+    - V9: 1 (will show)
+    - N2: 2 (you)
+    - V12: 1 (got)
+    - N1: 1 (Christmas)
+
+30. **cries.**
+    - V1: 1 (cries)
+
+31. **not really cries but (.) something cute.**
+    - V1: 1 (cries)
+    - N1: 1 (something)
+    - N3: 1 (cute)
+
+32. **I want you to see.**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 2 (you)
+    - V8: 1 (to see)
+
+33. **a Susie_Cue.**
+    - N5: 1 (a Susie_Cue)
+
+34. **those are valentines.**
+    - N1: 1 (valentines)
+    - V6: 1 (are)
+
+35. **she doesn't cry or nothin(g).**
+    - N2: 1 (she)
+    - V3: 1 (doesn't cry)
+    - N1: 1 (nothin(g))
+
+36. **that's Susie_Cue (.) huh?**
+    - N1: 1 (Susie_Cue)
+    - Q1: 1 (contains a question mark)
+
+37. **she (sup)posed to have different color hair.**
+    - N2: 1 (she)
+    - V1: 1 (sup)posed
+    - N1: 1 (color)
+    - N1: 2 (hair)
+
+38. **uhuh.**
+    - (No applicable items)
+
+39. **that's a little baby (.) with white hair.**
+    - N1: 1 (baby)
+    - N5: 1 (a little)
+    - N1: 2 (hair)
+    - V3: 1 (with white)
+
+40. **now polish my shoes.**
+    - V1: 1 (polish)
+    - N2: 1 (my)
+    - N1: 1 (shoes)
+
+41. **you can't find me.**
+    - N2: 1 (you)
+    - V3: 1 (can't find)
+    - N2: 2 (me)
+
+42. **ow Chantilly.**
+    - N1: 1 (Chantilly)
+
+43. **c(o)me (h)ere Chantilly.**
+    - V1: 1 (come)
+    - N1: 1 (Chantilly)
+
+44. **I want him to bite your toe.**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 2 (him)
+    - V8: 1 (to bite)
+    - N2: 1 (your)
+    - N1: 1 (toe)
+
+45. **for me?**
+    - Q1: 1 (contains a question mark)
+
+46. **I saw her girdle.**
+    - N2: 1 (I)
+    - V12: 1 (saw)
+    - N2: 2 (her)
+    - N1: 1 (girdle)
+
+47. **saw Mommy's girdle [?].**
+    - V12: 1 (saw)
+    - N1: 1 (Mommy's)
+    - N1: 2 (girdle)
+
+48. **I don't wanna put my shoes on.**
+    - N2: 1 (I)
+    - V3: 1 (don't wanna put)
+    - N2: 2 (my)
+    - N1: 1 (shoes)
+
+49. **no (.) no.**
+    - (No applicable items)
+
+50. **I not goin(g) go up.**
+    - N2: 1 (I)
+    - V7: 1 (goin(g))
+    - V1: 1 (go)
+
+51. **because (.) I'm afraid of her.**
+    - N2: 1 (I)
+    - V6: 1 (I'm)
+    - N2: 2 (her)
+
+52. **it's [?] not [?] my mother.**
+    - N2: 1 (it)
+    - V7: 1 (not)
+    - N2: 2 (my)
+    - N1: 1 (mother)
+
+53. **you can't get me.**
+    - N2: 1 (you)
+    - V3: 1 (can't get)
+    - N2: 2 (me)
+
+54. **no sir.**
+    - (No applicable items)
+
+55. **why?**
+    - Q1: 1 (contains a question mark)
+
+56. **you're not gonna call up.**
+    - N2: 1 (you)
+    - V9: 1 (gonna call)
+    - V2: 1 (up)
+
+57. **you're goin(g) put my shoes (.) on (.) huh?**
+    - N2: 1 (you)
+    - V7: 1 (goin(g))
+    - V1: 1 (put)
+    - N2: 2 (my)
+    - N1: 1 (shoes)
+    - Q1: 1 (contains a question mark)
+
+58. **I don't wanna tie.**
+    - N2: 1 (I)
+    - V3: 1 (don't wanna)
+    - V1: 1 (tie)
+
+59. **no (.) this one y(ou) mean.**
+    - N1: 1 (one)
+    - N2: 1 (you)
+    - V1: 1 (mean)
+
+60. **this one y(ou) mean.**
+    - N1: 1 (one)
+    - N2: 1 (you)
+    - V1: 2 (mean)
+
+61. **I colored something beautiful.**
+    - N2: 1 (I)
+    - V12: 1 (colored)
+    - N1: 1 (something)
+    - N3: 1 (beautiful)
+
+62. **look it.**
+    - V1: 1 (look)
+    - N2: 1 (it)
+
+63. **I wanna color this.**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - V1: 2 (color)
+    - N1: 1 (this)
+
+64. **Mommy (.) can I color?**
+    - N1: 1 (Mommy)
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (can)
+    - V1: 2 (color)
+
+65. **okay.**
+    - (No applicable items)
+
+66. **I like the [/] (.) the other side.**
+    - N2: 1 (I)
+    - V1: 1 (like)
+    - N5: 1 (the other)
+    - N1: 1 (side)
+
+67. **that side.**
+    - N1: 1 (side)
+
+68. **I don't wanna color.**
+    - N2: 1 (I)
+    - V3: 1 (don't wanna)
+    - V1: 1 (color)
+
+69. **on here (.) so it be nice.**
+    - V1: 1 (be)
+    - N2: 1 (it)
+    - N3: 1 (nice)
+
+70. **xxx gonna xxx.**
+    - (No applicable items)
+
+71. **then here (.) then here.**
+    - (No applicable items)
+
+72. **oh brother.**
+    - (No applicable items)
+
+73. **meeney [: eeny_meeny] mi_moe [: miney_moe].**
+    - (No applicable items)
+
+74. **catch a tiger by the toe.**
+    - V1: 1 (catch)
+    - N5: 1 (a tiger)
+    - V3: 1 (by the toe)
+
+75. **oh (.) if you touch a rabbit with toes.**
+    - V1: 1 (touch)
+    - N5: 1 (a rabbit)
+    - V3: 1 (with toes)
+    - Q10: 1 (if)
+
+76. **you will win by the toesie cold.**
+    - N2: 1 (you)
+    - V9: 1 (will win)
+    - V3: 1 (by the toesie)
+
+77. **Mommy (.) what twos mean (.) an(d) six [= numbers on pictures]?**
+    - N1: 1 (Mommy)
+    - Q4: 1 (Wh-Question + Verb)
+
+78. **huh?**
+    - Q1: 1 (contains a question mark)
+
+79. **count the numbers an(d) (.) that's the same as ten got (.) huh?**
+    - V1: 1 (count)
+    - N5: 1 (the numbers)
+    - V4: 1 (that's the same)
+    - Q1: 1 (contains a question mark)
+
+80. **is this a tablecloth?**
+    - V4: 1 (is this)
+    - Q1: 1 (contains a question mark)
+
+81. **you point to numbers.**
+    - N2: 1 (you)
+    - V1: 1 (point)
+    - N1: 1 (numbers)
+
+82. **see how (.) which one y(ou) wanna pick (.) see?**
+    - V1: 1 (see)
+    - Q4: 1 (Wh-Question + Verb)
+    - N1: 1 (one)
+    - N2: 2 (you)
+    - V1: 2 (wanna pick)
+
+83. **muhmuhmuhmuhmuhmuh@b.**
+    - (No applicable items)
+
+84. **I'll pick this (.) alright.**
+    - N2: 1 (I)
+    - V1: 1 (pick)
+    - N1: 1 (this)
+
+85. **tiny three.**
+    - N1: 1 (three)
+    - N3: 1 (tiny)
+
+86. **what three means (.) green or yellow or [/] (.) or red?**
+    - Q4: 1 (Wh-Question + Verb)
+    - N1: 1 (three)
+    - N1: 2 (green)
+    - N1: 3 (yellow)
+    - N1: 4 (red)
+
+87. **red?**
+    - Q1: 1 (contains a question mark)
+
+88. **yellow?**
+    - Q1: 1 (contains a question mark)
+
+89. **four [?]?**
+    - Q1: 1 (contains a question mark)
+
+90. **put some right on dere [: there].**
+    - V1: 1 (put)
+    - N1: 1 (some)
+    - N3: 1 (right)
+    - V3: 1 (on dere)
+
+91. **the right things [?].**
+    - N5: 1 (the right)
+    - N1: 1 (things)
+
+92. **green (.) I don't like you.**
+    - N1: 1 (green)
+    - N2: 1 (I)
+    - V3: 1 (don't like)
+    - N2: 2 (you)
+
+93. **I want yellow.**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (yellow)
+
+94. **is it (sup)posed to be yellow?**
+    - V4: 1 (is it)
+    - Q1: 1 (contains a question mark)
+
+95. **what ya say?**
+    - Q4: 1 (Wh-Question + Verb)
+
+96. **that the way the people go.**
+    - N1: 1 (way)
+    - N1: 2 (people)
+    - V1: 1 (go)
+
+97. **pop@o go de [: the] weasel then.**
+    - V1: 1 (go)
+    - N1: 1 (weasel)
+
+98. **do I color nice?**
+    - Q4: 1 (Wh-Question + Verb)
+    - N2: 1 (I)
+    - V1: 1 (color)
+
+99. **dere [: there].**
+    - N1: 1 (dere)
+
+100. **what's four means?**
+    - Q4: 1 (Wh-Question + Verb)
+    - N1: 1 (four)
+
+Final score:
+N1, 20
+N2, 15
+N3, 8
+N4, 0
+N5, 6
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 22
+V2, 4
+V3, 8
+V4, 3
+V5, 0
+V6, 3
+V7, 6
+V8, 0
+V9, 2
+V10, 0
+V11, 0
+V12, 5
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 1
+Q3, 2
+Q4, 6
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

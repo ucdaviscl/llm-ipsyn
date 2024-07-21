@@ -1,0 +1,438 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **hey (.) Mommy .**  
+   - N1: 1 (Mommy)
+
+2. **what you get for me ?**  
+   - Q2: 1 (what)
+
+3. **for me ?**  
+   - Q2: 1 (for me)
+
+4. **and one for <Unc(le)> [/] (.) Uncle_Tommy ?**  
+   - N1: 1 (one)  
+   - N5: 1 (one for)  
+   - N1: 2 (Uncle_Tommy)
+
+5. **un(d)erwear ?**  
+   - N1: 1 (underwear)
+
+6. **don't bother .**  
+   - V3: 1 (don't)
+
+7. **bubblegum .**  
+   - N1: 1 (bubblegum)
+
+8. **no .**  
+   - N2: 1 (no)
+
+9. **I yyy .**  
+   - N2: 1 (I)
+
+10. **on yyy &-uh (.) and &-uh (.) I took it .**  
+    - V1: 1 (took)  
+    - N2: 2 (I)
+
+11. **from the yyy .**  
+    - V3: 1 (from the)
+
+12. **and &-uh (.) I go there (.) I &-uh (.) took it away [//] (.) way .**  
+    - V1: 2 (go, took)  
+    - N2: 2 (I)
+
+13. **ouch .**  
+    - N1: 1 (ouch)
+
+14. **nope .**  
+    - N2: 1 (nope)
+
+15. **here a pretty &-uh (.) fair with &-uh dimes on it .**  
+    - N1: 1 (fair)  
+    - N3: 1 (pretty)  
+    - N5: 1 (a fair)
+
+16. **pretty dimes on (.) with a Fred on it .**  
+    - N1: 1 (dimes)  
+    - N3: 2 (pretty)  
+    - N5: 2 (a Fred)
+
+17. **and with pretty dimes on it .**  
+    - N1: 2 (dimes)  
+    - N3: 2 (pretty)
+
+18. **awoh .**  
+    - N1: 1 (awoh)
+
+19. **xxx there's a door in there .**  
+    - N1: 1 (door)  
+    - V1: 1 (there's)  
+    - N5: 1 (a door)
+
+20. **and (.) better put this in [/] (.) in the hand .**  
+    - V1: 1 (put)  
+    - N5: 1 (the hand)
+
+21. **that .**  
+    - N1: 1 (that)
+
+22. **xxx can I have a drink of milk ?**  
+    - V9: 1 (can have)  
+    - N5: 1 (a drink)
+
+23. **I saw it .**  
+    - V1: 1 (saw)  
+    - N2: 1 (I)
+
+24. **yep .**  
+    - N1: 1 (yep)
+
+25. **I yyy it .**  
+    - N2: 2 (I)
+
+26. **I want (.) Sugar_Snaps .**  
+    - N2: 2 (I)  
+    - N1: 1 (Sugar_Snaps)
+
+27. **uhhuh .**  
+    - N1: 1 (uhhuh)
+
+28. **alright .**  
+    - N1: 1 (alright)
+
+29. **it hurt .**  
+    - N2: 1 (it)  
+    - V12: 1 (hurt)
+
+30. **it hurts (.) Mommy ?**  
+    - N2: 2 (it)  
+    - V10: 1 (hurts)  
+    - N1: 1 (Mommy)
+
+31. **nerves ?**  
+    - N1: 1 (nerves)
+
+32. **why ?**  
+    - Q2: 1 (why)
+
+33. **ev(ery)thing .**  
+    - N1: 1 (everything)
+
+34. **is there any more ?**  
+    - V1: 1 (is)
+
+35. **put my gum in it .**  
+    - V1: 1 (put)  
+    - N2: 1 (my)  
+    - N1: 1 (gum)
+
+36. **look_it .**  
+    - V1: 1 (look)
+
+37. **I got an m@l on it .**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+    - N5: 1 (an m@l)
+
+38. **you been <out (.) out> [/] (.) out .**  
+    - N2: 1 (you)  
+    - V13: 1 (been)
+
+39. **mhm [?] .**  
+    - N1: 1 (mhm)
+
+40. **Mommy (.) jump out the window .**  
+    - N2: 1 (Mommy)  
+    - V1: 1 (jump)
+
+41. **mine (.) jump out the window .**  
+    - N2: 2 (mine)  
+    - V1: 1 (jump)
+
+42. **you .**  
+    - N2: 2 (you)
+
+43. **in that window .**  
+    - N1: 1 (window)  
+    - N5: 1 (that window)
+
+44. **hey (.) look at all the lights .**  
+    - V1: 1 (look)  
+    - N1: 1 (lights)
+
+45. **look at all the lights .**  
+    - V1: 2 (look)  
+    - N1: 2 (lights)
+
+46. **yeah .**  
+    - N1: 1 (yeah)
+
+47. **o:h .**  
+    - N1: 1 (o:h)
+
+48. **that's Auntie .**  
+    - N1: 1 (Auntie)  
+    - V4: 1 (that's)
+
+49. **I'm waitin(g) go (a)c(r)o(ss) .**  
+    - N2: 1 (I)  
+    - V7: 1 (waitin(g))
+
+50. **ow [?] .**  
+    - N1: 1 (ow)
+
+51. **don't know .**  
+    - V3: 1 (don't)
+
+52. **what ?**  
+    - Q2: 1 (what)
+
+53. **can you xxx coffee ?**  
+    - V9: 1 (can)  
+    - N2: 1 (you)
+
+54. **we could put it right on .**  
+    - V9: 1 (could)  
+    - V1: 1 (put)  
+    - N2: 1 (we)
+
+55. **Mommy .**  
+    - N2: 2 (Mommy)
+
+56. **I love ya .**  
+    - N2: 2 (I)  
+    - V1: 1 (love)
+
+57. **yuck [?] .**  
+    - N1: 1 (yuck)
+
+58. **I [//] (.) Ethel was mad at me .**  
+    - N2: 2 (I)  
+    - V1: 1 (was)
+
+59. **yes(t)erday ?**  
+    - N1: 1 (yesterday)
+
+60. **lot of toy [/] (.) toys .**  
+    - N1: 1 (toys)  
+    - N7: 1 (toys)
+
+61. **oh_boy !**  
+    - N1: 1 (oh_boy)
+
+62. **I got two clownies .**  
+    - N2: 2 (I)  
+    - V1: 1 (got)  
+    - N1: 1 (clownies)
+
+63. **Mommy (.) look at this milk .**  
+    - N2: 1 (Mommy)  
+    - V1: 1 (look)  
+    - N5: 1 (this milk)
+
+64. **want me open it ?**  
+    - V1: 1 (want)  
+    - N2: 1 (me)
+
+65. **merry Christmas .**  
+    - N1: 1 (Christmas)
+
+66. **here's your headband .**  
+    - V1: 1 (here's)  
+    - N5: 1 (your headband)
+
+67. **an(d) this one for Gloria .**  
+    - N5: 1 (this one)
+
+68. **huh .**  
+    - N1: 1 (huh)
+
+69. **did you buy a present for me ?**  
+    - V9: 1 (did)  
+    - N2: 1 (you)  
+    - N5: 1 (a present)
+
+70. **this is &-uh (.) Kent's birthday ?**  
+    - V1: 1 (is)  
+    - N5: 1 (Kent's birthday)
+
+71. **who is it ?**  
+    - Q2: 1 (who)  
+    - N2: 1 (it)
+
+72. **for God ?**  
+    - N1: 1 (God)
+
+73. **<that's> [/] (.) that's God's birthday ?**  
+    - V1: 1 (that's)  
+    - N1: 1 (God's birthday)
+
+74. **o:h (.) I like God .**  
+    - N2: 1 (I)  
+    - V1: 1 (like)  
+    - N1: 1 (God)
+
+75. **I'm gonna xxx .**  
+    - N2: 1 (I)  
+    - V1: 1 (gonna)
+
+76. **he say (.) <ho ho> [/] (.) ho .**  
+    - N2: 1 (he)  
+    - V1: 1 (say)
+
+77. **a telephone ?**  
+    - N1: 1 (telephone)
+
+78. **I call this little xxx you want this xxx .**  
+    - N2: 2 (I)  
+    - V1: 1 (call)
+
+79. **an(d) you talk me on that telephone .**  
+    - N2: 2 (you)  
+    - V1: 1 (talk)
+
+80. **I got two .**  
+    - N2: 2 (I)  
+    - V1: 1 (got)
+
+81. **give it to [/] (.) to Kent .**  
+    - V1: 1 (give)  
+    - N2: 1 (it)
+
+82. **it too heavy .**  
+    - N2: 2 (it)  
+    - V1: 1 (is)
+
+83. **here your comb (.) Mommy .**  
+    - N5: 1 (your comb)  
+    - N2: 1 (Mommy)
+
+84. **are you ringing ?**  
+    - V6: 1 (are)  
+    - N2: 1 (you)
+
+85. **hello .**  
+    - N1: 1 (hello)
+
+86. **are you in here ?**  
+    - V6: 1 (are)  
+    - N2: 1 (you)
+
+87. **huh ?**  
+    - Q2: 1 (huh)
+
+88. **I think he's gone .**  
+    - N2: 2 (I)  
+    - V1: 1 (think)
+
+89. **Mommy (.) <I wan(t) go get> [/] (.) I wan(t) go get xxx .**  
+    - N2: 2 (I)  
+    - V1: 1 (wan(t))
+
+90. **where you going ?**  
+    - Q2: 1 (where)  
+    - N2: 1 (you)
+
+91. **I wanna go .**  
+    - N2: 2 (I)  
+    - V1: 1 (wanna)
+
+92. **open I a present .**  
+    - V1: 1 (open)  
+    - N2: 2 (I)
+
+93. **I want some .**  
+    - N2: 2 (I)  
+    - V1: 1 (want)
+
+94. **those are earmuffers [: earmuffs] [* +er] .**  
+    - N2: 1 (those)  
+    - V4: 1 (are)  
+    - N1: 1 (earmuffs)
+
+95. **an earmuff ?**  
+    - N1: 1 (earmuff)
+
+96. **my ears are ringin(g) .**  
+    - N2: 1 (my)  
+    - N1: 1 (ears)  
+    - V1: 1 (are)
+
+97. **that's my coffee ?**  
+    - V4: 1 (that's)  
+    - N2: 1 (my)  
+    - N1: 1 (coffee)
+
+98. **thank_you .**  
+    - N1: 1 (thank_you)
+
+99. **(.) that's Santa_Claus in there [= inside microphone] ?**  
+    - V4: 1 (that's)  
+    - N1: 1 (Santa_Claus)
+
+100. **that Santa_Claus in there .**  
+    - N1: 1 (Santa_Claus)  
+    - V1: 1 (is)
+
+Final score:
+N1, 20  
+N2, 20  
+N3, 4  
+N4, 0  
+N5, 8  
+N6, 0  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 20  
+V2, 0  
+V3, 3  
+V4, 3  
+V5, 0  
+V6, 3  
+V7, 1  
+V8, 0  
+V9, 3  
+V10, 1  
+V11, 0  
+V12, 1  
+V13, 1  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 0  
+Q2, 6  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

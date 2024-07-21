@@ -1,0 +1,509 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **where's the black tape ?**
+   - Q1: 1
+   - Q4: 1
+   - S2: 1
+
+2. **the things .**
+   - N5: 1
+
+3. **Courtney was here .**
+   - N1: 1
+   - V6: 1
+
+4. **(a)n(d) Kent .**
+   - N1: 1
+   - N4: 1
+
+5. **Gloria .**
+   - N1: 1
+
+6. **hey (.) you put it [= microphone] ri(ght) there for me .**
+   - N2: 1
+   - N5: 1
+   - V4: 1
+   - V1: 1
+   - V3: 1
+
+7. **hello .**
+   - (no applicable items)
+
+8. **I ri(ght) here .**
+   - N2: 1
+
+9. **who that ?**
+   - Q1: 1
+   - Q2: 1
+
+10. **will ya hold on to it ?**
+    - Q1: 1
+    - V9: 1
+    - N2: 1
+
+11. **yeah .**
+    - (no applicable items)
+
+12. **I goin(g) do my dance .**
+    - N2: 1
+    - V1: 1
+    - V7: 1
+
+13. **hello (.) oh !**
+    - (no applicable items)
+
+14. **I don't know where the rest is .**
+    - N2: 1
+    - V1: 1
+    - Q3: 1
+
+15. **hole in the &-uh (.) go out in &-uh (.) (a)n(d) put the music on the (.) now .**
+    - N5: 1
+    - V1: 1
+    - V3: 1
+    - V4: 1
+
+16. **green grass grow all around (a)n(d) around .**
+    - N1: 1
+    - V1: 1
+
+17. **no .**
+    - (no applicable items)
+
+18. **there's the green grass grow all <aroun(d) (.) (a)roun(d)> [/] (.) (a)roun(d) .**
+    - N5: 1
+    - V1: 1
+    - V6: 1
+
+19. **there's the grass grass grow all aroun(d) (a)n(d) aroun(d) .**
+    - N5: 1
+    - V1: 1
+    - V6: 1
+
+20. **oh !**
+    - (no applicable items)
+
+21. **there's a (.) <around (.) around> [/] (.) around .**
+    - N5: 1
+    - V6: 1
+
+22. **green yyy .**
+    - (no applicable items)
+
+23. **green grass grew ?**
+    - N1: 1
+    - V12: 1
+    - Q1: 1
+
+24. **around .**
+    - (no applicable items)
+
+25. **is that nice ?**
+    - V1: 1
+    - Q1: 1
+
+26. **give me a piece of paper .**
+    - V1: 1
+    - N5: 1
+
+27. **hey .**
+    - (no applicable items)
+
+28. **I got an idea .**
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+29. **hey (.) you take that part <(a)n(d) take> [//] (.) (a)n(d) that part .**
+    - N2: 1
+    - N5: 1
+    - V1: 1
+    - V6: 1
+
+30. **oh .**
+    - (no applicable items)
+
+31. **this one broke .**
+    - N5: 1
+    - V12: 1
+
+32. **we got somethin(g) .**
+    - N2: 1
+    - V1: 1
+
+33. **the alphabet .**
+    - N5: 1
+
+34. **the play cards .**
+    - N5: 1
+
+35. **yep .**
+    - (no applicable items)
+
+36. **(a)n(d) I can't get them dirty .**
+    - N2: 1
+    - V3: 1
+    - Q3: 1
+
+37. **I can't get them dirty .**
+    - N2: 1
+    - V3: 1
+    - Q3: 1
+
+38. **hey (.) you forgot Sarah .**
+    - N2: 1
+    - N1: 1
+    - V1: 1
+
+39. **a .**
+    - (no applicable items)
+
+40. **I know it yyy (.) Mommy .**
+    - N2: 1
+    - V1: 1
+
+41. **is it all there ?**
+    - V1: 1
+    - Q1: 1
+
+42. **you still there ?**
+    - N2: 1
+    - Q1: 1
+
+43. **it still there .**
+    - N2: 1
+    - V1: 1
+
+44. **hey !**
+    - (no applicable items)
+
+45. **look at that (.) Mommy .**
+    - V1: 1
+    - N2: 1
+
+46. **I goin(g) make a (.) o@l .**
+    - N2: 1
+    - V1: 1
+    - V7: 1
+
+47. **sharp(en) this (.) Mommy .**
+    - V1: 1
+    - N2: 1
+
+48. **I got nothin(g) to sharp(en) this .**
+    - N2: 1
+    - V1: 1
+    - V8: 1
+
+49. **b@l .**
+    - (no applicable items)
+
+50. **c@l .**
+    - (no applicable items)
+
+51. **o@l .**
+    - (no applicable items)
+
+52. **it starts like that ?**
+    - V1: 1
+    - Q1: 1
+
+53. **d@l .**
+    - (no applicable items)
+
+54. **yyy (.) s@l .**
+    - (no applicable items)
+
+55. **e@l .**
+    - (no applicable items)
+
+56. **I don't know that one .**
+    - N2: 1
+    - V1: 1
+    - Q3: 1
+
+57. **e@l (.) g@l .**
+    - (no applicable items)
+
+58. **h@l !**
+    - (no applicable items)
+
+59. **I don't know what one .**
+    - N2: 1
+    - V1: 1
+    - Q3: 1
+
+60. **an i@l .**
+    - (no applicable items)
+
+61. **an l@l .**
+    - (no applicable items)
+
+62. **Sarah I mean x@l .**
+    - N1: 1
+    - N2: 1
+
+63. **y@l ?**
+    - Q1: 1
+
+64. **&-uh (.) m@l .**
+    - (no applicable items)
+
+65. **end &-uh .**
+    - (no applicable items)
+
+66. **oh (.) my pencil .**
+    - N1: 1
+
+67. **one [/] (.) one leg ?**
+    - Q1: 1
+    - N1: 1
+
+68. **that's the &-um (.) good pencil ?**
+    - Q1: 1
+    - N5: 1
+
+69. **o@l !**
+    - (no applicable items)
+
+70. **p@l .**
+    - (no applicable items)
+
+71. **a q@l .**
+    - (no applicable items)
+
+72. **an r@l .**
+    - (no applicable items)
+
+73. **can't find an l@l here ?**
+    - Q1: 1
+    - Q3: 1
+
+74. **an s@l .**
+    - (no applicable items)
+
+75. **t@l .**
+    - (no applicable items)
+
+76. **a@l .**
+    - (no applicable items)
+
+77. **an x@l .**
+    - (no applicable items)
+
+78. **a v@l .**
+    - (no applicable items)
+
+79. **that's a w@l .**
+    - N5: 1
+
+80. **<k@l> [//] (.) I mean x@l .**
+    - N1: 1
+    - N2: 1
+
+81. **make em that way (.) <(a)n(d) that way> [/] (.) (a)n(d) that way .**
+    - V1: 1
+    - N2: 1
+
+82. **k@l .**
+    - (no applicable items)
+
+83. **I think I don't know that one .**
+    - N2: 1
+    - V1: 1
+    - Q3: 1
+
+84. **y@l .**
+    - (no applicable items)
+
+85. **a y@l .**
+    - (no applicable items)
+
+86. **a e@l .**
+    - (no applicable items)
+
+87. **that ?**
+    - Q1: 1
+
+88. **it won't write .**
+    - N2: 1
+    - V1: 1
+
+89. **is it xxx .**
+    - N2: 1
+    - V1: 1
+
+90. **I know it .**
+    - N2: 1
+    - V1: 1
+
+91. **I singin(g) my (.) letters .**
+    - N2: 1
+    - V1: 1
+    - V7: 1
+
+92. **huh ?**
+    - Q1: 1
+
+93. **a bunny .**
+    - N1: 1
+
+94. **Mommy (.) give me a wide pencil .**
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+95. **hey (.) there's one in the bathroom .**
+    - N2: 1
+    - V6: 1
+    - N5: 1
+
+96. **in the bathroom .**
+    - V3: 1
+
+97. **here's one .**
+    - V6: 1
+    - N5: 1
+
+98. **here's one (.) Mommy .**
+    - V6: 1
+    - N2: 1
+
+99. **I get a pencil .**
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+100. **I get two pencils .**
+    - N2: 1
+    - V1: 1
+    - N7: 1
+
+Now, let's compile the scores:
+
+- N1: 10
+- N2: 12
+- N3: 0
+- N4: 2
+- N5: 9
+- N6: 2
+- N7: 2
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 16
+- V2: 0
+- V3: 5
+- V4: 2
+- V5: 0
+- V6: 5
+- V7: 3
+- V8: 0
+- V9: 1
+- V10: 0
+- V11: 0
+- V12: 2
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 12
+- Q2: 2
+- Q3: 5
+- Q4: 2
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 5
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 2
+N5, 2
+N6, 2
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 2
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 1
+V10, 0
+V11, 0
+V12, 2
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 2
+Q3, 2
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 2
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

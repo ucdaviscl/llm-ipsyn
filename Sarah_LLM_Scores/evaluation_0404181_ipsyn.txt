@@ -1,0 +1,455 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **whoops (.) fell down .**
+   - V1: 1 (fell)
+   - V3: 1 (down)
+
+2. **that's not mine .**
+   - N2: 1 (that)
+   - V7: 1 (not)
+
+3. **it's Ann_Marie's .**
+   - N1: 1 (Ann_Marie's)
+   - N2: 1 (it)
+
+4. **yep (.) I took the picture off it .**
+   - N1: 1 (picture)
+   - N2: 1 (I)
+   - V1: 1 (took)
+   - V3: 1 (off it)
+
+5. **o:h (.) here's a comb .**
+   - N1: 1 (comb)
+   - V1: 1 (here's)
+
+6. **thank_you .**
+   - N1: 1 (you)
+
+7. **oh (.) your new xxx huh ?**
+   - N2: 1 (your)
+   - Q1: 1 (question mark)
+
+8. **o:h (.) ouch .**
+   - N1: 1 (ouch)
+
+9. **comb my hair .**
+   - N1: 1 (comb)
+   - N1: 1 (hair)
+   - V1: 1 (comb)
+
+10. **no .**
+    - N2: 1 (no)
+
+11. **let's get the gold .**
+    - N5: 1 (the gold)
+    - V1: 1 (get)
+
+12. **Daddy just right the gold .**
+    - N1: 1 (Daddy)
+    - N5: 1 (the gold)
+    - V1: 1 (right)
+
+13. **get the gold .**
+    - N5: 1 (the gold)
+    - V1: 1 (get)
+
+14. **how ?**
+    - Q1: 1 (question mark)
+
+15. **by the nose .**
+    - N5: 1 (the nose)
+
+16. **pow (.) right in the nose .**
+    - N5: 1 (the nose)
+    - V1: 1 (pow)
+
+17. **<bing@o (.) bing@o (.) bing@o> [/] (.) bing@o .**
+    - N1: 1 (bing@o)
+
+18. **let me beat up myself .**
+    - V1: 1 (beat)
+    - N2: 1 (me)
+
+19. **oh (.) &-uh [/] (.) &-uh .**
+    - N1: 1 (&-uh)
+
+20. **right over dere [: there] .**
+    - N1: 1 (dere)
+
+21. **yep .**
+    - N1: 1 (yep)
+
+22. **see ?**
+    - Q1: 1 (question mark)
+
+23. **watch .**
+    - V1: 1 (watch)
+
+24. **yeah .**
+    - N1: 1 (yeah)
+
+25. **really Ann_Marie's ?**
+    - N1: 1 (Ann_Marie's)
+    - Q1: 1 (question mark)
+
+26. **I know how to button .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+
+27. **oh_boy .**
+    - N1: 1 (oh_boy)
+
+28. **he's cranky .**
+    - N2: 1 (he)
+    - V4: 1 (he's cranky)
+
+29. **he's mad at me .**
+    - N2: 1 (he)
+    - V4: 1 (he's mad)
+
+30. **because I touch him .**
+    - N2: 1 (I)
+    - V1: 1 (touch)
+
+31. **a doll .**
+    - N5: 1 (a doll)
+
+32. **puttin(g) her hands in her mouth or somethin(g) .**
+    - N2: 1 (her)
+    - V7: 1 (putting)
+
+33. **because she don't have any clothes .**
+    - N2: 1 (she)
+    - V3: 1 (have)
+
+34. **oh she has a bellybutton .**
+    - N2: 1 (she)
+    - V1: 1 (has)
+    - N5: 1 (a bellybutton)
+
+35. **pow .**
+    - N1: 1 (pow)
+
+36. **close .**
+    - N1: 1 (close)
+
+37. **she drinks (.) though .**
+    - N2: 1 (she)
+    - V1: 1 (drinks)
+
+38. **she drinks bahbah [= bottle] and stuff .**
+    - N2: 1 (she)
+    - V1: 1 (drinks)
+    - N1: 1 (stuff)
+
+39. **bah@b [/] bah@b [/] bah@b .**
+    - N1: 1 (bah@b)
+
+40. **a picture .**
+    - N5: 1 (a picture)
+
+41. **my Mommy and Daddy (.) see ?**
+    - N2: 1 (my)
+    - N1: 1 (Mommy)
+    - N1: 1 (Daddy)
+    - Q1: 1 (question mark)
+
+42. **because they got married .**
+    - N2: 1 (they)
+    - V12: 1 (got)
+
+43. **no (.) I was born .**
+    - N2: 1 (I)
+    - V12: 1 (was born)
+
+44. **I was gettin(g) born .**
+    - N2: 1 (I)
+    - V7: 1 (getting)
+
+45. **that ain't a dress .**
+    - N2: 1 (that)
+    - V3: 1 (ain't)
+
+46. **let me see .**
+    - V1: 1 (see)
+    - N2: 1 (me)
+
+47. **a sport jacket .**
+    - N5: 1 (a sport jacket)
+
+48. **that (.) a tie .**
+    - N2: 1 (that)
+    - V4: 1 (a tie)
+
+49. **a tree .**
+    - N5: 1 (a tree)
+
+50. **&-um (.) these are leaves .**
+    - N2: 1 (these)
+    - V4: 1 (are leaves)
+
+51. **yeah (.) that's a pile of leaves .**
+    - N2: 1 (that)
+    - N5: 1 (a pile)
+    - V4: 1 (that's)
+
+52. **dat [: that's] (.) junk .**
+    - N2: 1 (dat)
+    - N1: 1 (junk)
+
+53. **she put her dress away somewhere .**
+    - N2: 1 (she)
+    - V1: 1 (put)
+
+54. **a polar_bear ?**
+    - N5: 1 (a polar_bear)
+    - Q1: 1 (question mark)
+
+55. **bear .**
+    - N1: 1 (bear)
+
+56. **are they sleepin(g) ?**
+    - N2: 1 (they)
+    - V1: 1 (are sleepin)
+
+57. **I want Hi_C .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+
+58. **that's only for kids .**
+    - N2: 1 (that)
+    - V4: 1 (that's)
+
+59. **huh ?**
+    - Q1: 1 (question mark)
+
+60. **yeah (.) she is .**
+    - N2: 1 (she)
+    - V4: 1 (is)
+
+61. **that's what .**
+    - N2: 1 (that)
+    - V4: 1 (is what)
+
+62. **bad (.) bad boy .**
+    - N1: 1 (bad boy)
+
+63. **go get him (.) go get him .**
+    - V1: 1 (go)
+    - V1: 1 (get)
+
+64. **Chantilly (.) where's your bone ?**
+    - N1: 1 (Chantilly)
+    - Q1: 1 (question mark)
+
+65. **where's your bone ?**
+    - N2: 1 (your)
+    - Q1: 1 (question mark)
+
+66. **down .**
+    - N1: 1 (down)
+
+67. **you wanna get it ?**
+    - N2: 1 (you)
+    - Q1: 1 (question mark)
+
+68. **he gets mad at the bone ?**
+    - N2: 1 (he)
+    - V10: 1 (gets)
+    - Q1: 1 (question mark)
+
+69. **she loves bones .**
+    - N2: 1 (she)
+    - V1: 1 (loves)
+    - N7: 1 (bones)
+
+70. **good .**
+    - N1: 1 (good)
+
+71. **brought something ?**
+    - V1: 1 (brought)
+    - Q1: 1 (question mark)
+
+72. **maybe a puppet .**
+    - N5: 1 (a puppet)
+
+73. **Crazy_Foam xxx .**
+    - N1: 1 (Crazy_Foam)
+
+74. **foams .**
+    - N7: 1 (foams)
+
+75. **for you take a bath .**
+    - N2: 1 (you)
+    - V1: 1 (take)
+
+76. **squirt her .**
+    - V1: 1 (squirt)
+    - N2: 1 (her)
+
+77. **I don't mind .**
+    - N2: 1 (I)
+    - V3: 1 (don't)
+
+78. **I wanna write too .**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+
+79. **&-um I wanna write &-uh (.) &-uh a baby .**
+    - N2: 1 (I)
+    - V1: 1 (wanna)
+    - N5: 1 (a baby)
+
+80. **I'm gonna get my alphabets .**
+    - N2: 1 (I)
+    - V1: 1 (gonna)
+    - N5: 1 (my alphabets)
+
+81. **okay .**
+    - N1: 1 (okay)
+
+82. **hey (.) I want that now .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 1 (that)
+
+83. **you get a lot a pencils in dere [: there] ?**
+    - N2: 1 (you)
+    - V1: 1 (get)
+    - N5: 1 (a lot a pencils)
+    - Q1: 1 (question mark)
+
+84. **I would like &-um (.) &-um (.) this kind .**
+    - N2: 1 (I)
+    - V9: 1 (would like)
+    - N5: 1 (this kind)
+
+85. **like you have .**
+    - N2: 1 (you)
+    - V1: 1 (have)
+
+86. **now what is that number ?**
+    - N2: 1 (that)
+    - Q1: 1 (question mark)
+
+87. **yyy (.) yyy (.) yyy (.) seven .**
+    - N1: 1 (seven)
+
+88. **yes sir .**
+    - N1: 1 (sir)
+
+89. **no (.) that's a one .**
+    - N2: 1 (that)
+    - N5: 1 (a one)
+
+90. **that way ?**
+    - N2: 1 (that)
+    - Q1: 1 (question mark)
+
+91. **down ?**
+    - N1: 1 (down)
+    - Q1: 1 (question mark)
+
+92. **that ain't a seven .**
+    - N2: 1 (that)
+    - V3: 1 (ain't)
+
+93. **that's a one .**
+    - N2: 1 (that)
+    - V4: 1 (that's a one)
+
+94. **I [//] see y(ou) just make a line down (.) oops .**
+    - N2: 1 (I)
+    - V1: 1 (see)
+
+95. **no (.) it goes towards here (.) see ?**
+    - N2: 1 (it)
+    - V1: 1 (goes)
+    - Q1: 1 (question mark)
+
+96. **I know it .**
+    - N2: 1 (I)
+    - V1: 1 (know)
+
+97. **I turned it round .**
+    - N2: 1 (I)
+    - V12: 1 (turned)
+
+98. **goes [?] that way .**
+    - V1: 1 (goes)
+    - N2: 1 (that)
+
+99. **yeah (.) on the other side .**
+    - N5: 1 (the other side)
+
+100. **make my numbers first .**
+    - N2: 1 (my)
+    - V1: 1 (make)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 14
+N2, 14
+N3, 0
+N4, 0
+N5, 10
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 5
+V4, 5
+V5, 0
+V6, 0
+V7, 3
+V8, 0
+V9, 0
+V10, 1
+V11, 0
+V12, 3
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 12
+Q2, 0
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: Each item is capped at a maximum score of 2, but in this case, none of the items exceeded that limit.)

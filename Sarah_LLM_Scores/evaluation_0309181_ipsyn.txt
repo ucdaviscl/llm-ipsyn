@@ -1,0 +1,298 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax scoring table.
+
+1. I don't have any .  
+   - N3: 1 (any)
+   - V3: 1 (have)
+   - Q3: 1 (don't)
+   - S5: 1 (and)
+
+2. an orange .  
+   - N5: 1 (an orange)
+
+3. apple .  
+   - N1: 1 (apple)
+
+4. apples .  
+   - N7: 1 (apples)
+
+5. no .  
+   - N2: 1 (no)
+
+6. there's a whole bunch .  
+   - N5: 1 (a bunch)
+   - V6: 1 (there's)
+
+7. b(an)anas .  
+   - N1: 1 (bananas)
+
+8. a banana .  
+   - N5: 1 (a banana)
+
+9. you burn it .  
+   - N2: 1 (you)
+   - V4: 1 (burn it)
+   - S4: 1 (you burn it)
+
+10. to burn .  
+    - S8: 1 (to burn)
+
+11. cigarettes .  
+    - N1: 1 (cigarettes)
+
+12. matches .  
+    - N1: 1 (matches)
+
+13. cards .  
+    - N1: 1 (cards)
+
+14. box .  
+    - N1: 1 (box)
+
+15. go to dancing lessons .  
+    - V1: 1 (go)
+    - V3: 1 (to dancing lessons)
+
+16. &-um (.) two years .  
+    - N1: 1 (years)
+    - N3: 1 (two)
+
+17. kittens .  
+    - N1: 1 (kittens)
+
+18. scratching those .  
+    - V7: 1 (scratching)
+    - N2: 1 (those)
+
+19. knittings [: knitting] [* +s] .  
+    - N1: 1 (knittings)
+
+20. reindeers [: reindeer] [* +s] .  
+    - N1: 1 (reindeers)
+
+21. lambs .  
+    - N1: 1 (lambs)
+
+22. bit fat lambs .  
+    - N1: 1 (lambs)
+    - N3: 1 (fat)
+
+23. I can see those .  
+    - N2: 1 (I)
+    - V1: 1 (can see)
+    - N2: 1 (those)
+
+24. grass .  
+    - N1: 1 (grass)
+
+25. dat [: that] spilled .  
+    - N2: 1 (dat)
+    - V1: 1 (spilled)
+
+26. yes .  
+    - N2: 1 (yes)
+
+27. dat [: that] spilled ?  
+    - Q1: 1 (?)
+    - N2: 1 (dat)
+    - V1: 1 (spilled)
+
+28. truck .  
+    - N1: 1 (truck)
+
+29. a truck .  
+    - N5: 1 (a truck)
+
+30. he jumping .  
+    - N2: 1 (he)
+    - V7: 1 (jumping)
+
+31. he jump .  
+    - N2: 1 (he)
+    - V1: 1 (jump)
+
+32. he's jumping in the truck .  
+    - N2: 1 (he)
+    - V6: 1 (he's)
+    - V7: 1 (jumping)
+    - N5: 1 (the truck)
+
+33. girl .  
+    - N1: 1 (girl)
+
+34. two girls .  
+    - N1: 1 (girls)
+    - N3: 1 (two)
+
+35. they drinking .  
+    - N2: 1 (they)
+    - V7: 1 (drinking)
+
+36. milk .  
+    - N1: 1 (milk)
+
+37. climbing up the stairs .  
+    - V1: 1 (climbing)
+    - V3: 1 (up the stairs)
+
+38. I don't know .  
+    - N2: 1 (I)
+    - V1: 1 (know)
+    - Q3: 1 (don't)
+
+39. Sharon .  
+    - N1: 1 (Sharon)
+
+40. Jonathan .  
+    - N1: 1 (Jonathan)
+
+41. stove .  
+    - N1: 1 (stove)
+
+42. nothing happening .  
+    - N1: 1 (nothing)
+    - V1: 1 (happening)
+
+43. boy not sitting .  
+    - N1: 1 (boy)
+    - Q3: 1 (not)
+    - V1: 1 (sitting)
+
+44. truck (.) (a)n(d) car .  
+    - N1: 1 (truck)
+    - N1: 1 (car)
+
+45. train .  
+    - N1: 1 (train)
+
+46. green .  
+    - N3: 1 (green)
+
+47. blue .  
+    - N3: 1 (blue)
+
+48. red .  
+    - N3: 1 (red)
+
+49. orange .  
+    - N3: 1 (orange)
+
+50. nah .  
+    - N2: 1 (nah)
+
+51. kitty .  
+    - N1: 1 (kitty)
+
+52. a dog .  
+    - N5: 1 (a dog)
+
+53. pickin(g) the doggie up .  
+    - V7: 1 (pickin(g))
+    - N5: 1 (the doggie)
+
+54. and (.) she had a kitty .  
+    - S5: 1 (and)
+    - N2: 1 (she)
+    - V4: 1 (had a kitty)
+
+55. she pickin(g) the doggie up .  
+    - N2: 1 (she)
+    - V7: 1 (pickin(g))
+    - N5: 1 (the doggie)
+
+56. she [/] (.) she already hold the doggie .  
+    - N2: 1 (she)
+    - V1: 1 (hold)
+    - N5: 1 (the doggie)
+
+57. he meowing .  
+    - N2: 1 (he)
+    - V7: 1 (meowing)
+
+58. (be)cause xxx .  
+    - N3: 1 (cause)
+
+59. yeah .  
+    - N2: 1 (yeah)
+
+60. yellow .  
+    - N3: 1 (yellow)
+
+61. they pulling the truck .  
+    - N2: 1 (they)
+    - V7: 1 (pulling)
+    - N5: 1 (the truck)
+
+62. doggie .  
+    - N1: 1 (doggie)
+
+63. girls .  
+    - N1: 1 (girls)
+
+64. pink .  
+    - N3: 1 (pink)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12
+N2, 8
+N3, 10
+N4, 0
+N5, 8
+N6, 0
+N7, 3
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 9
+V2, 0
+V3, 5
+V4, 2
+V5, 0
+V6, 2
+V7, 6
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 0
+Q3, 4
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 2
+S6, 0
+S7, 0
+S8, 1
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

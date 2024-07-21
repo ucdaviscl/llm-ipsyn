@@ -1,0 +1,510 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **"yeah ."**
+   - No applicable items.
+
+2. **"fine ."**
+   - No applicable items.
+
+3. **"I [?] look [?] for [?] dis [: this] ."**
+   - N2: 1 (I)
+   - N1: 1 (dis)
+   - V1: 1 (look)
+   - V6: 1 (I look)
+
+4. **"where's other cup ?"**
+   - N1: 1 (cup)
+   - Q1: 1 (contains a question mark)
+   - Q2: 1 (wh-word alone)
+
+5. **"yeah (.) dis [: this] cup ."**
+   - N1: 1 (cup)
+   - N5: 1 (dis cup)
+
+6. **"hey ."**
+   - No applicable items.
+
+7. **"soap ."**
+   - N1: 1 (soap)
+
+8. **"where soap go ?"**
+   - N1: 1 (soap)
+   - Q1: 1 (contains a question mark)
+   - Q2: 1 (wh-word alone)
+
+9. **"I'm find it ."**
+   - N2: 1 (I)
+   - V6: 1 (I'm)
+   - V1: 1 (find)
+
+10. **"soap go ."**
+    - N1: 1 (soap)
+    - V1: 1 (go)
+
+11. **"where soap ?"**
+    - N1: 1 (soap)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+12. **"where soap go ."**
+    - N1: 1 (soap)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+13. **"where ?"**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+14. **"right (.) here ."**
+    - No applicable items.
+
+15. **"here cup ."**
+    - N1: 1 (cup)
+    - N5: 1 (here cup)
+
+16. **"you did find (.) it ."**
+    - N2: 1 (you)
+    - V1: 1 (find)
+
+17. **"oh me ."**
+    - N2: 1 (me)
+
+18. **"where soap ."**
+    - N1: 1 (soap)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+19. **"I yyy find it ."**
+    - N2: 1 (I)
+    - V1: 1 (find)
+
+20. **"I caught it ."**
+    - N2: 1 (I)
+    - V12: 1 (caught)
+
+21. **"huh [/] (.) huh ."**
+    - No applicable items.
+
+22. **"where my [?] caught it ."**
+    - N2: 1 (my)
+    - V12: 1 (caught)
+
+23. **"I got it ."**
+    - N2: 1 (I)
+    - V12: 1 (got)
+
+24. **"yep ."**
+    - No applicable items.
+
+25. **"I wash (.) my &~t (.) yyy ."**
+    - N2: 1 (I)
+    - V1: 1 (wash)
+    - N5: 1 (my)
+
+26. **"I wash my (.) head ."**
+    - N2: 1 (I)
+    - V1: 1 (wash)
+    - N5: 1 (my head)
+
+27. **"playing ."**
+    - V7: 1 (playing)
+
+28. **"xxx (.) dis [: this] ."**
+    - N1: 1 (dis)
+
+29. **"ah sweets ."**
+    - N1: 1 (sweets)
+
+30. **"up a down ."**
+    - No applicable items.
+
+31. **"I get it ."**
+    - N2: 1 (I)
+    - V1: 1 (get)
+
+32. **"hey (.) who did that ?"**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+33. **"wow (.) I wash my stomach ."**
+    - N2: 1 (I)
+    - V1: 1 (wash)
+    - N5: 1 (my stomach)
+
+34. **"I wash my head again ."**
+    - N2: 1 (I)
+    - V1: 1 (wash)
+    - N5: 1 (my head)
+
+35. **"I caught it twice ."**
+    - N2: 1 (I)
+    - V12: 1 (caught)
+
+36. **"&-um (.) Tramp ."**
+    - N1: 1 (Tramp)
+
+37. **"do like milk ."**
+    - V1: 1 (do)
+
+38. **"huh ?"**
+    - Q1: 1 (contains a question mark)
+
+39. **"no ."**
+    - Q3: 1 (Simple Negation)
+
+40. **"light broken ."**
+    - N1: 1 (light)
+
+41. **"my daddy fix it ."**
+    - N2: 1 (my)
+    - V12: 1 (fix)
+
+42. **"over here ."**
+    - No applicable items.
+
+43. **"where a window xxx (.) a my Daddy ?"**
+    - N1: 1 (window)
+    - N2: 1 (my)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+44. **"where Daddy put the window ?"**
+    - N1: 1 (window)
+    - N2: 1 (Daddy)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+45. **"where Daddy yyy xxx window ?"**
+    - N1: 1 (window)
+    - N2: 1 (Daddy)
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+46. **"dat [: that] window ."**
+    - N1: 1 (window)
+    - N5: 1 (dat window)
+
+47. **"man a wet window ."**
+    - N1: 1 (window)
+    - N5: 1 (man window)
+
+48. **"beach ."**
+    - N1: 1 (beach)
+
+49. **"now my get out [= of bath+tub] ?"**
+    - N2: 1 (my)
+    - Q1: 1 (contains a question mark)
+
+50. **"here ?"**
+    - Q1: 1 (contains a question mark)
+
+51. **"I sit down ."**
+    - N2: 1 (I)
+    - V1: 1 (sit)
+
+52. **"yeah (.) I get room xxx ."**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - N1: 1 (room)
+
+53. **"I get ."**
+    - N2: 1 (I)
+    - V1: 1 (get)
+
+54. **"xxx I gone ."**
+    - N2: 1 (I)
+    - V12: 1 (gone)
+
+55. **"I found it ."**
+    - N2: 1 (I)
+    - V12: 1 (found)
+
+56. **"yyy a me ."**
+    - N2: 1 (me)
+
+57. **"xxx (.) read [/] (.) read me a Jack a window [?] ."**
+    - N2: 1 (me)
+    - V1: 1 (read)
+    - N1: 1 (window)
+
+58. **"read me about the window [?] ."**
+    - N1: 1 (window)
+    - N5: 1 (the window)
+
+59. **"I (do)n't know ."**
+    - N2: 1 (I)
+    - Q3: 1 (Simple Negation)
+
+60. **"yyy no soap ."**
+    - N1: 1 (soap)
+    - Q3: 1 (Simple Negation)
+
+61. **"hey (.) xxx dis [: this] ."**
+    - N1: 1 (dis)
+
+62. **"you hurt my back ?"**
+    - N2: 1 (you)
+    - N5: 1 (my back)
+    - Q1: 1 (contains a question mark)
+
+63. **"yeah !"**
+    - No applicable items.
+
+64. **"boo@b [/] (.) boo@b (.) peekaboo ."**
+    - No applicable items.
+
+65. **"say (.) do it [?] ."**
+    - V1: 1 (say)
+    - V1: 1 (do)
+
+66. **"put dis [: this] in teapot ."**
+    - N1: 1 (teapot)
+    - V1: 1 (put)
+
+67. **"whee ."**
+    - No applicable items.
+
+68. **"dis [: this] fun ."**
+    - N1: 1 (fun)
+    - V4: 1 (dis fun)
+
+69. **"dat [: that] fun ?"**
+    - N1: 1 (fun)
+    - Q1: 1 (contains a question mark)
+
+70. **"I get more my hair ."**
+    - N2: 1 (I)
+    - V1: 1 (get)
+    - N5: 1 (my hair)
+
+71. **"a water ."**
+    - N1: 1 (water)
+
+72. **"I swim ."**
+    - N2: 1 (I)
+    - V1: 1 (swim)
+
+73. **"I how swim ."**
+    - N2: 1 (I)
+    - V1: 1 (swim)
+
+74. **"I soap my hair ."**
+    - N2: 1 (I)
+    - V1: 1 (soap)
+    - N5: 1 (my hair)
+
+75. **"I fall down ."**
+    - N2: 1 (I)
+    - V1: 1 (fall)
+
+76. **"what you doing ?"**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+77. **"what ."**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+78. **"I pour you some ."**
+    - N2: 1 (I)
+    - V1: 1 (pour)
+
+79. **"why ?"**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone)
+
+80. **"do(n't) like (.) go wet (.) swim ?"**
+    - Q1: 1 (contains a question mark)
+    - Q3: 1 (Simple Negation)
+
+81. **"xxx you want (.) you xxx swim ?"**
+    - Q1: 1 (contains a question mark)
+
+82. **"no ?"**
+    - Q1: 1 (contains a question mark)
+    - Q3: 1 (Simple Negation)
+
+83. **"okay (.) I'll [?] swim ."**
+    - N2: 1 (I)
+    - V9: 1 (I'll)
+
+84. **"<dis [: this] a> [/] (.) dis [: this] a teapot (.) huh ."**
+    - N1: 1 (teapot)
+    - N5: 1 (dis a teapot)
+
+85. **"dis [: this] a teapot ."**
+    - N1: 1 (teapot)
+    - N5: 1 (dis a teapot)
+
+86. **"xxx swim ."**
+    - No applicable items.
+
+87. **"I xxx my o(f) [?] my hair ."**
+    - N2: 1 (I)
+    - N5: 1 (my hair)
+
+88. **"I get more xxx ."**
+    - N2: 1 (I)
+    - V1: 1 (get)
+
+89. **"a bob(by)_pin ."**
+    - N1: 1 (bob pin)
+
+90. **"wan(t) pour some ?"**
+    - Q1: 1 (contains a question mark)
+
+91. **"here ."**
+    - No applicable items.
+
+92. **"do (a)gain ."**
+    - V1: 1 (do)
+
+93. **"<do (a)gain (.) do (a)gain> [/] (.) do &~g (a)gain ?"**
+    - Q1: 1 (contains a question mark)
+
+94. **"do (a)gain [/] (.) do (a)gain ."**
+    - V1: 1 (do)
+
+95. **"I like (.) water ."**
+    - N2: 1 (I)
+    - V1: 1 (like)
+    - N1: 1 (water)
+
+96. **"some yyy (.) xxx ."**
+    - No applicable items.
+
+97. **"dis [: this] okay ?"**
+    - Q1: 1 (contains a question mark)
+
+98. **"<big big> [/] big ?"**
+    - Q1: 1 (contains a question mark)
+
+99. **"I playing ."**
+    - N2: 1 (I)
+    - V7: 1 (playing)
+
+100. **"dat [: that] ."**
+    - No applicable items.
+
+Now, let's compile the scores for each item:
+
+- N1: 12
+- N2: 12
+- N3: 0
+- N4: 0
+- N5: 8
+- N6: 0
+- N7: 0
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 15
+- V2: 0
+- V3: 0
+- V4: 2
+- V5: 0
+- V6: 2
+- V7: 2
+- V8: 0
+- V9: 2
+- V10: 0
+- V11: 0
+- V12: 6
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- Q1: 20
+- Q2: 10
+- Q3: 5
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 0
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 0
+N5, 2
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 0
+V4, 2
+V5, 0
+V6, 2
+V7, 2
+V8, 0
+V9, 2
+V10, 0
+V11, 0
+V12, 2
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+Q1, 2
+Q2, 2
+Q3, 2
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

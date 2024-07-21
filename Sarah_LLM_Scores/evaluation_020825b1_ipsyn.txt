@@ -1,0 +1,488 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **bite you ?**  
+   - Q1: 1  
+   - Q2: 1  
+   - S2: 1  
+
+2. **fishie ?**  
+   - Q1: 1  
+   - Q2: 1  
+
+3. **hi (.) fishie .**  
+   - N1: 1  
+
+4. **xxx fishie .**  
+   - N1: 1  
+
+5. **any nose ?**  
+   - Q1: 1  
+   - N1: 1  
+   - N5: 1  
+
+6. **no .**  
+   - Q3: 1  
+
+7. **where Donna ?**  
+   - Q1: 1  
+   - Q4: 1  
+
+8. **where ?**  
+   - Q1: 1  
+   - Q2: 1  
+
+9. **swimming xxx .**  
+   - V7: 1  
+
+10. **he swimming (.) Mommy .**  
+    - S2: 1  
+    - V7: 1  
+
+11. **he's eating yyy Mommy .**  
+    - V1: 1  
+    - V6: 1  
+
+12. **he's hungry .**  
+    - V1: 1  
+
+13. **he hungry (.) Mommy .**  
+    - V4: 1  
+
+14. **dat [: that] &-uh .**  
+    - N1: 1  
+
+15. **I feed him &=0in (th)ere .**  
+    - S3: 1  
+    - V1: 1  
+
+16. **in (th)ere .**  
+    - N1: 1  
+
+17. **who coffee ?**  
+    - Q1: 1  
+    - Q2: 1  
+
+18. **whoop .**  
+    - N1: 1  
+
+19. **here fishie .**  
+    - N1: 1  
+
+20. **dat [: that] animal .**  
+    - N1: 1  
+    - N5: 1  
+
+21. **animal .**  
+    - N1: 1  
+
+22. **xxx animals .**  
+    - N7: 1  
+
+23. **where animal .**  
+    - N1: 1  
+    - Q4: 1  
+
+24. **<ate all up> [?] .**  
+    - Q1: 1  
+    - V1: 1  
+
+25. **put back hm: .**  
+    - V1: 1  
+    - S3: 1  
+
+26. **I put back .**  
+    - S2: 1  
+    - V1: 1  
+
+27. **I put back (.) Mummy .**  
+    - S2: 1  
+    - V1: 1  
+
+28. **who cup ?**  
+    - Q1: 1  
+    - Q2: 1  
+
+29. **Courtney cup ?**  
+    - Q1: 1  
+    - Q2: 1  
+
+30. **who milk is dat [: that] ?**  
+    - Q1: 1  
+    - Q4: 1  
+
+31. **yes .**  
+    - N1: 1  
+
+32. **I want dat [: that] too .**  
+    - S2: 1  
+    - V1: 1  
+
+33. **you [//] you pour dis [: this] .**  
+    - S2: 1  
+    - V1: 1  
+
+34. **pour dis [: this] too .**  
+    - V1: 1  
+
+35. **I want have some in dere [: there] .**  
+    - S2: 1  
+    - V1: 1  
+
+36. **I want dat [: that] .**  
+    - S2: 1  
+    - V1: 1  
+
+37. **okay .**  
+    - N1: 1  
+
+38. **wa@b (.)ahwawawawawawawawawawawa@b .**  
+    - N1: 1  
+
+39. **I want cookie too .**  
+    - S2: 1  
+    - V1: 1  
+
+40. **got one .**  
+    - V1: 1  
+
+41. **xxx you xxx .**  
+    - N1: 1  
+
+42. **xxx sink .**  
+    - N1: 1  
+
+43. **<I want put my> [/] I want put my .**  
+    - S2: 1  
+    - V1: 1  
+
+44. **(a)n(d) a cookie .**  
+    - N1: 1  
+    - N5: 1  
+
+45. **you want cookie .**  
+    - S2: 1  
+    - V1: 1  
+
+46. **got two cookies .**  
+    - V1: 1  
+    - N7: 1  
+
+47. **count them .**  
+    - V1: 1  
+
+48. **one .**  
+    - N1: 1  
+
+49. **two .**  
+    - N1: 1  
+
+50. **three .**  
+    - N1: 1  
+
+51. **four five .**  
+    - S1: 1  
+
+52. **five cookies .**  
+    - N1: 1  
+    - N7: 1  
+
+53. **xxx dat [: that] all_gone .**  
+    - N1: 1  
+
+54. **they [?] all_gone .**  
+    - Q1: 1  
+    - V1: 1  
+
+55. **gone .**  
+    - N1: 1  
+
+56. **xxx cookie in (th)ere .**  
+    - N1: 1  
+
+57. **put in (th)ere (.) Mommy .**  
+    - V1: 1  
+    - V3: 1  
+
+58. **put in (th)ere .**  
+    - V1: 1  
+    - V3: 1  
+
+59. **dere [: there] one .**  
+    - N1: 1  
+    - N5: 1  
+
+60. **I got one .**  
+    - S2: 1  
+    - V1: 1  
+
+61. **yeah I got one .**  
+    - S2: 1  
+    - V1: 1  
+
+62. **let's [?] count them .**  
+    - Q1: 1  
+    - V1: 1  
+
+63. **count one .**  
+    - V1: 1  
+
+64. **count them in (th)ere .**  
+    - V1: 1  
+    - V3: 1  
+
+65. **I want two .**  
+    - S2: 1  
+    - V1: 1  
+
+66. **you got xxx .**  
+    - S2: 1  
+    - V1: 1  
+
+67. **xxx a milk .**  
+    - N1: 1  
+
+68. **xxx cookie .**  
+    - N1: 1  
+
+69. **a cookie (.) Mummy ?**  
+    - N1: 1  
+    - Q1: 1  
+
+70. **a cookie .**  
+    - N1: 1  
+
+71. **a my xxx .**  
+    - N1: 1  
+
+72. **put yours in .**  
+    - V1: 1  
+
+73. **big [/] big hold .**  
+    - N1: 1  
+
+74. **my name on it .**  
+    - N1: 1  
+    - N5: 1  
+
+75. **see .**  
+    - V1: 1  
+
+76. **name xxx .**  
+    - N1: 1  
+
+77. **my name .**  
+    - N1: 1  
+
+78. **see my name (.) Mummy ?**  
+    - Q1: 1  
+    - S2: 1  
+
+79. **right here .**  
+    - N1: 1  
+
+80. **see (.) Mummy ?**  
+    - Q1: 1  
+    - S2: 1  
+
+81. **here my name back .**  
+    - N1: 1  
+    - N5: 1  
+
+82. **Putnam_Avenue .**  
+    - N1: 1  
+
+83. **xxx number up mm .**  
+    - N1: 1  
+
+84. **seven four .**  
+    - N1: 1  
+
+85. **four .**  
+    - N1: 1  
+
+86. **xxx dere [: there] .**  
+    - N1: 1  
+
+87. **whoops !**  
+    - N1: 1  
+
+88. **dog eat dat [: that] xxx .**  
+    - S2: 1  
+    - V1: 1  
+
+89. **my stick up .**  
+    - N1: 1  
+    - V1: 1  
+
+90. **see my stick up .**  
+    - S2: 1  
+    - V1: 1  
+
+91. **see my pin .**  
+    - S2: 1  
+    - V1: 1  
+
+92. **I got pin .**  
+    - S2: 1  
+    - V1: 1  
+
+93. **you got one .**  
+    - S2: 1  
+    - V1: 1  
+
+94. **you got everything .**  
+    - S2: 1  
+    - V1: 1  
+
+95. **yeah .**  
+    - N1: 1  
+
+96. **Mommy girl .**  
+    - N1: 1  
+    - N5: 1  
+
+97. **Mommy (.) you [/] (.) you .**  
+    - S2: 1  
+
+98. **I love fishie too .**  
+    - S2: 1  
+    - V1: 1  
+
+99. **I love fishie .**  
+    - S2: 1  
+    - V1: 1  
+
+100. **I love Daddy too .**  
+    - S2: 1  
+    - V1: 1  
+
+Now, let's compile the scores for each item:
+
+- N1: 20
+- N2: 0
+- N3: 0
+- N4: 0
+- N5: 6
+- N6: 0
+- N7: 3
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 20
+- V2: 0
+- V3: 3
+- V4: 1
+- V5: 0
+- V6: 0
+- V7: 5
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 0
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 15
+- Q2: 6
+- Q3: 1
+- Q4: 3
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 1
+- S2: 20
+- S3: 6
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum of 2:
+
+Final score:
+N1, 2
+N2, 0
+N3, 0
+N4, 0
+N5, 2
+N6, 0
+N7, 2
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 1
+V5, 0
+V6, 0
+V7, 2
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 2
+Q2, 2
+Q3, 1
+Q4, 2
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 1
+S2, 2
+S3, 2
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

@@ -1,0 +1,436 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. I'm cooking .
+   - V1: 1 (cooking)
+
+2. know what this (.) Daddy ?
+   - Q2: 1 (know what)
+
+3. scrambled eggs ?
+   - N1: 1 (eggs)
+
+4. you had cereal (.) huh (.) cereal ?
+   - N1: 2 (cereal)
+   - V1: 1 (had)
+
+5. I ate mine all up .
+   - N2: 1 (I)
+   - V1: 1 (ate)
+
+6. you did too .
+   - N2: 1 (you)
+   - V1: 1 (did)
+
+7. Mommy (.) can I do that (.) Mom ?
+   - N2: 1 (I)
+   - V1: 1 (can)
+   - V4: 1 (can I do)
+
+8. why ?
+   - Q1: 1 (question mark)
+
+9. not my brother (.) my turtle .
+   - N2: 2 (my)
+   - N1: 1 (brother)
+   - N1: 1 (turtle)
+
+10. he's not (.) xxx .
+    - N2: 1 (he)
+    - V7: 1 (he's)
+
+11. turtle .
+    - N1: 1 (turtle)
+
+12. see ?
+    - V1: 1 (see)
+
+13. Tammy Thomas .
+    - N1: 1 (Tammy)
+    - N1: 1 (Thomas)
+
+14. Dimmy Thomas .
+    - N1: 1 (Dimmy)
+    - N1: 1 (Thomas)
+
+15. Danny [!!] Thomas [!!] .
+    - N1: 1 (Danny)
+    - N1: 1 (Thomas)
+
+16. Dammy Thomas .
+    - N1: 1 (Dammy)
+    - N1: 1 (Thomas)
+
+17. Tammy (.) I mean (.) Dammy Thomas .
+    - N1: 1 (Tammy)
+    - N2: 1 (I)
+    - N1: 1 (Dammy)
+    - N1: 1 (Thomas)
+
+18. handsome ?
+    - N1: 1 (handsome)
+
+19. no .
+    - N3: 1 (no)
+
+20. come on (.) you .
+    - N2: 1 (you)
+
+21. won't be a big one .
+    - V9: 1 (won't be)
+    - N5: 1 (a big one)
+
+22. d(o) you hope he grows ?
+    - V9: 1 (do)
+    - V1: 1 (hope)
+    - V1: 1 (grows)
+
+23. xxx turtle (.) whoa .
+    - N1: 1 (turtle)
+
+24. here you tryin(g) a get out .
+    - V1: 1 (tryin(g))
+
+25. can't get out .
+    - V1: 1 (get)
+    - V3: 1 (get out)
+
+26. food .
+    - N1: 1 (food)
+
+27. he doesn't eat scrambled eggs .
+    - N2: 1 (he)
+    - V1: 1 (doesn't eat)
+    - N1: 1 (eggs)
+
+28. I can pour in .
+    - N2: 1 (I)
+    - V1: 1 (can pour)
+
+29. apple juice .
+    - N1: 1 (juice)
+
+30. I can pour that in .
+    - N2: 1 (I)
+    - V1: 1 (can pour)
+
+31. huh ?
+    - Q1: 1 (question mark)
+
+32. I will pour it in .
+    - N2: 1 (I)
+    - V9: 1 (will pour)
+
+33. pour .
+    - V1: 1 (pour)
+
+34. I can get that too .
+    - N2: 1 (I)
+    - V1: 1 (can get)
+
+35. I wanna pour it .
+    - N2: 1 (I)
+    - V1: 1 (wanna pour)
+
+36. alright .
+    - N1: 1 (alright)
+
+37. haha .
+    - N1: 1 (haha)
+
+38. mm hot !
+    - N1: 1 (hot)
+
+39. Mommy .
+    - N1: 1 (Mommy)
+
+40. you didn't gave me too much .
+    - N2: 1 (you)
+    - V12: 1 (didn't gave)
+
+41. ow (.) I burned my tongue .
+    - N2: 1 (I)
+    - V12: 1 (burned)
+
+42. yeah (.) I want it hot .
+    - N2: 1 (I)
+    - V1: 1 (want)
+
+43. no (.) that's for wallpaper .
+    - N1: 1 (wallpaper)
+    - V4: 1 (that's for)
+
+44. for my baby brother .
+    - N2: 1 (my)
+    - N1: 1 (brother)
+
+45. mhm .
+    - N1: 1 (mhm)
+
+46. you know what things are (.) Mommy .
+    - N2: 1 (you)
+    - V1: 1 (know)
+    - N1: 1 (things)
+
+47. can I have toast too ?
+    - N2: 1 (I)
+    - V1: 1 (can have)
+
+48. can I have toast ?
+    - N2: 1 (I)
+    - V1: 1 (can have)
+
+49. uhhuh (.) Mommy ?
+    - N2: 1 (Mommy)
+
+50. (it)'s rainin(g) out .
+    - N1: 1 (it)
+    - V7: 1 (rainin(g))
+
+51. yyy (.) did you bring your umbrella ?
+    - N2: 1 (you)
+    - V1: 1 (did bring)
+
+52. e@l e@l e@l .
+    - N1: 1 (e@l)
+
+53. yep .
+    - N1: 1 (yep)
+
+54. I have two of them .
+    - N2: 1 (I)
+    - V1: 1 (have)
+
+55. it goed [: went] [* +ed] on my side and I licked it .
+    - N2: 1 (it)
+    - V12: 1 (goed)
+    - V12: 1 (licked)
+
+56. it's starting to (.) cloud .
+    - N1: 1 (it)
+    - V7: 1 (starting)
+
+57. I am .
+    - N2: 1 (I)
+    - V6: 1 (am)
+
+58. I didn't spill it last night (.) uhhuh (.) Mommy ?
+    - N2: 1 (I)
+    - V12: 1 (didn't spill)
+
+59. because I'm a good girl last night .
+    - N2: 1 (I)
+    - V1: 1 (am)
+
+60. yup (.) and gave me quarter .
+    - N2: 1 (me)
+    - V12: 1 (gave)
+
+61. quarter (.) huh (.) quarter .
+    - N1: 1 (quarter)
+
+62. I broke my yyy .
+    - N2: 1 (I)
+    - V12: 1 (broke)
+
+63. yeah .
+    - N1: 1 (yeah)
+
+64. I swing my arm out .
+    - N2: 1 (I)
+    - V1: 1 (swing)
+
+65. I swing my arm out (.) Mommy .
+    - N2: 1 (I)
+    - V1: 1 (swing)
+
+66. see the tunnel xxx .
+    - V1: 1 (see)
+    - N1: 1 (tunnel)
+
+67. I eat it all up .
+    - N2: 1 (I)
+    - V1: 1 (eat)
+
+68. I eat my egg all up now .
+    - N2: 1 (I)
+    - V1: 1 (eat)
+
+69. I sure get my muscles .
+    - N2: 1 (I)
+    - V1: 1 (get)
+
+70. I get my bubble .
+    - N2: 1 (I)
+    - V1: 1 (get)
+
+71. hm: ?
+    - Q1: 1 (question mark)
+
+72. I don't know .
+    - N2: 1 (I)
+    - V3: 1 (don't know)
+
+73. where ?
+    - Q1: 1 (question mark)
+
+74. from cows ?
+    - Q1: 1 (question mark)
+
+75. milk .
+    - N1: 1 (milk)
+
+76. from (.) &-uh (.) water .
+    - N1: 1 (water)
+
+77. hens .
+    - N1: 1 (hens)
+
+78. maybe he left em up the sky and he didn't come down no more .
+    - N2: 2 (he)
+    - V12: 1 (left)
+    - V12: 1 (didn't come)
+
+79. honeycomb (.) honeycomb .
+    - N1: 1 (honeycomb)
+
+80. in my head .
+    - N2: 1 (my)
+    - N1: 1 (head)
+
+81. for eating .
+    - N1: 1 (eating)
+
+82. mix it all together you .
+    - N2: 1 (you)
+    - V1: 1 (mix)
+
+83. hey (.) my hands are greasy .
+    - N2: 1 (my)
+    - V4: 1 (are greasy)
+
+84. from all the egg .
+    - N5: 1 (the egg)
+
+85. yum yum yum yum yum yum .
+    - N1: 1 (yum)
+
+86. I'm now hungry .
+    - N2: 1 (I)
+    - V1: 1 (am)
+
+87. I had oatmeal .
+    - N2: 1 (I)
+    - V12: 1 (had)
+
+88. Danny Thomas is a long name .
+    - N2: 1 (Danny)
+    - V4: 1 (is a long name)
+
+89. nickname ?
+    - N1: 1 (nickname)
+
+90. nah .
+    - N1: 1 (nah)
+
+91. I want my toast (.) Daddy .
+    - N2: 1 (I)
+    - V1: 1 (want)
+
+92. I want two pieces .
+    - N2: 1 (I)
+    - V1: 1 (want)
+
+93. a little baby's bib .
+    - N5: 1 (a little baby's bib)
+
+94. a little big puppy (.) no (.) xxx puppy (.) and (.) a bear (.) and the <baby> [/] (.) baby in the crib .
+    - N5: 1 (a little big puppy)
+    - N1: 1 (bear)
+    - N1: 1 (baby)
+
+95. I don't stand up in this chair .
+    - N2: 1 (I)
+    - V3: 1 (don't stand up)
+
+96. I stand in the car .
+    - N2: 1 (I)
+    - V1: 1 (stand)
+
+97. there's dirt in the car .
+    - N1: 1 (dirt)
+    - V4: 1 (there's)
+
+98. you put your hand on there .
+    - N2: 1 (you)
+    - V1: 1 (put)
+
+99. my hand's all greasy .
+    - N2: 1 (my)
+    - V4: 1 (hand's all greasy)
+
+100. xxx get all greasy .
+    - V1: 1 (get)
+
+Final score:
+N1, 20
+N2, 16
+N3, 3
+N4, 0
+N5, 4
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 0
+V3, 3
+V4, 5
+V5, 0
+V6, 1
+V7, 2
+V8, 0
+V9, 2
+V10, 0
+V11, 0
+V12, 6
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 8
+Q2, 1
+Q3, 1
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

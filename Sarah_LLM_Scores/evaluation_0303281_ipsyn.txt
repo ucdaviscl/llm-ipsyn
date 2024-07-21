@@ -1,0 +1,392 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **hole .**  
+   - N1: 1
+
+2. **i(t) ge(t) one hole .**  
+   - N1: 2 (one hole)  
+   - V1: 1
+
+3. **&-uh (.) q@l .**  
+   - N1: 2 (q@l)
+
+4. **tha(t)'s a q@l .**  
+   - N5: 1 (a q@l)  
+   - V4: 1 (tha(t)'s)
+
+5. **&~a:h (.) a nowhe(re) .**  
+   - N5: 2 (a nowhe(re))
+
+6. **nah .**  
+   - (No applicable items)
+
+7. **&-uh (.) see the one hole .**  
+   - N5: 2 (the one hole)  
+   - V6: 1 (see)
+
+8. **that's an (.) a@l .**  
+   - N5: 2 (an a@l)  
+   - V4: 2 (that's)
+
+9. **&-uh (.) what's this ?**  
+   - Q1: 1  
+   - Q4: 1 (what's this)
+
+10. **that's a (.) two .**  
+    - N5: 2 (a two)  
+    - V4: 2 (that's)
+
+11. **tha(t)'s a t@l .**  
+    - N5: 2 (a t@l)  
+    - V4: 2 (tha(t)'s)
+
+12. **k@l .**  
+    - N1: 2 (k@l)
+
+13. **this an .**  
+    - (No applicable items)
+
+14. **tha(t) one xxx .**  
+    - N1: 2 (one)
+
+15. **yeah .**  
+    - (No applicable items)
+
+16. **that's a p@l .**  
+    - N5: 2 (a p@l)  
+    - V4: 2 (that's)
+
+17. **wha(t)'s an a@l ?**  
+    - Q1: 2  
+    - Q4: 2 (wha(t)'s an a@l)
+
+18. **&-um &-uh [/] (.) &-uh (.) ten .**  
+    - N1: 2 (ten)
+
+19. **there .**  
+    - (No applicable items)
+
+20. **p@l .**  
+    - N1: 2 (p@l)
+
+21. **no (.) dis [: this] one go dat [: that] way .**  
+    - N1: 2 (one)  
+    - V1: 1 (go)
+
+22. **no (.) that's (a)n(d) a@l .**  
+    - N5: 2 (a@l)  
+    - V4: 2 (that's)
+
+23. **both a@l-s .**  
+    - N1: 2 (a@l-s)
+
+24. **no dis [: this] one (.) is an &-uh I xxx .**  
+    - N5: 2 (an)  
+    - V6: 1 (is)
+
+25. **oh .**  
+    - (No applicable items)
+
+26. **where ?**  
+    - Q1: 2
+
+27. **tha(t)'s m@l .**  
+    - N5: 2 (m@l)  
+    - V4: 2 (tha(t)'s)
+
+28. **peekaboo .**  
+    - (No applicable items)
+
+29. **&-uh hey [/] hey you go(t) that .**  
+    - V1: 1 (go(t))
+
+30. **yes it is .**  
+    - V6: 1 (is)
+
+31. **&-um hi(s) name .**  
+    - N2: 1 (hi(s))  
+    - N1: 1 (name)
+
+32. **Kent .**  
+    - N1: 2 (Kent)
+
+33. **huh ?**  
+    - Q1: 2
+
+34. **what letter ?**  
+    - Q1: 2  
+    - Q4: 1 (what letter)
+
+35. **&-uh (.) a@l .**  
+    - N5: 2 (a@l)
+
+36. **okay .**  
+    - (No applicable items)
+
+37. **get a box .**  
+    - N5: 1 (a box)  
+    - V1: 1 (get)
+
+38. **no .**  
+    - (No applicable items)
+
+39. **I don't know .**  
+    - V3: 1 (don't know)
+
+40. **&-uh (.) put this up (.) here .**  
+    - V1: 1 (put)  
+    - N2: 1 (this)
+
+41. **you get me a piece .**  
+    - N5: 1 (a piece)  
+    - V1: 1 (get)
+
+42. **uhhuh .**  
+    - (No applicable items)
+
+43. **wh(ere) (.) Grampy's cigarettes ?**  
+    - Q1: 2  
+    - Q4: 1 (wh(ere) Grampy's cigarettes)
+
+44. **I wanna (.) smoke cigarettes .**  
+    - V1: 1 (wanna)  
+    - N1: 1 (cigarettes)
+
+45. **i(t)'s an o@l .**  
+    - N5: 2 (an o@l)  
+    - V4: 2 (i(t)'s)
+
+46. **the(r)e's a pink .**  
+    - N5: 2 (a pink)  
+    - V4: 2 (the(r)e's)
+
+47. **he(r)e's a red one .**  
+    - N5: 2 (a red one)  
+    - V4: 2 (he(r)e's)
+
+48. **the(r)e's a red .**  
+    - N5: 2 (a red)  
+    - V4: 2 (the(r)e's)
+
+49. **tha(t)'s a red .**  
+    - N5: 2 (a red)  
+    - V4: 2 (tha(t)'s)
+
+50. **tha(t)'s a red (.) Mommy .**  
+    - N5: 2 (a red)  
+    - V4: 2 (tha(t)'s)
+
+51. **I know my a(l)phabet .**  
+    - N2: 1 (my)  
+    - V1: 1 (know)
+
+52. **whe(re) dis [: this] go ?**  
+    - Q1: 2  
+    - Q4: 1 (whe(re) dis go)
+
+53. **whe(r)e is one ?**  
+    - Q1: 2  
+    - Q4: 1 (whe(r)e is one)
+
+54. **whe(r)e are you ?**  
+    - Q1: 2  
+    - Q4: 1 (whe(r)e are you)
+
+55. **wait !**  
+    - V1: 1 (wait)
+
+56. **here .**  
+    - (No applicable items)
+
+57. **w(r)ite this .**  
+    - V1: 1 (w(r)ite)  
+    - N2: 1 (this)
+
+58. **w(r)ite that (.) wi(th) .**  
+    - V1: 1 (w(r)ite)  
+    - N2: 1 (that)
+
+59. **ho(ld) dis [: this] .**  
+    - V1: 1 (ho(ld))  
+    - N2: 1 (dis)
+
+60. **a yyy .**  
+    - (No applicable items)
+
+61. **a s@l .**  
+    - N1: 2 (s@l)
+
+62. **mine .**  
+    - N2: 2 (mine)
+
+63. **hm: .**  
+    - (No applicable items)
+
+64. **huh .**  
+    - (No applicable items)
+
+65. **ya get it ?**  
+    - Q1: 2  
+    - Q4: 1 (ya get it)
+
+66. **(a)n(d) Millisan(d)y .**  
+    - N1: 2 (Millisan(d)y)
+
+67. **(i)s Bozo on (.) Thursday ?**  
+    - Q1: 2  
+    - Q4: 1 (is Bozo on Thursday)
+
+68. **Fred .**  
+    - N1: 2 (Fred)
+
+69. **<hop@o (.) hop@o (.) hop@o> [/] (.) hop@o .**  
+    - (No applicable items)
+
+70. **I wan(t) .**  
+    - V1: 1 (wan(t))
+
+71. **I wan(t) (.) a fudgecicle .**  
+    - N5: 1 (a fudgecicle)  
+    - V1: 1 (wan(t))
+
+72. **there (.) Momma (.) there .**  
+    - N1: 1 (Momma)
+
+73. **whe(r)e is it ?**  
+    - Q1: 2  
+    - Q4: 1 (whe(r)e is it)
+
+74. **wha(t)'s that ?**  
+    - Q1: 2  
+    - Q4: 1 (wha(t)'s that)
+
+75. **uhuh .**  
+    - (No applicable items)
+
+76. **awoh .**  
+    - (No applicable items)
+
+77. **tha(t)'s a &~m .**  
+    - N5: 2 (a &~m)  
+    - V4: 2 (tha(t)'s)
+
+78. **tha(t)'s .**  
+    - V4: 2 (tha(t)'s)
+
+79. **&-uh (.) oh &-uh (.) k@l .**  
+    - N1: 2 (k@l)
+
+80. **&-uh yyy (.) an x@l .**  
+    - N5: 2 (an x@l)
+
+81. **xxx cross here cross here .**  
+    - (No applicable items)
+
+82. **(a)n(d) a@l .**  
+    - N5: 2 (a@l)
+
+83. **uhoh .**  
+    - (No applicable items)
+
+84. **a b@l .**  
+    - N1: 2 (b@l)
+
+85. **oh (.) I don('t) know .**  
+    - V3: 1 (don('t) know)
+
+86. **a t@l .**  
+    - N1: 2 (t@l)
+
+87. **that's not t@l (.) a t@l .**  
+    - N5: 2 (a t@l)  
+    - V4: 2 (that's)
+
+88. **hunm .**  
+    - (No applicable items)
+
+89. **i(t) go(t) a hole in it (.) see ?**  
+    - N5: 1 (a hole)  
+    - V1: 1 (go(t))  
+    - V1: 1 (see)
+
+90. **it's a q@l .**  
+    - N5: 2 (a q@l)  
+    - V4: 2 (it's)
+
+91. **it's a (.) x@l .**  
+    - N5: 2 (a x@l)  
+    - V4: 2 (it's)
+
+92. **where's the x@l ?**  
+    - Q1: 2  
+    - Q4: 1 (where's the x@l)
+
+93. **no it doesn't .**  
+    - V3: 1 (doesn't)
+
+94. **it goes that way .**  
+    - V1: 1 (goes)
+
+Final score:
+N1, 20  
+N2, 8  
+N3, 0  
+N4, 0  
+N5, 20  
+N6, 0  
+N7, 0  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 15  
+V2, 0  
+V3, 3  
+V4, 12  
+V5, 0  
+V6, 0  
+V7, 0  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 12  
+Q2, 0  
+Q3, 0  
+Q4, 8  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

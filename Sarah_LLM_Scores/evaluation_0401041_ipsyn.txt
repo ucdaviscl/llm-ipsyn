@@ -1,0 +1,486 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **xxx Jo .**  
+   - N1: 1 (Jo)
+   
+2. **&-um Daddy .**  
+   - N1: 2 (Daddy)  
+   - Stop counting N1 as it reached 2.
+
+3. **we can have sheer@p up .**  
+   - N2: 1 (we)  
+   - V1: 1 (can)  
+   - V1: 2 (have)  
+   - Stop counting V1 as it reached 2.
+
+4. **<I want> [/] (.) I want you go xxx .**  
+   - N2: 2 (I)  
+   - V1: 1 (want)  
+   - V6: 1 (want you go)  
+   - Stop counting N2 as it reached 2.
+
+5. **wanna go under the bed .**  
+   - V1: 1 (wanna)  
+   - V2: 1 (go)  
+   - V3: 1 (under the bed)  
+
+6. **don't touch (.) stay away .**  
+   - V1: 2 (don't, touch)  
+   - Stop counting V1 as it reached 2.  
+   - V1: 1 (stay)  
+
+7. **I wanna (.) touch (.) your leg .**  
+   - N2: 1 (I)  
+   - V1: 1 (wanna)  
+   - V3: 1 (your leg)  
+
+8. **I can't touch it from over here .**  
+   - N2: 2 (I)  
+   - V1: 1 (can't)  
+   - V3: 1 (from over here)  
+   - Stop counting N2 as it reached 2.
+
+9. **(be)cause .**  
+   - V1: 1 (be)  
+
+10. **yeah .**  
+    - (No applicable items)
+
+11. **closer this far .**  
+    - (No applicable items)
+
+12. **that far .**  
+    - (No applicable items)
+
+13. **this far .**  
+    - (No applicable items)
+
+14. **put me way up .**  
+    - V1: 1 (put)  
+    - N2: 1 (me)  
+
+15. **I touched it .**  
+    - N2: 2 (I)  
+    - V12: 1 (touched)  
+    - Stop counting N2 as it reached 2.
+
+16. **who's that ?**  
+    - N2: 1 (who's)  
+    - Q1: 1 (contains a question mark)  
+
+17. **I got a new record .**  
+    - N2: 2 (I)  
+    - N5: 1 (a new record)  
+    - V12: 1 (got)  
+    - Stop counting N2 as it reached 2.
+
+18. **see (.) I got these for my birthday party .**  
+    - N2: 1 (I)  
+    - V1: 1 (see)  
+    - N5: 1 (my birthday party)  
+
+19. **it's a record .**  
+    - N5: 2 (a record)  
+    - V6: 1 (it's)  
+    - Stop counting N5 as it reached 2.
+
+20. **it's Mary_Poppins record .**  
+    - N5: 1 (Mary_Poppins record)  
+    - V6: 2 (it's)  
+    - Stop counting V6 as it reached 2.
+
+21. **yep .**  
+    - (No applicable items)
+
+22. **do you ?**  
+    - N2: 1 (you)  
+    - Q1: 2 (contains a question mark)  
+    - Stop counting Q1 as it reached 2.
+
+23. **califragislisticixialidocious@b .**  
+    - (No applicable items)
+
+24. **chimchim@b (.) chimchim@b (.) xxx .**  
+    - (No applicable items)
+
+25. **in the spoon the sugar .**  
+    - N5: 1 (the sugar)  
+    - V3: 1 (in the spoon)  
+
+26. **that goes there .**  
+    - N1: 1 (that)  
+    - V1: 1 (goes)  
+
+27. **when ya going to ?**  
+    - N2: 1 (ya)  
+    - Q1: 1 (contains a question mark)  
+    - V1: 1 (going)  
+
+28. **that many .**  
+    - (No applicable items)
+
+29. **but she's almost older than me .**  
+    - N2: 2 (she's)  
+    - V1: 1 (is)  
+    - Stop counting N2 as it reached 2.
+
+30. **she's older than you .**  
+    - N2: 1 (she's)  
+    - V1: 1 (is)  
+
+31. **a yyy older .**  
+    - (No applicable items)
+
+32. **I don't know .**  
+    - N2: 2 (I)  
+    - V3: 1 (don't know)  
+    - Stop counting N2 as it reached 2.
+
+33. **babies don't talk .**  
+    - N7: 1 (babies)  
+    - V1: 1 (don't)  
+    - V1: 2 (talk)  
+    - Stop counting V1 as it reached 2.
+
+34. **uhhuh (.) Mummy (.) babies don't talk ?**  
+    - N2: 1 (babies)  
+    - Q1: 1 (contains a question mark)  
+
+35. **no I don't want it on there .**  
+    - N2: 2 (I)  
+    - V1: 1 (don't)  
+    - Stop counting N2 as it reached 2.
+
+36. **I show you how full my piggie_bank in .**  
+    - N2: 1 (I)  
+    - V1: 1 (show)  
+    - N5: 1 (my piggie_bank)  
+
+37. **oh .**  
+    - (No applicable items)
+
+38. **hafta drag it in the floor .**  
+    - V1: 1 (hafta)  
+    - V1: 2 (drag)  
+    - Stop counting V1 as it reached 2.
+
+39. **come here for a <min(ute)> [//] (.) little while .**  
+    - V1: 1 (come)  
+    - N5: 1 (a little while)  
+
+40. **because I can't carry the piggie_bank .**  
+    - N2: 2 (I)  
+    - V1: 1 (can't)  
+    - Stop counting N2 as it reached 2.
+
+41. **Wheaties .**  
+    - N1: 1 (Wheaties)  
+
+42. **but I don't have xxx .**  
+    - N2: 2 (I)  
+    - V1: 1 (don't)  
+    - Stop counting N2 as it reached 2.
+
+43. **it's heavy .**  
+    - V6: 1 (it's)  
+
+44. **Sarah .**  
+    - N1: 1 (Sarah)  
+
+45. **you put it on huh ?**  
+    - N2: 1 (you)  
+    - V1: 1 (put)  
+    - Q1: 1 (contains a question mark)  
+
+46. **&-uh (.) Barnes .**  
+    - N1: 1 (Barnes)  
+
+47. **I have two of them .**  
+    - N2: 2 (I)  
+    - V1: 1 (have)  
+    - Stop counting N2 as it reached 2.
+
+48. **one (.) two (.) three (.) four .**  
+    - N7: 1 (one, two, three, four)  
+
+49. **one (.) two (.) three (.) four (.) five (.) eleven (.) twelve (.) fourteen (.) eighteen .**  
+    - N7: 2 (one, two, three, four, five, eleven, twelve, fourteen, eighteen)  
+    - Stop counting N7 as it reached 2.
+
+50. **there's a_lot_of pennies in there .**  
+    - N5: 1 (a_lot_of pennies)  
+    - V6: 1 (there's)  
+
+51. **I'll look through it .**  
+    - N2: 1 (I)  
+    - V1: 1 (look)  
+
+52. **I never seen my name so xxx .**  
+    - N2: 2 (I)  
+    - V12: 1 (seen)  
+    - Stop counting N2 as it reached 2.
+
+53. **no .**  
+    - (No applicable items)
+
+54. **can't look through that hole .**  
+    - V1: 1 (can't)  
+
+55. **huh ?**  
+    - Q1: 1 (contains a question mark)  
+
+56. **you can't look through that hold (.) huh ?**  
+    - N2: 1 (you)  
+    - V1: 1 (can't)  
+    - Q1: 2 (contains a question mark)  
+    - Stop counting Q1 as it reached 2.
+
+57. **you could look through this hole (.) huh ?**  
+    - N2: 1 (you)  
+    - V9: 1 (could look)  
+    - Q1: 1 (contains a question mark)  
+
+58. **airplanes (.) o:h .**  
+    - N7: 1 (airplanes)  
+
+59. **airplane .**  
+    - N1: 1 (airplane)  
+
+60. **yeah (.) see .**  
+    - V1: 1 (see)  
+
+61. **they're for a bond .**  
+    - N2: 1 (they're)  
+    - V6: 1 (they're)  
+
+62. **they're for a big bond .**  
+    - N2: 2 (they're)  
+    - V6: 2 (they're)  
+    - Stop counting N2 as it reached 2.
+
+63. **<where is the> [/] (.) where is the (.) dollar ?**  
+    - N5: 1 (the dollar)  
+    - Q1: 1 (contains a question mark)  
+    - V1: 1 (is)  
+
+64. **my dollar .**  
+    - N5: 2 (my dollar)  
+    - Stop counting N5 as it reached 2.
+
+65. **bond I mean .**  
+    - N1: 1 (bond)  
+    - V1: 1 (mean)  
+
+66. **let me see em .**  
+    - V9: 1 (let)  
+    - V1: 1 (see)  
+
+67. **<I want> [/] (.) I wanna show em Melissa .**  
+    - N2: 2 (I)  
+    - V1: 1 (wanna)  
+    - Stop counting N2 as it reached 2.
+
+68. **I wanna show Melissa .**  
+    - N2: 1 (I)  
+    - V1: 1 (wanna)  
+
+69. **Melissa I get a piggie_bank and now I got two piggie_banks .**  
+    - N2: 2 (I)  
+    - V1: 1 (get)  
+    - Stop counting N2 as it reached 2.
+
+70. **one is a doggie (.) one is a pig .**  
+    - N1: 1 (one)  
+    - V4: 1 (one is a doggie)  
+    - V4: 1 (one is a pig)  
+
+71. **money [?] .**  
+    - (No applicable items)
+
+72. **mhm .**  
+    - (No applicable items)
+
+73. **no (.) no .**  
+    - (No applicable items)
+
+74. **but you can carry it .**  
+    - N2: 1 (you)  
+    - V1: 1 (can)  
+    - V3: 1 (carry it)  
+
+75. **I can carry it (.) anybody can carry that .**  
+    - N2: 2 (I)  
+    - V1: 1 (can)  
+    - Stop counting N2 as it reached 2.
+
+76. **he's a yyy one .**  
+    - N2: 1 (he's)  
+    - V6: 1 (he's)  
+
+77. **his name is Chantilly_Barnes .**  
+    - N2: 1 (his)  
+    - V1: 1 (is)  
+    - N5: 1 (name)  
+
+78. **I go get it .**  
+    - N2: 2 (I)  
+    - V1: 1 (go)  
+    - Stop counting N2 as it reached 2.
+
+79. **you see ?**  
+    - N2: 1 (you)  
+    - V1: 1 (see)  
+    - Q1: 1 (contains a question mark)  
+
+80. **I (.) got an aunt .**  
+    - N2: 2 (I)  
+    - V12: 1 (got)  
+    - Stop counting N2 as it reached 2.
+
+81. **you buy me a piggie_bank .**  
+    - N2: 1 (you)  
+    - V1: 1 (buy)  
+    - N5: 1 (a piggie_bank)  
+
+82. **I'm tired .**  
+    - N2: 2 (I)  
+    - V6: 1 (I'm)  
+    - Stop counting N2 as it reached 2.
+
+83. **from (.) you .**  
+    - (No applicable items)
+
+84. **Mommy .**  
+    - N1: 1 (Mommy)  
+
+85. **I ain't comb my hair when I get out .**  
+    - N2: 2 (I)  
+    - V1: 1 (ain't)  
+    - Stop counting N2 as it reached 2.
+
+86. **right there .**  
+    - (No applicable items)
+
+87. **yeah (.) didn't have my breakfast .**  
+    - N2: 1 (didn't)  
+    - V1: 1 (have)  
+    - N5: 1 (my breakfast)  
+
+88. **now .**  
+    - (No applicable items)
+
+89. **no (.) my bangs are sticking down [//] (.) up .**  
+    - N2: 2 (my)  
+    - V1: 1 (are)  
+    - Stop counting N2 as it reached 2.
+
+90. **my bangs are stickin(g) down up .**  
+    - N2: 1 (my)  
+    - V1: 1 (are)  
+
+91. **want me make your bangs ?**  
+    - N2: 1 (me)  
+    - V1: 1 (want)  
+    - Q1: 1 (contains a question mark)  
+
+92. **you have bangs ?**  
+    - N2: 2 (you)  
+    - V1: 1 (have)  
+    - Q1: 2 (contains a question mark)  
+    - Stop counting N2 as it reached 2.
+
+93. **which one you like ?**  
+    - N2: 1 (you)  
+    - V1: 1 (like)  
+    - Q1: 1 (contains a question mark)  
+
+94. **do you know ?**  
+    - N2: 2 (you)  
+    - V1: 1 (do)  
+    - Stop counting N2 as it reached 2.
+
+95. **do you know them ?**  
+    - N2: 1 (you)  
+    - V1: 1 (do)  
+    - Q1: 1 (contains a question mark)  
+
+96. **John Kennedy .**  
+    - N1: 1 (John Kennedy)  
+
+97. **Paul .**  
+    - N1: 1 (Paul)  
+
+98. **don't .**  
+    - V1: 1 (don't)  
+
+99. **(be)cause he is a boy .**  
+    - N2: 1 (he)  
+    - V1: 1 (is)  
+    - N5: 1 (a boy)  
+
+100. **does xxx comb xxx in there ?**  
+    - N2: 1 (does)  
+    - Q1: 1 (contains a question mark)  
+
+Now, let's compile the scores:
+
+Final score:
+N1, 6  
+N2, 2  
+N3, 0  
+N4, 0  
+N5, 2  
+N6, 2  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 2  
+V2, 1  
+V3, 2  
+V4, 1  
+V5, 0  
+V6, 2  
+V7, 0  
+V8, 0  
+V9, 1  
+V10, 0  
+V11, 0  
+V12, 2  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+Q1, 2  
+Q2, 0  
+Q3, 0  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

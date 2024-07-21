@@ -1,0 +1,522 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **dere [: there] my alphabets .**
+   - N1: 1 (alphabets)
+   - N2: 1 (my)
+   - N5: 1 (my alphabets)
+
+2. **can I take em out ?**
+   - N2: 1 (I)
+   - V1: 1 (can)
+   - V1: 1 (take)
+   - V3: 1 (out)
+
+3. **there's an h@l .**
+   - N1: 1 (h@l)
+   - V6: 1 (there's)
+
+4. **here .**
+   - (No applicable items)
+
+5. **Mommy (.) here .**
+   - N1: 1 (Mommy)
+
+6. **(a)n(d) one fo(r) me .**
+   - N1: 1 (one)
+   - N2: 1 (me)
+   - N5: 1 (one for me)
+
+7. **one fo(r) you (.) (a)n(d) one fo(r) you .**
+   - N1: 1 (one)
+   - N2: 1 (you)
+   - N5: 1 (one for you)
+
+8. **yyy now .**
+   - (No applicable items)
+
+9. **(a)n(d) one fo(r) you .**
+   - N1: 1 (one)
+   - N2: 1 (you)
+   - N5: 1 (one for you)
+
+10. **an (.) n@l (.) n@l e@l [?] . [+ bch]**
+    - (No applicable items)
+
+11. **a yyy .**
+    - (No applicable items)
+
+12. **b@l .**
+    - (No applicable items)
+
+13. **&-uh xxx don't chew it .**
+    - V1: 1 (chew)
+    - V3: 1 (it)
+
+14. **xxx (.) see that ?**
+    - V1: 1 (see)
+    - Q1: 1 (question mark)
+
+15. **hey (.) see that ?**
+    - V1: 1 (see)
+    - Q1: 1 (question mark)
+
+16. **bite .**
+    - V1: 1 (bite)
+
+17. **&-um (.) my dog .**
+    - N1: 1 (dog)
+    - N2: 1 (my)
+
+18. **he bad dog .**
+    - N1: 1 (dog)
+    - V4: 1 (he is bad)
+
+19. **yeah .**
+    - (No applicable items)
+
+20. **huh ?**
+    - Q1: 1 (question mark)
+
+21. **&-uh (.) he hop .**
+    - V1: 1 (hop)
+
+22. **I (.) xxx .**
+    - N2: 1 (I)
+
+23. **I'm hungry .**
+    - V6: 1 (I'm)
+    - N1: 1 (hungry)
+
+24. **what ?**
+    - Q1: 1 (question mark)
+
+25. **news: ?**
+    - Q1: 1 (question mark)
+
+26. **yyy cakes .**
+    - N1: 1 (cakes)
+
+27. **I want some .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (some)
+
+28. **I wan(t) fudgecicle .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (fudgecicle)
+
+29. **okay .**
+    - (No applicable items)
+
+30. **why ?**
+    - Q1: 1 (question mark)
+
+31. **no (.) I want this .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (this)
+
+32. **I want this .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N1: 1 (this)
+
+33. **you can('t) ha(ve) some a my candles .**
+    - N2: 1 (you)
+    - V1: 1 (can)
+    - N5: 1 (my candles)
+
+34. **&-uh (.) six .**
+    - N1: 1 (six)
+
+35. **Mommy (.) .**
+    - N1: 1 (Mommy)
+
+36. **you can count them .**
+    - N2: 1 (you)
+    - V1: 1 (can)
+    - V1: 1 (count)
+
+37. **Christmas .**
+    - N1: 1 (Christmas)
+
+38. **dey're [: they're] candycanes .**
+    - N1: 1 (candycanes)
+    - V6: 1 (dey're)
+
+39. **put em on the candles .**
+    - V1: 1 (put)
+    - N5: 1 (the candles)
+
+40. **oh .**
+    - (No applicable items)
+
+41. **I put i(n) rouge .**
+    - N2: 1 (I)
+    - V1: 1 (put)
+    - N1: 1 (rouge)
+
+42. **he been on a <co(uch)> [/] (.) couch .**
+    - N1: 1 (couch)
+    - V6: 1 (been)
+
+43. **he get a spankin(g) .**
+    - N1: 1 (spankin(g))
+    - V1: 1 (get)
+
+44. **ri(ght) here .**
+    - (No applicable items)
+
+45. **he lives down [/] (.) down the address .**
+    - N1: 1 (address)
+    - V1: 1 (lives)
+
+46. **one (.) seven (.) four .**
+    - N1: 1 (one)
+    - N1: 1 (seven)
+    - N1: 1 (four)
+
+47. **Putnam_Avenue .**
+    - N1: 1 (Putnam_Avenue)
+
+48. **no: .**
+    - (No applicable items)
+
+49. **I can ten xxx yyy .**
+    - N2: 1 (I)
+    - V1: 1 (can)
+
+50. **on Putnam_Avenue .**
+    - V3: 1 (on Putnam_Avenue)
+
+51. **seventy four .**
+    - N1: 1 (seventy four)
+
+52. **fine .**
+    - (No applicable items)
+
+53. **yeah (.) shall I go ge(t) him ?**
+    - N2: 1 (I)
+    - V1: 1 (shall)
+    - V1: 1 (go)
+    - Q1: 1 (question mark)
+
+54. **he fine xxx .**
+    - N2: 1 (he)
+    - V1: 1 (is)
+
+55. **&-uh (.) seven o'clock .**
+    - N1: 1 (seven o'clock)
+
+56. **oh !**
+    - (No applicable items)
+
+57. **I not tired .**
+    - N2: 1 (I)
+    - V3: 1 (not tired)
+
+58. **hey whe(re) Millisandy ?**
+    - Q1: 1 (question mark)
+
+59. **Millisandy .**
+    - N1: 1 (Millisandy)
+
+60. **oh here you are .**
+    - N2: 1 (you)
+    - V1: 1 (are)
+
+61. **I wonder (.) xxx where you at .**
+    - N2: 1 (I)
+    - V1: 1 (wonder)
+    - N2: 1 (you)
+
+62. **(.) oh (.) you can't get it .**
+    - N2: 1 (you)
+    - V1: 1 (can't)
+    - V1: 1 (get)
+    - N1: 1 (it)
+
+63. **he scratched me .**
+    - N2: 1 (he)
+    - V1: 1 (scratched)
+    - N2: 1 (me)
+
+64. **uhuh (.) ups_a_daisy .**
+    - (No applicable items)
+
+65. **ups_a_daisy .**
+    - (No applicable items)
+
+66. **he don't talk .**
+    - N2: 1 (he)
+    - V1: 1 (don't)
+    - V1: 1 (talk)
+
+67. **he [/] (.) he got no string .**
+    - N2: 1 (he)
+    - V1: 1 (got)
+    - N1: 1 (string)
+
+68. **get no string .**
+    - V1: 1 (get)
+    - N1: 1 (string)
+
+69. **o:h (.) did you see that ?**
+    - V1: 1 (did)
+    - N2: 1 (you)
+    - V1: 1 (see)
+    - Q1: 1 (question mark)
+
+70. **o:h (.) did you see that .**
+    - V1: 1 (did)
+    - N2: 1 (you)
+    - V1: 1 (see)
+
+71. **he goin(g) take a nap .**
+    - N2: 1 (he)
+    - V1: 1 (goin(g))
+    - V1: 1 (take)
+    - N1: 1 (nap)
+
+72. **you see that ?**
+    - N2: 1 (you)
+    - V1: 1 (see)
+    - Q1: 1 (question mark)
+
+73. **(.) lie down !**
+    - V1: 1 (lie)
+
+74. **she got a string .**
+    - N2: 1 (she)
+    - V1: 1 (got)
+    - N1: 1 (string)
+
+75. **<he go> [//] (.) you get ta to sleep .**
+    - N2: 1 (you)
+    - V1: 1 (get)
+    - V1: 1 (go)
+    - N1: 1 (sleep)
+
+76. **where ?**
+    - Q1: 1 (question mark)
+
+77. **it's on you .**
+    - N2: 1 (you)
+    - V1: 1 (is)
+
+78. **I want you to .**
+    - N2: 1 (I)
+    - V1: 1 (want)
+    - N2: 1 (you)
+
+79. **I won't .**
+    - N2: 1 (I)
+    - V1: 1 (won't)
+
+80. **xxx want me get the xxx .**
+    - N2: 1 (me)
+    - V1: 1 (want)
+    - V1: 1 (get)
+
+81. **the father .**
+    - N1: 1 (father)
+
+82. **(a)n(d) I can('t) find a book ?**
+    - N2: 1 (I)
+    - V1: 1 (can)
+    - V1: 1 (find)
+    - N1: 1 (book)
+    - Q1: 1 (question mark)
+
+83. **what new one ?**
+    - Q1: 1 (question mark)
+
+84. **which one ?**
+    - Q1: 1 (question mark)
+
+85. **Rudolph ?**
+    - Q1: 1 (question mark)
+
+86. **he asleep ?**
+    - N2: 1 (he)
+    - V1: 1 (asleep)
+    - Q1: 1 (question mark)
+
+87. **no it isn't .**
+    - N1: 1 (it)
+    - V1: 1 (isn't)
+
+88. **here ?**
+    - Q1: 1 (question mark)
+
+89. **I fin(d) it ?**
+    - N2: 1 (I)
+    - V1: 1 (find)
+    - Q1: 1 (question mark)
+
+90. **I s(l)eep under there .**
+    - N2: 1 (I)
+    - V1: 1 (sleep)
+    - N1: 1 (there)
+
+91. **alright .**
+    - (No applicable items)
+
+92. **Santa_Claus .**
+    - N1: 1 (Santa_Claus)
+
+93. **finge(r) okay .**
+    - N1: 1 (finger)
+
+94. **I di(d)n't cry .**
+    - N2: 1 (I)
+    - V1: 1 (didn't)
+    - V1: 1 (cry)
+
+95. **the reindeer was asleep .**
+    - N1: 1 (reindeer)
+    - V4: 1 (was asleep)
+
+96. **(a)n(d) the rein di(d)n't .**
+    - N1: 1 (rein)
+    - V1: 1 (didn't)
+
+97. **the reindeer wa(nt) say no .**
+    - N1: 1 (reindeer)
+    - V1: 1 (want)
+
+98. **<says no> [/] (.) says no .**
+    - V1: 1 (says)
+
+99. **(a)n(d) the reindeer said no .**
+    - N1: 1 (reindeer)
+    - V1: 1 (said)
+
+100. **(a)n(d) &~s (.) an a (.) yyy .**
+    - (No applicable items)
+
+Now, let's compile the scores for each item:
+
+- N1: 20
+- N2: 14
+- N3: 0
+- N4: 0
+- N5: 8
+- N6: 0
+- N7: 0
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 30
+- V2: 0
+- V3: 5
+- V4: 2
+- V5: 0
+- V6: 5
+- V7: 1
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 0
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- Q1: 15
+- Q2: 0
+- Q3: 0
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 0
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum of 2:
+
+Final score:
+N1, 2
+N2, 2
+N3, 0
+N4, 0
+N5, 2
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 2
+V2, 0
+V3, 2
+V4, 2
+V5, 0
+V6, 2
+V7, 1
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 0
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+Q1, 2
+Q2, 0
+Q3, 0
+Q4, 0
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 0
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0

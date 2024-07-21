@@ -1,0 +1,491 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I can even write my name here.**
+   - N1: 1 (name)
+   - V1: 1 (can, write)
+   - V6: 1 (can)
+   - S2: 1 (I can)
+   - S4: 1 (I can write my name)
+
+2. **see?**
+   - V1: 1 (see)
+   - Q1: 1 (contains a question mark)
+
+3. **write Sa(rah).**
+   - V1: 1 (write)
+   - N1: 1 (Sa(rah))
+
+4. **uhhuh [/] (.) uhhuh.**
+   - No applicable items.
+
+5. **I'll copy it.**
+   - V1: 1 (copy)
+   - V6: 1 (I'll)
+   - S2: 1 (I will)
+
+6. **like that?**
+   - Q1: 1 (contains a question mark)
+
+7. **I gave a bill to my Nana.**
+   - N1: 1 (bill, Nana)
+   - V1: 1 (gave)
+   - S4: 1 (I gave a bill)
+
+8. **+, a bill.**
+   - N1: 1 (bill)
+   - N5: 1 (a bill)
+
+9. **yes.**
+   - No applicable items.
+
+10. **because.**
+    - No applicable items.
+
+11. **for her to spend on it.**
+    - N2: 1 (her, it)
+    - V1: 1 (spend)
+    - V3: 1 (on it)
+
+12. **how you make a s@l (.) Mom?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (how)
+    - S2: 1 (you make)
+
+13. **that small?**
+    - Q1: 1 (contains a question mark)
+
+14. **I said (.) you can spend it.**
+    - N1: 1 (I, it)
+    - V1: 1 (said, can, spend)
+    - S4: 1 (I said you can spend)
+
+15. **for me.**
+    - N2: 1 (me)
+
+16. **I will copy it down here.**
+    - V1: 1 (copy)
+    - V6: 1 (will)
+    - S2: 1 (I will)
+
+17. **how you make a s@l (.) like that?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (how)
+    - S2: 1 (you make)
+
+18. **first what?**
+    - Q1: 1 (contains a question mark)
+
+19. **I said (.) first what?**
+    - Q1: 1 (contains a question mark)
+    - S2: 1 (I said)
+
+20. **what line?**
+    - Q1: 1 (contains a question mark)
+
+21. **down here?**
+    - Q1: 1 (contains a question mark)
+
+22. **this is an h@l.**
+    - N1: 1 (h@l)
+    - V4: 1 (this is)
+
+23. **see I told ya.**
+    - V1: 1 (see, told)
+    - S2: 1 (I told)
+
+24. **you want a spell my numbers?**
+    - Q1: 1 (contains a question mark)
+    - S2: 1 (you want)
+
+25. **gi(ve) me my alphabet.**
+    - N1: 1 (alphabet)
+    - V1: 1 (give)
+    - N2: 1 (me, my)
+
+26. **t@l (.) r@l (.) e@l (.) g@l.**
+    - No applicable items.
+
+27. **I know how to do an e@l.**
+    - N1: 1 (e@l)
+    - V1: 1 (know, do)
+    - S8: 1 (to do)
+
+28. **that's so easy.**
+    - V4: 1 (that is)
+    - N1: 1 (easy)
+
+29. **c@l.**
+    - No applicable items.
+
+30. **I know.**
+    - V1: 1 (know)
+    - S2: 1 (I know)
+
+31. **it's a dress.**
+    - N1: 1 (dress)
+    - V4: 1 (it is)
+    - N5: 1 (a dress)
+
+32. **no:.**
+    - No applicable items.
+
+33. **I just made that.**
+    - N1: 1 (that)
+    - V12: 1 (made)
+    - S2: 1 (I made)
+
+34. **Mommy go get my scissors.**
+    - N1: 1 (Mommy, scissors)
+    - V1: 1 (go, get)
+    - S6: 1 (go get)
+
+35. **okay.**
+    - No applicable items.
+
+36. **what is that?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (what is)
+
+37. **no (.) huhuh.**
+    - No applicable items.
+
+38. **what is it?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (what is)
+
+39. **tell me what is it.**
+    - V1: 1 (tell, is)
+    - N2: 1 (me, it)
+    - S4: 1 (tell me what is)
+
+40. **now you can see (.) can't ya?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (can, see)
+    - S2: 1 (you can)
+
+41. **you know.**
+    - V1: 1 (know)
+    - S2: 1 (you know)
+
+42. **it's a w@l.**
+    - N1: 1 (w@l)
+    - V4: 1 (it is)
+    - N5: 1 (a w@l)
+
+43. **that [?] fingers.**
+    - N1: 1 (fingers)
+    - V4: 1 (that is)
+
+44. **Mommy (.) see?**
+    - V1: 1 (see)
+    - Q1: 1 (contains a question mark)
+
+45. **copy it.**
+    - V1: 1 (copy)
+    - N2: 1 (it)
+    - S2: 1 (copy it)
+
+46. **that's a w@l.**
+    - N1: 1 (w@l)
+    - V4: 1 (that is)
+    - N5: 1 (a w@l)
+
+47. **I made one a those.**
+    - N1: 1 (one, those)
+    - V12: 1 (made)
+    - S4: 1 (I made one)
+
+48. **it's a c@l.**
+    - N1: 1 (c@l)
+    - V4: 1 (it is)
+    - N5: 1 (a c@l)
+
+49. **see c@l.**
+    - V1: 1 (see)
+    - N1: 1 (c@l)
+
+50. **see.**
+    - V1: 1 (see)
+
+51. **see (.) look it.**
+    - V1: 1 (see, look)
+    - N2: 1 (it)
+    - S6: 1 (see look)
+
+52. **come in the light.**
+    - V1: 1 (come)
+    - V3: 1 (in the light)
+
+53. **spells &-um (.) &-um (.) dog?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (spells)
+
+54. **a@l.**
+    - No applicable items.
+
+55. **r@l.**
+    - No applicable items.
+
+56. **e@l.**
+    - No applicable items.
+
+57. **I can't spell that one.**
+    - N1: 1 (one, that)
+    - V3: 1 (spell)
+    - V3: 1 (can't)
+
+58. **mine.**
+    - N2: 1 (mine)
+
+59. **that's a t@l (.) and this is an f@l.**
+    - N1: 1 (t@l, f@l)
+    - V4: 1 (that is, this is)
+    - S5: 1 (and)
+
+60. **wanna see me make an f@l?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (wanna, see, make)
+    - N2: 1 (me, an)
+
+61. **I gotta write some off.**
+    - V1: 1 (gotta, write)
+    - S2: 1 (I gotta)
+
+62. **that's an f@l.**
+    - N1: 1 (f@l)
+    - V4: 1 (that is)
+    - N5: 1 (an f@l)
+
+63. **yes sir.**
+    - No applicable items.
+
+64. **this is the bottom.**
+    - N1: 1 (bottom)
+    - V4: 1 (this is)
+    - N5: 1 (the bottom)
+
+65. **a little bit bottom.**
+    - N1: 1 (bit, bottom)
+    - N5: 1 (a bit)
+
+66. **put a little more.**
+    - V1: 1 (put)
+    - N5: 1 (a little)
+
+67. **there's only one.**
+    - N1: 1 (one)
+    - V6: 1 (there's)
+
+68. **I can write that (.) n@l (.) n@l.**
+    - N1: 1 (that, n@l)
+    - V1: 1 (can, write)
+    - S4: 1 (I can write)
+
+69. **I know how to spell cat.**
+    - N1: 1 (cat)
+    - V1: 1 (know, spell)
+    - S8: 1 (to spell)
+
+70. **c@l?**
+    - Q1: 1 (contains a question mark)
+
+71. **is that a c@l (.) Mommy?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (is that)
+    - N1: 1 (c@l)
+
+72. **I saw it (.) &-uh.**
+    - N2: 1 (it)
+    - V1: 1 (saw)
+    - S2: 1 (I saw)
+
+73. **I am the teacher.**
+    - N1: 1 (teacher)
+    - V4: 1 (I am)
+    - S2: 1 (I am)
+
+74. **dis [: this] is a better c@l.**
+    - N1: 1 (c@l)
+    - V4: 1 (dis is)
+    - N5: 1 (a better c@l)
+
+75. **Dad [/] (.) Dad [/] (.) Daddy that's a better c@l.**
+    - N1: 1 (Dad, Daddy, c@l)
+    - V4: 1 (that's)
+    - N5: 1 (a better c@l)
+
+76. **wanna see me write (.) make water?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (wanna, see, write, make)
+    - N2: 1 (me, water)
+
+77. **curly (.) curly (.) curly (.) curly (.) curly water.**
+    - N1: 1 (water)
+    - N3: 1 (curly)
+
+78. **oh Mommy.**
+    - N2: 1 (Mommy)
+
+79. **what is this?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (what is)
+
+80. **it's gonna be a mirror.**
+    - N1: 1 (mirror)
+    - V4: 1 (it is)
+    - V9: 1 (gonna be)
+
+81. **know how to make a mirror?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (know, make)
+    - N5: 1 (a mirror)
+
+82. **like this.**
+    - No applicable items.
+
+83. **a door is a mirror (.) see?**
+    - N1: 1 (door, mirror)
+    - V4: 1 (is)
+    - Q1: 1 (contains a question mark)
+
+84. **know where the knob is?**
+    - Q1: 1 (contains a question mark)
+    - V1: 1 (know, is)
+    - N1: 1 (knob)
+
+85. **gotta go right here.**
+    - V1: 1 (gotta, go)
+    - S2: 1 (gotta go)
+
+86. **there (.) see?**
+    - V1: 1 (see)
+    - Q1: 1 (contains a question mark)
+
+87. **that's a real door.**
+    - N1: 1 (door)
+    - V4: 1 (that is)
+    - N5: 1 (a real door)
+
+88. **it has legs on it.**
+    - N1: 1 (legs, it)
+    - V1: 1 (has)
+    - V3: 1 (on it)
+
+89. **it's gonna be a lollipop door.**
+    - N1: 1 (lollipop door)
+    - V4: 1 (it is)
+    - V9: 1 (gonna be)
+
+90. **two of them.**
+    - N2: 1 (them)
+
+91. **is that a peanut door?**
+    - Q1: 1 (contains a question mark)
+    - Q4: 1 (is that)
+    - N1: 1 (peanut door)
+
+92. **a lollipop door?**
+    - Q1: 1 (contains a question mark)
+
+93. **peanut_butter?**
+    - Q1: 1 (contains a question mark)
+
+94. **peanut lollipop (.) door.**
+    - N1: 1 (peanut, lollipop, door)
+
+95. **a boy's eatin(g) it.**
+    - N1: 1 (boy's)
+    - V7: 1 (eating)
+    - N2: 1 (it)
+
+96. **that's the head.**
+    - N1: 1 (head)
+    - V4: 1 (that is)
+    - N5: 1 (the head)
+
+97. **that's the face.**
+    - N1: 1 (face)
+    - V4: 1 (that is)
+    - N5: 1 (the face)
+
+98. **curly hair (.) curly hair.**
+    - N1: 1 (hair)
+    - N3: 1 (curly)
+
+99. **he made a mess of herself.**
+    - N1: 1 (mess)
+    - V12: 1 (made)
+    - N2: 1 (herself)
+
+100. **I can make a children.**
+    - N1: 1 (children)
+    - V1: 1 (can, make)
+    - S2: 1 (I can)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20
+N2, 10
+N3, 5
+N4, 0
+N5, 8
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 25
+V2, 0
+V3, 5
+V4, 10
+V5, 0
+V6, 3
+V7, 1
+V8, 0
+V9, 0
+V10, 0
+V11, 0
+V12, 3
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 20
+Q2, 5
+Q3, 0
+Q4, 5
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 15
+S3, 0
+S4, 10
+S5, 1
+S6, 3
+S7, 0
+S8, 2
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores are capped at a maximum of 2 for each item, but in this case, none of the items exceeded that limit.)

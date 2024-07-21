@@ -1,0 +1,407 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **breakfast .**  
+   - N1: 1
+
+2. **Tommy ?**  
+   - N1: 2 (max reached)
+
+3. **yyy juice .**  
+   - N1: 2 (max reached)
+
+4. **drinking .**  
+   - V7: 1
+
+5. **cof(fee) .**  
+   - N1: 2 (max reached)
+
+6. **my new shoes .**  
+   - N5: 1
+   - N1: 1
+
+7. **new shoes .**  
+   - N1: 2 (max reached)
+
+8. **tap shoes .**  
+   - N1: 2 (max reached)
+
+9. **ow .**  
+   - (no applicable items)
+
+10. **my zipper .**  
+    - N5: 1
+    - N1: 1
+
+11. **I blow my nose .**  
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+12. **see .**  
+    - V1: 2 (max reached)
+
+13. **blow .**  
+    - V1: 2 (max reached)
+
+14. **boo_boo .**  
+    - N1: 1
+
+15. **I xxx want do that .**  
+    - N2: 1
+    - V1: 1
+
+16. **oops xxx .**  
+    - (no applicable items)
+
+17. **Mommy girl .**  
+    - N1: 1
+    - N4: 1
+
+18. **my name .**  
+    - N5: 1
+    - N1: 1
+
+19. **all world .**  
+    - N1: 2 (max reached)
+
+20. **rings .**  
+    - N1: 1
+    - N7: 1
+
+21. **my .**  
+    - N2: 2 (max reached)
+
+22. **my fame .**  
+    - N5: 1
+    - N1: 1
+
+23. **dance .**  
+    - V1: 1
+
+24. **no xxx .**  
+    - Q3: 1
+
+25. **where my K(leen)ex .**  
+    - Q9: 1
+    - N5: 1
+
+26. **where is it ?**  
+    - Q1: 1
+    - Q6: 1
+
+27. **where you K(leen)ex ?**  
+    - Q1: 2 (max reached)
+
+28. **full of pep .**  
+    - (no applicable items)
+
+29. **yyy but me .**  
+    - S5: 1
+
+30. **wow wow .**  
+    - (no applicable items)
+
+31. **you .**  
+    - N2: 1
+
+32. **why ?**  
+    - Q1: 2 (max reached)
+
+33. **go (a)head .**  
+    - V1: 2 (max reached)
+
+34. **dat [: that] yours .**  
+    - N1: 1
+    - N2: 1
+
+35. **no (.) yours .**  
+    - Q3: 2 (max reached)
+
+36. **you fussy girl .**  
+    - N2: 2 (max reached)
+    - N1: 1
+
+37. **you yawn .**  
+    - N2: 2 (max reached)
+    - V1: 1
+
+38. **I yawn too !**  
+    - N2: 2 (max reached)
+    - V1: 2 (max reached)
+
+39. **see ?**  
+    - Q1: 2 (max reached)
+
+40. **xxx my K(leen)ex .**  
+    - (no applicable items)
+
+41. **I put my (.) K(leen)ex .**  
+    - N2: 2 (max reached)
+    - V1: 1
+    - N5: 1
+
+42. **happy <to you> [/] (.) to <you (.) you> [/] you .**  
+    - (no applicable items)
+
+43. **oh !**  
+    - (no applicable items)
+
+44. **happy .**  
+    - (no applicable items)
+
+45. **to you .**  
+    - (no applicable items)
+
+46. **wan(t) do (a)gain .**  
+    - V1: 1
+    - S8: 1
+
+47. **do (a)gain .**  
+    - V1: 2 (max reached)
+
+48. **one more .**  
+    - (no applicable items)
+
+49. **me ?**  
+    - N2: 1
+    - Q1: 1
+
+50. **who me ?**  
+    - Q1: 2 (max reached)
+
+51. **oh .**  
+    - (no applicable items)
+
+52. **<yeah yeah> [/] yeah .**  
+    - (no applicable items)
+
+53. **I xxx .**  
+    - (no applicable items)
+
+54. **yes .**  
+    - (no applicable items)
+
+55. **where my pa(rt)y .**  
+    - Q9: 2 (max reached)
+    - N5: 1
+
+56. **where .**  
+    - (no applicable items)
+
+57. **my pa(rt)y ?**  
+    - Q1: 1
+    - N5: 1
+
+58. **where my pa(rt)y go .**  
+    - Q9: 2 (max reached)
+    - N5: 1
+
+59. **okay .**  
+    - (no applicable items)
+
+60. **whoop xxx .**  
+    - (no applicable items)
+
+61. **wow !**  
+    - (no applicable items)
+
+62. **xxx go ?**  
+    - Q1: 1
+    - V1: 1
+
+63. **where ?**  
+    - Q1: 2 (max reached)
+
+64. **no (.) right dere [: there] .**  
+    - Q3: 2 (max reached)
+
+65. **oh (.) uhoh .**  
+    - (no applicable items)
+
+66. **where zipper ?**  
+    - Q1: 1
+    - N1: 1
+
+67. **here ?**  
+    - Q1: 2 (max reached)
+
+68. **uhoh .**  
+    - (no applicable items)
+
+69. **two .**  
+    - N1: 1
+
+70. **<one (.) two> [=! counting] . [+ bch]**  
+    - (no applicable items)
+
+71. **one .**  
+    - N1: 2 (max reached)
+
+72. **three .**  
+    - N1: 1
+
+73. **two !**  
+    - N1: 2 (max reached)
+
+74. **<one two three four> [=! counting] . [+ bch]**  
+    - (no applicable items)
+
+75. **five .**  
+    - N1: 1
+
+76. **count my [!!] fingers .**  
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+77. **this one !**  
+    - N1: 1
+    - N5: 1
+
+78. **four .**  
+    - N1: 2 (max reached)
+
+79. **six .**  
+    - N1: 1
+
+80. **seven eight .**  
+    - N1: 2 (max reached)
+
+81. **I got K(leen)ex Mommy right here .**  
+    - N2: 1
+    - V1: 1
+    - N5: 1
+
+82. **where my K(leen)ex ?**  
+    - Q1: 1
+    - N5: 1
+
+83. **happened ?**  
+    - Q1: 2 (max reached)
+
+84. **xxx there it is !**  
+    - (no applicable items)
+
+85. **I found it .**  
+    - N2: 1
+    - V1: 1
+
+86. **new book .**  
+    - N1: 1
+    - N5: 1
+
+87. **up here ?**  
+    - Q1: 1
+    - N1: 1
+
+88. **my new book .**  
+    - N5: 1
+    - N1: 1
+
+89. **xxx wan(t) go read it .**  
+    - (no applicable items)
+
+90. **xxx go xxx .**  
+    - (no applicable items)
+
+91. **see new book ?**  
+    - Q1: 1
+    - N1: 1
+
+92. **Daddy yyy .**  
+    - N1: 1
+
+93. **Nana ?**  
+    - N1: 2 (max reached)
+
+94. **Nana book ?**  
+    - N1: 1
+    - N5: 1
+
+95. **me a [?] new present ?**  
+    - N2: 1
+    - N5: 1
+
+96. **huh ?**  
+    - Q1: 2 (max reached)
+
+97. **my story .**  
+    - N5: 1
+    - N1: 1
+
+98. **see doggie .**  
+    - V1: 1
+    - N1: 1
+
+99. **where doggie ?**  
+    - Q1: 1
+    - N1: 1
+
+100. **doggie here .**  
+    - N1: 1
+
+Now, let's compile the scores:
+
+Final score:
+N1, 20  
+N2, 10  
+N3, 0  
+N4, 2  
+N5, 10  
+N6, 0  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 14  
+V2, 0  
+V3, 0  
+V4, 0  
+V5, 0  
+V6, 0  
+V7, 2  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 20  
+Q2, 0  
+Q3, 5  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 1  
+S6, 0  
+S7, 0  
+S8, 1  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

@@ -1,0 +1,468 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **a dishes .**  
+   - N1: 1 (dishes)
+
+2. **I got Tony pony .**  
+   - N2: 1 (I)  
+   - N6: 1 (got Tony pony)
+
+3. **Tony pony .**  
+   - N1: 1 (Tony pony)
+
+4. **no .**  
+   - Q3: 1 (Simple Negation)
+
+5. **yeah !**  
+   - (No applicable items)
+
+6. **you on that (.) hey .**  
+   - N2: 1 (you)  
+   - N4: 1 (you on)  
+
+7. **you on that .**  
+   - N2: 1 (you)  
+   - N4: 1 (you on)
+
+8. **no (.) you (.) sit dere [: there] .**  
+   - Q3: 2 (Simple Negation)  
+   - S2: 1 (you sit)
+
+9. **we go shopping .**  
+   - N2: 1 (we)  
+   - V1: 1 (go)  
+   - S2: 1 (we go)
+
+10. **milk .**  
+    - N1: 1 (milk)
+
+11. **two .**  
+    - N1: 1 (two)
+
+12. **I want two pennies .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - N5: 1 (two pennies)  
+    - S4: 1 (I want two pennies)
+
+13. **I want .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - S2: 1 (I want)
+
+14. **shopping .**  
+    - N1: 1 (shopping)
+
+15. **bread .**  
+    - N1: 1 (bread)
+
+16. **xxx Putnam_Avenue .**  
+    - N1: 1 (Putnam_Avenue)
+
+17. **me .**  
+    - N2: 1 (me)
+
+18. **one .**  
+    - N1: 1 (one)
+
+19. **nickel .**  
+    - N1: 1 (nickel)
+
+20. **a nickel .**  
+    - N5: 1 (a nickel)
+
+21. **oh .**  
+    - (No applicable items)
+
+22. **I bus you okay .**  
+    - N2: 1 (I)  
+    - V1: 1 (bus)  
+    - N2: 1 (you)  
+    - S4: 1 (I bus you)
+
+23. **you on Tony [/] Tony .**  
+    - N2: 1 (you)  
+    - N1: 1 (Tony)  
+    - N1: 1 (Tony)  
+    - N4: 1 (you on Tony)
+
+24. **Tony [/] Tony .**  
+    - N1: 1 (Tony)  
+    - N1: 1 (Tony)
+
+25. **no (.) my money .**  
+    - Q3: 2 (Simple Negation)  
+    - N2: 1 (my)  
+    - N5: 1 (my money)
+
+26. **a penny .**  
+    - N5: 1 (a penny)
+
+27. **<I want have quarter> [>] .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - V1: 1 (have)  
+    - N1: 1 (quarter)
+
+28. **I want have quarter money .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - V1: 1 (have)  
+    - N5: 1 (quarter money)  
+    - S4: 1 (I want have quarter money)
+
+29. **quarter ?**  
+    - Q1: 1 (contains a question mark)
+
+30. **no (.) my have it .**  
+    - Q3: 2 (Simple Negation)  
+    - N2: 1 (my)  
+    - V1: 1 (have)
+
+31. **<where my> [/] where my money ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+32. **where my all my money ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+33. **where my own ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+34. **I find xxx .**  
+    - N2: 1 (I)  
+    - V1: 1 (find)  
+    - S2: 1 (I find)
+
+35. **one (.) see ?**  
+    - N1: 1 (one)  
+    - V1: 1 (see)  
+    - Q1: 1 (contains a question mark)
+
+36. **tootsie_roll ?**  
+    - Q1: 1 (contains a question mark)
+
+37. **okay .**  
+    - (No applicable items)
+
+38. **rolls .**  
+    - N7: 1 (rolls)
+
+39. **xxx candy .**  
+    - N1: 1 (candy)
+
+40. **yours .**  
+    - N2: 1 (yours)
+
+41. **xxx way .**  
+    - N1: 1 (way)
+
+42. **here .**  
+    - (No applicable items)
+
+43. **I get at them .**  
+    - N2: 1 (I)  
+    - V1: 1 (get)  
+    - V3: 1 (at them)  
+    - S2: 1 (I get)
+
+44. **&-um tootsie_roll .**  
+    - N1: 1 (tootsie_roll)
+
+45. **peppermint ?**  
+    - Q1: 1 (contains a question mark)
+
+46. **peppermint .**  
+    - N1: 1 (peppermint)
+
+47. **oh !**  
+    - (No applicable items)
+
+48. **very good ?**  
+    - Q1: 1 (contains a question mark)
+
+49. **see good money .**  
+    - V1: 1 (see)  
+    - N1: 1 (good money)  
+    - S2: 1 (see good money)
+
+50. **in (h)ere .**  
+    - V3: 1 (in here)
+
+51. **yeah .**  
+    - (No applicable items)
+
+52. **I got money ?**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+    - N1: 1 (money)  
+    - Q1: 1 (contains a question mark)
+
+53. **I got (.) all a pennies (.) see ?**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+    - N5: 1 (a pennies)  
+    - V1: 1 (see)  
+    - Q1: 1 (contains a question mark)
+
+54. **no (.) Daddy xxx quarter .**  
+    - Q3: 2 (Simple Negation)  
+    - N2: 1 (Daddy)  
+    - N1: 1 (quarter)
+
+55. **xxx Daddy .**  
+    - N2: 1 (Daddy)
+
+56. **huh ?**  
+    - Q1: 1 (contains a question mark)
+
+57. **San(d)y .**  
+    - N1: 1 (San(d)y)
+
+58. **Tickle_baby .**  
+    - N1: 1 (Tickle_baby)
+
+59. **her cry .**  
+    - N2: 1 (her)  
+    - V1: 1 (cry)  
+    - S2: 1 (her cry)
+
+60. **you bought it .**  
+    - N2: 1 (you)  
+    - V1: 1 (bought)  
+    - N2: 1 (it)  
+    - S4: 1 (you bought it)
+
+61. **I get her .**  
+    - N2: 1 (I)  
+    - V1: 1 (get)  
+    - N2: 1 (her)  
+    - S4: 1 (I get her)
+
+62. **Tickle .**  
+    - N1: 1 (Tickle)
+
+63. **what ?**  
+    - Q1: 1 (contains a question mark)
+
+64. **xxx dat [: that] (.) see .**  
+    - N1: 1 (dat)  
+    - V1: 1 (see)  
+    - S2: 1 (dat see)
+
+65. **push the button .**  
+    - V1: 1 (push)  
+    - N5: 1 (the button)  
+    - S4: 1 (push the button)
+
+66. **yes .**  
+    - (No applicable items)
+
+67. **here are (.) see ?**  
+    - V1: 1 (are)  
+    - V1: 1 (see)  
+    - Q1: 1 (contains a question mark)
+
+68. **Cha(tty)z_Baby brother .**  
+    - N1: 1 (Cha(tty)z_Baby)  
+    - N1: 1 (brother)
+
+69. **I hungry .**  
+    - N2: 1 (I)  
+    - V4: 1 (I hungry)  
+    - S2: 1 (I hungry)
+
+70. **no (.) I hungry .**  
+    - Q3: 2 (Simple Negation)  
+    - N2: 1 (I)  
+    - V4: 1 (I hungry)
+
+71. **<he'd> [//] he cry .**  
+    - N2: 1 (he)  
+    - V1: 1 (cry)  
+    - S2: 1 (he cry)
+
+72. **she cried .**  
+    - N2: 1 (she)  
+    - V12: 1 (cried)
+
+73. **he cried .**  
+    - N2: 1 (he)  
+    - V12: 1 (cried)
+
+74. **he nice .**  
+    - N2: 1 (he)  
+    - V4: 1 (he nice)
+
+75. **fall down .**  
+    - V1: 1 (fall)  
+    - V1: 1 (down)
+
+76. **he fall down .**  
+    - N2: 1 (he)  
+    - V1: 1 (fall)  
+    - S2: 1 (he fall)
+
+77. **he won't talk .**  
+    - N2: 1 (he)  
+    - V9: 1 (won't talk)
+
+78. **xxx talk .**  
+    - V1: 1 (talk)
+
+79. **he mus(t) [?] talk .**  
+    - N2: 1 (he)  
+    - V9: 1 (mus(t) talk)
+
+80. **he mus(t) [?] (.) he mus(t) [?] xxx some more .**  
+    - N2: 1 (he)  
+    - V9: 1 (mus(t))  
+    - N1: 1 (some more)
+
+81. **need one (.) battery .**  
+    - V1: 1 (need)  
+    - N1: 1 (one)  
+    - N1: 1 (battery)
+
+82. **he cries .**  
+    - N2: 1 (he)  
+    - V1: 1 (cries)
+
+83. **he won't work a(ny) more .**  
+    - N2: 1 (he)  
+    - V9: 1 (won't work)
+
+84. **he [/] (.) he xxx (a)gain .**  
+    - N2: 1 (he)  
+    - N2: 1 (he)
+
+85. **xxx you .**  
+    - N2: 1 (you)
+
+86. **aye dinner .**  
+    - N1: 1 (dinner)
+
+87. **dinner .**  
+    - N1: 1 (dinner)
+
+88. **who .**  
+    - Q2: 1 (wh-word alone)
+
+89. **yyy dis [: this] ?**  
+    - Q1: 1 (contains a question mark)  
+    - Q4: 1 (Wh-Question + Verb)
+
+90. **dis [: this] spoon .**  
+    - N2: 1 (dis)  
+    - N5: 1 (this spoon)
+
+91. **here ?**  
+    - Q1: 1 (contains a question mark)
+
+92. **drink .**  
+    - V1: 1 (drink)
+
+93. **he won't drink more .**  
+    - N2: 1 (he)  
+    - V9: 1 (won't drink)
+
+94. **he want a pony Tony (.) pony yyy .**  
+    - N2: 1 (he)  
+    - V1: 1 (want)  
+    - N5: 1 (a pony)  
+    - N1: 1 (Tony)  
+    - N1: 1 (ponyy)
+
+95. **elastic .**  
+    - N1: 1 (elastic)
+
+96. **I got ponytail .**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+    - N1: 1 (ponytail)
+
+97. **I lost my nose .**  
+    - N2: 1 (I)  
+    - V12: 1 (lost)  
+    - N2: 1 (my)  
+    - N1: 1 (nose)
+
+98. **he xxx .**  
+    - N2: 1 (he)
+
+99. **dat [: that] (.) poor dollie .**  
+    - N2: 1 (dat)  
+    - N3: 1 (poor)  
+    - N1: 1 (dollie)
+
+100. **he crying .**  
+    - N2: 1 (he)  
+    - V7: 1 (crying)
+
+Now, let's compile the scores:
+
+Final score:
+N1, 12  
+N2, 12  
+N3, 2  
+N4, 4  
+N5, 5  
+N6, 2  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 15  
+V2, 0  
+V3, 3  
+V4, 3  
+V5, 0  
+V6, 0  
+V7, 1  
+V8, 0  
+V9, 5  
+V10, 0  
+V11, 0  
+V12, 3  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 8  
+Q2, 2  
+Q3, 5  
+Q4, 3  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 10  
+S3, 0  
+S4, 8  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

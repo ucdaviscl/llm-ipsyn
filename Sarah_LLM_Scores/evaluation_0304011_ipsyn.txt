@@ -1,0 +1,446 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **I heh &~hah a [//] a dog .**
+   - N5: 1 (Determiner + Noun: "a dog")
+   
+2. **&-uh (.) I [/] I [/] I (.) have a dog named Chantilly .**
+   - N5: 2 (Determiner + Noun: "a dog")
+   - V1: 1 (Verb: "have")
+   - N1: 1 (Noun: "Chantilly")
+
+3. **three .**
+   - N1: 1 (Noun: "three")
+
+4. **dat [: that] &-um much .**
+   - N2: 1 (Pronoun: "that")
+
+5. **hey (.) gi(ve) me a pencil .**
+   - N5: 1 (Determiner + Noun: "a pencil")
+   - V1: 1 (Verb: "give")
+
+6. **<gi(ve) me> [//] gi(ve) me a piece o(f) paper (a)n(d) pencil .**
+   - N5: 2 (Determiner + Noun: "a piece", "paper", "pencil")
+   - V1: 2 (Verb: "give")
+
+7. **please .**
+   - (No applicable items)
+
+8. **&-uh (.) hey (.) you w(r)ite on that one .**
+   - N2: 1 (Pronoun: "you")
+   - V1: 1 (Verb: "write")
+   - V2: 1 (Verb Particle or Preposition: "on")
+
+9. **hunm .**
+   - (No applicable items)
+
+10. **<I drawing a> [//] look at that (.) Mom .**
+    - N5: 1 (Determiner + Noun: "a")
+    - V1: 1 (Verb: "look")
+
+11. **big n@l .**
+    - N1: 1 (Noun: "n@l")
+    - N3: 1 (Modifier: "big")
+
+12. **h@l .**
+    - N1: 1 (Noun: "h@l")
+
+13. **<an(d)> [/] (a)n(d) h@l .**
+    - N1: 1 (Noun: "h@l")
+    - S5: 1 (Any Conjunction: "and")
+
+14. **yyy dat [: that] .**
+    - N2: 1 (Pronoun: "that")
+
+15. **huh ?**
+    - Q1: 1 (contains a question mark)
+
+16. **no (.) an h@l .**
+    - N1: 1 (Noun: "h@l")
+    - Q3: 1 (Simple Negation: "no")
+
+17. **ouch .**
+    - (No applicable items)
+
+18. **I xxx him (.) huh ?**
+    - N2: 1 (Pronoun: "I")
+    - V1: 1 (Verb: "xxx")
+
+19. **a pincher@c [?] .**
+    - N5: 1 (Determiner + Noun: "a pincher@c")
+
+20. **make an h@l .**
+    - N5: 1 (Determiner + Noun: "an h@l")
+    - V1: 1 (Verb: "make")
+
+21. **no .**
+    - Q3: 2 (Simple Negation: "no")
+
+22. **that's a tree .**
+    - N5: 1 (Determiner + Noun: "a tree")
+    - V4: 1 (Noun + Copula + Noun: "that's a tree")
+
+23. **nope (.) that's an apple .**
+    - N5: 1 (Determiner + Noun: "an apple")
+    - V4: 1 (Noun + Copula + Noun: "that's an apple")
+
+24. **da(t)'s [: that's] an h@l .**
+    - N5: 1 (Determiner + Noun: "an h@l")
+    - V4: 1 (Noun + Copula + Noun: "da(t)'s an h@l")
+
+25. **now I nee(d) me (.) in a mim@c .**
+    - N5: 1 (Determiner + Noun: "a mim@c")
+    - V1: 1 (Verb: "need")
+
+26. **a nim@c .**
+    - N5: 1 (Determiner + Noun: "a nim@c")
+
+27. **Mommy (.) where's my alphabets ?**
+    - N2: 1 (Pronoun: "my")
+    - Q1: 1 (contains a question mark)
+
+28. **yeah .**
+    - (No applicable items)
+
+29. **got stay in the box .**
+    - V1: 1 (Verb: "got")
+    - N1: 1 (Noun: "box")
+
+30. **no (.) it's not .**
+    - Q3: 2 (Simple Negation: "no")
+    - V6: 1 (Auxiliary Be: "it's")
+
+31. **I get my alphabet .**
+    - N2: 1 (Pronoun: "I")
+    - N5: 1 (Determiner + Noun: "my alphabet")
+    - V1: 1 (Verb: "get")
+
+32. **hid em .**
+    - V1: 1 (Verb: "hid")
+
+33. **I'll get (th)em .**
+    - V1: 1 (Verb: "get")
+    - V6: 1 (Auxiliary: "I'll")
+
+34. **no (.) Mommy .**
+    - N2: 1 (Pronoun: "Mommy")
+    - Q3: 2 (Simple Negation: "no")
+
+35. **oh no .**
+    - Q3: 2 (Simple Negation: "no")
+
+36. **there's another one (.) ri(ght) dere [: there] .**
+    - N5: 1 (Determiner + Noun: "another one")
+    - V4: 1 (Noun + Copula + Noun: "there's another one")
+
+37. **a k@l .**
+    - N5: 1 (Determiner + Noun: "a k@l")
+
+38. **that one broke(n) (.) huh ?**
+    - N2: 1 (Pronoun: "that one")
+    - V12: 1 (Regular Past Tense: "broke")
+    - Q1: 1 (contains a question mark)
+
+39. **now (.) a@l .**
+    - N1: 1 (Noun: "a@l")
+
+40. **an h@l .**
+    - N5: 1 (Determiner + Noun: "an h@l")
+
+41. **and an h@l (.) right dere [: there] .**
+    - N5: 2 (Determiner + Noun: "an h@l")
+    - S5: 1 (Any Conjunction: "and")
+
+42. **what an h@l right dere [: there] .**
+    - N5: 1 (Determiner + Noun: "an h@l")
+    - Q4: 1 (Wh-Question + Verb: "what")
+
+43. **wuh@p (.) a b@l .**
+    - N5: 1 (Determiner + Noun: "a b@l")
+
+44. **a Sarah .**
+    - N5: 1 (Determiner + Noun: "a Sarah")
+
+45. **what ?**
+    - Q1: 1 (contains a question mark)
+    - Q2: 1 (wh-word alone: "what")
+
+46. **that's an yyy .**
+    - N5: 1 (Determiner + Noun: "an yyy")
+    - V4: 1 (Noun + Copula + Noun: "that's an yyy")
+
+47. **a [//] that's a (.) o@l (.) p@l (.) t@l .**
+    - N5: 2 (Determiner + Noun: "a o@l", "a p@l", "a t@l")
+
+48. **an a@l .**
+    - N5: 1 (Determiner + Noun: "an a@l")
+
+49. **is this one an o@l (.) yep .**
+    - N5: 1 (Determiner + Noun: "an o@l")
+    - V4: 1 (Noun + Copula + Noun: "is this one an o@l")
+
+50. **an o@l .**
+    - N5: 1 (Determiner + Noun: "an o@l")
+
+51. **b@l .**
+    - N1: 1 (Noun: "b@l")
+
+52. **that one get one hole .**
+    - N2: 1 (Pronoun: "that one")
+    - V1: 1 (Verb: "get")
+    - N1: 1 (Noun: "hole")
+
+53. **p@l .**
+    - N1: 1 (Noun: "p@l")
+
+54. **Mommy (.) this one stand up ?**
+    - N2: 1 (Pronoun: "this one")
+    - V1: 1 (Verb: "stand")
+    - Q1: 1 (contains a question mark)
+
+55. **an m@l .**
+    - N5: 1 (Determiner + Noun: "an m@l")
+
+56. **is a w@l .**
+    - N5: 1 (Determiner + Noun: "a w@l")
+    - V4: 1 (Noun + Copula + Noun: "is a w@l")
+
+57. **yyy these (.) don't (.) yyy .**
+    - N2: 1 (Pronoun: "these")
+    - Q3: 1 (Simple Negation: "don't")
+
+58. **turn that over .**
+    - V1: 1 (Verb: "turn")
+    - N2: 1 (Pronoun: "that")
+    - V2: 1 (Verb Particle or Preposition: "over")
+
+59. **&-uh wuh@p (.) an a@l .**
+    - N5: 1 (Determiner + Noun: "an a@l")
+
+60. **a board .**
+    - N5: 1 (Determiner + Noun: "a board")
+
+61. **board .**
+    - N1: 1 (Noun: "board")
+
+62. **is a y@l .**
+    - N5: 1 (Determiner + Noun: "a y@l")
+    - V4: 1 (Noun + Copula + Noun: "is a y@l")
+
+63. **oh .**
+    - (No applicable items)
+
+64. **it's a t@l .**
+    - N5: 1 (Determiner + Noun: "a t@l")
+    - V4: 1 (Noun + Copula + Noun: "it's a t@l")
+
+65. **I a miss one .**
+    - N2: 1 (Pronoun: "I")
+    - V1: 1 (Verb: "miss")
+    - N1: 1 (Noun: "one")
+
+66. **I miss one .**
+    - N2: 1 (Pronoun: "I")
+    - V1: 1 (Verb: "miss")
+    - N1: 1 (Noun: "one")
+
+67. **you beat it ?**
+    - N2: 1 (Pronoun: "you")
+    - V1: 1 (Verb: "beat")
+    - Q1: 1 (contains a question mark)
+
+68. **you go(t) somethin(g) in you(r) mouth ?**
+    - N2: 1 (Pronoun: "you")
+    - V1: 1 (Verb: "go(t)")
+    - Q1: 1 (contains a question mark)
+
+69. **he go(t) <some(thing)> [/] somethin(g) in a mouth .**
+    - N2: 1 (Pronoun: "he")
+    - V1: 1 (Verb: "go(t)")
+    - N5: 1 (Determiner + Noun: "a mouth")
+
+70. **a goo(d) boy .**
+    - N5: 1 (Determiner + Noun: "a boy")
+
+71. **Chantilly .**
+    - N1: 1 (Noun: "Chantilly")
+
+72. **<&-um I goin(g) to> [//] hey (.) you chew dis [: this] .**
+    - N2: 1 (Pronoun: "you")
+    - V1: 1 (Verb: "chew")
+    - V6: 1 (Auxiliary: "I goin(g) to")
+
+73. **I goin(g) a bite ya .**
+    - N2: 1 (Pronoun: "I")
+    - V1: 1 (Verb: "goin(g)")
+    - V8: 1 (Adverb: "a")
+
+74. **hm: (.) yyy .**
+    - (No applicable items)
+
+75. **uhoh (.) duh &-um green b@l .**
+    - N1: 1 (Noun: "b@l")
+    - N3: 1 (Modifier: "green")
+
+76. **I miss one (.) Mummy .**
+    - N2: 1 (Pronoun: "I")
+    - V1: 1 (Verb: "miss")
+    - N2: 1 (Pronoun: "Mummy")
+
+77. **nope .**
+    - Q3: 2 (Simple Negation: "nope")
+
+78. **there (.) huh .**
+    - N1: 1 (Noun: "there")
+
+79. **now (.) make a (.) yyy (.) one o(f) those .**
+    - V1: 1 (Verb: "make")
+    - N5: 1 (Determiner + Noun: "a one")
+    - N1: 1 (Noun: "those")
+
+80. **&-uh (.) I fin(d) one .**
+    - N2: 1 (Pronoun: "I")
+    - V1: 1 (Verb: "find")
+    - N1: 1 (Noun: "one")
+
+81. **a ponytail .**
+    - N5: 1 (Determiner + Noun: "a ponytail")
+
+82. **you yyy fell down .**
+    - N2: 1 (Pronoun: "you")
+    - V12: 1 (Regular Past Tense: "fell")
+
+83. **right there .**
+    - (No applicable items)
+
+84. **m@l (.) she n@l ge(t) one o(f) these .**
+    - N2: 1 (Pronoun: "she")
+    - V1: 1 (Verb: "get")
+    - N5: 1 (Determiner + Noun: "one of these")
+
+85. **this one (.) a e@l .**
+    - N2: 1 (Pronoun: "this one")
+    - N5: 1 (Determiner + Noun: "a e@l")
+
+86. **that's a k@l .**
+    - N5: 1 (Determiner + Noun: "a k@l")
+    - V4: 1 (Noun + Copula + Noun: "that's a k@l")
+
+87. **yyy (.) p@l (.) r@l .**
+    - N1: 1 (Noun: "p@l")
+    - N1: 1 (Noun: "r@l")
+
+88. **say .**
+    - V1: 1 (Verb: "say")
+
+89. **that go (.) this way .**
+    - N2: 1 (Pronoun: "that")
+    - V1: 1 (Verb: "go")
+
+90. **this way .**
+    - (No applicable items)
+
+91. **a e@l .**
+    - N5: 1 (Determiner + Noun: "a e@l")
+
+92. **hm: (.) <you tell me> [//] it's called ?**
+    - N2: 1 (Pronoun: "you")
+    - V1: 1 (Verb: "tell")
+    - Q1: 1 (contains a question mark)
+
+93. **an f@l .**
+    - N5: 1 (Determiner + Noun: "an f@l")
+
+94. **(o)kay .**
+    - (No applicable items)
+
+95. **hm: (.) can('t) do it .**
+    - V1: 1 (Verb: "do")
+    - V9: 1 (Modal + Verb: "can do")
+
+96. **you [/] you do it ?**
+    - N2: 1 (Pronoun: "you")
+    - V1: 1 (Verb: "do")
+    - Q1: 1 (contains a question mark)
+
+97. **huh (.) go .**
+    - V1: 1 (Verb: "go")
+
+98. **you hold it up .**
+    - N2: 1 (Pronoun: "you")
+    - V1: 1 (Verb: "hold")
+    - V2: 1 (Verb Particle or Preposition: "up")
+
+99. **up .**
+    - (No applicable items)
+
+100. **<get it (.) get it> [/] (.) get it (.) hurry .**
+    - V1: 2 (Verb: "get")
+    - V8: 1 (Adverb: "hurry")
+
+Now, let's compile the scores:
+
+Final score:
+N1, 10
+N2, 10
+N3, 3
+N4, 0
+N5, 16
+N6, 0
+N7, 0
+N8, 0
+N9, 0
+N10, 0
+N11, 0
+V1, 20
+V2, 3
+V3, 0
+V4, 5
+V5, 0
+V6, 3
+V7, 0
+V8, 3
+V9, 2
+V10, 0
+V11, 0
+V12, 3
+V13, 0
+V14, 0
+V15, 0
+V16, 0
+V17, 0
+V18, 0
+V19, 0
+V20, 0
+Q1, 6
+Q2, 2
+Q3, 6
+Q4, 1
+Q5, 0
+Q6, 0
+Q7, 0
+Q8, 0
+Q9, 0
+Q10, 0
+Q11, 0
+S1, 0
+S2, 0
+S3, 0
+S4, 0
+S5, 2
+S6, 0
+S7, 0
+S8, 0
+S9, 0
+S10, 0
+S11, 0
+S12, 0
+S13, 0
+S14, 0
+S15, 0
+S16, 0
+S17, 0
+S18, 0
+S19, 0
+S20, 0
+
+(Note: The scores for each item are capped at a maximum of 2, but in this case, none of the items exceeded that limit.)

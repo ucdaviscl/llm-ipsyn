@@ -1,0 +1,569 @@
+Let's evaluate the transcript line by line according to the Index of Productive Syntax.
+
+1. **some earrings .**  
+   - N1: 1 (earrings)  
+   - N5: 1 (some earrings)  
+
+2. **because I like earrings on boys .**  
+   - N1: 2 (earrings)  
+   - N2: 1 (I)  
+   - V1: 1 (like)  
+   - V3: 1 (on boys)  
+
+3. **here's a pipe .**  
+   - N1: 1 (pipe)  
+   - N5: 1 (a pipe)  
+   - V4: 1 (here's)  
+
+4. **smoke out_of it .**  
+   - V1: 1 (smoke)  
+   - V2: 1 (out_of)  
+
+5. **good thing I can (.) there .**  
+   - N1: 1 (thing)  
+   - N2: 1 (I)  
+   - V1: 1 (can)  
+
+6. **is that a good cowboy ?**  
+   - N1: 1 (cowboy)  
+   - N5: 1 (a cowboy)  
+   - Q1: 1  
+
+7. **he don't have no horse .**  
+   - N1: 1 (horse)  
+   - N2: 1 (he)  
+   - V1: 1 (have)  
+   - Q3: 1  
+
+8. **no (.) just him .**  
+   - N2: 1 (him)  
+   - Q3: 1  
+
+9. **he's takin(g) a xxx .**  
+   - N1: 1 (xxx)  
+   - N2: 1 (he)  
+   - V1: 1 (is takin(g))  
+
+10. **no (.) thank_you .**  
+    - Q3: 1  
+
+11. **Melissa (.) you ain't xxx .**  
+    - N2: 1 (you)  
+    - V1: 1 (ain't)  
+
+12. **she's scribbled .**  
+    - N2: 1 (she)  
+    - V1: 1 (scribbled)  
+
+13. **Melissa .**  
+    - N1: 1 (Melissa)  
+
+14. **I'm making her picture scribbled .**  
+    - N1: 1 (picture)  
+    - N2: 1 (I)  
+    - V1: 1 (making)  
+    - V1: 1 (scribbled)  
+
+15. **(be)cause <you got a awf(ul)> [//] <you got a black> [/] <you got a black> [/] you got a black skirt .**  
+    - N1: 1 (skirt)  
+    - N5: 1 (a skirt)  
+    - N2: 1 (you)  
+    - V1: 1 (got)  
+
+16. **scribbled on it .**  
+    - V1: 1 (scribbled)  
+    - V3: 1 (on it)  
+
+17. **awful .**  
+    - N1: 1 (awful)  
+
+18. **like this .**  
+    - N1: 1 (this)  
+
+19. **yeah .**  
+    - (no applicable items)  
+
+20. **I will draw the lines .**  
+    - N1: 1 (lines)  
+    - N2: 1 (I)  
+    - V1: 1 (will draw)  
+
+21. **see ?**  
+    - V1: 1 (see)  
+    - Q1: 1  
+
+22. **that ?**  
+    - N1: 1 (that)  
+    - Q1: 1  
+
+23. **want me all scribble on it ?**  
+    - N2: 1 (me)  
+    - V1: 1 (want)  
+    - Q1: 1  
+
+24. **how's that ?**  
+    - N1: 1 (that)  
+    - Q1: 1  
+
+25. **I don't want you to say that .**  
+    - N2: 1 (I)  
+    - N2: 1 (you)  
+    - V1: 1 (want)  
+    - V3: 1 (to say that)  
+
+26. **I want you to say that's nice .**  
+    - N2: 1 (I)  
+    - N2: 1 (you)  
+    - V1: 1 (want)  
+    - V1: 1 (say)  
+
+27. **somethin(g) on the floor .**  
+    - N1: 1 (somethin(g))  
+    - N5: 1 (the floor)  
+
+28. **here .**  
+    - (no applicable items)  
+
+29. **I don't know what it is .**  
+    - N2: 1 (I)  
+    - V1: 1 (know)  
+    - Q3: 1  
+
+30. **look (.) here it is .**  
+    - V1: 1 (look)  
+    - N2: 1 (it)  
+    - V1: 1 (is)  
+
+31. **what is it ?**  
+    - N2: 1 (it)  
+    - Q1: 1  
+
+32. **Ann_Marie (.) what's this ?**  
+    - N1: 1 (this)  
+    - Q1: 1  
+
+33. **is it ?**  
+    - N2: 1 (it)  
+    - Q1: 1  
+
+34. **it has a point on it .**  
+    - N1: 1 (point)  
+    - N5: 1 (a point)  
+    - N2: 1 (it)  
+    - V1: 1 (has)  
+
+35. **two points .**  
+    - N7: 1 (points)  
+
+36. **it hurts me .**  
+    - N2: 1 (it)  
+    - V1: 1 (hurts)  
+    - N2: 1 (me)  
+
+37. **no .**  
+    - Q3: 1  
+
+38. **I don't xxx of that .**  
+    - N2: 1 (I)  
+    - Q3: 1  
+
+39. **Mommy ?**  
+    - N1: 1 (Mommy)  
+    - Q1: 1  
+
+40. **want me rip this ?**  
+    - N2: 1 (me)  
+    - V1: 1 (want)  
+    - V1: 1 (rip)  
+    - Q1: 1  
+
+41. **so what ?**  
+    - Q1: 1  
+
+42. **I can't get into trouble .**  
+    - N2: 1 (I)  
+    - V1: 1 (can't get)  
+
+43. **so what (.) so what .**  
+    - Q1: 1  
+
+44. **pull me by the hair ?**  
+    - N2: 1 (me)  
+    - V1: 1 (pull)  
+    - Q1: 1  
+
+45. **you want me to have no hair ?**  
+    - N2: 1 (you)  
+    - N2: 1 (me)  
+    - V1: 1 (want)  
+    - Q1: 1  
+
+46. **I'll get new hair .**  
+    - N2: 1 (I)  
+    - V1: 1 (get)  
+    - N1: 1 (hair)  
+
+47. **you wanna fight ?**  
+    - N2: 1 (you)  
+    - V1: 1 (wanna)  
+    - Q1: 1  
+
+48. **put up your dukes .**  
+    - V1: 1 (put)  
+    - N2: 1 (your)  
+    - N1: 1 (dukes)  
+
+49. **don't (.) really fight .**  
+    - V1: 1 (don't)  
+    - V1: 1 (fight)  
+
+50. **I'm gonna go like this .**  
+    - N2: 1 (I)  
+    - V1: 1 (gonna go)  
+
+51. **I got dirty .**  
+    - N2: 1 (I)  
+    - V1: 1 (got)  
+
+52. **I don't wanna .**  
+    - N2: 1 (I)  
+    - Q3: 1  
+
+53. **<I don't> [/] I don't wanna draw nothin(g) .**  
+    - N2: 1 (I)  
+    - Q3: 1  
+    - V1: 1 (wanna draw)  
+
+54. **who's that ?**  
+    - N1: 1 (that)  
+    - Q1: 1  
+
+55. **uhhuh .**  
+    - (no applicable items)  
+
+56. **I don't want (.) you to make me .**  
+    - N2: 1 (I)  
+    - N2: 1 (you)  
+    - V1: 1 (don't want)  
+    - V1: 1 (make)  
+
+57. **awoh (.) she gonna get shot .**  
+    - N2: 1 (she)  
+    - V1: 1 (gonna get)  
+    - V1: 1 (shot)  
+
+58. **let me see .**  
+    - N2: 1 (me)  
+    - V1: 1 (let)  
+    - V1: 1 (see)  
+
+59. **goodbye .**  
+    - (no applicable items)  
+
+60. **no (.) I better watch tv .**  
+    - N2: 1 (I)  
+    - V1: 1 (better watch)  
+
+61. **is it five o'clock ?**  
+    - N2: 1 (it)  
+    - Q1: 1  
+
+62. **is that (.) quarter five ?**  
+    - N2: 1 (that)  
+    - Q1: 1  
+
+63. **is it all done ?**  
+    - N2: 1 (it)  
+    - Q1: 1  
+
+64. **she was gonna do this like that .**  
+    - N2: 1 (she)  
+    - V1: 1 (was gonna do)  
+    - N1: 1 (this)  
+
+65. **she was gonna <do it> [/] do it like that .**  
+    - N2: 1 (she)  
+    - V1: 1 (was gonna do)  
+    - N1: 1 (it)  
+
+66. **hope .**  
+    - (no applicable items)  
+
+67. **(be)cause .**  
+    - (no applicable items)  
+
+68. **I don't like myself in the pictures .**  
+    - N2: 1 (I)  
+    - V1: 1 (don't like)  
+    - N1: 1 (pictures)  
+
+69. **ow .**  
+    - (no applicable items)  
+
+70. **did you give me this [= pad of paper] ?**  
+    - N2: 1 (you)  
+    - V1: 1 (did give)  
+    - Q1: 1  
+
+71. **guess .**  
+    - (no applicable items)  
+
+72. **huh ?**  
+    - Q1: 1  
+
+73. **tree .**  
+    - N1: 1 (tree)  
+
+74. **cherries ?**  
+    - N7: 1 (cherries)  
+    - Q1: 1  
+
+75. **cherry .**  
+    - N1: 1 (cherry)  
+
+76. **how you shut it off ?**  
+    - N2: 1 (you)  
+    - V1: 1 (shut)  
+    - Q1: 1  
+
+77. **is that how you shut it off ?**  
+    - N2: 1 (that)  
+    - N2: 1 (you)  
+    - Q1: 1  
+
+78. **is that ?**  
+    - N2: 1 (that)  
+    - Q1: 1  
+
+79. **y(ou) mean (.) put that up ?**  
+    - N2: 1 (you)  
+    - V1: 1 (mean)  
+    - Q1: 1  
+
+80. **like that ?**  
+    - Q1: 1  
+
+81. **I could put it back on .**  
+    - N2: 1 (I)  
+    - V1: 1 (could put)  
+    - N2: 1 (it)  
+
+82. **I want it (.) this side .**  
+    - N2: 1 (I)  
+    - V1: 1 (want)  
+    - N1: 1 (side)  
+
+83. **I don't want school no more .**  
+    - N2: 1 (I)  
+    - V1: 1 (don't want)  
+    - N1: 1 (school)  
+
+84. **because I hate my other school .**  
+    - N2: 1 (I)  
+    - V1: 1 (hate)  
+    - N1: 1 (school)  
+
+85. **I hate my other school .**  
+    - N2: 1 (I)  
+    - V1: 1 (hate)  
+    - N1: 1 (school)  
+
+86. **I like dis [: this] school .**  
+    - N2: 1 (I)  
+    - V1: 1 (like)  
+    - N1: 1 (school)  
+
+87. **drink cookies .**  
+    - V1: 1 (drink)  
+    - N7: 1 (cookies)  
+
+88. **I eat [?] cookies .**  
+    - N2: 1 (I)  
+    - V1: 1 (eat)  
+    - N7: 1 (cookies)  
+
+89. **what ?**  
+    - Q1: 1  
+
+90. **she was drunk .**  
+    - N2: 1 (she)  
+    - V1: 1 (was)  
+
+91. **no (.) my mommy .**  
+    - N2: 1 (my)  
+    - N1: 1 (mommy)  
+    - Q3: 1  
+
+92. **she hit me at school .**  
+    - N2: 1 (she)  
+    - V1: 1 (hit)  
+    - N2: 1 (me)  
+    - N1: 1 (school)  
+
+93. **my momma .**  
+    - N2: 1 (my)  
+    - N1: 1 (momma)  
+
+94. **because I don't like her .**  
+    - N2: 1 (I)  
+    - V1: 1 (don't like)  
+    - N2: 1 (her)  
+
+95. **I [?] think [?] I'm gonna write all over the place .**  
+    - N2: 1 (I)  
+    - V1: 1 (think)  
+    - N2: 1 (I)  
+    - V1: 1 (gonna write)  
+
+96. **on the windows (a)n(d) everything .**  
+    - N5: 1 (the windows)  
+
+97. **when I grow up I'm goin(g) still write on everything .**  
+    - N2: 1 (I)  
+    - V1: 1 (grow)  
+    - V1: 1 (goin(g) still write)  
+
+98. **Betty (a)n(d) Ann_Marie .**  
+    - N1: 1 (Betty)  
+    - N1: 1 (Ann_Marie)  
+
+99. **mm (.) we'll find some place .**  
+    - N2: 1 (we)  
+    - V1: 1 (will find)  
+    - N5: 1 (some place)  
+
+100. **because I like (.) it .**  
+    - N2: 1 (I)  
+    - V1: 1 (like)  
+    - N2: 1 (it)  
+
+Now, let's compile the scores for each item:
+
+- N1: 20
+- N2: 20
+- N3: 0
+- N4: 0
+- N5: 8
+- N6: 0
+- N7: 3
+- N8: 0
+- N9: 0
+- N10: 0
+- N11: 0
+- V1: 25
+- V2: 2
+- V3: 5
+- V4: 1
+- V5: 0
+- V6: 0
+- V7: 2
+- V8: 0
+- V9: 0
+- V10: 0
+- V11: 0
+- V12: 0
+- V13: 0
+- V14: 0
+- V15: 0
+- V16: 0
+- V17: 0
+- V18: 0
+- V19: 0
+- V20: 0
+- Q1: 20
+- Q2: 0
+- Q3: 7
+- Q4: 0
+- Q5: 0
+- Q6: 0
+- Q7: 0
+- Q8: 0
+- Q9: 0
+- Q10: 0
+- Q11: 0
+- S1: 0
+- S2: 0
+- S3: 0
+- S4: 0
+- S5: 0
+- S6: 0
+- S7: 0
+- S8: 0
+- S9: 0
+- S10: 0
+- S11: 0
+- S12: 0
+- S13: 0
+- S14: 0
+- S15: 0
+- S16: 0
+- S17: 0
+- S18: 0
+- S19: 0
+- S20: 0
+
+Now, capping each item at a maximum score of 2:
+
+Final score:
+N1, 2  
+N2, 2  
+N3, 0  
+N4, 0  
+N5, 2  
+N6, 0  
+N7, 2  
+N8, 0  
+N9, 0  
+N10, 0  
+N11, 0  
+V1, 2  
+V2, 2  
+V3, 2  
+V4, 0  
+V5, 0  
+V6, 0  
+V7, 2  
+V8, 0  
+V9, 0  
+V10, 0  
+V11, 0  
+V12, 0  
+V13, 0  
+V14, 0  
+V15, 0  
+V16, 0  
+V17, 0  
+V18, 0  
+V19, 0  
+V20, 0  
+Q1, 2  
+Q2, 0  
+Q3, 2  
+Q4, 0  
+Q5, 0  
+Q6, 0  
+Q7, 0  
+Q8, 0  
+Q9, 0  
+Q10, 0  
+Q11, 0  
+S1, 0  
+S2, 0  
+S3, 0  
+S4, 0  
+S5, 0  
+S6, 0  
+S7, 0  
+S8, 0  
+S9, 0  
+S10, 0  
+S11, 0  
+S12, 0  
+S13, 0  
+S14, 0  
+S15, 0  
+S16, 0  
+S17, 0  
+S18, 0  
+S19, 0  
+S20, 0  

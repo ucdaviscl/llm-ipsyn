@@ -1,0 +1,100 @@
+book .
+read book .
+ups_a_daisy .
+up ups_a_daisy .
+where book ?
+sitting chair .
+drop bean .
+read Papa bear .
+bunny_rabbit .
+like Bambi .
+hurry [?] hurry [?] .
+running .
+bunny_rabbit rabbit running .
+what dat [: that] ?
+stick you .
+huh ?
+xxx dancing .
+no .
+what happen (.) Mommy ?
+poor Urler@c .
+poor Cromer .
+my mine .
+mine .
+tiger .
+hungry .
+one Mommy .
+one Daddy .
+jelly .
+jelly (.) Mommy .
+dat [: that] .
+what dat [: that] (.) Mommy ?
+tell Urler@c .
+go walking .
+step book .
+yellow .
+red .
+just like xxx .
+lion .
+put (to)gether .
+oh no (.) put (to)gether .
+show you ?
+grapefruit .
+(a)round .
+turn (a)round .
+puppy .
+puppy dog .
+okay ?
+go dere [: there] (.) Mommy ?
+pretty (.) Mommy ?
+one one one pretty ?
+over (.) Mommy ?
+Perro off .
+alright .
+Perro alright .
+hahaha .
+knock over .
+yeah (.) funny .
+go over .
+yep .
+turn over .
+turn round .
+turn it [?] (a)round ?
+hammer ?
+look like hammer .
+hammer .
+dog .
+doggie .
+dog have [?] hole [?] .
+where doggie go ?
+doggie ?
+doggie (.) Mommy ?
+find doggie .
+doggie (.) Mommy .
+tiger (.) too [=? two] .
+too [=? two] ?
+too [=? two] (.) over dere [: there] .
+look (.) big boy .
+turn .
+turning that .
+sorry sorry sorry sorry .
+(ex)cuse me .
+Daddy .
+heavy .
+brushing broken .
+four (.) eight (.) nine .
+buy milk .
+buy xxx .
+buy xxx (.) Mommy .
+be careful .
+hit .
+hit (.) head (.) chair head .
+chair head .
+table hit (.) head .
+head hit table .
+Perro (.) read book .
+Adam read book .
+(ex)cuse me (.) Mommy .
+(ex)cuse .
+turn turn over (.) Mommy .
+drop it .

@@ -1,0 +1,100 @@
+yep . [+ RES]
+move . [+ IMIT]
+peep@o [/] peep@o . [+ IMIT]
+paper . [+ IMIT]
+there .
+xxx a Cromer shoe .
+put .
+Mommy put Cromer . [+ RES]
+put Cromer . [+ RES]
+Cromer shoe . [+ RES]
+Cromer shoe byebye .
+a top .
+(.) a sugar .
+(.) move (.) spoon .
+o:h the top .
+lick it .
+there o:h spoon out .
+that ?
+xxx sugar .
+xxx napkin .
+a coffee .
+Fraser coffee .
+xxx cup .
+write .
+pencil .
+out sugar .
+a spoon out [!!] sugar .
+spoon out sugar .
+oh turn the page .
+xxx this the taperecorder .
+Mommy .
+here . [+ RES]
+up .
+I see .
+xxx that cheese . [+ RES]
+(.) up here .
+stool .
+Eve stool .
+a [/] a cheese .
+Mommy back stool .
+lunch . [+ IMIT]
+climb . [+ IMIT]
+you Fraser .
+Cromer coffee .
+Mommy shoe tink(er)toy .
+yeah .
+rock_a_bye baby bye .
+rock_a_bye bye .
+hi .
+Eve pencil ?
+want [/] want stool .
+xxx go . [+ IMIT]
+xxx de [: the] table . [+ RES]
+oop .
+fall xxx move stool .
+xxx Eve .
+ban(an)a . [+ RES]
+peel nut .
+xxx crack nut .
+huh ?
+xxx have it ?
+drop [/] (.) drop .
+tink(er)toy [/] (.) tink(er)toy .
+Eve crack nut .
+a pencil . [+ RES]
+use a pencil .
+use tinkertoy . [+ IMIT]
+I crack nut .
+no .
+Mum crack nut .
+a crack nut .
+Eve cracking nut .
+my .
+an crack nut .
+Cromer .
+xxx Fraser .
+xxx the chair . [+ RES]
+u(n)de(r) stool . [+ RES]
+chair .
+Cromer couch .
+by Cromer .
+living_room .
+drink grape juice . [+ RES]
+an(d) [?] all_gone .
+lying down .
+night .
+sweater .
+Cromer sweater .
+Fraser sweater .
+jacket . [+ IMIT]
+Mommy coat .
+Eve closet too .
+Papa closet too .
+xxx gone home . [+ IMIT]
+lady gone home . [+ IMIT]
+Ma crack .
+Mommy cracking nut . [+ IMIT]
+thank_you .
+I want .
+drop nut .

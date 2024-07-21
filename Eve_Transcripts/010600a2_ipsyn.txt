@@ -1,0 +1,100 @@
+dolly . [+ RES]
+xxx find it . [+ RES]
+you <find it xxx> [//] find it .
+a shoe .
+dolly shoe .
+there .
+look . [+ IMP]
+that ?
+where top ?
+top .
+spoon . [+ RES]
+man no spoon .
+coffee ?
+my [= mine] .
+oh thank .
+that .
+<a top a top> [/] a top .
+good .
+man taste it ?
+man taste it .
+man no [?] taste it .
+why ?
+mouth . [+ IMIT]
+taste it .
+careful .
+man no taste it ?
+sure . [+ IMIT]
+man no sure .
+taste it ?
+change your record ? [+ IMIT]
+a top ?
+drop .
+a table .
+man fireplace .
+telephone .
+hi .
+Granma .
+Mommy .
+yeah . [+ RES]
+kitchen . [+ IMIT]
+no .
+pencil .
+a pencil .
+milk [/] milk . [+ IMP]
+Cromer .
+a coffee .
+Fraser coffee .
+Becky .
+arm ?
+arm .
+Mommy letter pencil .
+head .
+I fall . [+ RES]
+cup .
+a cup .
+write [/] write .
+juice .
+an(d) juice .
+more juice . [+ IMP]
+Mommy juice [= Mommy's getting me juice] .
+a cough .
+yep . [+ RES]
+<Mommy stair> [?] .
+xxx do it .
+man .
+banjo !
+Sambo .
+coffee .
+<Sambo xxx> [//] Sambo down ?
+down ?
+finger .
+book .
+read . [+ RES]
+more [/] more .
+may maybe may .
+paper .
+the paper .
+table . [+ RES]
+Mommy (.) pencil .
+Daddy .
+xxx down .
+Mommy down ?
+come down ?
+sugar xxx .
+xxx have it .
+fall down .
+Mommy turn ?
+here .
+water .
+turn ?
+bring it . [+ IMIT]
+bye .
+where Rangy ?
+stair . [+ IMIT]
+door .
+a Becky .
+a Becky Mommy ?
+sit down ?
+room . [+ IMIT]
+xxx Cromer pencil .

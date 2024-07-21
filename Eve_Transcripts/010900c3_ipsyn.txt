@@ -1,0 +1,100 @@
+that ?
+cover . [+ RES]
+car [/] car . [+ RES]
+Mom wash Eve pot .
+Cromer truck .
+truck .
+look Cromer .
+in the truck . [+ RES]
+<he [?] sitting he [?] sitting> [/] he [?] sitting . [+ RES]
+sitting . [+ RES]
+no one sitting car . [+ RES]
+man truck .
+in there . [+ RES]
+Sue (.) more cocoa . [+ RES]
+more cocoa .
+Eve more cocoa .
+another crayon . [+ IMIT]
+(a)nother car . [+ IMIT]
+lion turtle . [+ IMIT]
+you play lion turtle .
+that lion that ?
+you pipe .
+present Grannie_Hart . [+ IMIT]
+yeah . [+ RES]
+package baby Sarah . [+ IMIT]
+that package Grannie_Hart .
+no .
+what's that ?
+what xxx that ? [+ bch]
+let('s) fix a kangaroo . [+ IMIT]
+teddy_bear baby Sarah . [+ RES]
+I have it ?
+sweater . [+ RES]
+hat Eve .
+envelope . [+ IMIT]
+kangaroo . [+ RES]
+a kangaroo .
+kangaroo got little feet .
+another kangaroo .
+xxx Mommy tummy . [+ bch] [+ IMIT]
+thank_you . [+ IMIT]
+wow . [+ IMIT]
+other pencil .
+other pencil back .
+that another one .
+another one .
+in a minute .
+ice_cream cone .
+ice_cream cone on the table .
+eat ice_cream cone in highchair .
+he go firetruck in firetruck .
+man go in the firetruck .
+man (.) walking .
+going see Jack an(d) Jerry . [+ RES]
+where bell ?
+that a wagon . [+ IMIT]
+I pull it .
+I pull .
+that my bead .
+fire [/] firetruck .
+two pocketbooks .
+xxx Cathy . [+ bch]
+Cromer have no pocket .
+xxx have no pocket . [+ bch] [+ RES]
+Fraser . [+ RES]
+have pipe . [+ RES]
+Fraser pipe . [+ RES]
+that Eve pipe . [+ RES]
+yep . [+ RES]
+there cheese [/] cheese sandwich .
+just cheese . [+ IMIT]
+more piece of cheese .
+more [/] more piece a [: of] [* fil] cheese (.) „ please . [+ RES]
+more (.) more (.) more cheese . [+ RES]
+that Mama cheese . [+ IMIT]
+more . [+ RES]
+blasting [/] blasting . [+ IMIT]
+napkin .
+loud boom . [+ IMIT]
+<another Kix> [/] another Kix [/] Kix . [+ RES]
+more (.) Kix . [+ RES]
+Kix . [+ RES]
+a Kix . [+ RES]
+<Kix Kix> [/] Kix all done .
+chocolate . [+ IMIT]
+breakfast . [+ IMIT]
+for breakfast have Kix .
+Kix chocolate [/] chocolate ice xxx cream . [+ bch]
+straight . [+ IMIT]
+where xxx Eve kak@c ? [+ bch]
+that kak@c . [+ RES]
+(.) t(r)uck on the table . [+ EIMIT]
+where other car .
+ice_cream . [+ IMIT]
+xxx Eve finger . [+ bch]
+stop picking . [+ IMIT]
+chocolate ice_cream .
+Sue put away .
+oh ‡ chocolate (.) ice_cream .
+chocolate ice_cream dessert .

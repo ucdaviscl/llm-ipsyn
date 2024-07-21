@@ -1,0 +1,100 @@
+one two three . [+ IMIT]
+one two three two one two three two . [+ IMIT]
+one (.) two (.) three (.) one (.) two (.) three one (.) two (.) three (.) two .
+more grape juice .
+no .
+one (.) two (.) three (.) four [?] .
+one (.) two (.) three (.) two .
+what xxx that ?
+xxx break .
+it break .
+oh it break .
+oh .
+top a [: of] [* fil] can .
+eeofarm@c .
+shoe . [+ RES]
+bull . [+ RES]
+man read .
+m:hm . [+ RES]
+breakfast ?
+xxx eat .
+xxx chair .
+oh highchair .
+good girl .
+oh cracker .
+yeah .
+cracker [/] cracker .
+xxx book .
+Mommy .
+woods [?] .
+commydit@o [/] commydit@o [/] commydit@o [/] commydit@o [/] commydit@o [/] commydit@o [/] commydit@o [/] commydit@o (.) quackquack@o chickchick@o commydit@o [/] commydit@o [/] commydit@o [/] commydit@o [/] commydit@o .
+commydit@o .
+door .
+op(en) .
+xxx I cider xxx .
+cereal [/] cereal .
+Mommy get .
+xxx commydit@o [/] commydit@o grape juice .
+Lassie .
+hat . [+ RES]
+Racketyboom .
+no read .
+right down . [+ IMIT]
+cup .
+see ? [+ IMIT]
+the dog's house ?
+show [?] me [?] book .
+show [?] .
+me [?] book .
+ball .
+xxx head .
+tummy .
+xxx coffee .
+coffee grape juice .
+cup Racketyboom .
+read .
+Mommy (.)‡ you read .
+that ?
+coffee ?
+I [?] kick the ball .
+arm .
+kick the ball .
+showy@c &~ca xxx showy@c .
+<showy@c ba(ll)> [/] [?] (.) showy@c ba(ll) [?] (.) empty garbage ?
+empty garbage .
+dirty .
+oh swim .
+pottie .
+oh (.) yeah . [+ RES]
+page .
+Mommy (.) read .
+Papa .
+a pillow . [+ IMIT]
+pillow .
+fire coffee . [+ IMIT]
+Eve lunch .
+too .
+lunch .
+bib .
+breakfast [/] breakfast .
+<de bibbie> [/] de [: the] bibbie . [+ RES]
+uhhuh . [+ RES]
+yep cracker [?] .
+Mommy (.) cracker [?] .
+sitting chair .
+a Papa .
+drink .
+that . [+ RES]
+soup .
+Eve soup .
+a Mommy soup .
+eating .
+xxx touch ?
+taperecorder .
+a noodle .
+yep . [+ RES]
+xxx bed .
+sleep .
+bye .
+shut door .
+Mom pumpkin .

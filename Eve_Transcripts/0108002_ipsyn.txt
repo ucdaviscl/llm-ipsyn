@@ -1,0 +1,100 @@
+hm: ? [+ RES]
+paper . [+ RES]
+oh paper cheese .
+a paper cheese . [+ RES]
+tapioca .
+Eve lunch .
+more .
+more tapioca . [+ RES]
+yeah . [+ RES]
+Mommy came back . [+ RES]
+right . [+ RES]
+(ex)cuse me . [+ IMIT]
+Eve more (.) grape juice . [+ IMIT]
+hi .
+Eve have (.) that .
+Mommy . [+ RES]
+this .
+Mommy napkin . [+ RES]
+xxx Fraser napkin . [+ IMIT]
+sugar there .
+Eve hi .
+Eve [/] (.) Eve [/] (.) Eve run Papa study .
+right Papa study .
+Eve hi (.) Fraser .
+Eve hi Cromer .
+yep . [+ RES]
+Eve need [//] Ann need Mommy napkin .
+Eve graham_cracker . [+ RES]
+that ?
+a Christmas tree . [+ IMIT]
+xxx Christmas tree cookie .
+nut . [+ IMIT]
+Mommy (.) that ?
+Christmas xxx .
+Eve stand up Mommy stool .
+move Mommy . [+ IMIT]
+Eve climb down .
+Eve stool .
+xxx beep@o [/] beep@o . [+ RES]
+my way . [+ RES]
+Eve sit down .
+icing . [+ IMIT]
+Christmas tree cookies . [+ RES]
+forgot grape juice table . [+ RES]
+(.) forgot Christmas tree cookie .
+go Christmas tree .
+Eve have Christmas tree .
+see it .
+(.) grape juice all_gone .
+my . [+ RES]
+no . [+ RES]
+empty . [+ IMIT]
+<hi hi hi hi> [/] hi wait a minute (.) more .
+wait a minute (.) Fraser .
+wait a minute (.) Cromer .
+Eve wait (.) Cromer .
+Eve under (.) Cromer . [+ RES]
+behind [/] behind .
+behind Cromer .
+Eve behind Cromer .
+jump .
+jump couch .
+Eve (be)hind Cromer again .
+peekaboo .
+hi Cromer .
+oh (.) boom@o .
+taperecorder .
+an(d) that a taperecorder .
+what doing (.) Mommy ?
+make (.) cookie (.) Eve . [+ IMIT]
+make a cookie (.) Eve . [+ IMIT]
+Eve have a . [+ IMIT]
+have xxx . [+ RES]
+have a . [+ RES]
+want more .
+Eve stove .
+Eve stove cookie (.) Christmas cookie .
+Mom help Christmas tree .
+there .
+Eve have it . [+ IMIT]
+Eve have (a)gain .
+Eve have a (a)gain .
+Mommy ?
+that Mommy .
+Eve down . [+ IMIT]
+get down xxx the stool .
+Eve xxx the stool .
+new one . [+ IMIT]
+Humm . [+ RES]
+yes . [+ RES]
+fish .
+kitty . [+ RES]
+hamster . [+ RES]
+Humm_hamster . [+ IMIT]
+xxx play sandbox . [+ RES]
+clock . [+ RES]
+look (.) (a)gain .
+banana . [+ RES]
+parsley .
+peanut_butter .

@@ -6,3 +6,8 @@ There are:
 - llm-ipsyn scores of those transcripts
 - comparisons of these two types of scores
 - colab notebooks to carry out llm-ipsyn and score comparison 
+
+To-do:
+- score Adam, Eve, and more transcripts
+- develop scripts to extract usable scores from llm evaluations
+- complete the score comparison to gather preliminary results 
